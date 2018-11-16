@@ -1,0 +1,491 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI U5-1995//DTD TEI Lite//EN" "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+
+]>
+<TEI.2>
+<teiHeader type="3D">
+<fileDesc>
+<titleStmt>
+<title>The New and Elegant Parlour Game of Oliver Twist:
+Electronic Edition.
+</title><author>Dickens, Charles, 1812-1870</author>
+
+
+<funder>Funding from the  E. S. P. Das Educational Foundation supported the electronic publication of this title.</funder><respStmt>
+<resp>Text transcribed  by</resp>
+<name>Apex Data Services, Inc.</name>
+</respStmt>
+<respStmt><resp>Images scanned by</resp>
+<name>M. Brooke Phillips</name></respStmt><respStmt><resp>Text encoded by </resp>
+<name>Apex Data Services, Inc., Harris Henderson, and Jill Kuhn Sexton</name></respStmt></titleStmt>
+<editionStmt><edition>First edition, <date>2002</date></edition></editionStmt>
+<extent>ca. 25K</extent>
+<publicationStmt>
+<publisher>Academic Affairs Library, UNC-CH</publisher>
+<pubPlace>University of North Carolina at Chapel Hill, </pubPlace><date>2002.</date>
+
+<availability>
+<p>&copy; This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+</availability>
+</publicationStmt>
+
+
+<sourceDesc>
+
+<biblFull>
+<titleStmt>
+<title type="title page">The New and Elegant Parlour Game of Oliver Twist</title>
+<author></author>
+</titleStmt>
+
+<extent>8 p., 60 cards in container (15x10x3 cm.)</extent>
+
+<publicationStmt>
+<pubPlace>Boston</pubPlace>
+<publisher>Adams &amp; Co.</publisher>
+<date>1867</date>
+<authority></authority>
+</publicationStmt>
+<notesStmt><note>Call number Dickens 14.4 (Rare Book Collection, University of North Carolina at Chapel Hill)</note></notesStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+<editorialDecl>
+
+<p>The text has been entered using double-keying and verified against the original. 
+The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+
+<p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+
+<p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+<p>All double right and left quotation marks are encoded as &rdquo; and &ldquo;
+respectively.</p>
+<p>All single right and left quotation marks are encoded as &rsquo; and &lsquo; respectively.</p>
+<p>All em dashes are encoded as &mdash;</p><p>Indentation in lines has not been preserved.</p>
+<p>Running titles have not been preserved.</p>
+<p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+</editorialDecl>
+
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+
+<language id="eng">English</language>
+
+</langUsage>
+
+
+</profileDesc>
+<revisionDesc>
+
+<change>
+<date>2002-10-21, </date><respStmt><name> Jill Kuhn Sexton </name><resp>project manager, </resp>
+</respStmt><item>finished TEI-conformant encoding and final proofing.</item>
+</change>
+<change>
+<date>2002-09-20, </date><respStmt><name>Harris Henderson</name>
+<resp></resp></respStmt><item> finished TEI/SGML encoding</item></change>
+<change><date>2002-08-19, </date>
+<respStmt><name>Apex Data Services, Inc.</name><resp></resp></respStmt>
+<item> finished transcribing the text.</item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<titlePage type="cover">
+<docTitle><titlePart>THE New and Elegant Parlor Game of Oliver Twist.</titlePart></docTitle>
+<docEdition>FOR ANY NUMBER OF PLAYERS.</docEdition>
+<docEdition>Based on the Story of the same name, by Charles Dickens</docEdition>
+<docImprint>
+<pubPlace>BOSTON:</pubPlace>
+
+<publisher>Published by Adams &amp; Co. 25 Bromfield St.</publisher>
+<docDate>Entered according to Act of Congress, in the year 1867 by Adams &amp; Co. the Clerk's Office of the Dist. Court of the Dist. of Mass.</docDate></docImprint>
+
+
+</titlePage>
+</front>
+
+<body>
+
+
+<div1 type="instructions">
+<pb id="pi" n="i"/><head>THE GAME <lb/> OF <lb/> OLIVER TWIST.</head>
+<p>Entered according to Act of Congress in the year 1867, by ADAMS &amp; Co., in <lb/> the Clerk's Office of the District Court of the District of Massachusetts.</p>
+<div2 type="section">
+<head>DIRECTIONS FOR PLAYING.</head>
+<p>I. Any number of persons, from two to twenty, can take a part.</p>
+<p>II. Scatter the cards on a table, with their printed sides down.</p>
+<p>III. Each player is to take up a card, and the player taking a picture card, is to have the first deal or distribution of the cards.</p>
+<p>IV. If two or more draw a picture card, those who draw them are to draw again, until one player only draws a picture card, and is thus entitled to the first deal.</p>
+<p>V. The dealer takes the cards, and after thoroughly shuffling them, holds the pack so that the faces are concealed from the sight of every player, and
+<pb id="pii" n="ii"/>
+deals to each one card, commencing at his left, and continues to deal until all the cards are out.</p>
+<p>VI. Players now take their cards and the one who may be so fortunate as to hold OLIVER, exhibits it and then returns it to his pack.</p>
+<p>VII. All except OLIVER holding matched cards, that is, two cards of the same name, place them face up, on the table; and they are not used again in that game.</p>
+<p>VIII. The game is now commenced by OLIVER, who draws a card from those held by the player on his right. The player on OLIVER'S left, then draws from him, and so on round the circle.</p>
+<p>IX. If the player finds he has drawn a card that matches one already in his hand, he is to place both of them on the table, face up. This rule does not apply to the player holding OLIVER, who, while he holds that card, is to retain all others, without regard to matching.</p>
+<p>X. After OLIVER passes from the first hand, the player drawing it, shows its face and calls for <hi rend="italics">More;</hi> in response to which, each player selects one of his cards and passes it to him. This privilege is allowed to every one subsequently drawing it.</p>
+<pb id="piii" n="iii"/>
+<p>XI. The player who shall draw ARTFUL DODGER, immediately shows its face, and replacing it in his hand, is entitled to draw <hi rend="italics">two</hi> cards so long as he shall hold it; <hi rend="italics">except</hi> when ARTFUL and OLIVER are in the same hand, in which case ARTFUL is of no special value.</p>
+<p>XII. ARTFUL DODGER is dismissed, or thrown out and laid upon the table, when none but he and OLIVER remain in the game.</p>
+<p>XIII. The player last holding OLIVER wins the game, and deals out for a new one.</p>
+</div2>
+<div2 type="section">
+<head>POINTS OF ADVANTAGE.</head>
+<p>A.&mdash;Of course, the player holding OLIVER will use all fair means to prevent its being drawn.</p>
+<p>B.&mdash;In selecting a card to answer OLIVER'S call for <hi rend="italics">More,</hi> choose one that you have reason to suppose may be soon matched in your hand.</p>
+<p>C.&mdash;It is desirable to retain ARTFUL, as he draws well.</p>
+</div2>
+</div1>
+
+<div1><head>[OLIVER]</head>
+<p><figure id="ill1"><p>OLIVER</p><p>&ldquo;Please sir, I want some more.&rdquo;</p></figure></p></div1>
+
+<div1>
+<head>[Artful Dodger]</head>
+<p><figure id="ill2"><p>Artful Dodger</p><p>&ldquo;THIS IS HIM&rdquo;</p></figure></p></div1>
+
+<div1><head>[Charley Bates]</head>
+<p><figure id="ill3"><p>Charley Bates</p><p>&ldquo;Look at his togs.&rdquo;</p></figure></p>
+<p><figure id="ill3a"><p>Charley Bates</p><p>&ldquo;Look at his togs.&rdquo;</p></figure></p>
+</div1>
+
+<div1><head>[Mrs. BEDWIN]</head>
+<p><figure id="ill4"><p>Mrs. BEDWIN</p><p>&ldquo;I hope not, sir.&rdquo;</p></figure></p>
+
+<p><figure id="ill4a"><p>Mrs. BEDWIN</p><p>&ldquo;I hope not, sir.&rdquo;</p></figure></p></div1>
+
+<div1><head>[Mr. BROWNLOW]</head>
+<p><figure id="ill5"><p>Mr. BROWNLOW</p><p>&ldquo;I was standing at a book-stall.&rdquo;</p></figure></p>
+
+<p><figure id="ill5a"><p>Mr. BROWNLOW</p><p>&ldquo;I was standing at a book-stall.&rdquo;</p></figure></p></div1>
+
+<div1 type="section"><head>[Mr. BUMBLE]</head><p><figure id="ill6"><p>Mr. BUMBLE</p><p>&ldquo;Well, of all the artful an' designin' ophans.&rdquo;</p></figure></p>
+<p><figure id="ill6a"><p>Mr. BUMBLE</p><p>&ldquo;Well, of all the artful an' designin' ophans.&rdquo;</p></figure></p>
+</div1>
+
+<div1 type="section"><head>[Mrs. CORNEY]</head><p><figure id="ill7"><p>Mrs. CORNEY</p><p>&ldquo;Dear me, what a very curious question from a single man.&rdquo;</p></figure></p>
+
+<p><figure id="ill7a"><p>Mrs. CORNEY</p><p>&ldquo;Dear me, what a very curious question from a single man.&rdquo;</p></figure></p>
+</div1>
+
+<div1 type="section">
+<head>[FAGIN]</head>
+<p><figure id="ill8"><p>FAGIN</p><p>&ldquo;Delighted to see you looking so well, my dear.&rdquo;</p></figure></p>
+
+<p><figure id="ill8a"><p>FAGIN</p><p>&ldquo;Delighted to see you looking so well, my dear.&rdquo;</p></figure></p>
+</div1>
+
+
+<div1 type="section">
+<head>[GILES]</head>
+<p><figure id="ill9"><p>GILES</p><p><p>&ldquo;I don't know, I really don't know.&rdquo;</p></p></figure></p>
+
+<p><figure id="ill9a"><p>GILES</p><p><p>&ldquo;I don't know, I really don't know.&rdquo;</p></p></figure></p>
+
+</div1>
+
+<div1 type="section">
+<head>[HARRY]</head>
+<p><figure id="ill10"><p>HARRY</p><p>&ldquo;This is my rank and station now.&rdquo;</p></figure></p>
+
+<p><figure id="ill10a"><p>HARRY</p><p>&ldquo;This is my rank and station now.&rdquo;</p></figure></p>
+
+</div1>
+
+<div1 type="section">
+<head>[Master of the Workhouse.]</head>
+<p><figure id="ill11"><p>Master of the Workhouse.</p><p>&ldquo;WHAT?&rdquo;</p></figure></p>
+
+<p><figure id="ill11a"><p>Master of the Workhouse.</p><p>&ldquo;WHAT?&rdquo;</p></figure></p>
+</div1>
+
+<div1 type="section">
+<head>[ROSE MAYLIE]</head>
+<p><figure id="ill12"><p>ROSE MAYLIE</p><p>&ldquo;I would paint her and her sister's child happy in their mutual love.&rdquo;</p></figure></p>
+
+<p><figure id="ill12a"><p>ROSE MAYLIE</p><p>&ldquo;I would paint her and her sister's child happy in their mutual love.&rdquo;</p></figure></p>
+
+</div1>
+
+<div1 type="section">
+<head>[NANCY]</head>
+<p><figure id="ill13"><p>NANCY</p><p>&ldquo;I have not done this for money.&rdquo;</p></figure></p>
+
+<p><figure id="ill13a"><p>NANCY</p><p>&ldquo;I have not done this for money.&rdquo;</p></figure></p>
+
+</div1>
+
+<div1>
+<head>[AGNES.]</head>
+
+<p><figure id="ill14">
+<p>AGNES.</p>
+</figure></p>
+
+<p><figure id="ill14a">
+<p>AGNES.</p>
+</figure></p>
+
+</div1>
+
+<div1>
+<head>[BARNEY.]</head>
+<p><figure id="ill15">
+<p>BARNEY.</p>
+<p>&ldquo;cub id, sir; cub id.</p></figure></p>
+
+<p><figure id="ill15a">
+<p>BARNEY.</p>
+<p>&ldquo;cub id, sir; cub id.</p></figure></p>
+</div1>
+
+<div1>
+<head>[BLATHERS.]</head>
+<p><figure id="ill16">
+<p>BLATHERS.</p><p>&ldquo;What are the circumstances?&rdquo;</p></figure></p>
+
+<p><figure id="ill16a">
+<p>BLATHERS.</p><p>&ldquo;What are the circumstances?&rdquo;</p></figure></p>
+</div1>
+
+<div1>
+<head>[BRITTLES.]</head>
+<p><figure id="ill17">
+<p>BRITTLES.</p><p>&ldquo;So you did.&rdquo;</p></figure></p>
+
+<p><figure id="ill17a">
+<p>BRITTLES.</p><p>&ldquo;So you did.&rdquo;</p></figure></p>
+
+</div1>
+
+<div1>
+<head>[CHARLOTTE.]</head>
+<p><figure id="ill18">
+<p>CHARLOTTE.</p><p>&ldquo;I know I ain't as cunning as you are.&rdquo;</p></figure></p>
+
+<p><figure id="ill18a">
+<p>CHARLOTTE.</p><p>&ldquo;I know I ain't as cunning as you are.&rdquo;</p></figure></p>
+
+</div1>
+
+<div1>
+<head>[Noah Claypole.]</head>
+<p><figure id="ill19">
+<p>Noah Claypole.</p><p>&ldquo;Come here, Charlotte, and I'll kiss yer.&rdquo;</p></figure></p>
+
+<p><figure id="ill19a">
+<p>Noah Claypole.</p><p>&ldquo;Come here, Charlotte, and I'll kiss yer.&rdquo;</p></figure></p>
+</div1>
+
+<div1>
+<head>[TOBY CRACKIT]</head>
+<p><figure id="ill20">
+<p>TOBY CRACKIT.</p><p>&ldquo;Don't look at me in that way, man.&rdquo;</p></figure></p>
+
+<p><figure id="ill20a">
+<p>TOBY CRACKIT.</p><p>&ldquo;Don't look at me in that way, man.&rdquo;</p></figure></p>
+
+</div1>
+
+<div1>
+<head>[DUFF.]</head>
+<p><figure id="ill21">
+<p>DUFF.</p><p>&ldquo;What a precious muddle-headed chap you are.&rdquo;</p></figure></p>
+
+<p><figure id="ill21a">
+<p>DUFF.</p><p>&ldquo;What a precious muddle-headed chap you are.&rdquo;</p></figure></p>
+
+</div1>
+
+<div1>
+<head>[Mr. FANG.]</head>
+<p><figure id="ill22">
+<p>Mr. FANG.</p><p>&ldquo;Now man, what have you got to say.&rdquo;</p></figure></p>
+
+<p><figure id="ill22a">
+<p>Mr. FANG.</p><p>&ldquo;Now man, what have you got to say.&rdquo;</p></figure></p>
+
+</div1>
+
+<div1>
+<head>[Mr. GAMEFIELD.]</head>
+<p><figure id="ill23">
+<p>Mr. GAMEFIELD.</p><p>&ldquo;When I says I will, I means I will.&rdquo;</p></figure></p>
+
+<p><figure id="ill23a">
+<p>Mr. GAMEFIELD.</p><p>&ldquo;When I says I will, I means I will.&rdquo;</p></figure></p>
+</div1>
+
+<div1>
+<head>[Mr. GRIMWIG.]</head>
+<p><figure id="ill24">
+<p>Mr. GRIMWIG.</p><p>&ldquo;I had serious thoughts of eating my head, to-night.&rdquo;</p></figure></p>
+
+<p><figure id="ill24a">
+<p>Mr. GRIMWIG.</p><p>&ldquo;I had serious thoughts of eating my head, to-night.&rdquo;</p></figure></p>
+
+</div1>
+
+<div1>
+<head>[Mr. LIMBKINS]</head>
+<p><figure id="ill25">
+<p>Mr. LIMBKINS</p><p>&ldquo;Do you understand that he asked for more?&rdquo;</p></figure></p>
+
+<p><figure id="ill25a">
+<p>Mr. LIMBKINS</p><p>&ldquo;Do you understand that he asked for more?&rdquo;</p></figure></p>
+</div1>
+
+<div1>
+<head>[Mr. LOSBERNE]</head>
+<p><figure id="ill26">
+<p>Mr. LOSBERNE</p><p>&ldquo;She will live to bless us all for years to come.&rdquo;</p></figure></p>
+
+<p><figure id="ill26a">
+<p>Mr. LOSBERNE</p><p>&ldquo;She will live to bless us all for years to come.&rdquo;</p></figure></p>
+
+</div1>
+
+<div1>
+<head>[Mrs. MANN]</head>
+<p><figure id="ill27">
+<p>Mrs. MANN</p><p>&ldquo;Goodness, gracious!  Is that you?&rdquo;</p></figure></p>
+
+<p><figure id="ill27a">
+<p>Mrs. MANN</p><p>&ldquo;Goodness, gracious!  Is that you?&rdquo;</p></figure></p>
+
+</div1>
+
+<div1>
+<head>[MONKS.]</head>
+<p><figure id="ill28">
+<p>MONKS.</p><p>&ldquo;Were you looking for me?&rdquo;</p></figure></p>
+
+<p><figure id="ill28a">
+<p>MONKS.</p><p>&ldquo;Were you looking for me?&rdquo;</p></figure></p>
+</div1>
+
+<div1>
+<head>[POOR DICK.]</head>
+<p><figure id="ill29">
+<p>POOR DICK.</p><p>&ldquo;Kiss me, Good bye, dear.  God bless you.&rdquo;</p></figure></p>
+
+<p><figure id="ill29a">
+<p>POOR DICK.</p><p>&ldquo;Kiss me, Good bye, dear.  God bless you.&rdquo;</p></figure></p>
+
+</div1>
+
+<div1>
+<head>[SIKES]</head>
+<p><figure id="ill30">
+<p>SIKES</p><p>&ldquo;An hour this side of midnight.&rdquo;</p></figure></p>
+
+<p><figure id="ill30a">
+<p>SIKES</p><p>&ldquo;An hour this side of midnight.&rdquo;</p></figure></p>
+
+</div1>
+
+<div1>
+<head>[Mr. Sowerberry]</head>
+<p><figure id="ill31">
+<p>Mr. Sowerberry</p><p>&ldquo;The sooner this job is done, the better.&rdquo;</p></figure></p>
+
+<p><figure id="ill31a">
+<p>Mr. Sowerberry</p><p>&ldquo;The sooner this job is done, the better.&rdquo;</p></figure></p>
+
+</div1>
+</body>
+
+<back>
+
+
+<div1 type="section">
+<pb id="piv" n="iv"/>
+<head>PARLOR GAMES AND PASTIMES.</head>
+<p><hi rend="italics">OLIVER TWIST.</hi> A new and elegant Game for any number of players. Based on the story of the same name, By CHAS. DICKENS. In box, Gold Embossed. ..... 00</p>
+<p><hi rend="italics">THE SHAKSPEARIAN ORACLE.</hi> A Game of Fortune. ..... 50</p>
+<p><hi rend="italics">PIGEON-TAIL PUZZLE.</hi> New and Mysterious; Complicated and Curious, ..... 50</p>
+<p><hi rend="italics">K. K. K.</hi> Komikal Konversation Kards. A Kapital Kombination of Kuriously Kontrived Komikalities, Komposed, Kompounded and Kompressed, by KEZIAH KENT, K. K., a Kute and Komikal Karakter of Kambridge Kollege..... 30</p>
+<p><hi rend="italics">MIXED PICKLES.</hi> A Merry Game for one person or three. ..... 30</p>
+<p><hi rend="italics">MATCH AND CATCH.</hi> A Merry Picture Game for the Young Folks at Home. Designed as a pleasant sport for children who cannot read. ..... 30</p>
+<p><hi rend="italics">SQUAILS.</hi> A new English Game. ..... 30</p>
+<p><hi rend="italics">THE MOST LAUGHABLE THING ON EARTH.</hi> A Game for any number; susceptible of endless transformations of Wit and Humor. In envelope, 25 cts. In box, ..... 50</p>
+<p><hi rend="italics">THREE MERRY MEN.</hi> By the Author of &ldquo;The Most Laughable Thing on Earth.&rdquo; In envelope, 25 cts. In box. ..... 50</p>
+<p><hi rend="italics">THE CHOPPED-UP MONKEY.</hi> A Puzzle for Children. In envelope, 15 cts. In box, ..... 20</p>
+<p><hi rend="italics">THE HOLIDAY JOURNAL</hi> of Parlor Plays, Magic Sports, &amp;c. SENT FREE.</p>
+<p><hi rend="italics">MAGIC PICTURE CARDS.</hi> New, Unique, Curious, Puzzling, and Amusing. ..... 25</p>
+<p>The above sent, post-paid, on receipt of price.</p>
+<p>ADAMS &amp; CO., Publishers, 25 Bromfield St., Boston.</p>
+</div1>
+
+<div1 type="section">
+<pb id="pv" n="v"/>
+<head>THE NEW GAME OF <lb/> VIGNETTE AUTHORS </head><div2><head> Explanations and Instructions.</head>
+<p>This game consists of seventy-two cards, each containing a name and vignette of an author, and the titles of three of his works.</p>
+<p>The object of the game is to collect as many books as possible, by calling cards from the other players.</p>
+<p>A book is composed of four cards; each containing the name of an Author, or the title of one of his works in large type, and the other names of the set in small type.</p>
+<p>The Numbers and Letters are introduced to facilitate the progress of the game; by indicating BOTH, the card required when not otherwise apparent, may readily be determined. For example, a player to complete a book requires three cards; instead of calling their titles, he may call the Number and Letters; thus, 1&mdash;A, 1&mdash;B, 1&mdash;C, he holding the other card, or 1&mdash;D.</p>
+<p>The cards must be dealt one at a time, commencing with the player to the left of the dealer. After an equal distribution of the cards has been made, the person to the left of the dealer, commences the game by calling from one of the players any card he may need to complete, or assist in completing a set; if he wins, he may continue to call until refused, when the next player continues the game in like manner, and each player in turn until every book is complete. When a book is completed it is laid aside, until all the sets have been collected. The player who gets the most books wins the game.</p></div2><div2>
+<pb id="pvi" n="vi"/>
+<head>IMPROVED METHOD OF PLAYING THE GAME OF <lb/> VIGNETTE AUTHORS.</head>
+<p>The new feature of the game of authors, consists in stating some fact or circumstance concerning the author or his works; and may be included with the usual game or not, at the option of the players.</p>
+<p>Open and play the game in the usual manner. For every book completed the player may, <hi rend="italics">at his or her option,</hi> double its value, or count, by stating some fact, however trivial, concerning the life, family or writings of the Author. For example, his birth place, present residence, age if living, or at his decease, whom he married, any of his works or writings other than those named on these cards, any quotation from any of his works, any peculiarity of his life or habits, or the name of any person or character sketched in any of his books, at the same time stating <hi rend="italics">what book.</hi></p>
+<p>NOTE. This is an exception to Rule 2, (to which refer); in short, relate any thing you know, have read or heard, regarding the author.</p>
+<div3 type="section">
+<head>RULES THAT GOVERN THE GAME.</head>
+<p>1ST. Any player whose statement is asserted to be erroneous by any one of the others, may appeal to the <hi rend="italics">players and other persons present,</hi> for evidence of the correctness of his statement; if a majority support him, he counts; but if against him, he loses his count.</p>
+<p>NOTE. <hi rend="italics">No person</hi> outside of those playing with the cards will be permitted to make any remarks bearing upon the rules of the game, or suggest any information during the session of the game, except when appealed to.</p>
+<p>2D. No player shall make any allusion to more than <hi rend="italics">one point</hi> or circum stance at one time. For instance, Geo. Wm. Curtis is the author of Lotus Eating, and not, Geo. Wm. Curtis is the author of Lotus Eating, <hi rend="italics">and Prue and I.</hi></p>
+<p>NOTE. The object of this rule is to leave a wider field open for the other players, and also to expedite the game.</p>
+<p>3D. The same statement shall not be made more than once during a session or sitting of games; any one detected in doing so, forfeits one book from his score or count. The statement must be announced as soon as the book is completed.</p>
+<p>NOTE. Although a statement may have been made at a previous sitting, it may be repeated at a subsequent sitting. But it is desirable that some new fact be stated at every sitting, so as to interest and instruct the players.</p>
+<p>4TH. Any player making a <hi rend="italics">false</hi> statement for <hi rend="italics">fun,</hi> shall forfeit two books or counts.</p>
+<p>NOTE. To score the number of statements made by any player, let one card of each book be faced.</p>
+<p>Entered According to Act of Congress, by E. G. Selchow &amp; Co., in the year 1874, in the Office of the Librarian <lb/> of Congress, at Washington.</p>
+</div3>
+</div2>
+</div1>
+
+<div1 type="section">
+<pb id="pvii" n="vii"/>
+<head>A NEW PARLOR GAME.</head>
+<head>DICE CROQUET</head>
+<p><hi rend="italics">Is the title of a new and beautiful game, just published, and it is literally, as the name denotes,</hi> croquet played with dice instead of mallets, <hi rend="italics">thus combining all the interest and fascination of Field Croquet with the additional zest of a game of chance, thereby placing the novice on the same footing with the skillful Croquetist.</hi></p>
+<p><hi rend="italics">The Croquet Grounds are designated by a neat diagram, lithographed in colors, mounted on a folding-board tastefully bound in embossed cloth, accompanied by a box, covered with the same material, containing the implements of play, consisting of eight dice cups, eight dice, and eight colored pieces called balls. The game is adapted for any number from two to eight persons.</hi></p>
+<p><hi rend="italics">The diagram of the grounds contains over seven hundred squares, and the balls may be played or croqueted in eight different directions, thus affording ample scope for a splendid game. The mode of play is such as to afford all the privileges to be had in Field Croquet, in the way of assisting your own partners and retarding your opponents by either tight or loose Croquet.</hi></p>
+<p><hi rend="italics">The game is quickly and easily understood by children, is exceedingly interesting to adults, and Croquet Players have only to read the rules to thoroughly comprehend it. It is certainly one of the most fascinating games ever published, and is destined to become THE popular game of the age.</hi></p>
+<p>Popular Edition, &dollar;1 00 Medium Edition, &dollar;2 00 Fine Edition, &dollar;3 00</p>
+<div2><head>SNAP</head><p> A new Illustrated Card Game printed in colors, very entertaining and amusing. <hi rend="italics">Price,</hi> 25 <hi rend="italics">cents.</hi></p></div2>
+
+
+<div2 type="advertisement">
+<pb id="pviii" n="viii"/>
+<head>WHAT IS PARCHEESI?</head>
+<p>BAYARD TAYLOR, in his entertaining book, entitled &ldquo;India, China and Japan,&rdquo; mentions this peculiar game of India, which he saw at Delhi, formed of marble, on a large and magnificent plan, occupying a portion of the kings palace grounds, as follows:&mdash;</p>
+<p>&ldquo;Within these fairy precincts lie the gardens, still overrun with roses and jassimine vines, in the midst of which fountains are playing. There is also a court, paved with marble of various colors, so as to form a PARCHEESI BOARD. This is a game somewhat resembling backgammon, but instead of ivory pieces it was played on this colossal board by Akbar and his wives, or eunuchs with girls, who passed from space to space as the moves were made.&rdquo;</p>
+<p>We have arranged this attractive game on a folding board, for the parlor. Each one is in handsome colors, and accompanied with an elegant box, containing the twenty-four pieces used in playing, with the diagram and directions for playing two distinct games.</p>
+<p>The game of Parcheesi is designed in such a distinct and attractive manner, that it is quickly comprehended by children, putting their wits on the alert at once, and engaging the excited interest of the oldest adult players for hours.</p>
+<p>It is published in three styles, as follows:&mdash;</p>
+<p><hi rend="italics">Popular Edition</hi> is bound in durable and handsome green paper, (imitation cloth,) with scarlet labels printed in best gold bronze. A box containing eight dice, sixteen counters of heavy pasteboard, and directions accompanying the board. Price &dollar;1.</p>
+<p><hi rend="italics">Medium Edition</hi> is bound in book muslin, embossed and stamped in gold. The box contains eight dice, four dice cups, sixteen counters, metal rimmed, very neat and durable, and directions. A really elegant game. Price &dollar;2.</p>
+<p><hi rend="italics">Fine Edition</hi> is bound in Morocco cloth, (imitation leather,) embossed with a very handsome gold border. The inside is an excellent lithograph, in seven colors, of an entirely new design. The box contains eight dice, four dice cups, bound in red leather, sixteen ivory counters, and directions; the whole forming the finest and most complete game over published in this country, Price &dollar;3.</p>
+</div2>
+<div2 type="section">
+<head>CRESCENT or Cut Up Problems.</head>
+<p>A handsome new Game for Children, printed in colors. <hi rend="italics">Price</hi> 25 <hi rend="italics">cents.</hi></p>
+</div2>
+<div2 type="section"><head>SLICED ANIMALS</head>
+<p> or, Spelling Made Easy. A large box, containing Pictures of Animals cut up in slices, each slice of the animal containing a letter or part of the name, so that as fast as the picture is put together the name of the animal is spelt. <hi rend="italics">Price</hi> 50 <hi rend="italics">cents.</hi></p></div2>
+</div1>
+</back>
+</text>
+</TEI.2>

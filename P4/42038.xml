@@ -1,0 +1,1009 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI U5-1995//DTD TEI Lite//EN" "teixlite.dtd" [
+
+]>
+<TEI.2>
+<teiHeader type="3D">
+<fileDesc>
+<titleStmt>
+<title><emph>A Tale of Two Cities, No. IV:
+Electronic Edition.
+</emph></title><author>Dickens, Charles, 1812-1870.</author>
+
+<respStmt>
+<resp>Illustrated by </resp><name>Browne, H. K. (Hablot Knight), 1815-1882.</name>
+</respStmt>
+
+
+<funder>Funding from the  E. S. P. Das Educational Foundation supported the electronic publication of this title.</funder><respStmt>
+<resp>Text transcribed  by</resp>
+<name>Apex Data Services, Inc.</name>
+</respStmt>
+<respStmt><resp>Images scanned by</resp>
+<name>Andrew Leiter</name></respStmt><respStmt><resp>Text encoded by </resp>
+<name>Apex Data Services, Inc., Matthew Kern and Jill Kuhn Sexton</name></respStmt></titleStmt>
+<editionStmt><edition>First edition, <date>2002</date></edition></editionStmt>
+<extent>ca. 140K</extent>
+<publicationStmt>
+<publisher>Academic Affairs Library, UNC-CH</publisher>
+<pubPlace>University of North Carolina at Chapel Hill, </pubPlace><date>2002.</date>
+
+<availability>
+<p>&copy; This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+</availability>
+</publicationStmt>
+
+
+<sourceDesc>
+
+<biblFull>
+<titleStmt>
+<title type="title page">A Tale of Two Cities</title>
+<author>Charles Dickens</author>
+
+<respStmt><resp>Illustrations by</resp>
+<name>H. K. Browne</name></respStmt>
+
+</titleStmt>
+
+<extent> 44 p., ill.</extent>
+
+<publicationStmt>
+<pubPlace>London</pubPlace>
+<publisher>Chapman and Hall</publisher>
+<date>1859</date>
+<authority></authority>
+</publicationStmt>
+<notesStmt><note>Call number Dickens 23 (Rare Book Collection, University of North Carolina at Chapel Hill)</note></notesStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+<editorialDecl>
+
+<p>The text has been entered using double-keying and verified against the original. 
+The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+
+<p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+<p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+
+<p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+<p>All double right and left quotation marks are encoded as &rdquo; and &ldquo;
+respectively.</p>
+<p>All single right and left quotation marks are encoded as &rsquo; and &lsquo; respectively.</p>
+<p>All em dashes are encoded as &mdash;</p><p>Indentation in lines has not been preserved.</p>
+<p>Running titles have not been preserved.</p>
+<p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+</editorialDecl>
+
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+
+<language id="eng">English</language>
+
+</langUsage>
+
+<textClass>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2002-09-30, </date><respStmt><name> Jill Kuhn Sexton </name><resp></resp>
+</respStmt><item>finished TEI-conformant encoding and final proofing.</item>
+</change>
+<change>
+<date>2002-09-12, </date><respStmt><name>Matthew Kern</name>
+<resp></resp></respStmt><item> finished TEI/SGML encoding</item></change>
+<change><date>2002-08-01, </date>
+<respStmt><name>Apex Data Services, Inc.</name><resp></resp></respStmt>
+<item> finished transcribing the text.</item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<pb id="pi" n="i"/>
+<titlePage>
+<titlePart> No. IV. </titlePart>
+<docDate>SEPTEMBER.</docDate>
+<docEdition>PRICE 1<hi rend="italics">s.</hi></docEdition>
+
+<docTitle><titlePart>A TALE <lb/> OF <lb/> TWO CITIES </titlePart></docTitle>
+<byline>BY</byline>
+<docAuthor>CHARLES DICKENS.</docAuthor>
+<docImprint>
+WITH <lb/> ILLUSTRATIONS BY H. K. BROWNE.
+<pubPlace>LONDON:</pubPlace>
+<publisher>CHAPMAN AND HALL 193, PICCADILLY; <lb/>AND &ldquo;ALL THE YEAR ROUND&rdquo; OFFICE, 11, WELLINGTON-STREET NORTH, STRAND.</publisher>
+<lb/>The Author reserves the right of Translation.
+</docImprint>
+</titlePage>
+<div1 type="advertisement">
+<pb id="pii" n="ii"/>
+<head>MILLINERY FOR MOURNING.</head>
+<p>The Superintendent of the <lb/> MILLINERY DEPARTMENT <lb/> AT THE <lb/> LONDON GENERAL MOURNING WAREHOUSE, <lb/> MAKES FREQUENT JOURNEYS TO PARIS.</p>
+<p>FAMILIES <lb/> may always rely upon seeing <lb/> THE NEWEST MILLINERY FOR MOURNING WEAR <lb/> AT <lb/> JAY'S, <lb/> 247, 249, &amp; 251, REGENT STREET.</p>
+<div2 type="advertisement">
+<head>FAMILY MOURNING.</head>
+<p>MESSRS. JAY <lb/> Would respectfully announce that great saving may be made by purchasing <lb/> MOURNING at their Establishment.</p>
+<p>THE STOCK OF FAMILY MOURNING <lb/> is the largest in Europe.</p>
+<p>MOURNING COSTUME <lb/> of every description is kept ready-made, and can be forwarded in town or country <lb/> at a moment's notice.</p>
+<p>The most reasonable prices are charged, and the wear of every article guaranteed.</p>
+<p>LONDON GENERAL MOURNING WAREHOUSE, <lb/> REGENT STREET, NEAR THE CIRCUS.</p>
+<p>JAY'S.</p>
+</div2>
+</div1>
+</front>
+<body>
+<div1 type="section">
+<pb id="piii" n="iii"/>
+<p><figure id="ill1"><p>The Spy's Funeral.</p></figure></p>
+</div1>
+<div1 type="section">
+<pb id="piv" n="iv"/>
+<p><figure id="ill2"><p>The Wine Shop.</p></figure></p>
+</div1>
+
+<div1 type="tale">
+
+<head>[A TALE OF TWO CITIES]</head>
+
+<div2 type="section">
+
+<head>[BOOK THE SECOND. THE GOLDEN THREAD.]</head>
+
+<div3 type="chapter">
+<pb n="101" id="p101"/>
+<head>CHAPTER XIV. <lb/> THE HONEST TRADESMAN.</head>
+<p>To the eyes of Mr. Jeremiah Cruncher, sitting on his stool in Fleet-street with his grisly urchin beside him, a vast number and variety of objects in movement were every day presented. Who could sit upon anything in Fleet-street during the busy hours of the day, and not be dazed and deafened by two immense processions, one ever tending westward with the sun, the other ever tending eastward from the sun, both ever tending to the plains beyond the range of red and purple where the sun goes down!</p>
+<p>With his straw in his mouth, Mr. Cruncher sat watching the two streams, like the heathen rustic who has for several centuries been on duty watching one stream&mdash;saving that Jerry had no expectation of their ever running dry. Nor would it have been an expectation of a hopeful kind, since a small part of his income was derived from the pilotage of timid women (mostly of a full habit and past the middle term of life) from Tellson's side of the tides to the opposite shore. Brief as such companionship was in every separate instance, Mr. Cruncher never failed to become so interested in the lady as to express a strong desire to have the honour of drinking her very good health. And it was from the gifts bestowed upon him towards the execution of this benevolent purpose, that he recruited his finances, as just now observed.</p>
+<p>Time was, when a poet sat upon a stool in a public place, and mused in the sight of men. Mr. Cruncher, sitting on a stool in a public place, but not being a poet, mused as little as possible, and looked about him.</p>
+<p>It fell out that he was thus engaged in a season when crowds were few, and belated women few, and when his affairs in general were so unprosperous as to awaken a strong suspicion in his breast that Mrs. Cruncher must have been &ldquo;flopping&rdquo; in some pointed manner, when an unusual concourse pouring down Fleet-street westward, attracted his attention. Looking that way, Mr. Cruncher made out that some kind of funeral was coming along, and that there was popular objection to this funeral, which engendered uproar.</p>
+<p>&ldquo;Young Jerry,&rdquo; said Mr. Cruncher, turning to his offspring, &ldquo;it's a buryin'.&rdquo;</p>
+<p>&ldquo;Hooroar, father!&rdquo; cried Young Jerry.</p>
+<p>The young gentleman uttered this exultant sound with mysterious significance. The elder gentleman took the cry so ill, that he watched his opportunity, and smote the young gentleman on the ear.</p>
+<p>&ldquo;What d'ye mean? What are you hooroaring at? What do you want to conwey to your own father, you young Rip? This boy is a getting too many for <hi
+rend="italics">me!</hi>&rdquo; said Mr. Cruncher, surveying him. &ldquo;Him and his hooroars! Don't let me hear no more of you, or you shall feel some more of me. D'ye hear?&rdquo;</p>
+<pb n="102" id="p102"/>
+<p>&ldquo;I warn't doing no harm,&rdquo; Young Jerry protested, rubbing his cheek.</p>
+<p>&ldquo;Drop it then,&rdquo; said Mr. Cruncher; &ldquo;I won't have none of <hi
+rend="italics">your</hi> no harms. Get a top of that there seat, and look at the crowd.&rdquo;</p>
+<p>His son obeyed, and the crowd approached; they were bawling and hissing round a dingy hearse and dingy mourning coach, in which mourning coach there was only one mourner, dressed in the dingy trappings that were considered essential to the dignity of the position. The position appeared by no means to please him, however, with an increasing rabble surrounding the coach, deriding him, making grimaces at him, and incessantly groaning and calling out: &ldquo;Yah! Spies! Tst! Yaha! Spies!&rdquo; with many compliments too numerous and forcible to repeat.</p>
+<p>Funerals had at all times a remarkable attraction for Mr. Cruncher; he always pricked up his senses, and became excited, when a funeral passed Tellson's. Naturally, therefore, a funeral with this uncommon attendance excited him greatly, and he asked of the first man who ran against him:</p>
+<p>&ldquo;What is it, brother? What's it about?&rdquo;</p>
+<p>&ldquo;<hi rend="italics">I</hi> don't know,&rdquo; said the man. &ldquo;Spies! Yaha! Tst! Spies!&rdquo;</p>
+<p>He asked another man. &ldquo;Who is it?&rdquo;</p>
+<p>&ldquo;<hi rend="italics">I</hi> don't know,&rdquo; returned the man: clapping his hands to his mouth nevertheless, and vociferating in a surprising heat and with the greatest ardour, &ldquo;Spies! Yaha! Tst, tst! Spi-ies!&rdquo;</p>
+<p>At length, a person better informed on the merits of the case, tumbled against him, and from this person he learned that the funeral was the funeral of one Roger Cly.</p>
+<p>&ldquo;Was He a spy?&rdquo; asked Mr. Cruncher.</p>
+<p>&ldquo;Old Bailey spy,&rdquo; returned his informant. &ldquo;Yaha! Tst! Yah! Old Bailey Spi-i-ies!&rdquo;</p>
+<p>&ldquo;Why, to be sure!&rdquo; exclaimed Jerry, recalling the Trial at which he had assisted. &ldquo;I've seen him. Dead, is he?&rdquo;</p>
+<p>&ldquo;Dead as mutton,&rdquo; returned the other, &ldquo;and can't be too dead. Have 'em out, there! Spies! Pull 'em out, there! Spies!&rdquo;</p>
+<p>The idea was so acceptable in the prevalent absence of any idea, that the crowd caught it up with eagerness, and loudly repeating the suggestion to have 'em out, and to pull 'em out, mobbed the two vehicles so closely that they came to a stop. On the crowd's opening the coach doors, the one mourner scuffled out of himself and was in their hands for a moment; but he was so alert, and made such good use of his time, that in another moment he was scouring away up a by-street, after shedding his cloak, hat, long hatband, white pocket-handkerchief, and other symbolical tears.</p>
+<p>These, the people tore to pieces and scattered far and wide with great enjoyment, while the tradesmen hurriedly shut up their shops; for a crowd in those times stopped at nothing, and was a monster much dreaded. They had already got the length of opening the hearse to take the coffin out, when some brighter genius proposed instead, its being escorted to its destination amidst general rejoicing. Practical suggestions being much needed, this suggestion, too, was received with acclamation, and the coach was immediately filled with eight inside and a dozen out, while as many people got on the roof of the hearse as could by any exercise of ingenuity stick upon it.
+<pb n="103" id="p103"/>
+Among the first of these volunteers was Jerry Cruncher himself, who modestly concealed his spiky head from the observation of Tellson's, in the further corner of the mourning coach.</p>
+<p>The officiating undertakers made some protest against these changes in the ceremonies; but, the river being alarmingly near, and several voices remarking on the efficacy of cold immersion in bringing refractory members of the profession to reason, the protest was faint and brief. The remodelled procession started, with a chimney-sweep driving the hearse&mdash;advised by the regular driver, who was perched beside him, under close inspection, for the purpose&mdash;and with a pieman, also attended by his cabinet minister, driving the mourning coach. A bear-leader, a popular street character of the time, was impressed as an additional ornament, before the cavalcade had gone far down the Strand; and his bear, who was black and very mangy, gave quite an Undertaking air to that part of the procession in which he walked.</p>
+<p>Thus, with beer-drinking, pipe-smoking, song-roaring, and infinite caricaturing of woe, the disorderly procession went its way, recruiting at every step, and all the shops shutting up before it. Its destination was the old church of Saint Pancras, far off in the fields. It got there in course of time; insisted on pouring into the burial-ground; finally, accomplished the interment of the deceased Roger Cly in its own way, and highly to its own satisfaction.</p>
+<p>The dead man disposed of, and the crowd being under the necessity of providing some other entertainment for itself, another brighter genius (or perhaps the same) conceived the humour of impeaching casual passers-by, as Old Bailey spies, and wreaking vengeance on them. Chase was given to some scores of inoffensive persons who had never been near the Old Bailey in their lives, in the realisation of this fancy, and they were roughly hustled and maltreated. The transition to the sport of window-breaking, and thence to the plundering of public-houses, was easy and natural. At last, after several hours, when sundry summer-houses had been pulled down, and some area railings had been torn up, to arm the more belligerent spirits, a rumour got about that the Guards were coming. Before this rumour, the crowd gradually melted away, and perhaps the Guards came, and perhaps they never came, and this was the usual progress of a mob.</p>
+<p>Mr. Cruncher did not assist at the closing sports, but had remained behind in the churchyard, to confer and condole with the undertakers. The place had a soothing influence on him. He procured a pipe from a neighbouring public-house, and smoked it, looking in at the railings and maturely considering the spot.</p>
+<p>&ldquo;Jerry,&rdquo; said Mr. Cruncher, apostrophising himself in his usual way, &ldquo;you see that there Cly that day, and you see with your own eyes that he was a young 'un and a straight made 'un.&rdquo;</p>
+<p>Having smoked his pipe out, and ruminated a little longer, he turned himself about, that he might appear, before the hour of closing, on his station at Tellson's. Whether his meditations on mortality had touched his liver, or whether his general health had been previously at all amiss, or whether he desired to show a little attention to an eminent man, is not so much to the purpose, as that he made
+<pb n="104" id="p104"/>
+a short call upon his medical adviser&mdash;a distinguished surgeon&mdash;on his way back.</p>
+<p>Young Jerry relieved his father with dutiful interest, and reported No job in his absence. The bank closed, the ancient clerks came out, the usual watch was set, and Mr. Cruncher and his son went home to tea.</p>
+<p>&ldquo;Now, I tell you where it is!&rdquo; said Mr. Cruncher to his wife, on entering. &ldquo;If, as a honest tradesman, my wenturs goes wrong to-night, I shall make sure that you've been praying again me, and I shall work you for it just the same as if I seen you do it.&rdquo;</p>
+<p>The dejected Mrs. Cruncher shook her head.</p>
+<p>&ldquo;Why, you're at it afore my face!&rdquo; said Mr. Cruncher, with signs of angry apprehension.</p>
+<p>&ldquo;I am saying nothing.&rdquo;</p>
+<p>&ldquo;Well, then; don't meditate nothing. You might as well flop as meditate. You may as well go again me one way as another. Drop it altogether.&rdquo;</p>
+<p>&ldquo;Yes, Jerry.&rdquo;</p>
+<p>&ldquo;Yes, Jerry,&rdquo; repeated Mr. Cruncher, sitting down to tea. &ldquo;Ah! It <hi
+rend="italics">is</hi> yes, Jerry. That's about it. You may say yes, Jerry.&rdquo;</p>
+<p>Mr. Cruncher had no particular meaning in these sulky corroborations, but made use of them, as people not unfrequently do, to express general ironical dissatisfaction.</p>
+<p>&ldquo;You and your yes, Jerry,&rdquo; said Mr. Cruncher, taking a bite out of his bread and butter, and seeming to help it down with a large invisible oyster out of his saucer. &ldquo;Ah! I think so. I believe you.&rdquo;</p>
+<p>&ldquo;You are going out to-night?&rdquo; asked his decent wife, when he took another bite.</p>
+<p>&ldquo;Yes, I am.&rdquo;</p>
+<p>&ldquo;May I go with you, father?&rdquo; asked his son, briskly.</p>
+<p>&ldquo;No, you mayn't. I'm a going&mdash;as your mother knows&mdash;a fishing. That's where I'm going to. Going a fishing.&rdquo;</p>
+<p>&ldquo;Your fishing-rod gets rayther rusty; don't it, father?&rdquo;</p>
+<p>&ldquo;Never you mind.&rdquo;</p>
+<p>&ldquo;Shall you bring any fish home, father?&rdquo;</p>
+<p>&ldquo;If I don't, you'll have short commons to-morrow,&rdquo; returned that gentleman, shaking his head; &ldquo;that's questions enough for you; I an't a going out, till you've been long a-bed.&rdquo;</p>
+<p>He devoted himself during the remainder of the evening to keeping a most vigilant watch on Mrs. Cruncher, and sullenly holding her in conversation that she might be prevented from meditating any petitions to his disadvantage. With this view, he urged his son to hold her in conversation also, and led the unfortunate woman a hard life by dwelling on any causes of complaint he could bring against her, rather than he would leave her for a moment to her own reflections. The devoutest person could have rendered no greater homage to the efficacy of an honest prayer than he did in this distrust of his wife. It was as if a professed unbeliever in ghosts should be frightened by a ghost story.</p>
+<p>&ldquo;And mind you!&rdquo; said Mr. Cruncher. &ldquo;No games to-morrow! If I, as a honest tradesman, succeed in providing a jinte of meat or two, none of your not touching of it, and sticking to bread. If I, as
+<pb n="105" id="p105"/>
+a honest tradesman, am able to provide a little beer, none of your declaring on water. When you go to Rome, do as Rome does. Rome will be a ugly customer to you, if you don't. <hi
+rend="italics">I</hi>'m your Rome, you know.&rdquo;</p>
+<p>Then he began grumbling again:</p>
+<p>&ldquo;With your flying into the face of your own wittles and drink! I don't know how scarce you mayn't make the wittles and drink here, by your flopping tricks and your unfeeling conduct. Look at your boy: he <hi
+rend="italics">is</hi> your'n, ain't he? He's as thin as a lath. Do you call yourself a mother, and not know that a mother's first duty is to blow her boy out?&rdquo;</p>
+<p>This touched Young Jerry on a tender place; who adjured his mother to perform her first duty, and, whatever else she did or neglected, above all things to lay especial stress on the discharge of that maternal function so affectingly and delicately indicated by his other parent.</p>
+<p>Thus the evening wore away with the Cruncher family, until Young Jerry was ordered to bed, and his mother, laid under similar injunctions, obeyed them. Mr. Cruncher beguiled the earlier watches of the night with solitary pipes, and did not start upon his excursion until nearly one o'clock. Towards that small and ghostly hour, he rose up from his chair, took a key out of his pocket, opened a locked cupboard, and brought forth a sack, a crowbar of convenient size, a rope and chain, and other fishing-tackle of that nature. Disposing these articles about him in a skilful manner, he bestowed a parting defiance on Mrs. Cruncher, extinguished the light, and went out.</p>
+<p>Young Jerry, who had only made a feint of undressing when he went to bed, was not long after his father. Under cover of the darkness he followed out of the room, followed down the stairs, followed down the court, followed out into the streets. He was in no uneasiness concerning his getting into the house again, for it was full of lodgers, and the door stood ajar all night.</p>
+<p>Impelled by a laudable ambition to study the art and mystery of his father's honest calling, Young Jerry, keeping as close to house-fronts, walls, and doorways, as his eyes were close to one another, held his honoured parent in view. The honoured parent steering Northward, had not gone far, when he was joined by another disciple of Izaak Walton, and the two trudged on together.</p>
+<p>Within half an hour from the first starting, they were beyond the winking lamps, and the more than winking watchmen, and were out upon a lonely road. Another fisherman was picked up here&mdash;and that so silently, that if Young Jerry had been superstitious, he might have supposed the second follower of the gentle craft to have, all of a sudden, split himself into two.</p>
+<p>The three went on, and Young Jerry went on, until the three stopped under a bank overhanging the road. Upon the top of the bank was a low brick wall surmounted by an iron railing. In the shadow of bank and wall, the three turned out of the road, and up a blind lane, of which the wall&mdash;there, risen to some eight or ten feet high&mdash;formed one side. Crouching down in a corner, peeping up the lane, the next object that Young Jerry saw, was the form of his honoured parent, pretty well defined against a watery and clouded
+<pb n="106" id="p106"/>
+moon, nimbly scaling an iron gate. He was soon over, and then the second fisherman got over, and then the third. They all dropped softly on the ground within the gate, and lay there a little&mdash;listening perhaps. Then, they moved away on their hands and knees.</p>
+<p>It was now Young Jerry's turn to approach the gate: which he did, holding his breath. Crouching down again in a corner there, and looking in, he made out the three fishermen creeping through some rank grass; and all the gravestones in the churchyard&mdash;it was a large churchyard that they were in&mdash;looking on like ghosts in white, while the church tower itself looked on like the ghost of a monstrous giant. They did not creep far, before they stopped and stood upright. And then they began to fish.</p>
+<p>They fished with a spade, at first. Presently the honoured parent appeared to be adjusting some instrument like a great corkscrew. Whatever tools they worked with, they worked hard, until the awful striking of the church clock so terrified Young Jerry, that he made off, with his hair as stiff as his father's.</p>
+<p>But, his long-cherished desire to know more about these matters, not only stopped him in his running away, but lured him back again. They were still fishing perseveringly, when he peeped in at the gate for the second time; but, now they seemed to have got a bite. There was a screwing and complaining sound down below, and their bent figures were strained, as if by a weight. By slow degrees the weight broke away the earth upon it, and came to the surface. Young Jerry very well knew what it would be; but, when he saw it, and saw his honoured parent about to wrench it open, he was so frightened, being new to the sight, that he made off again, and never stopped until he had run a mile or more.</p>
+<p>He would not have stopped then, for anything less necessary than breath, it being a spectral sort of race that he ran, and one highly desirable to get to the end of. He had a strong idea that the coffin he had seen was running after him; and, pictured as hopping on behind him, bolt upright upon its narrow end, always on the point of overtaking him and hopping on at his side&mdash;perhaps taking his arm&mdash;it was a pursuer to shun. It was an inconsistent and ubiquitous fiend too, for, while it was making the whole night behind him dreadful, he darted out into the roadway to avoid dark alleys, fearful of its coming hopping out of them like a dropsical boy's-Kite without tail and wings. It hid in doorways too, rubbing its horrible shoulders against doors, and drawing them up to its ears, as if it were laughing. It got into shadows on the road, and lay cunningly on its back to trip him up. All this time, it was incessantly hopping on behind and gaining on him, so that when the boy got to his own door he had reason for being half dead. And even then it would not leave him, but followed him up-stairs with a bump on every stair, scrambled into bed with him, and bumped down, dead and heavy, on his breast when he fell asleep.</p>
+<p>From his oppressed slumber, Young Jerry in his closet was awakened, after daybreak and before sunrise, by the presence of his father in the family room. Something had gone wrong with him; at least, so Young Jerry inferred, from the circumstance of his holding Mrs. Cruncher by the ears, and knocking the back of her head against the headboard of the bed.</p>
+<pb n="107" id="p107"/>
+<p>&ldquo;I told you I would,&rdquo; said Mr. Cruncher, &ldquo;and I did.&rdquo;</p>
+<p>&ldquo;Jerry, Jerry, Jerry!&rdquo; his wife implored.</p>
+<p>&ldquo;You oppose yourself to the profit of the business,&rdquo; said Jerry, &ldquo;and me and my partners suffer. You was to honour and obey; why the devil don't you?&rdquo;</p>
+<p>&ldquo;I try to be a good wife, Jerry,&rdquo; the poor woman protested, with tears.</p>
+<p>&ldquo;Is it being a good wife to oppose your husband's business? Is it honouring your husband to dishonour his business? Is it obeying your husband to disobey him on the wital subject of his business?&rdquo;</p>
+<p>&ldquo;You hadn't taken to the dreadful business then, Jerry.&rdquo;</p>
+<p>&ldquo;It's enough for you,&rdquo; retorted Mr. Cruncher, &ldquo;to be the wife of a honest tradesman, and not to occupy your female mind with calculations when he took to his trade or when he didn't. A honouring and obeying wife would let his trade alone altogether. Call yourself a religious woman? If you're a religious woman, give me a irreligious one! You have no more nat'ral sense of duty than the bed of this here Thames river has of a pile, and similarly it must be knocked into you.&rdquo;</p>
+<p>The altercation was conducted in a low tone of voice, and terminated in the honest tradesman's kicking off his clay-soiled boots, and lying down at his length on the floor. After taking a timid peep at him lying on his back, with his rusty hands under his head for a pillow, his son lay down too, and fell asleep again.</p>
+<p>There was no fish for breakfast, and not much of anything else. Mr. Cruncher was out of spirits, and out of temper, and kept an iron pot-lid by him as a projectile for the correction of Mrs. Cruncher, in case he should observe any symptoms of her saying Grace. He was brushed and washed at the usual hour, and set off with his son to pursue his ostensible calling.</p>
+<p>Young Jerry, walking with the stool under his arm at his father's side along sunny and crowded Fleet-street, was a very different Young Jerry from him of the previous night, running home through darkness and solitude from his grim pursuer. His cunning was fresh with the day, and his qualms were gone with the night&mdash;in which particulars it is not improbable that he had compeers in Fleet-street and the City of London, that fine morning.</p>
+<p>&ldquo;Father,&rdquo; said Young Jerry, as they walked along: taking care to keep at arm's length and to have the stool well between them: &ldquo;what's a Resurrection-Man?&rdquo;</p>
+<p>Mr. Cruncher came to a stop on the pavement before he answered, &ldquo;How should I know?&rdquo;</p>
+<p>&ldquo;I thought you knowed everything, father,&rdquo; said the artless boy.</p>
+<p>&ldquo;Hem! Well,&rdquo; returned Mr. Cruncher, going on again, and lifting off his hat to give his spikes free play, &ldquo;he's a tradesman.&rdquo;</p>
+<p>&ldquo;What's his goods, father?&rdquo; asked the brisk Young Jerry.</p>
+<p>&ldquo;His goods,&rdquo; said Mr. Cruncher, after turning it over in his mind, &ldquo;is a branch of Scientific goods.&rdquo;</p>
+<p>&ldquo;Persons' bodies, ain't it, father?&rdquo; asked the lively boy.</p>
+<p>&ldquo;I believe it is somethink of that sort,&rdquo; said Mr. Cruncher.</p>
+<p>&ldquo;Oh, father, I should so like to be a Resurrection-Man when I'm quite growed up!&rdquo;</p>
+<p>Mr. Cruncher was soothed, but shook his head in a dubious and
+<pb n="108" id="p108"/>
+moral way. &ldquo;It depends upon how you dewelop your talents. Be careful to dewelop your talents, and never to say no more than you can help to nobody, and there's no telling at the present time what you may not come to be fit for.&rdquo; As Young Jerry, thus encouraged, went on a few yards in advance, to plant the stool in the shadow of the Bar, Mr. Cruncher added to himself: &ldquo;Jerry, you honest tradesman, there's hopes wot that boy will yet be a blessing to you, and a recompense to you for his mother!&rdquo;</p>
+</div3>
+<div3 type="chapter">
+<head>CHAPTER XV. <lb/> KNITTING.</head>
+<p>THERE had been earlier drinking than usual in the wine-shop of Monsieur Defarge. As early as six o'clock in the morning, sallow faces peeping through its barred windows had descried other faces within, bending over measures of wine. Monsieur Defarge sold a very thin wine at the best of times, but it would seem to have been an unusually thin wine that he sold at this time. A sour wine, moreover, or a souring, for its influence on the mood of those who drank it was to make them gloomy. No vivacious Bacchanalian flame leaped out of the pressed grape of Monsieur Defarge: but, a smouldering fire that burnt in the dark, lay hidden in the dregs of it.</p>
+<p>This had been the third morning in succession, on which there had been early drinking at the wine-shop of Monsieur Defarge. It had begun on Monday, and here was Wednesday come. There had been more of early brooding than drinking; for, many men had listened and whispered and slunk about there from the time of the opening of the door, who could not have laid a piece of money on the counter to save their souls. These were to the full as interested in the place, however, as if they could have commanded whole barrels of wine; and they glided from seat to seat, and from corner to corner, swallowing talk in lieu of drink, with greedy looks.</p>
+<p>Notwithstanding an unusual flow of company, the master of the wine-shop was not visible. He was not missed; for, nobody who crossed the threshold looked for him, nobody asked for him, nobody wondered to see only Madame Defarge in her seat, presiding over the distribution of wine, with a bowl of battered small coins before her, as much defaced and beaten out of their original impress as the small coinage of humanity from whose ragged pockets they had come.</p>
+<p>A suspended interest and a prevalent absence of mind, were perhaps observed by the spies who looked in at the wine-shop, as they looked in at every place, high and low, from the king's palace to the criminal's gaol. Games at cards languished, players at dominoes musingly built towers with them, drinkers drew figures on the tables with spilt drops of wine, Madame Defarge herself picked out
+<pb n="109" id="p109"/>
+the pattern on her sleeve with her toothpick, and saw and heard something inaudible and invisible a long way off.</p>
+<p>Thus, Saint Antoine in this vinous feature of his, until mid-day. It was high noontide, when two dusty men passed through his streets and under his swinging lamps: of whom, one was Monsieur Defarge: the other, a mender of roads in a blue cap. All adust and athirst, the two entered the wine-shop. Their arrival had lighted a kind of fire in the breast of Saint Antoine, fast spreading as they came along, which stirred and flickered in flames of faces at most doors and windows. Yet, no one had followed them, and no man spoke when they entered the wine-shop, though the eyes of every man there were turned upon them.</p>
+<p>&ldquo;Good day, gentlemen!&rdquo; said Monsieur Defarge.</p>
+<p>It may have been a signal for loosening the general tongue. It elicited an answering chorus of &ldquo;Good day!&rdquo;</p>
+<p>&ldquo;It is bad weather, gentlemen,&rdquo; said Defarge, shaking his head.</p>
+<p>Upon which, every man looked at his neighbour, and then all cast down their eyes and sat silent. Except one man, who got up and went out.</p>
+<p>&ldquo;My wife,&rdquo; said Defarge aloud, addressing Madame Defarge; &ldquo;I have travelled certain leagues with this good mender of roads, called Jacques. I met him&mdash;by accident&mdash;a day and a half's journey out of Paris. He is a good child, this mender of roads, called Jacques. Give him to drink, my wife!&rdquo;</p>
+<p>A second man got up and went out. Madame Defarge set wine before the mender of roads called Jacques, who doffed his blue cap to the company, and drank. In the breast of his blouse, he carried some coarse dark bread; he ate of this between whiles, and sat munching and drinking near Madame Defarge's counter. A third man got up and went out.</p>
+<p>Defarge refreshed himself with a draught of wine&mdash;but, he took less than was given to the stranger, as being himself a man to whom it was no rarity&mdash;and stood waiting until the countryman had made his breakfast. He looked at no one present, and no one now looked at him; not even Madame Defarge, who had taken up her knitting, and was at work.</p>
+<p>&ldquo;Have you finished your repast, friend?&rdquo; he asked, in due season.</p>
+<p>&ldquo;Yes, thank you.&rdquo;</p>
+<p>&ldquo;Come then! You shall see the apartment that I told you you could occupy. It will suit you to a marvel.&rdquo;</p>
+<p>Out of the wine-shop into the street, out of the street into a court-yard, out of the court-yard up a steep staircase, out of the staircase into a garret&mdash;formerly the garret where a white-haired man sat on a low bench, stooping forward and very busy, making shoes.</p>
+<p>No white-haired man was there now; but, the three men were there who had gone out of the wine-shop singly. And between them and the white-haired man afar off, was the one small link, that they had once looked in at him through the chinks in the wall.</p>
+<p>Defarge closed the door carefully, and spoke in a subdued voice:</p>
+<p>&ldquo;Jacques One, Jacques Two, Jacques Three! This is the witness encountered by appointment, by me, Jacques Four. He will tell you all. Speak, Jacques Five!&rdquo;</p>
+<pb n="110" id="p110"/>
+<p>The mender of roads, blue cap in hand, wiped his swarthy forehead with it, and said, &ldquo;Where shall I commence, monsieur?&rdquo;</p>
+<p>&ldquo;Commence,&rdquo; was Monsieur Defarge's not unreasonable reply, &ldquo;at the commencement.&rdquo;</p>
+<p>&ldquo;I saw him then, messieurs,&rdquo; began the mender of roads, &ldquo;a year ago this running summer, underneath the carriage of the Marquis, hanging by the chain. Behold the manner of it. I leaving my work on the road, the sun going to bed, the carriage of the Marquis slowly ascending the hill, he hanging by the chain&mdash;like this.&rdquo;</p>
+<p>Again, the mender of roads went through the old performance; in which he ought to have been perfect by that time, seeing that it had been the infallible resource and indispensable entertainment of his village during a whole year.</p>
+<p>Jacques One struck in, and asked if he had ever seen the man before?</p>
+<p>&ldquo;Never,&rdquo; answered the mender of roads, recovering his perpendicular.</p>
+<p>Jacques Three demanded how he afterwards recognised him then?</p>
+<p>&ldquo;By his tall figure,&rdquo; said the mender of roads, softly, and with his finger at his nose. &ldquo;When Monsieur the Marquis demands that evening, &lsquo;Say, what is he like?&rsquo; I make response, &lsquo;Tall as a spectre.&rsquo; &rdquo;</p>
+<p>&ldquo;You should have said, short as a dwarf,&rdquo; returned Jacques Two.</p>
+<p>&ldquo;But what did I know! The deed was not then accomplished, neither did he confide in me. Observe! Under those circumstances even, I do not offer my testimony. Monsieur the Marquis indicates me with his finger, standing near our little fountain, and says, &lsquo;To me! Bring that rascal!&rsquo; My faith, messieurs, I offer nothing.&rdquo;</p>
+<p>&ldquo;He is right there, Jacques,&rdquo; murmured Defarge, to him who had interrupted. &ldquo;Go on!&rdquo;</p>
+<p>&ldquo;Good!&rdquo; said the mender of roads, with an air of mystery. &ldquo;The tall man is lost, and he is sought&mdash;how many months? Nine, ten, eleven?&rdquo;</p>
+<p>&ldquo;No matter, the number,&rdquo; said Defarge. &ldquo;He is well hidden, but at last he is unluckily found. Go on!&rdquo;</p>
+<p>&ldquo;I am again at work upon the hill-side, and the sun is again about to go to bed. I am collecting my tools to descend to my cottage down in the village below, where it is already dark, when I raise my eyes, and see coming over the hill, six soldiers. In the midst of them is a tall man with his arms bound&mdash;tied to his sides, like this!&rdquo;</p>
+<p>With the aid of his indispensable cap, he represented a man with his elbows bound fast at his hips, with cords that were knotted behind him.</p>
+<p>&ldquo;I stand aside, messieurs, by my heap of stones, to see the soldiers and their prisoner pass (for it is a solitary road, that, where any spectacle is well worth looking at), and at first, as they approach, I see no more than that they are six soldiers with a tall man bound, and that they are almost black, to my sight&mdash;except on the side of the sun going to bed, where they have a red edge, messieurs. Also, I see that their long shadows are on the hollow ridge on the opposite side of the road, and are on the hill above it, and are like the shadows of giants. Also, I see that they are covered with dust, and that the dust moves
+<pb n="111" id="p111"/>
+with them as they come, tramp, tramp! But when they advance quite near to me, I recognise the tall man, and he recognises me. Ah, but he would be well content to precipitate himself over the hillside once again, as on the evening when he and I first encountered, close to the same spot!&rdquo;</p>
+<p>He described it as if he were there, and it was evident that he saw it vividly; perhaps he had not seen much in his life.</p>
+<p>&ldquo;I do not show the soldiers that I recognise the tall man; he does not show the soldiers that he recognises me; we do it, and we know it, with our eyes. &lsquo;Come on!&rsquo; says the chief of that company, pointing to the village, &lsquo;bring him fast to his tomb!&rsquo; and they bring him faster. I follow. His arms are swelled because of being bound so tight, his wooden shoes are large and clumsy, and he is lame. Because he is lame, and consequently slow, they drive him with their guns&mdash;like this!&rdquo;</p>
+<p>He imitated the action of a man's being impelled forward by the butt-ends of muskets.</p>
+<p>&ldquo;As they descend the hill like madmen running a race, he falls. They laugh and pick him up again. His face is bleeding and covered with dust, but he cannot touch it; thereupon they laugh again. They bring him into the village; all the village runs to look; they take him past the mill, and up to the prison; all the village sees the prison gate open in the darkness of the night, and swallow him&mdash;like this!&rdquo;</p>
+<p>He opened his mouth as wide as he could, and shut it with a sounding snap of his teeth. Observant of his unwillingness to mar the effect by opening it again, Defarge said, &ldquo;Go on, Jacques.&rdquo;</p>
+<p>&ldquo;All the village,&rdquo; pursued the mender of roads, on tiptoe and in a low voice, &ldquo;withdraws; all the village whispers by the fountain; all the village sleeps; all the village dreams of that unhappy one, within the locks and bars of the prison on the crag, and never to come out of it, except to perish. In the morning, with my tools upon my shoulder, eating my morsel of black bread as I go, I make a circuit by the prison, on my way to my work. There, I see him, high up, behind the bars of a lofty iron cage, bloody and dusty as last night, looking through. He has no hand free, to wave to me; I dare not call to him; he regards me like a dead man.&rdquo;</p>
+<p>Defarge and the three glanced darkly at one another. The looks of all of them were dark, repressed, and revengeful, as they listened to the countryman's story; the manner of all of them, while it was secret was authoritative too. They had the air of a rough tribunal; Jacques One and Two sitting on the old pallet-bed, each with his chin resting on his hand, and his eyes intent on the road mender; Jacques Three, equally intent, on one knee behind them, with his agitated hand always gliding over the network of fine nerves about his mouth and nose; Defarge standing between them and the narrator, whom he had stationed in the light of the window, by turns looking from him to them and from them to him.</p>
+<p>&ldquo;Go on, Jacques,&rdquo; said Defarge.</p>
+<p>&ldquo;He remains up there in his iron cage, some days. The village looks at him by stealth, for it is afraid. But it always looks up, from a distance, at the prison on the crag; and in the evening when the work of the day is achieved and it assembles to gossip at the fountain,
+<pb n="112" id="p112"/>
+all faces are turned towards the prison. Formerly, they were turned towards the posting-house; now, they are turned towards the prison. They whisper at the fountain, that although condemned to death he will not be executed; they say that petitions have been presented in Paris, showing that he was enraged and made mad by the death of his child; they say that a petition has been presented to the King himself. What do I know? It is possible. Perhaps yes, perhaps no.&rdquo;</p>
+<p>&ldquo;Listen then, Jacques,&rdquo; Number One of that name sternly interposed. &ldquo;Know that a petition was presented to the King and Queen. All here, yourself excepted, saw the King take it, in his carriage in the street, sitting beside the Queen. It is Defarge whom you see here, who, at the hazard of his life, darted out before the horses, with the petition in his hand.&rdquo;</p>
+<p>&ldquo;And once again listen, Jacques!&rdquo; said the kneeling Number Three: his fingers ever wandering over and over those fine nerves, with a strikingly greedy air, as if he hungered for something&mdash;that was neither food nor drink; &ldquo;the guard, horse and foot, surrounded the petitioner, and struck him blows. You hear?&rdquo;</p>
+<p>&ldquo;I hear, messieurs.&rdquo;</p>
+<p>&ldquo;Go on then,&rdquo; said Defarge.</p>
+<p>&ldquo;Again; on the other hand, they whisper at the fountain,&rdquo; resumed the countryman, &ldquo;that he is brought down into our country to be executed on the spot, and that he will very certainly be executed. They even whisper that because he has slain Monseigneur, and because Monseigneur was the father of his tenants&mdash;serfs&mdash;what you will&mdash;he will be executed as a parricide. One old man says at the fountain, that his right hand, armed with the knife, will be burnt off before his face; that, into wounds which will be made in his arms, his breast, and his legs, there will be poured boiling oil, melted lead, hot resin, wax, and sulphur; finally, that he will be torn limb from limb by four strong horses. That old man says, all this was actually done to a prisoner who made an attempt on the life of the last King, Louis Fifteen. But how do I know if he lies? I am not a scholar.&rdquo;</p>
+<p>&ldquo;Listen once again then, Jacques!&rdquo; said the man with the restless hand and the craving air. &ldquo;The name of that prisoner was Damiens, and it was all done in open day, in the open streets of this city of Paris; and nothing was more noticed in the vast concourse that saw it done, than the crowd of ladies of quality and fashion, who were full of eager attention to the last&mdash;to the last, Jacques, prolonged until nightfall, when he had lost two legs and an arm, and still breathed! And it was done&mdash;why, how old are you?&rdquo;</p>
+<p>&ldquo;Thirty-five,&rdquo; said the mender of roads, who looked sixty.</p>
+<p>&ldquo;It was done when you were more than ten years old; you might have seen it.&rdquo;</p>
+<p>&ldquo;Enough!&rdquo; said Defarge, with grim impatience. &ldquo;Long live the Devil! Go on.&rdquo;</p>
+<p>&ldquo;Well! Some whisper this, some whisper that; they speak of nothing else; even the fountain appears to fall to that tune. At length, on Sunday night when all the village is asleep, come soldiers, winding down from the prison, and their guns ring on the stones of the little street. Workmen dig, workmen hammer, soldiers laugh and
+<pb n="113" id="p113"/>
+sing; in the morning, by the fountain, there is raised a gallows forty feet high, poisoning the water.&rdquo;</p>
+<p>The mender of roads looked <hi rend="italics">through</hi> rather than <hi
+rend="italics">at</hi> the low ceiling, and pointed as if he saw the gallows somewhere in the sky.</p>
+<p>&ldquo;All work is stopped, all assemble there, nobody leads the cows out, the cows are there with the rest. At mid-day, the roll of drums. Soldiers have marched into the prison in the night, and he is in the midst of many soldiers. He is bound as before, and in his mouth there is a gag&mdash;tied so, with a tight string, making him look almost as if he laughed.&rdquo; He suggested it, by creasing his face with his two thumbs, from the corners of his mouth to his ears. &ldquo;On the top of the gallows is fixed the knife, blade upwards, with its point in the air. He is hanged there forty feet high&mdash;and is left hanging, poisoning the water.&rdquo;</p>
+<p>They looked at one another, as he used his blue cap to wipe his face, on which the perspiration had started afresh while he recalled the spectacle.</p>
+<p>&ldquo;It is frightful, messieurs. How can the women and the children draw water! Who can gossip of an evening, under that shadow! Under it, have I said? When I left the village, Monday evening as the sun was going to bed, and looked back from the hill, the shadow struck across the church, across the mill, across the prison&mdash;seemed to strike across the earth, messieurs, to where the sky rests upon it!&rdquo;</p>
+<p>The hungry man gnawed one of his fingers as he looked at the other three, and his finger quivered with the craving that was on him.</p>
+<p>&ldquo;That's all, messieurs. I left at sunset (as I had been warned to do), and I walked on, that night and half next day, until I met (as I was warned I should) this comrade. With him, I came on, now riding and now walking, through the rest of yesterday and through last night. And here you see me!&rdquo;</p>
+<p>After a gloomy silence, the first Jacques said, &ldquo;Good! You have acted and recounted, faithfully. Will you wait for us a little, outside the door?&rdquo;</p>
+<p>&ldquo;Very willingly,&rdquo; said the mender of roads. Whom Defarge escorted to the top of the stairs, and, leaving seated there, returned.</p>
+<p>The three had risen, and their heads were together when he came back to the garret.</p>
+<p>&ldquo;How say you, Jacques?&rdquo; demanded Number One. &ldquo;To be registered?&rdquo;</p>
+<p>&ldquo;To be registered, as doomed to destruction,&rdquo; returned Defarge.</p>
+<p>&ldquo;Magnificent!&rdquo; croaked the man with the craving.</p>
+<p>&ldquo;The ch&acirc;teau, and all the race?&rdquo; inquired the first.</p>
+<p>&ldquo;The ch&acirc;teau and all the race,&rdquo; returned Defarge. &ldquo;Extermination.&rdquo;</p>
+<p>The hungry man repeated, in a rapturous croak, &ldquo;Magnificent!&rdquo; and began gnawing another finger.</p>
+<p>&ldquo;Are you sure,&rdquo; asked Jacques Two, of Defarge, &ldquo;that no embarrassment can arise from our manner of keeping the register? Without doubt it is safe, for no one beyond ourselves can decipher it; but shall be always be able to decipher it&mdash;or, I ought to say, will she?&rdquo;</p>
+<p>&ldquo;Jacques,&rdquo; returned Defarge, drawing himself up, &ldquo;if madame my
+<pb n="114" id="p114"/>
+wife undertook to keep the register in her memory alone, she would not lose a word of it&mdash;not a syllable of it. Knitted, in her own stitches and her own symbols, it will always be as plain to her as the sun. Confide in Madame Defarge. It would be easier for the weakest poltroon that lives, to erase himself from existence, than to erase one letter of his name or crimes from the knitted register of Madame Defarge.&rdquo;</p>
+<p>There was a murmur of confidence and approval, and then the man who hungered, asked: &ldquo;Is this rustic to be sent back soon? I hope so. He is very simple; is he not a little dangerous?&rdquo;</p>
+<p>&ldquo;He knows nothing,&rdquo; said Defarge; &ldquo;at least nothing more than would easily elevate himself to a gallows of the same height. I charge myself with him; let him remain with me; I will take care of him, and set him on his road. He wishes to see the fine world&mdash;the King, the Queen, and Court; let him see them on Sunday.&rdquo;</p>
+<p>&ldquo;What?&rdquo; exclaimed the hungry man, staring. &ldquo;Is it a good sign, that he wishes to see Royalty and Nobility?&rdquo;</p>
+<p>&ldquo;Jacques,&rdquo; said Defarge; &ldquo;judiciously show a cat, milk, if you wish her to thirst for it. Judiciously show a dog his natural prey, if you wish him to bring it down one day.&rdquo;</p>
+<p>Nothing more was said, and the mender of roads, being found already dozing on the topmost stair, was advised to lay himself down on the pallet-bed and take some rest. He needed no persuasion, and was soon asleep.</p>
+<p>Worse quarters than Defarge's wine-shop, could easily have been found in Paris for a provincial slave of that degree. Saving for a mysterious dread of madame by which he was constantly haunted, his life was very new and agreeable. But, madame sat all day at her counter, so expressly unconscious of him, and so particularly determined not to perceive that his being there had any connexion with anything below the surface, that he shook in his wooden shoes whenever his eye lighted on her. For, he contended with himself that it was impossible to foresee what that lady might pretend next; and he felt assured that if she should take it into her brightly ornamented head to pretend that she had seen him do a murder and afterwards flay the victim, she would infallibly go through with it until the play was played out.</p>
+<p>Therefore, when Sunday came, the mender of roads was not enchanted (though he said he was) to find that madame was to accompany monsieur and himself to Versailles. It was additionally disconcerting to have madame knitting all the way there, in a public conveyance; it was additionally disconcerting yet, to have madame in the crowd in the afternoon, still with her knitting in her hands as the crowd waited to see the carriage of the King and Queen.</p>
+<p>&ldquo;You work hard, madame,&rdquo; said a man near her.</p>
+<p>&ldquo;Yes,&rdquo; answered Madame Defarge; &ldquo;I have a good deal to do.&rdquo;</p>
+<p>&ldquo;What do you make, madame?&rdquo;</p>
+<p>&ldquo;Many things.&rdquo;</p>
+<p>&ldquo;For instance&mdash;&rdquo;</p>
+<p>&ldquo;For instance,&rdquo; returned Madame Defarge, composedly, &ldquo;shrouds.&rdquo;</p>
+<p>The man moved a little further away, as soon as he could, and the mender of roads fanned himself with his blue cap: feeling it mightily close and oppressive. If he needed a King and Queen to restore him,
+<pb n="115" id="p115"/>
+he was fortunate in having his remedy at hand; for, soon the large-faced King and the fair-faced Queen came in their golden coach, attended by the shining Bull's Eye of their Court, a glittering multitude of laughing ladies and fine lords; and in jewels and silks and powder and splendour and elegantly spurning figures and handsomely disdainful faces of both sexes, the mender of roads bathed himself, so much to his temporary intoxication, that he cried Long live the King, Long live the Queen, Long live everybody and everything! as if he had never heard of ubiquitous Jacques in his time. Then, there were gardens, court-yards, terraces, fountains, green banks, more King and Queen, more Bull's Eye, more lords and ladies, more Long live they all! until he absolutely wept with sentiment. During the whole of this scene, which lasted some three hours, he had plenty of shouting and weeping and sentimental company, and throughout Defarge held him by the collar, as if to restrain him from flying at the objects of his brief devotion and tearing them to pieces.</p>
+<p>&ldquo;Bravo!&rdquo; said Defarge, clapping him on the back when it was over, like a patron; &ldquo;you are a good boy!&rdquo;</p>
+<p>The mender of roads was now coming to himself, and was mistrustful of having made a mistake in his late demonstrations; but no.</p>
+<p>&ldquo;You are the fellow we want,&rdquo; said Defarge, in his ear; &ldquo;you make these fools believe that it will last for ever. Then, they are the more insolent, and it is the nearer ended.&rdquo;</p>
+<p>&ldquo;Hey!&rdquo; cried the mender of roads, reflectively; &ldquo;that's true.&rdquo;</p>
+<p>&ldquo;These fools know nothing. While they despise your breath, and would stop it for ever and ever, in you or in a hundred like you rather than in one of their own horses or dogs, they only know what your breath tells them. Let it deceive them, then, a little longer; it cannot deceive them too much.&rdquo;</p>
+<p>Madame Defarge looked superciliously at the client, and nodded in confirmation.</p>
+<p>&ldquo;As to you,&rdquo; said she, &ldquo;you would shout and shed tears for anything, if it made a show and a noise. Say! Would you not?&rdquo;</p>
+<p>&ldquo;Truly, madame, I think so. For the moment.&rdquo;</p>
+<p>&ldquo;If you were shown a great heap of dolls, and were set upon them to pluck them to pieces and despoil them for your own advantage, you would pick out the richest and gayest. Say! Would you not?&rdquo;</p>
+<p>&ldquo;Truly yes, madame.&rdquo;</p>
+<p>&ldquo;Yes. And if you were shown a flock of birds, unable to fly, and were set upon them to strip them of their feathers for your own advantage, you would set upon the birds of the finest feathers; would you not?&rdquo;</p>
+<p>&ldquo;It is true, madame.&rdquo;</p>
+<p>&ldquo;You have seen both dolls and birds to-day,&rdquo; said Madame Defarge, with a wave of her hand towards the place where they had last been apparent; &ldquo;now, go home!&rdquo;</p>
+</div3>
+<div3 type="chapter">
+<pb n="116" id="p116"/>
+<head>CHAPTER XVI. <lb/> STILL KNITTING.</head>
+<p>MADAME DEFARGE and monsieur her husband returned amicably to the bosom of Saint Antoine, while a speck in a blue cap toiled through the darkness, and through the dust, and down the weary miles of avenue by the wayside, slowly tending towards that point of the compass where the ch&acirc;teau of Monsieur the Marquis, now in his grave, listened to the whispering trees. Such ample leisure had the stone faces, now, for listening to the trees and to the fountain, that the few village scarecrows who, in their quest for herbs to eat and fragments of dead stick to burn, strayed within sight of the great stone court-yard and terrace staircase, had it borne in upon their starved fancy that the expression of the faces was altered. A rumour just lived in the village&mdash;had a faint and bare existence there, as its people had&mdash;that when the knife struck home, the faces changed, from faces of pride to faces of anger and pain; also, that when that dangling figure was hauled up forty feet above the fountain, they changed again, and bore a cruel look of being avenged which they would henceforth bear for ever. In the stone face over the great window of the bed-chamber where the murder was done, two fine dints were pointed out in the sculptured nose, which everybody recognised, and which nobody had seen of old; and on the scarce occasions when two or three ragged peasants emerged from the crowd to take a hurried peep at Monsieur the Marquis petrified, a skinny finger would not have pointed to it for a minute, before they all started away among the moss and leaves, like the more fortunate hares who could find a living there.</p>
+<p>Ch&acirc;teau and hut, stone face and dangling figure, the red stain on the stone floor, and the pure water in the village well&mdash;thousands of acres of land&mdash;a whole province of France&mdash;all France itself&mdash;lay under the night sky, concentrated into a faint hair-breadth line. So does a whole world with all its greatnesses and littlenesses, lie in a twinkling star. And as mere human knowledge can split a ray of light and analyse the manner of its composition, so, sublimer intelligences may read in the feeble shining of this earth of ours, every thought and act, every vice and virtue, of every responsible creature on it.</p>
+<p>The Defarges, husband and wife, came lumbering under the star-light, in their public vehicle, to that gate of Paris whereunto their journey naturally tended. There was the usual stoppage at the barrier guard-house, and the usual lanterns came glancing forth for the usual examination and inquiry. Monsieur Defarge alighted: knowing one or two of the soldiery there, and one of the police. The latter he was intimate with, and affectionately embraced.</p>
+<p>When Saint Antoine had again enfolded the Defarges in his dusky
+<pb n="117" id="p117"/>
+wings, and they, having finally alighted near the Saint's boundaries, were picking their way on foot through the black mud and offal of his streets, Madame Defarge spoke to her husband:</p>
+<p>&ldquo;Say then, my friend; what did Jacques of the police tell thee?&rdquo;</p>
+<p>&ldquo;Very little to-night, but all he knows. There is another spy commissioned for our quarter. There may be many more, for all that he can say, but he knows of one.&rdquo;</p>
+<p>&ldquo;Eh well!&rdquo; said Madame Defarge, raising her eyebrows with a cool business air. &ldquo;It is necessary to register him. How do they call that man?&rdquo;</p>
+<p>&ldquo;He is English.&rdquo;</p>
+<p>&ldquo;So much the better. His name?&rdquo;</p>
+<p>&ldquo;Barsad,&rdquo; said Defarge, making it French by pronunciation. But, he had been so careful to get it accurately, that he then spelt it with perfect correctness.</p>
+<p>&ldquo;Barsad,&rdquo; repeated madame. &ldquo;Good. Christian name?&rdquo;</p>
+<p>&ldquo;John.&rdquo;</p>
+<p>&ldquo;John Barsad,&rdquo; repeated madame, after murmuring it once to herself. &ldquo;Good. His appearance; is it known?&rdquo;</p>
+<p>&ldquo;Age, about forty years; height, about five feet nine; black hair; complexion dark; generally, rather handsome visage; eyes dark, face thin, long, and sallow; nose aquiline, but not straight, having a peculiar inclination towards the left cheek; expression, therefore, sinister.&rdquo;</p>
+<p>&ldquo;Eh my faith. It is a portrait!&rdquo; said madame, laughing. &ldquo;He shall be registered to-morrow.&rdquo;</p>
+<p>They turned into the wine-shop, which was closed (for it was midnight), and where Madame Defarge immediately took her post at her desk, counted the small moneys that had been taken during her absence, examined the stock, went through the entries in the book, made other entries of her own, checked the serving man in every possible way, and finally dismissed him to bed. Then she turned out the contents of the bowl of money for the second time, and began knotting them up in her handkerchief, in a chain of separate knots, for safe keeping through the night. All this while, Defarge, with his pipe in his mouth, walked up and down, complacently admiring, but never interfering; in which condition, indeed, as to the business and his domestic affairs, he walked up and down through life.</p>
+<p>The night was hot, and the shop, close shut and surrounded by so foul a neighbourhood, was ill-smelling. Monsieur Defarge's olfactory sense was by no means delicate, but the stock of wine smelt much stronger than it ever tasted, and so did the stock of rum and brandy and aniseed. He whiffed the compound of scents away, as he put down his smoked-out pipe.</p>
+<p>&ldquo;You are fatigued,&rdquo; said madame, raising her glance as she knotted the money. &ldquo;There are only the usual odours.&rdquo;</p>
+<p>&ldquo;I am a little tired,&rdquo; her husband acknowledged.</p>
+<p>&ldquo;You are a little depressed, too,&rdquo; said madame, whose quick eyes had never been so intent on the accounts, but they had had a ray or two for him. &ldquo;Oh, the men, the men!&rdquo;</p>
+<p>&ldquo;But my dear,&rdquo; began Defarge.</p>
+<pb n="118" id="p118"/>
+<p>&ldquo;But my dear!&rdquo; repeated madame, nodding firmly: &ldquo;but my dear! You are faint of heart to-night, my dear!&rdquo;</p>
+<p>&ldquo;Well, then,&rdquo; said Defarge, as if a thought were wrung out of his breast, &ldquo;it <hi
+rend="italics">is</hi> a long time.&rdquo;</p>
+<p>&ldquo;It is a long time,&rdquo; repeated his wife; &ldquo;and when is it not a long time? Vengeance and retribution require a long time; it is the rule.&rdquo;</p>
+<p>&ldquo;It does not take a long time to strike a man with Lightning,&rdquo; said Defarge.</p>
+<p>&ldquo;How long,&rdquo; demanded madame, composedly, &ldquo;does it take to make and store the lightning? Tell me?&rdquo;</p>
+<p>Defarge raised his forehead thoughtfully, as if there were something in that, too.</p>
+<p>&ldquo;It does not take a long time,&rdquo; said madame, &ldquo;for an earthquake to swallow a town. Eh well! Tell me how long it takes to prepare the earthquake?&rdquo;</p>
+<p>&ldquo;A long time, I suppose,&rdquo; said Defarge.</p>
+<p>&ldquo;But when it is ready, it takes place, and grinds to pieces everything before it. In the mean time, it is always preparing, though it is not seen or heard. That is your consolation. Keep it.&rdquo;</p>
+<p>She tied a knot with flashing eyes, as if it throttled a foe.</p>
+<p>&ldquo;I tell thee,&rdquo; said madame, extending her right hand, for emphasis, &ldquo;that although it is a long time on the road, it is on the road and coming. I tell thee it never retreats, and never stops. I tell thee it is always advancing. Look around and consider the lives of all the world that we know, consider the faces of all the world that we know, consider the rage and discontent to which the Jacquerie addresses itself with more and more of certainty every hour. Can such things last? Bah! I mock you.&rdquo;</p>
+<p>&ldquo;My brave wife,&rdquo; returned Defarge, standing before her with his head a little bent, and his hands clasped at his back, like a docile and attentive pupil before his catechist, &ldquo;I do not question all this. But it has lasted a long time, and it is possible&mdash;you know well, my wife, it is possible&mdash;that it may not come, during our lives.&rdquo;</p>
+<p>&ldquo;Eh well! How then?&rdquo; demanded madame, tying another knot, as if there were another enemy strangled.</p>
+<p>&ldquo;Well!&rdquo; said Defarge, with a half complaining and half apologetic shrug. &ldquo;We shall not see the triumph.&rdquo;</p>
+<p>&ldquo;We shall have helped it,&rdquo; returned madame, with her extended hand in strong action. &ldquo;Nothing that we do, is done in vain. I believe, with all my soul, that we shall see the triumph. But even if not, even if I knew certainly not, show me the neck of an aristocrat and tyrant, and still I would&mdash;&rdquo;</p>
+<p>There madame, with her teeth set, tied a very terrible knot indeed.</p>
+<p>&ldquo;Hold!&rdquo; cried Defarge, reddening a little as if he felt charged with cowardice; &ldquo;I too, my dear, will stop at nothing.&rdquo;</p>
+<p>&ldquo;Yes! But it is your weakness that you sometimes need to see your victim and your opportunity, to sustain you. Sustain yourself without that. When the time comes, let loose a tiger and a devil; but wait for the time with the tiger and the devil chained&mdash;not shown&mdash;yet always ready.&rdquo;</p>
+<p>Madame enforced the conclusion of this piece of advice by striking her little counter with her chain of money as if she knocked its
+<pb n="119" id="p119"/>
+brains out, and then gathering the heavy handkerchief under her arm in a serene manner, and observing that it was time to go to bed.</p>
+<p>Next noontide saw the admirable woman in her usual place in the wine-shop, knitting away assiduously. A rose lay beside her, and if she now and then glanced at the flower, it was with no infraction of her usual preoccupied air. There were a few customers, drinking or not drinking, standing or seated, sprinkled about. The day was very hot, and heaps of flies, who were extending their inquisitive and adventurous perquisitions into all the glutinous little glasses near madame, fell dead at the bottom. Their decease made no impression on the other flies out promenading, who looked at them in the coolest manner (as if they themselves were elephants, or something as far removed), until they met the same fate. Curious to consider how heedless flies are!&mdash;perhaps they thought as much at Court that sunny summer day.</p>
+<p>A figure entering at the door threw a shadow on Madame Defarge which she felt to be a new one. She laid down her knitting, and began to pin her rose in her head-dress, before she looked at the figure.</p>
+<p>It was curious. The moment Madame Defarge took up the rose, the customers ceased talking, and began gradually to drop out of the wine-shop.</p>
+<p>&ldquo;Good day, madame,&rdquo; said the new comer.</p>
+<p>&ldquo;Good day, monsieur.&rdquo;</p>
+<p>She said it aloud, but added to herself, as she resumed her knitting: &ldquo;Hah! Good day, age about forty, height about five feet nine, black hair, generally rather handsome visage, complexion dark, eyes dark, thin long and sallow face, aquiline nose but not straight, having a peculiar inclination towards the left cheek which imparts a sinister expression! Good day, one and all!&rdquo;</p>
+<p>&ldquo;Have the goodness to give me a little glass of old cognac, and a mouthful of cool fresh water, madame.&rdquo;</p>
+<p>Madame complied with a polite air.</p>
+<p>&ldquo;Marvellous cognac this, madame!&rdquo;</p>
+<p>It was the first time it had ever been so complimented, and Madame Defarge knew enough of its antecedents to know better. She said, however, that the cognac was flattered, and took up her knitting. The visitor watched her fingers for a few moments, and took the opportunity of observing the place in general.</p>
+<p>&ldquo;You knit with great skill, madame.&rdquo;</p>
+<p>&ldquo;I am accustomed to it.&rdquo;</p>
+<p>&ldquo;A pretty pattern too!&rdquo;</p>
+<p>&ldquo;<hi rend="italics">You</hi> think so?&rdquo; said madame, looking at him with a smile.</p>
+<p>&ldquo;Decidedly. May one ask what it is for?&rdquo;</p>
+<p>&ldquo;Pastime,&rdquo; said madame, still looking at him with a smile, while her fingers moved nimbly.</p>
+<p>&ldquo;Not for use?&rdquo;</p>
+<p>&ldquo;That depends. I may find a use for it, one day. If I do&mdash;well,&rdquo; said madame, drawing a breath and nodding her head with a stern kind of coquetry, &ldquo;I'll use it!&rdquo;</p>
+<p>It was remarkable; but, the taste of Saint Antoine seemed to be decidedly opposed to a rose on the head-dress of Madame Defarge.
+<pb n="120" id="p120"/>
+Two men had entered separately, and had been about to order drink, when, catching sight of that novelty, they faltered, made a pretence of looking about as if for some friend who was not there, and went away. Nor, of those who had been there when this visitor entered, was there one left. They had all dropped off. They spy had kept his eyes open, but had been able to detect no sign. They had lounged away in a poverty-stricken, purposeless, accidental manner, quite natural and unimpeachable.</p>
+<p>&ldquo;JOHN,&rdquo; thought madame, checking off her work as her fingers knitted, and her eyes looked at the stranger. &ldquo;Stay long enough, and I shall knit &lsquo;BARSAD&rsquo; before you go.&rdquo;</p>
+<p>&ldquo;You have a husband, madame?&rdquo;</p>
+<p>&ldquo;I have.&rdquo;</p>
+<p>&ldquo;Children?&rdquo;</p>
+<p>&ldquo;No children.&rdquo;</p>
+<p>&ldquo;Business seems bad?&rdquo;</p>
+<p>&ldquo;Business is very bad; the people are so poor.&rdquo;</p>
+<p>&ldquo;Ah, the unfortunate, miserable people! So oppressed too&mdash;as you say.&rdquo;</p>
+<p>&ldquo;As <hi rend="italics">you</hi> say,&rdquo; madame retorted, correcting him, and deftly knitting an extra something into his name that boded him no good.</p>
+<p>&ldquo;Pardon me; certainly it was I who said so, but you naturally think so. Of course.&rdquo;</p>
+<p>&ldquo;<hi rend="italics">I</hi> think?&rdquo; returned madame, in a high voice. &ldquo;I and my husband have enough to do to keep this wine-shop open, without thinking. All we think, here, is, how to live. That is the subject <hi
+rend="italics">we</hi> think of, and it gives us, from morning to night, enough to think about, without embarrassing our heads concerning others. <hi
+rend="italics">I</hi> think for others? No, no.&rdquo;</p>
+<p>The spy, who was there to pick up any crumbs he could find or make, did not allow his baffled state to express itself in his sinister face; but, stood with an air of gossiping gallantry, leaning his elbow on Madame Defarge's little counter, and occasionally sipping his cognac.</p>
+<p>&ldquo;A bad business this, madame, of Gaspard's execution. Ah! the poor Gaspard!&rdquo; With a sigh of great compassion.</p>
+<p>&ldquo;My faith!&rdquo; returned madame, coolly and lightly, &ldquo;if people use knives for such purposes, they have to pay for it. He knew beforehand what the price of his luxury was; he has paid the price.&rdquo;</p>
+<p>&ldquo;I believe,&rdquo; said the spy, dropping his soft voice to a tone that invited confidence, and expressing an injured revolutionary susceptibility in every muscle of his wicked face: &ldquo;I believe there is much compassion and anger in this neighbourhood, touching the poor fellow? Between ourselves.&rdquo;</p>
+<p>&ldquo;Is there?&rdquo; asked madame, vacantly.</p>
+<p>&ldquo;Is there not?&rdquo;</p>
+<p>&ldquo;&mdash;Here is my husband!&rdquo; said Madame Defarge.</p>
+<p>As the keeper of the wine-shop entered at the door, the spy saluted him by touching his hat, and saying, with an engaging smile, &ldquo;Good day, Jacques!&rdquo; Defarge stopped short, and stared at him.</p>
+<p>&ldquo;Good day, Jacques!&rdquo; the spy repeated; with not quite so much confidence, or quite so easy a smile under the stare.</p>
+<pb n="121" id="p121"/>
+<p>&ldquo;You deceive yourself, monsieur,&rdquo; returned the keeper of the wine-shop. &ldquo;You mistake me for another. That is not my name. I am Ernest Defarge.&rdquo;</p>
+<p>&ldquo;It is all the same,&rdquo; said the spy, airily, but discomfited too; &ldquo;good day!&rdquo;</p>
+<p>&ldquo;Good day!&rdquo; answered Defarge, dryly.</p>
+<p>&ldquo;I was saying to madame, with whom I had the pleasure of chatting when you entered, that they tell me there is&mdash;and no wonder!&mdash;much sympathy and anger in Saint Antoine, touching the unhappy fate of poor Gaspard.&rdquo;</p>
+<p>&ldquo;No one has told me so,&rdquo; said Defarge, shaking his head; &ldquo;I know nothing of it.&rdquo;</p>
+<p>Having said it, he passed behind the little counter, and stood with his hand on the back of his wife's chair, looking over that barrier at the person to whom they were both opposed, and whom either of them would have shot with the greatest satisfaction.</p>
+<p>The spy, well used to his business, did not change his unconscious attitude, but drained his little glass of cognac, took a sip of fresh water, and asked for another glass of cognac. Madame Defarge poured it out for him, took to her knitting again, and hummed a little song over it.</p>
+<p>&ldquo;You seem to know this quarter well; that is to say, better than I do?&rdquo; observed Defarge.</p>
+<p>&ldquo;Not at all, but I hope to know it better. I am so profoundly interested in its miserable inhabitants.&rdquo;</p>
+<p>&ldquo;Hah!&rdquo; muttered Defarge.</p>
+<p>&ldquo;The pleasure of conversing with you, Monsieur Defarge, recals to me,&rdquo; pursued the spy, &ldquo;that I have the honour of cherishing some interesting associations with your name.&rdquo;</p>
+<p>&ldquo;Indeed?&rdquo; said Defarge, with much indifference.</p>
+<p>&ldquo;Yes indeed. When Doctor Manette was released, you his old domestic had the charge of him, I know. He was delivered to you. You see I am informed of the circumstances?&rdquo;</p>
+<p>&ldquo;Such is the fact, certainly,&rdquo; said Defarge. He had had it conveyed to him, in an accidental of his wife's elbow as she knitted and warbled, that he would do best to answer, but always with brevity.</p>
+<p>&ldquo;It was to you,&rdquo; said the spy, &ldquo;that his daughter came; and it was from your care that his daughter took him, accompanied by a neat brown monsieur; how is he called?&mdash;in a little Wig&mdash;Lorry&mdash;of the bank of Tellson and Company&mdash;over to England.&rdquo;</p>
+<p>&ldquo;Such is the fact,&rdquo; repeated Defarge.</p>
+<p>&ldquo;Very interesting remembrances!&rdquo; said the spy. &ldquo;I have known Doctor Manette and his daughter, in England.&rdquo;</p>
+<p>&ldquo;Yes?&rdquo; said Defarge.</p>
+<p>&ldquo;You don't hear much about them now,&rdquo; said the spy.</p>
+<p>&ldquo;No,&rdquo; said Defarge.</p>
+<p>&ldquo;In effect,&rdquo; madame struck in, looking up from her work and her little song, &ldquo;we never hear about them. We received the news of their safe arrival, and perhaps another letter or perhaps two; but since then, they have gradually taken their road in life&mdash;we, ours&mdash;and we have held no correspondence.&rdquo;</p>
+<pb n="122" id="p122"/>
+<p>&ldquo;Perfectly so, madame,&rdquo; replied the spy. &ldquo;She is going to be married.&rdquo;</p>
+<p>&ldquo;Going?&rdquo; echoed madame. &ldquo;She was pretty enough to have been married long ago. You English are cold, it seems to me.&rdquo;</p>
+<p>&ldquo;Oh! You know I am English?&rdquo;</p>
+<p>&ldquo;I perceive your tongue is,&rdquo; returned madame; &ldquo;and what the tongue is, I suppose the man is.&rdquo;</p>
+<p>He did not take the identification as a compliment; but, he made the best of it, and turned it off with a laugh. After sipping his cognac to the end, he added:</p>
+<p>&ldquo;Yes, Miss Manette is going to be married. But not to an Englishman; to one who, like herself, is French by birth. And speaking of Gaspard (ah, poor Gaspard! It was cruel, cruel!), it is a curious thing that she is going to marry the nephew of Monsieur the Marquis, for whom Gaspard was exalted to that height of so many feet; in other words, the present Marquis. But he lives unknown in England, he is no Marquis there; he is Mr. Charles Darnay. D'Aulnais is the name of his mother's family.&rdquo;</p>
+<p>Madame Defarge knitted steadily, but the intelligence had a palpable effect upon her husband. Do what he would, behind the little counter, as to the striking of a light and the lighting of his pipe, he was troubled, and his hand was not trustworthy. The spy would have been no spy if he had failed to see it, or to record it in his mind.</p>
+<p>Having made, at least, this one hit, whatever it might prove to be worth, and no customers coming in to help him to any other, Mr. Barsad paid for what he had drunk, and took his leave: taking occasion to say, in a genteel manner, before he departed, that he looked forward to the pleasure of seeing Monsieur and Madame Defarge again. For some minutes after he had emerged into the outer presence of Saint Antoine, the husband and wife remained exactly as he had left them, lest he should come back.</p>
+<p>&ldquo;Can it be true,&rdquo; said Defarge, in a low voice, looking down at his wife as he stood smoking with his hand on the back of her chair: &ldquo;what he has said of Ma'amselle Manette?&rdquo;</p>
+<p>&ldquo;As he has said it,&rdquo; returned madame, lifting her eyebrows a little, &ldquo;it is probably false. But it may be true.&rdquo;</p>
+<p>&ldquo;If it is&mdash;&rdquo; Defarge began; and stopped.</p>
+<p>&ldquo;If it is?&rdquo; repeated his wife.</p>
+<p>&ldquo;&mdash;And if it does come, while we live to see it triumph&mdash;I hope, for her sake, Destiny will keep her husband out of France.&rdquo;</p>
+<p>&ldquo;Her husband's destiny,&rdquo; said Madame Defarge, with her usual composure, &ldquo;will take him where he is to go, and will lead him to the end that is to end him. That is all I know.&rdquo;</p>
+<p>&ldquo;But it is very strange&mdash;now, at least is it not very strange&rdquo;&mdash;said Defarge, rather pleading with his wife to induce her to admit it, &ldquo;that, after all our sympathy for Monsieur her father and herself, her husband's name should be proscribed under your hand at this moment, by the side of that infernal dog's who has just left us?&rdquo;</p>
+<p>&ldquo;Stranger things than that, will happen when it does come,&rdquo; answered madame. &ldquo;I have them both here, of a certainty; and they are both here for their merits; that is enough.&rdquo;</p>
+<pb n="123" id="p123"/>
+<p>She rolled up her knitting when she had said those words, and presently took the rose out of the handkerchief that was wound about her head. Either Saint Antoine had an instinctive sense that the objectionable decoration was gone, or Saint Antoine was on the watch for its disappearance; howbeit, the Saint took courage to lounge in, very shortly afterwards, and the wine-shop recovered its habitual aspect.</p>
+<p>In the evening, at which season of all others, Saint Antoine turned himself inside out, and sat on door-steps and window-ledges, and came to the corners of vile streets and courts, for a breath of air, Madame Defarge with her work in her hand was accustomed to pass from place to place and from group to group: a Missionary&mdash;there were many like her&mdash;such as the world will do well never to breed again. All the women knitted. They knitted worthless things; but, the mechanical work was a mechanical substitute for eating and drinking; the hands moved for the jaws and the digestive apparatus; if the bony fingers had been still, the stomachs would have been more famine-pinched.</p>
+<p>But, as the fingers went, the eyes went, and the thoughts. And as Madame Defarge moved on from group to group, all three went quicker and fiercer among every little knot of women that she had spoken with, and left behind.</p>
+<p>Her husband smoked at his door, looking after her with admiration. &ldquo;A great woman,&rdquo; said he, &ldquo;a strong woman, a grand woman, a frightfully grand woman!&rdquo;</p>
+<p>Darkness closed around, and then came the ringing of church bells and the distant beating of the drums of the Royal Guard, as the women sat knitting, knitting. Darkness encompassed them. Another darkness was closing in as surely, when the church bells, then ringing pleasantly in many an airy steeple over France, should be melted into thundering cannon; when the drums should be beating to drown a wretched voice, that night all potent as the voice of Power and Plenty, Freedom and Life. So much was closing in about the women who sat knitting, knitting, that they their very selves were closing in around a structure yet unbuilt, where they were to sit knitting, knitting, counting dropping heads.</p>
+</div3>
+<div3 type="chapter">
+<pb n="124" id="p124"/>
+<head>CHAPTER XVII. <lb/> ONE NIGHT.</head>
+<p>NEVER did the sun go down with a brighter glory on the quiet corner in Soho, than one memorable evening when the Doctor and his daughter sat under the plane-tree together. Never did the moon rise with a milder radiance over great London, than on that night when it found them still seated under the tree, and shone upon their faces through its leaves.</p>
+<p>Lucie was to be married to-morrow. She had reserved this last evening for her father, and they sat alone under the plane-tree.</p>
+<p>&ldquo;You are happy, my dear father?&rdquo;</p>
+<p>&ldquo;Quite, my child.&rdquo;</p>
+<p>They had said little, though they had been there a long time. When it was yet light enough to work and read, she had neither engaged herself in her usual work, nor had she read to him. She had employed herself in both ways, at his side under the tree, many and many a time; but, this time was not quite like any other, and nothing could make it so.</p>
+<p>&ldquo;And I am very happy to-night, dear father. I am deeply happy in the love that Heaven has so blessed&mdash;my love for Charles, and Charles's love for me. But, if my life were not to be, still consecrated to you, or if my marriage were so arranged as that it would part us, even by the length of a few of these streets, I should be more unhappy and self-reproachful now, than I can tell you. Even as it is&mdash;&rdquo;</p>
+<p>Even as it was, she could not command her voice.</p>
+<p>In the sad moonlight, she clasped him by the neck, and laid her face upon his breast. In the moonlight which is always sad, as the light of the sun itself is&mdash;as the light called human life is&mdash;at its coming and its going.</p>
+<p>&ldquo;Dearest dear! Can you tell me, this last time, that you feel quite, quite sure no new affections of mine, and no new duties of mine, will ever interpose between us? <hi
+rend="italics">I</hi> know it well, but do you know it? In your own heart, do you feel quite certain?&rdquo;</p>
+<p>Her father answered, with a cheerful firmness of conviction he could scarcely have assumed, &ldquo;Quite sure, my darling! More than that,&rdquo; he added, as he tenderly kissed her: &ldquo;my future is far brighter, Lucie, seen through your marriage, than it could have been&mdash;nay, than it ever was&mdash;without it.&rdquo;</p>
+<p>&ldquo;If I could hope <hi rend="italics">that,</hi> my father!&mdash;&rdquo;</p>
+<p>&ldquo;Believe it, love! Indeed it is so. Consider how natural and how plain it is, my dear, that it should be so. You, devoted and young, cannot freely appreciate the anxiety I have felt that your life should not be wasted&mdash;&rdquo;</p>
+<pb n="125" id="p125"/>
+<p>She moved her hand towards his lips, but he took it in his, and repeated the word.</p>
+<p>&ldquo;&mdash;wasted, my child&mdash;should not be wasted, struck aside from the natural order of things, for my sake. Your unselfishness cannot entirely comprehend how much my mind has gone on this; but, only ask yourself, how could my happiness be perfect, while yours was incomplete?&rdquo;</p>
+<p>&ldquo;If I had never seen Charles, my father, I should have been quite happy with you.&rdquo;</p>
+<p>He smiled at her unconscious admission that she would have been unhappy without Charles, having seen him, and replied:</p>
+<p>&ldquo;My child, you did see him, and it is Charles. If it had not been Charles, it would have been another. Or, if it had been no other, I should have been the cause, and then the dark part of my life would have cast its shadow beyond myself, and would have fallen on you.&rdquo;</p>
+<p>It was the first time, except at the trial, of her ever hearing him refer to the period of his suffering. It gave her a strange and new sensation while his words were in her ears; and she remembered it long afterwards.</p>
+<p>&ldquo;See!&rdquo; said the Doctor of Beauvais, raising his hand towards the moon. &ldquo;I have looked at her from my prison-window, when I could not bear her light. I have looked at her when it has been such torture to me to think of her shining upon what I had lost, that I have beaten my head against my prison walls. I have looked at her, in a state so dulled and lethargic, that I have thought of nothing but the number of horizontal lines I could draw across her at the full, and the number of perpendicular lines with which I could intersect them.&rdquo; He added in his inward and pondering manner, as he looked at the moon, &ldquo;It was twenty either way, I remember, and the twentieth was difficult to squeeze in.&rdquo;</p>
+<p>The strange thrill with which she heard him go back to that time, deepened as he dwelt upon it; but, there was nothing to shock her in the manner of his reference. He only seemed to contrast his present cheerfulness and felicity with the dire endurance that was over.</p>
+<p>&ldquo;I have looked at her, speculating thousands of times upon the unborn child from whom I had been rent. Whether it was alive. Whether it had been born alive, or the poor mother's shock had killed it. Whether it was a son who would some day avenge his father. (There was a time in my imprisonment, when my desire for vengeance was unbearable.) Whether it was a son who would never know his father's story; who might even live to weigh the possibility of his father's having disappeared of his own will and act. Whether it was a daughter, who would grow to be a woman.&rdquo;</p>
+<p>She drew closer to him, and kissed his cheek and his hand.</p>
+<p>&ldquo;I have pictured my daughter, to myself, as perfectly forgetful of me&mdash;rather, altogether ignorant of me, and unconscious of me. I have cast up the years of her age, year after year. I have seen her married to a man who knew nothing of my fate. I have altogether perished from the remembrance of the living, and in the next generation my place was a blank.&rdquo;</p>
+<p>&ldquo;My father! Even to hear that you had such thoughts of a
+<pb n="126" id="p126"/>
+daughter who never existed, strikes to my heart as if I had been that child.&rdquo;</p>
+<p>&ldquo;You, Lucie? It is out of the consolation and restoration you have brought to me, that these remembrances arise, and pass between us and the moon on this last night.&mdash;What did I say, just now?&rdquo;</p>
+<p>&ldquo;She knew nothing of you. She cared nothing for you.&rdquo;</p>
+<p>&ldquo;So! But on other moonlight nights, when the sadness and the silence have touched me in a different way&mdash;have affected me with something as like a sorrowful sense of peace, as any emotion that had pain for its foundations could&mdash;I have imagined her as coming to me in my cell, and leading me out into the freedom beyond the fortress. I have seen her image in the moonlight, often, as I now see you; except that I never held her in my arms; it stood between the little grated window and the door. But, you understand that that was not the child I am speaking of?&rdquo;</p>
+<p>&ldquo;The figure was not; the&mdash;the&mdash;image; the fancy?&rdquo;</p>
+<p>&ldquo;No. That was another thing. It stood before my disturbed sense of sight, but it never moved. The phantom that my mind pursued, was another and more real child. Of her outward appearance I know no more than that she was like her mother. The other had that likeness too&mdash;as you have&mdash;but was not the same. Can you follow me, Lucie? Hardly, I think? I doubt you must have been a solitary prisoner to understand these perplexed distinctions.&rdquo;</p>
+<p>His collected and calm manner could not prevent her blood from running cold, as he thus tried to anatomise his old condition.</p>
+<p>&ldquo;In that more peaceful state, I have imagined her, in the moonlight, coming to me and taking me out to show me that the home of her married life was full of her loving remembrance of her lost father. My picture was in her room, and I was in her prayers. Her life was active, cheerful, useful; but my poor history pervaded it all.&rdquo;</p>
+<p>&ldquo;I was that child, my father. I was not half so good, but in my love that was I.&rdquo;</p>
+<p>&ldquo;And she showed me her children,&rdquo; said the Doctor of Beauvais, &ldquo;and they had heard of me, and had been taught to pity me. When they passed a prison of the State, they kept far from its frowning walls, and looked up at its bars, and spoke in whispers. She could never deliver me; I imagined that she always brought me back after showing me such things. But then, blessed with the relief of tears, I fell upon my knees, and blessed her.&rdquo;</p>
+<p>&ldquo;I am that child, I hope, my father. O my dear, my dear, will you bless me as fervently to-morrow?&rdquo;</p>
+<p>&ldquo;Lucie, I recal these old troubles in the reason that I have tonight for loving you better than words can tell, and thanking God for my great happiness. My thoughts, when they were wildest, never rose near the happiness that I have known with you, and that we have before us.&rdquo;</p>
+<p>He embraced her, solemnly commended her to Heaven, and humbly thanked Heaven for having bestowed her on him. By-and-by, they went into the house.</p>
+<p>There was no one bidden to the marriage but Mr. Lorry; there
+<pb n="127" id="p127"/>
+was even to be no bridesmaid but the gaunt Miss Pross. The marriage was to make no change in their place of residence; they had been able to extend it, by taking to themselves the upper rooms formerly belonging to the apocryphal invisible lodger, and they desired nothing more.</p>
+<p>Doctor Manette was very cheerful at the little supper. They were only three at table, and Miss Pross made the third. He regretted that Charles was not there; was more than half disposed to object to the loving little plot that kept him away; and drank to him affectionately.</p>
+<p>So, the time came for him to bid Lucie good night, and they separated. But, in the stillness of the third hour of the morning, Lucie came down stairs again, and stole into his room: not free from unshaped fears, beforehand.</p>
+<p>All things, however, were in their places; all was quiet; and he lay asleep, his white hair picturesque on the untroubled pillow, and his hands lying quiet on the coverlet. She put her needless candle in the shadow at a distance, crept up to his bed, and put her lips to his; then, leaned over him and looked at him.</p>
+<p>Into his handsome face, the bitter waters of captivity had worn; but, he covered up their tracks with a determination so strong, that he held the mastery of them, even in his sleep. A more remarkable face in its quiet, resolute, and guarded struggle with an unseen assailant, was not to be beheld in all the wide dominions of sleep, that night.</p>
+<p>She timidly laid her hand on his dear breast, and put up a prayer that she might ever be as true to him as her love aspired to be, and as his sorrows deserved. Then, she withdrew her hand, and kissed his lips once more, and went away. So, the sunrise came, and the shadows of the leaves of the plane-tree moved upon his face, as softly as her lips had moved in praying for him.</p>
+</div3>
+<div3 type="chapter">
+<pb n="128" id="p128"/>
+<head>CHAPTER XVIII. <lb/> NINE DAYS.</head>
+<p>THE marriage day was shining brightly, and they were ready outside the closed door of the Doctor's room, where he was speaking with Charles Darnay. They were ready to go to church; the beautiful bride, Mr. Lorry, and Miss Pross&mdash;to whom the event, through a gradual process of reconcilement to the inevitable, would have been one of absolute bliss, but for the yet lingering consideration that her brother Solomon should have been the bridegroom.</p>
+<p>&ldquo;And so,&rdquo; said Mr. Lorry, who could not sufficiently admire the bride, and who had been moving round her to take in every point of her quiet, pretty dress; &ldquo;and so it was for this, my sweet Lucie, that I brought you across the Channel, such a baby! Lord bless me! How little I thought what I was doing. How lightly I valued the obligation I was conferring on my friend Mr. Charles!&rdquo;</p>
+<p>&ldquo;You didn't mean it,&rdquo; remarked the matter of fact Miss Pross, &ldquo;and therefore how could you know it? Nonsense!&rdquo;</p>
+<p>&ldquo;Really? Well; but don't cry,&rdquo; said the gentle Mr. Lorry.</p>
+<p>&ldquo;I am not crying,&rdquo; said Miss Pross; &ldquo;<hi rend="italics">you</hi> are.&rdquo;</p>
+<p>&ldquo;I, my Pross?&rdquo; (By this time, Mr. Lorry dared to be pleasant with her, on occasion.)</p>
+<p>&ldquo;You were just now; I saw you do it, and I don't wonder at it. Such a present of plate as you have made 'em, is enough to bring tears into anybody's eyes. There's not a fork or a spoon in the collection,&rdquo; said Miss Pross, &ldquo;that I didn't cry over, last night after the box came, till I couldn't see it.&rdquo;</p>
+<p>&ldquo;I am highly gratified,&rdquo; said Mr. Lorry, &ldquo;though, upon my honour, I had no intention of rendering those trifling articles of remembrance, invisible to any one. Dear me! This is an occasion that makes a man speculate on all he has lost. Dear, dear, dear! To think that there might have been a Mrs. Lorry, any time these fifty years almost!&rdquo;</p>
+<p>&ldquo;Not at all!&rdquo; From Miss Pross.</p>
+<p>&ldquo;You think there never might have been a Mrs. Lorry?&rdquo; asked the gentleman of that name.</p>
+<p>&ldquo;Pooh!&rdquo; rejoined Miss Pross; &ldquo;you were a bachelor in your cradle.&rdquo;</p>
+<p>&ldquo;Well!&rdquo; observed Mr. Lorry, beamingly adjusting his little wig, &ldquo;that seems probable, too.&rdquo;</p>
+<p>&ldquo;And you were cut out for a bachelor,&rdquo; pursued Miss Pross, &ldquo;before you were put in your cradle.&rdquo;</p>
+<p>&ldquo;Then, I think,&rdquo; said Mr. Lorry, &ldquo;that I was very unhandsomely dealt with, and that I ought to have had a voice in the selection of
+<pb n="129" id="p129"/>
+my pattern. Enough! Now, my dear Lucie,&rdquo; drawing his arm soothingly round her waist, &ldquo;I hear them moving in the next room, and Miss Pross and I, as two formal folks of business, are anxious not to lose the final opportunity of saying something to you that you wish to hear. You leave your good father, my-dear, in hands as earnest and as loving as your own; he shall be taken every conceivable care of; during the next fortnight, while you are in Warwickshire and thereabouts, even Tellson's shall go to the wall (comparatively speaking) before him. And when, at the fortnight's end, he comes to join you and your beloved husband, on your other fortnight's trip in Wales, you shall say that we have sent him to you in the best health and in the happiest frame. Now, I hear Somebody's step coming to the door. Let me kiss my dear girl with an old-fashioned bachelor blessing, before Somebody comes to claim his own.&rdquo;</p>
+<p>For a moment, he held the fair face from him to look at the well-remembered expression on the forehead, and then laid the bright golden hair against his little brown wig, with a genuine tenderness and delicacy, which, if such things be old fashioned, were as old as Adam.</p>
+<p>The door of the Doctor's room opened, and he came out with Charles Darnay. He was so deadly pale&mdash;which had not been the case when they went in together&mdash;that no vestige of colour was to be seen in his face. But, in the composure of his manner he was unaltered, except that to the shrewd glance of Mr. Lorry it disclosed some shadowy indication that the old air of avoidance and dread had lately passed over him, like a cold wind.</p>
+<p>He gave his arm to his daughter, and took her down stairs to the chariot which Mr. Lorry had hired in honour of the day. The rest followed in another carriage, and soon, in a neighbouring church where no strange eyes looked on, Charles Darnay and Lucie Manette were happily married.</p>
+<p>Besides the glancing tears that shone among the smiles of the little group when it was done, some diamonds, very bright and sparkling, glanced on the bride's hand, which were newly released from the dark obscurity of one of Mr. Lorry's pockets. They returned home to breakfast, and all went well, and in due course the golden hair that had mingled with the poor shoemaker's white locks in the Paris garret, were mingled with them again in the morning sunlight, on the threshold of the door at parting.</p>
+<p>It was a hard parting, though it was not for long. But, her father cheered her, and said at last, gently disengaging himself from her enfolding arms, &ldquo;Take her, Charles! She is yours!&rdquo; And her agitated hand waved to them from a chaise window, and she was gone.</p>
+<p>The corner being out of the way of the idle and curious, and the preparations having been very simple and few, the Doctor, Mr. Lorry, and Miss Pross, were left quite alone. It was when they turned into the welcome shade of the cool old hall, that Mr. Lorry observed a great change to have come over the Doctor; as if the golden arm uplifted there, had struck him a poisoned blow.</p>
+<p>He had naturally repressed much, and some revulsion might have been expected in him when the occasion for repression was gone.
+<pb n="130" id="p130"/>
+But, it was the old scared lost look that troubled Mr. Lorry; and through his absent manner of clasping his head and drearily wandering away into his own room when they got up-stairs, Mr. Lorry was reminded of Defarge the wine-shop keeper, and the starlight ride.</p>
+<p>&ldquo;I think,&rdquo; he whispered to Miss Pross, after anxious consideration, &ldquo;I think we had best not speak to him just now, or at all disturb him. I must look in at Tellson's; so I will go there at once and come back presently. Then, we will take him a ride into the country, and dine there, and all will be well.&rdquo;</p>
+<p>It was easier for Mr. Lorry to look in at Tellson's, than to look out of Tellson's. He was detained two hours. When he came back, he ascended the old staircase alone, having asked no question of the servant; going thus into the Doctor's rooms, he was stopped by a low sound of knocking.</p>
+<p>&ldquo;Good God!&rdquo; he said, with a start. &ldquo;What's that?&rdquo;</p>
+<p>Miss Pross, with a terrified face, was at his ear. &ldquo;O me, O me! All is lost!&rdquo; cried she, wringing her hands. &ldquo;What is to be told to Ladybird? He doesn't know me, and is making shoes!&rdquo;</p>
+<p>Mr. Lorry said what he could to calm her, and went himself into the Doctor's room. The bench was turned towards the light, as it had been when he had seen the shoemaker at his work before, and his head was bent down, and he was very busy.&rdquo;</p>
+<p>&ldquo;Doctor Manette. My dear friend, Doctor Manette!&rdquo;</p>
+<p>The Doctor looked at him for a moment&mdash;half inquiringly, half as if he were angry at being spoken to&mdash;and bent over his work again.</p>
+<p>He had laid aside his coat and waistcoat; his shirt was open at the throat, as it used to be when he did that work; and even the old haggard, faded surface of face had come back to him. He worked hard&mdash;impatiently&mdash;as if in some sense of having been interrupted.</p>
+<p>Mr. Lorry glanced at the work in his hand, and observed that it was a shoe of the old size and shape. He took up another that was lying by him, and asked him what it was?</p>
+<p>&ldquo;A young lady's walking shoe,&rdquo; he muttered, without looking up. &ldquo;It ought to have been finished long ago. Let it be.&rdquo;</p>
+<p>&ldquo;But, Doctor Manette. Look at me!&rdquo;</p>
+<p>He obeyed, in the old mechanically submissive manner, without pausing in his work.</p>
+<p>&ldquo;You know me, my dear friend? Think again. This is not your proper occupation. Think, dear friend!&rdquo;</p>
+<p>Nothing would induce him to speak more. He looked up, for an instant at a time, when he was requested to do so; but, no persuasion would extract a word from him. He worked, and worked, and worked, in silence, and words fell on him as they would have fallen on an echoless wall, or on the air. The only ray of hope that Mr. Lorry could discover, was, that he sometimes furtively looked up without being asked. In that, there seemed a faint expression of curiosity or perplexity&mdash;as though he were trying to reconcile some doubts in his mind.</p>
+<pb n="131" id="p131"/>
+<p>Two things at once impressed themselves on Mr. Lorry, as important above all others; the first, that this must be kept secret from Lucie; the second, that it must be kept secret from all who knew him. In conjunction with Miss Pross, he took immediate steps towards the latter precaution, by giving out that the Doctor was not well, and required a few days of complete rest. In aid of the kind deception to be practised on his daughter, Miss Pross was to write, describing his having been called away professionally, and referring to an imaginary letter of two or three hurried lines in his own hand, represented to have been addressed to her by the same post.</p>
+<p>These measures, advisable to be taken in any case, Mr. Lorry took in the hope of his coming to himself. If that should happen soon, he kept another course in reserve; which was, to have a certain opinion that he thought the best, on the Doctor's case.</p>
+<p>In the hope of his recovery, and of resort to this third course being thereby rendered practicable, Mr. Lorry resolved to watch him attentively, with as little appearance as possible of doing so. He therefore made arrangements to absent himself from Tellson's for the first time in his life, and took his post by the window in the same room.</p>
+<p>He was not long in discovering that it was worse than useless to speak to him, since, on being pressed, he became worried. He abandoned that attempt on the first day, and resolved merely to keep himself always before him, as a silent protest against the delusion into which he had fallen, or was falling. He remained, therefore, in his seat near the window, reading and writing, and expressing in as many pleasant and natural ways as he could think of, that it was a free place.</p>
+<p>Doctor Manette took what was given him to eat and drink, and worked on, that first day, until it was too dark to see&mdash;worked on, half an hour after Mr. Lorry could not have seen, for his life, to read or write. When he put his tools aside as useless, until morning, Mr. Lorry rose and said to him:</p>
+<p>&ldquo;Will you go out?&rdquo;</p>
+<p>He looked down at the floor on either side of him in the old manner, looked up in the old manner, and repeated in the old low voice:</p>
+<p>&ldquo;Out?&rdquo;</p>
+<p>&ldquo;Yes; for a walk with me. Why not?&rdquo;</p>
+<p>He made no effort to say why not, and said not a word more. But, Mr. Lorry thought he saw, as he leaned forward on his bench in the dusk, with his elbows on his knees and his head in his hands, that he was in some misty way asking himself, &ldquo;Why not?&rdquo; The sagacity of the man of business perceived an advantage here, and determined to hold it.</p>
+<p>Miss Pross and he divided the night into two watches, and observed him at intervals from the adjoining room. He paced up and down for a long time before he lay down; but, when he did finally lay himself down, he fell asleep. In the morning, he was up betimes, and went straight to his bench and to work.</p>
+<p>On this second day, Mr. Lorry saluted him cheerfully by his name,
+<pb n="132" id="p132"/>
+and spoke to him on topics that had been of late familiar to them. He returned no reply, but it was evident that he heard what was said, and that he thought about it, however confusedly. This encouraged Mr. Lorry to have Miss Pross in with her work, several times during the day; at those times, they quietly spoke of Lucie, and of her father then present, precisely in the usual manner, and as if there were nothing amiss. This was done without any demonstrative accompaniment, not long enough, or often enough to harass him; and it lightened Mr. Lorry's friendly heart to believe that he looked up oftener, and that he appeared to be stirred by some perception of inconsistencies surrounding him.</p>
+<p>When it fell dark again, Mr. Lorry asked him as before:</p>
+<p>&ldquo;Dear Doctor, will you go out?&rdquo;</p>
+<p>As before, he repeated, &ldquo;Out?&rdquo;</p>
+<p>&ldquo;Yes; for a walk with me. Why not?&rdquo;</p>
+<p>This time, Mr. Lorry feigned to go out when he could extract no answer from him, and, after remaining absent for an hour, returned. In the mean while, the Doctor had removed to the seat in the window, and had sat there looking down at the plane-tree; but, on Mr. Lorry's return, he slipped away to his bench.</p>
+<p>The time went very slowly on, and Mr. Lorry's hope darkened, and his heart grew heavier again, and grew yet heavier and heavier every day. The third day came and went, the fourth, the fifth. Five days, six days, seven days, eight days, nine days.</p>
+<p>With a hope ever darkening, and with a heart always growing heavier and heavier, Mr. Lorry passed through this anxious time. The secret was well kept, and Lucie was unconscious and happy; but, he could not fail to observe that the shoemaker, whose hand had been a little out at first, was growing dreadfully skilful, and that he had never been so intent on his work, and that his hands had never been so nimble and expert, as in the dusk of the ninth evening.</p>
+</div3>
+</div2>
+</div1>
+
+</body>
+<back>
+<div1 type="advertisement">
+<pb n="1" id="p1"/>
+<head>IMPORTANT FAMILY MEDICINE.</head>
+<p>NORTON'S CAMOMILE PILLS, <lb/> THE <lb/> MOST CERTAIN PRESERVER OF HEALTH, <lb/> A MILD, YET SPEEDY, SAFE, AND <lb/> EFFECTUAL AID IN CASES OF INDIGESTION, <lb/> AND ALL STOMACH COMPLAINTS, <lb/> AND, AS A NATURAL CONSEQUENCE, <lb/> A PURIFIER OF THE BLOOD, AND A SWEETENER OF THE WHOLE SYSTEM.</p>
+<p>INDIGESTION is a weakness or want of power of the digestive juices in the stomach to convert what we eat and drink into healthy matter, for the proper nourishment of the whole system. It is caused by everything which weakens the system in general, or the stomach in particular. From it proceed nearly all the diseases to which we are liable; for it is very certain, that if we could always keep the stomach right we should only die by old age or accident. Indigestion produces a great variety of unpleasant sensations: amongst the most prominent of its miserable effects are a want of, or an inordinate, appetite, sometimes attended with a constant craving for drink, a distension or feeling of enlargement of the stomach, flatulency, heartburn, pains in the stomach, acidity, unpleasant taste in the mouth, perhaps sickness, rumbling noise in the bowels: in some cases of depraved digestion there is nearly a complete disrelish for food, but still the appetite is not greatly impaired, as at the stated period of meals persons so afflicted can eat heartily, although without much gratification; a long train of nervous symptoms are also frequent attendants, general debility, great languidness, and incapacity for exertion. The minds of persons so afflicted frequently become irritable and desponding, and great anxiety is observable in the countenance; they appear thoughtful, melancholy, and dejected, under great apprehension of some imaginary danger, will start at any unexpected noise or occurrence, and become so agitated that they require some time to calm and collect themselves: yet for all this the mind is exhilarated without much difficulty; pleasing events, society, will for a time dissipate all appearance of disease; but the excitement produced by an agreeable change vanishes soon after the cause has gone by. Other symptoms are, violent palpitations, restlessness, the sleep disturbed by frightful dreams and startings, and affording little or no refreshment; occasionally there is much moaning, with a sense of weight and oppression upon the chest, nightmare, &amp;c.</p>
+<p>It is almost impossible to enumerate all the symptoms of this first invader upon the constitution, as in a hundred cases of <hi
+rend="italics">Indigestion</hi> there will probably be something peculiar to each; but, be they what they may, they are all occasioned by the food becoming a burden rather than a support to the stomach; and in all its stages the medicine most wanted is that which will afford speedy and effectual assistance to the digestive organs, and give energy to the nervous and muscular systems,&mdash;nothing can more speedily or with more certainty effect so desirable an object than <hi
+rend="italics">Norton's Extract of Camomile Flowers.</hi> The herb has from time immemorial been highly esteemed in England as a grateful anodyne, imparting an aromatic bitter to the taste, and a pleasing degree of warmth and strength to the stomach, and in all cases of indigestion, gout in the stomach, windy colic, and general weakness, it has for ages been strongly recommended by the most eminent practitioners as very useful and beneficial. The great, indeed only, objection to its use has been the large quantity of water which it takes to dissolve a small part of the flowers, and which must be taken with it into the
+<pb n="2" id="p2"/>
+stomach. It requires a quarter of a pint of boiling water to dissolve the soluble portion of one drachm of Camomile Flowers; and, when one or even two ounces may be taken with advantage, it must at once be seen how impossible it is to take a proper dose of this wholesome herd in the form of tea; and the only reason why it has not long since been placed the very first in rank of all restorative medicines is, that in taking it the stomach has always been loaded with water, which tends in a great measure to counteract, and very frequently wholly to destroy the effect. It must be evident that loading a weak stomach with a large quantity of water, merely for the purpose of conveying into it a small quantity of medicine must be injurious; and that the medicine must possess powerful renovating properties only to counteract the bad effects likely to be produced by the water. Generally speaking, this has been the casewith Camomile Flowers, a herb possessing the highest restorative qualities, and when properly taken, decidedly the most speedy restorer, and the most certain preserver of health.</p>
+<p>These PILLS are wholly CAMOMILE, prepared by a peculiar process, accidentally discovered, and known only to the proprietor, and which he firmly believes to be one of the most valuable modern discoveries in medicine, by which all the essential and extractive matter of more than an ounce of the flowers is concentrated in four moderate sized pills. Experience has afforded the most ample proof that they possess all the fine aromatic and stomachic properties for which the herb has been esteemed; and, as they are taken into the stomach unencumbered by any diluting or indigestible substance, in the same degree has their benefit been more immediate and decided. Mild in their operation and pleasant in their effect, they may be taken at any age, and under any circumstance, without danger or inconvenience. A person exposed to cold and wet a whole day or night could not possibly receive any injury from taking them, but on the contrary, they would effectually prevent a cold being taken. After a long acquaintance with and strict observance of the medicinal properties of <hi
+rend="italics">Norton's Camomile Pills,</hi> it is only doing them justice to say, that they are really the most valuable of all TONIC MEDICINES. By the word tonic is meant a medicine which gives strength to the stomach sufficient to digest in proper quantities all wholesome food, which increases the power of every nerve and muscle of the human body, or, in other words, invigorates the nervous and muscular systems. The solidity or firmness of the whole tissue of the body which so quickly follows the use of <hi
+rend="italics">Norton's Camomile Pills,</hi> their certain and speedy effects in repairing the partial dilapidations from time or intemperance, and their lasting salutary influence on the whole frame, is most convincing, that in the smallest compass is contained the largest quantity of the tonic principle, of so peculiar a nature as to pervade the whole system, through which it diffuses health and strength sufficient to resist the formation of disease, and also to fortify the constitution against contagion; as such, their general use is strongly recommended as a preventative during the prevalence or malignant fever or other infectious diseases, and to persons attending sick rooms they are invaluable as in no one instance have they ever failed in preventing the taking of illness, even under the most trying circumstances.</p>
+<p>As <hi rend="italics">Norton's Camomile Pills</hi> are particularly recommended for all stomach complaints or indigestion, it will probably be expected that some advice should be given respecting diet, though after all that has been written upon the subject, after the publication of volume upon volume, after the country has, as it were, been inundated with practical essays on diet, as a means of prolonging life, it would be unnecessary to say more, did we not feel it our duty to make the humble endeavour of inducing the public to regard them not, but to adopt that course which is dictated by nature, by reason, and by common sense. Those persons who study the wholesomes, and are governed by the opinions of writers on diet, are uniformly both unhealthy in body and weak in mind. There can be no doubt that the palate is designed to inform us what is proper for the stomach, and of course that must best instruct us what food to take and what to avoid: we want no other adviser. Nothing can be more clear than that those articles which are agreeable to the taste, were by nature intended for our food and sustenance, whether liquid or solid, foreign or of native production: if they are pure and unadulterated, no harm need be dreaded by their
+<pb n="3" id="p3"/>
+use; they will only injure by abuse. Consequently, whatever the palate approves, eat and drink always in moderation, but never in excess; keeping in mind that the first process of digestion is performed in the mouth, the second in the stomach; and that, in order that the stomach may be able to do its work properly, it is requisite the first process should be well performed; this consists in masticating or chewing the solid food, so as to break down and separate the fibres and small substances of meat and vegetables, mixing them well, and blending the whole together before they are swallowed; and it is particularly urged upon all to take plenty of time to their meals and never eat in haste. If you conform to this short and simple, but comprehensive advice, and find that there are various things which others eat and drink with pleasure and without inconvenience, and which would be pleasant to yourself only that they disagree, you may at once conclude that the fault is in the stomach, that it does not possess the power which it ought to do, that it wants assistance, and the sooner that assistance is afforded the better. A very short trial of this medicine will best prove how soon it will put the stomach in a condition to perform with ease all the work which nature intended for it. By its use you will soon be able to enjoy, in moderation, whatever is agreeable to the taste, and unable to name one individual article of food which disagrees with or sits unpleasantly on the stomach. Never forget that a small meal well digested affords more nourishment to the system than a large one, even of the same food, when digested imperfectly. Let the dish be ever so delicious, ever so enticing a variety offered, the bottle ever so enchanting, never forget that temperance tends to preserve health, and that health is the soul of enjoyment. But should an impropriety be at any time, or ever so often committed, by which the stomach becomes overloaded or disordered, render it immediate aid by taking a dose of <hi
+rend="italics">Norton's Camomile Pills,</hi> which will so promptly assist in carrying off the burden thus imposed upon it that all will soon be right again.</p>
+<p>It is most certainly true that every person in his lifetime consumes a quantity of noxious matter, which if taken at one meal would be fatal: it is these small quantities of noxious matter, which are introduced into our food, either by accident or wilful adulteration, which we find so often upset the stomach, and not unfrequently lay the foundation of illness, and perhaps final ruination to health. To preserve the constitution, it should be our constant care, if possible, to counteract the effect of these small quantities of unwholesome matter; and whenever, in that way, an enemy to the constitution finds its way into the stomach, a friend should be immediately sent after it, which would prevent its mischievous effects, and expel it altogether; no better friend can be found, nor one which will perform the task with greater certainty than NORTON'S CAMOMILE PILLS. And let it be observed that the longer this medicine is taken the less it will be wanted; it can in no case become habitual, as its entire action is to give energy and force to the stomach, which is the spring of life, the source from which the whole frame draws its succour and support. After an excess of eating or drinking, and upon every occasion of the general health being at all disturbed, these PILLS should be immediately taken, as they will stop and eradicate disease at its commencement. Indeed, it is most confidently asserted, that by the timely use of this medicine only, and a common degree of caution, any person may enjoy all the comforts within his reach, may pass through life without an illness, and with the certainty of attaining a healthy OLD AGE.</p>
+<p>On account of their volatile properties, they must be kept in bottles; and if closely corked their qualities are neither impaired by time nor injured by any change of climate whatever. Price 13&frac12;d. and 2s. 9d. each, with full directions. The large bottle contains the quantity of three small ones, or PILLS equal to fourteen ounces of CAMOMILE FLOWERS.</p>
+<p>Sold by nearly all respectable Medicine Vendors.</p>
+<p>Be particular to ask for &ldquo;NORTON'S PILLS,&rdquo; and <lb/> do not be persuaded to purchase an imitation.</p>
+</div1>
+<div1 type="advertisement">
+<pb id="p4" n="4"/>
+<head>A CLEAR COMPLEXION!!!</head>
+<p>GODFREY'S <lb/> EXTRACT OF ELDER FLOWERS <lb/> Is strongly recommended for Softening, Improving, Beautifying and Preserving the SKIN, and giving it a blooming and charming appearance. It will completely remove Tan, Sunburn, Redness, &amp;c., and by its Balsamic and Healing qualities render the skin soft, pliable, and free from dryness, &amp;c., clear it from every humour, pimple, or eruption; and by continuing its use only a short time, the skin will become and continue soft and smooth, and the complexion perfectly clear and beautiful.</p>
+<p>Sold in Bottles, price 2s. 9d., by all Medicine Vendors and <lb/> Perfumers.</p>
+</div1>
+<div1 type="advertisement">
+<head>FOR GOUT, RHEUMATISM AND RHEUMATIC GOUT.</head>
+<p>SIMCO'S GOUT AND RHEUMATIC PILLS <lb/> are a certain and safe remedy. They restore tranquillity to the nerves, give tone to the stomach, and strength to the whole system. No other medicine can be compared to the excellent Pills, as they prevent the disorder from attacking the stomach or head, and have restored thousands from pain and misery to health and comfort.</p>
+<p>Sold by all Medicine Vendors, at 1s. 1&frac12;d. or 2s. 9d. per box.</p>
+</div1>
+<div1 type="advertisement">
+<head>INFLUENZA, COUGHS, AND COLDS.</head>
+<p>SIMCO'S ESSENCE OF LINSEED <lb/> is the most efficacious remedy ever discovered for the relief of persons suffering from Influenza; the first two doses generally arrest the progress of this distressing complaint, and a little perseverance completely removes it. Children's Coughs, as well as recent ones in Adults, will be removed by a few doses (frequently by the first); and Asthmatic persons, who previously had not been able to lie down in bed, have received the utmost benefit from the use of <lb/> SIMCO'S ESSENCE OF LINSEED.</p>
+<p>Sold in Bottles at 1<hi rend="italics">s.</hi> 1&frac12;<hi rend="italics">d.,</hi> and 2<hi
+rend="italics">s.</hi> 9<hi rend="italics">d.</hi> each.</p>
+</div1>
+<div1 type="advertisement">
+<pb id="p5" n="5"/>
+<opener>BRITISH COLLEGE OF HEALTH, <lb/> EUSTON (late NEW) ROAD, LONDON, <lb/> WHERE MORISON'S MEDICINES <lb/> ARE COMPOUNDED.</opener>
+<head>REPORT OF P. A. AVEILH&Eacute;, <lb/> GENERAL AGENT TO THE BRITISH COLLEGE OF HEALTH, <lb/> FOR THE SALE OF <lb/> MORISON'S VEGETABLE UNIVERSAL MEDICINES, <lb/> AT <lb/> CHARLESTON, SOUTH CAROLINA, <lb/>
+<hi rend="italics">UNITED STATES.</hi></head>
+<opener>
+Messrs. MORISON, <lb/> BRITISH COLLEGE OF HEALTH, <lb/> LONDON.
+<dateline>Charleston, 28th February, 1859.</dateline>
+<salute>GENTLEMEN,</salute>
+</opener><p>[Mr. Aveilh&eacute;, after giving an order for Medicine to be sent out to him, proceeds as follows]:&mdash;</p><p>In soliciting your attention to the prompt and faithful execution of this order, I beg to conclude with the following remarks, which will interest and perhaps be serviceable to you:&mdash;During the last thirty years the Vegetable Universal Medicine has been my great specific. For the last fifteen years, I have used it with unbounded success on my Plantation in Cuba, and in my family, and among my friends, neighbours, and acquaintances here, description of whose many varied and virulent cases, would fill a tolerable-sized volume. Were it not through that unaccountable fastidiousness which prevails in all ranks of society, I might give publicity to many names of those who have proved the virtues of your great medicine, under my treatment; yet, I can give scores of references from parties of the first respectability, cured by your Pills, and who are sounding your praise in every direction. In 1854, during the prevalence of yellow fever in epidemic form (I have always considered it endemic), I had my two sons very sick, and treated them with your Pills with complete success. At the same period, the small pox virus raged with much fury and disaster, attacking several of my servants and children, all of whom I cured with your Pills alone, and on none of whom could be seen any such life-time lasting consequences, as had been and still are patent upon cases saved usually by physicians. My many cures of yellow-fever, small-pox, pleurisy, rheumatism, &amp;c, &amp;c, soon obtained such publicity, that had I wished to attend and lend my assistance in the administration of Pills to only one half of the applicants, I should have been obliged to neglect my other more important duties. There are occasions, however, when we cannot resist the appeals of misery and disease, even at some considerable prejudice and loss to ourselves. It is with grateful feelings, therefore, and duly impressed with a sense of the obligation you have imposed upon your fellow-men through the virtues of your great Hygeian principle, that I apprize you of the complete success which attended my agency in the following extraordinary case. I was called upon and consulted for a young lady of about 18 years of age (an acquaintance), who had been prostrated on her bed for over eight months, having had the attention of two of our ablest physicians and surgeons; indeed, men whose names are synonymous with learning and successful practice. Imagine my consternation at the announcement&mdash;&ldquo;that she was incurable&rdquo;&mdash;in such able hands! Imagine my surprise on being solicited to undertake the case with your Vegetable Universal Medicine! Charity, humanity, caused to disappear from before my eyes the responsibility that clothed the
+<pb id="p6" n="6"/>
+trust, I would, under ordinary circumstances, have shrunk to undertake. It was especially a delicate affair, from the fact, that the physicians were permitted to continue their customary visits, a toleration dictated by friendship and prudence, to which I could not object. I therefore entered upon my duties with firmness, and every confidence in the efficacy of your medicine, convinced that if any relief could be given, it could only be by this great specific. This young lady, as I said before, had been suffering for over eight long months from an abscess on the upper back part of the thigh, near the seat; during eight months of which time she was compelled to keep her bed, unable to stir, much less rise of her own strength, or walk. The physicians had applied poultices of all descriptions, administered a few powders now and then, but to no purpose, until they finally, after mature and wise consultation, determined to probe the sore. A very short time after this operation, another similar sore made its appearance at the end where the probe had reached. The same conduct, however, continued to be observed by the physicians in treating this one, as had been done with the other, when the extreme weakness of the patient, from loss of apetite, and produced by the incongruous and absurd mode of treatment, became so alarming, as to create a necessity for another consultation. The torments and sufferings of this unfortunate young lady are beyond description. The council was held, and an incision recommended! The operation was performed, while the patient slept unconscious under the influence of chloroform. Did I say incision! My heart revolts at the expression! It was a butchery! Had the physicians confined themselves to a single instance of cutting, there might be found some reason for condemning this language; but these acts were repeated, and with poultices, a few insignificant and helpless powders, now and then constituted their whole treatment, during all this time. Stretched on her bed, obliged to keep the leg crooked upwards, to avoid friction on the inflamed and sore part. she became insensible to the influences of sleep, and could obtain no rest, either by day or by night; she had long lost her appetite, her sinking condition became terribly apparent, and premonition of death was observable in her waning form. Her periods had undoubtedly been disturbed, since in these eight months there had been no natural course; and she was extraordinarily costive, conclusive evidence to me, that the former, together with the f&oelig;cal matter, found egress therethrough, from the almost insupportable stench emitted by the afflicted parts. Her ease at this juncture was considered hopeless, and so declared, unless amputation be submitted to. But the glaring truths of your Morisonian principle reached her ears, and she resolved to succumb by that means, rather than be again subjected to their butchery. In this condition, then, did I receive her, not however without considerable anxiety and apprehension, because to her entreaties for some purgatives (of which she felt the necessity) her physicians objected, alleging that it would contribute to more immediate dissolution. I had as my guide your invaluable book, containing the multiplicity of your cures, and the method of treatment to be adopted in the different cases, besides many years' of personal experience. I commenced by giving her 6 Pills No 1 and 6 No. 2 alternately every day, and continued this treatment for a month, during which time the physician visited her twice&mdash;on the last of which occasions he remarked, that &ldquo;her complexion had improved&rdquo;&mdash;that &ldquo;the flesh in the wound had assumed a healthier tone and color,&rdquo;&mdash;the patient felt her appetite returning, and avowed it to him.&mdash;&ldquo;Nature is now acting&rdquo; said he! Indeed he was correct there, even while ignoring the true cause of this wonderful change to improvement This was, of all the moments of my life, the most joyful! I continued administering the Pills in doses of seven, eight and so on, increasing one Pill as recommended by you for another month. After the second month (during the latter part of which she could on occasions gradually extend the leg) I applied a drying salve to the sores, which began to heal. Her appetite grown good again, induced me to permit her to gratify her palate to a moderate extent, and when she had not yet completed her third month of this treatment, I had removed all restraints to her diet. I persuaded her to attempt to get out of bed, to perambulate her room with the aid of crutches, and thus to extend and exercise the limb so long inactive. She did so; and to her amazement and delight, soon experienced the return of strength, vigour and elasticity to the limb. In the course of the fifth month she walked without assistance, and she walks now (exhibiting no signs of contraction or limping); a married woman now, with a fine child, (both in perfect health); a living witness of the substantial virtues of your great panacea. In her you have another worthy disciple, for by her agency too, many hopeless cases have been restored to health.</p>
+<p>Throughout the past summer, when the yellow fever (of an African type, as pronounced by the faculty) again made its appearance, scourged our fair city, and desolated many a household, when physicians themselves acknowledged that the disease baffled their science, and consequently in order to preserve the reputation of ability plucked from nature's own industry, were compelled to deny to the afflicted their pretended capabilities! I again had recourse to your Vegetable Universal Pills, with increased success permanently curing some sixteen cases of the most malignant nature. The appeals of humanity were attended to by me with prodigality, and soon reduced me to the necessity of applying to your New York Agents for a supply of the Pills. Hence my order above, and my solicitations for the agency here, which I am convinced will redound to your advantage, and through my knowledge and experience in its administration, must wreathe new laurels on the brow of a public benefactor.</p>
+<p>If necessary I can furnish you with the best references as to every qualification required for an agent. Hoping soon to hear from you,</p><closer>
+<salute>I remain, yours respectfully,</salute>
+<signed> P A. AVEILH&Eacute;</signed>.</closer>
+<trailer><hi rend="italics">Morison's Universal Medicine may be had of all the Hygeian Agents throughout the world; a list of whom may be obtained at the British College of Health, Euston-road, London.</hi></trailer>
+</div1>
+
+<div1 type="advertisement">
+<pb id="p7" n="7"/>
+<opener>Slack's Catalogue with 350 Engravings Gratis, or Post Free.</opener>
+<head>SLACK'S NICKEL ELECTRO-PLATED</head><p>IS a coating of Pure Silver over Nickel. Manufactured solely by R. and J. SLACK. It has stood twenty years' test, and still retains its superiority over all others for durability and silver-like appearance. Cruet Frames, from 18s.; Corner Dishes, 8<hi
+rend="italics">l.</hi> 8s. set, forming Eight Dishes; Tea and Coffee Sets, 8<hi
+rend="italics">l.;</hi> and every article as in Silver.</p>
+<p>
+<table rows="18" cols="13">
+<head>PRICE OF A SERVICE, SILVER ELECTRO-PLATED.</head>
+<row role="label">
+<cell></cell>
+<cell>Electro-Plated Fiddle Pattern.</cell>
+<cell></cell>
+<cell></cell>
+<cell>Strong Plated Fiddle Pattern.</cell>
+<cell></cell>
+<cell></cell>
+<cell>Thread Pattern.</cell>
+<cell></cell>
+<cell></cell>
+<cell>King's &amp; Thread with Shell.</cell>
+<cell></cell>
+<cell></cell>
+</row>
+<row role="label">
+<cell></cell>
+<cell>&pound;</cell>
+<cell>s.</cell>
+<cell>d.</cell>
+<cell>&pound;</cell>
+<cell>s.</cell>
+<cell>d.</cell>
+<cell>&pound;</cell>
+<cell>s.</cell>
+<cell>d.</cell>
+<cell>&pound;</cell>
+<cell>s.</cell>
+<cell>d.</cell>
+</row>
+<row>
+<cell>12 Table Forks</cell>
+<cell>1</cell>
+<cell>10</cell>
+<cell>0</cell>
+<cell>1</cell>
+<cell>18</cell>
+<cell>0</cell>
+<cell>2</cell>
+<cell>8</cell>
+<cell>0</cell>
+<cell>3</cell>
+<cell>0</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>12 Dessert Forks</cell>
+<cell>1</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>1</cell>
+<cell>10</cell>
+<cell>0</cell>
+<cell>1</cell>
+<cell>15</cell>
+<cell>0</cell>
+<cell>2</cell>
+<cell>2</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>12 Table Spoons</cell>
+<cell>1</cell>
+<cell>10</cell>
+<cell>0</cell>
+<cell>1</cell>
+<cell>18</cell>
+<cell>0</cell>
+<cell>2</cell>
+<cell>8</cell>
+<cell>0</cell>
+<cell>3</cell>
+<cell>0</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>12 Dessert Spoons</cell>
+<cell>1</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>1</cell>
+<cell>10</cell>
+<cell>0</cell>
+<cell>1</cell>
+<cell>15</cell>
+<cell>0</cell>
+<cell>2</cell>
+<cell>2</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>12 Tea Spoons</cell>
+<cell>0</cell>
+<cell>12</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>18</cell>
+<cell>0</cell>
+<cell>1</cell>
+<cell>3</cell>
+<cell>6</cell>
+<cell>1</cell>
+<cell>10</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>4 Salt Spoons</cell>
+<cell>0</cell>
+<cell>6</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>6</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>8</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>12</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>1 Mustard Spoon</cell>
+<cell>0</cell>
+<cell>1</cell>
+<cell>6</cell>
+<cell>0</cell>
+<cell>1</cell>
+<cell>6</cell>
+<cell>0</cell>
+<cell>2</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>3</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>6 Egg Spoons</cell>
+<cell>0</cell>
+<cell>9</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>12</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>15</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>18</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>1 Gravy Spoon</cell>
+<cell>0</cell>
+<cell>7</cell>
+<cell>6</cell>
+<cell>0</cell>
+<cell>7</cell>
+<cell>6</cell>
+<cell>0</cell>
+<cell>10</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>12</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>1 Soup Ladle</cell>
+<cell>0</cell>
+<cell>13</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>13</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>17</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>18</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>1 Fish Knife</cell>
+<cell>0</cell>
+<cell>13</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>13</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>15</cell>
+<cell>6</cell>
+<cell>0</cell>
+<cell>18</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>1 Butter Knife</cell>
+<cell>0</cell>
+<cell>3</cell>
+<cell>6</cell>
+<cell>0</cell>
+<cell>3</cell>
+<cell>6</cell>
+<cell>0</cell>
+<cell>5</cell>
+<cell>9</cell>
+<cell>0</cell>
+<cell>6</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>2 Sauce Ladles</cell>
+<cell>0</cell>
+<cell>7</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>7</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>10</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>11</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>1 Sugar Sifter</cell>
+<cell>0</cell>
+<cell>4</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>4</cell>
+<cell>9</cell>
+<cell>0</cell>
+<cell>6</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>7</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>1 Sugar Tongs</cell>
+<cell>0</cell>
+<cell>3</cell>
+<cell>0</cell>
+<cell>0</cell>
+<cell>3</cell>
+<cell>6</cell>
+<cell>0</cell>
+<cell>4</cell>
+<cell>6</cell>
+<cell>0</cell>
+<cell>5</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell></cell>
+<cell>8</cell>
+<cell>19</cell>
+<cell>6</cell>
+<cell>11</cell>
+<cell>5</cell>
+<cell>9</cell>
+<cell>14</cell>
+<cell>3</cell>
+<cell>3</cell>
+<cell>17</cell>
+<cell>5</cell>
+<cell>0</cell>
+</row>
+</table>
+</p>
+<p><hi rend="italics">A Single Article at the same Prices.</hi></p>
+<p>OLD GOODS REPLATED EQUAL TO NEW.</p>
+<p>THE GREATEST VARIETY OF DISH COVERS IN LONDON.</p>
+<div2>
+<head>SLACK'S FENDER, FIRE-IRON, AND GENERAL <lb/> FURNISHING IRONMONGERY WAREHOUSE.</head>
+<p>Families Furnishing (who study economy by buying the best articles at the lowest prices) will find it <lb/> to their advantage to inspect the Stock and compare the prices.</p>
+<p>BRONZED SCROLL FENDERS, 10s. EACH.</p>
+<p>Black Fenders, 3s. 6d. to 6s. Bronzed Fenders, 10s. to 30s. Bright Steel and Ormolu, 65s. Bedroom Fire-irons, 3s. to 5s. 9d. Drawing-room Fire-irons, 10s. 6d. to 30s. Improved Coal Boxes, 4s. 6d.: Coal Scoops, 2s. 6d. to 13s. 6d. Copper Scoops, 23s. to 35s. Dish Covers, 18s. set of a Queen's Pattern, 28s. set of 6.</p>
+<p><hi rend="italics">Every article in Furnishing Ironmongery at equally low prices. All marked in plain Figures</hi>
+<lb/>
+<hi rend="italics">and Warranted. The money returned for any article not approved of.</hi></p>
+<p><hi rend="italics">Orders above</hi> 2<hi rend="italics">l., carriage free, per rail.</hi></p>
+<p>RICHARD and JOHN SLACK, 336, STRAND, <lb/> OPPOSITE SOMERSET HOUSE.</p>
+<p>ESTABLISHED FIFTY YEARS.</p>
+<p>Slack's Catalogue with 350 Engravings Gratis, or Post Free.</p>
+</div2>
+</div1>
+<div1 type="advertisement">
+<pb id="p8" n="8"/>
+<head>CHEAP BOOK-STALLS.</head>
+<p>What a blessing to the poor student are these treasuries of wit and wisdom at low prices! For a few shillings&mdash;nay, in some cases, for a few pence&mdash;he may pick up, at one of these economical book-marts, a volume that may make him wiser and better for the remainder of his life. It is gratifying to know that the best books are generally the cheapest. Most of our noblest standard authors can be had for a fiftieth part of the price that is asked for a bran-new novel that in a few months will go for waste-paper to the pastrycook or the box-maker. It is the vast demand for the oldest and best books that makes it possible to sell them at such low prices. It is the same with other articles of trade. Thus, the great Merchant Tailors and Outfitters,</p>
+<div2>
+ <head> E. MOSES AND SON, <lb/> OF THE <lb/> MINORIES AND ALDGATE, AND NEW OXFORD <lb/> STREET AND HART STREET,</head> 
+
+<p> contrive to supply the very best ARTICLES OF ATTIRE at prices marvellously low&mdash;at prices, indeed, which would ruin them if their business were less extensive. But with a large capital at command a trader soon finds that the more customers he can obtain, the more easily he can lower his prices without the risk of loss.</p>
+</div2>
+</div1>
+</back>
+</text>
+</TEI.2>

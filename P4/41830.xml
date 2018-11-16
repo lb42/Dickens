@@ -1,0 +1,837 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI U5-1995//DTD TEI Lite//EN" 
+"teixlite.dtd" [
+]>
+<TEI.2>
+<teiHeader type="3D">
+<fileDesc>
+<titleStmt>
+<title><emph>The Readings of Mr. Charles Dickens, as Condensed by Himself. David Copperfield and Boots at the Holly-Tree Inn:</emph>
+Electronic Edition.
+</title><author>Dickens, Charles, 1812-1870.</author>
+
+<respStmt>
+<resp>Illustrated by </resp><name>S. Eytinge, Jr.</name>
+</respStmt>
+
+
+<funder>Funding from the  E. S. P. Das Educational Foundation supported the electronic publication of this title.</funder><respStmt>
+<resp>Text transcribed  by</resp>
+<name>Apex Data Services, Inc.</name>
+</respStmt>
+<respStmt><resp>Images scanned by</resp>
+<name>Andy Leiter</name></respStmt><respStmt><resp>Text encoded by </resp>
+<name>Apex Data Services, Inc., Matthew Kern and Natalia Smith</name></respStmt></titleStmt>
+<editionStmt><edition>First edition, <date>2002</date></edition></editionStmt>
+<extent>ca.  120 K</extent>
+<publicationStmt>
+<publisher>Academic Affairs Library, UNC-CH</publisher>
+<pubPlace>University of North Carolina at Chapel Hill, </pubPlace><date>2002.</date>
+
+<availability>
+<p>&copy; This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+</availability>
+</publicationStmt>
+
+
+<sourceDesc>
+
+<biblFull>
+<titleStmt>
+
+<title type="cover"> The Readings of Mr. Charles Dickens, as Condensed by Himself. David Copperfield and Boots at the Holly-Tree Inn. </title>
+<title type="First title page">  David Copperfield by Charles Dickens. As Condensed by Himself, for His Readings. With as Illustration by S. Eytinge, Jr.</title>
+
+<title type="Second title page"> Boots at the Holly-Tree Inn by Charles Dickens. As Condensed by Himself, for His Readings.</title>
+<author>Charles Dickens</author>
+
+<respStmt><resp>Illustrations by</resp>
+<name>S. Eytinge, Jr.</name></respStmt>
+
+</titleStmt>
+
+<editionStmt><edition>Illustrated Copyright  Edition</edition></editionStmt>
+
+<extent> 59, 18 p., ill.</extent>
+
+<publicationStmt>
+<pubPlace>BOSTON:</pubPlace>
+<publisher>TICKNOR AND FIELDS</publisher>
+<date>1868</date>
+<authority></authority>
+</publicationStmt>
+<notesStmt><note>Call number Dickens 20.1 (Rare Book Collection, University of North Carolina at Chapel Hill)</note></notesStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>The electronic edition is a part of the UNC-CH
+digitization project, <hi rend="italics">Documenting the American South.</hi>
+</p>
+</projectDesc>
+
+<editorialDecl>
+
+<p>The text has been entered using double-keying and verified against the original. 
+</p><p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+
+<p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+
+
+<p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+
+<p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+<p>All double right and left quotation marks are encoded as &rdquo; and &ldquo;
+respectively.</p>
+<p>All single right and left quotation marks are encoded as &rsquo; and &lsquo; respectively.</p>
+<p>All em dashes are encoded as &mdash;</p><p>Indentation in lines has not been preserved.</p>
+<p>Running titles have not been preserved.</p>
+<p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+</editorialDecl>
+
+<classDecl><taxonomy id="LCSH">
+<bibl><title>Library of Congress Subject Headings</title>
+</bibl>
+</taxonomy></classDecl>
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+
+<language id="eng">English</language>
+
+</langUsage>
+
+<textClass>
+<keywords scheme="LCSH">
+<list>
+<item><!-- LC headings go here --></item>
+</list>
+</keywords>
+
+</textClass>
+</profileDesc>
+<revisionDesc>
+
+<change>
+<date>2002-07-12, </date><respStmt><name> Natalia Smith, </name><resp>project manager, </resp>
+</respStmt><item>finished TEI-conformant encoding and final proofing.</item>
+</change>
+<change>
+<date>2002-07-02, </date><respStmt><name>Matthew Kern</name>
+<resp></resp></respStmt><item> finished TEI/SGML encoding</item></change>
+<change><date>2002-06-25, </date>
+<respStmt><name>Apex Data Services, Inc.</name><resp></resp></respStmt>
+<item> finished transcribing the text.</item></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<front><div1 type="cover image"><p><figure id="cover"></figure></p></div1>
+
+<div1 type="verso cover">
+<div2 type="section"><p>By a special arrangement made with me and my English Publishers, (partners with me in the copyright of my works,) Messrs. TICKNOR &amp; FIELDS, of Boston, have become the only authorized representatives in America of the whole series of my books.</p>
+<closer><signed>CHARLES DICKENS.</signed></closer>
+</div2><div2><head><hi rend="italics">THE DIAMOND EDITION</hi>
+<lb/> OF THE COMPLETE WORKS OF <lb/> CHARLES DICKENS.</head>
+<p>THIS compact and elegant Edition has, from the issue of the first number, been a general favorite with all admirers of DICKENS. Its distinct type, tinted paper, striking illustrations, tasteful binding, and low price, have commended it to all classes of readers.</p>
+<p>The Illustrations, by S. EYTINGE, JR., are a prominent feature of this Edition, and the Publishers are happy to confirm the general testimony to their excellence, by the following expression of opinion from MR. DICKENS himself:&mdash;</p>
+<p>&ldquo;They are remarkable for a delicate perception of beauty, a lively eye for character, a most agreeable absence of exaggeration, and a general modesty and propriety, which I greatly like.&rdquo;</p>
+<p>This Edition of DICKENS is more complete than any other now published, containing, in addition to the writings included in any previous Edition called complete, The Uncommercial Traveller, and the later Christmas Stories, specially collected for this Edition by MR. DICKENS himself. It also contains a feature entirely new in Editions of Dickens's Works, &mdash; a full and complete Index of all the characters and principal incidents of all the Novels. These important additions make the Diamond Edition the completest, as it is the cheapest, elegant Edition of Dickens's Works now published.</p>
+<p>This Edition is now complete in Fourteen Volumes, as follows:&mdash;</p>
+<list>
+<item>The Pickwick Papers.</item>
+<item>Our Mutual Friend.</item>
+<item>David Copperfield.</item>
+<item>Nicholas Nickleby.</item>
+<item>Martin Chuzzlewit.</item>
+<item>Dombey and Son.</item>
+<item>Old Curiosity Shop, and Reprinted Pieces.</item>
+<item>Little Dorrit.</item>
+<item>Bleak House.</item>
+<item>Barnaby Rudge, and Hard Times.</item>
+<item>Oliver Twist, Pictures from Italy, and American Notes.</item>
+<item>A Tale of Two Cities, and Great Expectations.</item>
+<item>Christmas Stories, and Sketches by Boz.</item>
+<item>The Uncommercial Traveller, and Additional Christmas Stories.</item>
+</list>
+<p>These Volumes are sold separately or in Sets.</p>
+<p>Illustrated Edition, each volume containing Sixteen Full-page Illustrations, made expressly for this Edition, elegantly bound in Green Morocco Cloth, &dollar;1.50 a volume; Half Calf, &dollar;3.00. Plain Edition, tastefully bound in Crimson Morocco Cloth, &dollar;1.25 a volume.</p>
+<p><hi rend="italics">For Sale by all Booksellers. Sent, post-paid, on receipt of price, by the Publishers,</hi></p>
+<closer><signed>TICKNOR AND FIELDS,</signed>  <address><addrLine>Boston; <lb/>
+<hi rend="italics">and</hi> 63 <hi rend="italics">Bleecker Street, New York.</hi></addrLine></address></closer>
+</div2>
+</div1></front>
+<!--
+ <group>
+-->
+<text>
+<front>
+
+<div1 type="frontispiece">
+
+<p><figure id="frontis"><p>MR. MICAWBER AND HIS FAMILY.</p></figure></p>
+</div1>
+
+
+<div1 type="title page image"><p><figure id="title1"><p>[Title Page Image]</p></figure></p></div1>
+
+<titlePage>
+<docTitle><titlePart>DAVID COPPERFIELD.
+BY
+<lb/>
+
+CHARLES DICKENS.<lb/>
+
+AS CONDENSED BY HIMSELF, FOR HIS <lb/>
+<hi rend="italics">READINGS.</hi><lb/> WITH AN ILLUSTRATION BY S. EYTINGE, JR.
+
+</titlePart></docTitle>
+<docImprint>
+<pubPlace>BOSTON:</pubPlace>
+<publisher>TICKNOR AND FIELDS.</publisher>
+<docDate>1868.</docDate>
+</docImprint>
+<pb id="piii" n="verso"/>
+
+
+<docEdition>
+GAD'S HILL, HIGHAM BY ROCHESTER, KENT, <lb/> Tenth October, 1867.
+<lb/>
+The edition bearing the imprint of MESSRS. TICKNOR AND FIELDS is the only <lb/>correct and authorized edition of my READINGS.
+<lb/>
+CHARLES DICKENS.</docEdition><docImprint>
+
+Entered according to Act of Congress, in the year 1867, by <lb/> TICKNOR AND FIELDS, <lb/> in the Clerk's Office of the District Court of the District of Massachusetts.<lb/>
+UNIVERSITY PRESS: WELCH, BIGELOW, &amp; Co., <lb/> CAMBRIDGE.
+</docImprint>
+</titlePage>
+
+
+</front>
+<body>
+<div1 type="section">
+<pb id="p3" n="[3]"/>
+<head>DAVID COPPERFIELD.</head>
+<div2 type="chapter">
+<head>CHAPTER I.</head>
+<p>I HAD known Mr. Peggotty's house very well in my childhood, and I am sure I could not have been more charmed with it if it had been Aladdin's palace, roc's egg and all. It was an old black barge, or boat, high and dry on Yarmouth sands, with an iron funnel sticking out of it for a chimney. There was a delightful door cut in the side, and it was roofed in, and there were little windows in it. It was beautifully clean, and as tidy as possible. There were some lockers and boxes, and there was a table, and there was a Dutch clock, and there was a chest of drawers, and there was a tea-tray with a painting on it, and the tray was kept from tumbling down by a Bible, and the tray, if it <hi rend="italics">had</hi> tumbled down, would have smashed a quantity of cups and saucers and a teapot that were grouped around the book. On the walls were colored pictures of Abraham in red going to sacrifice Isaac in blue, and of Daniel in yellow being cast into a den of green lions. Over the little mantel-shelf was a picture of the &ldquo;Sarah
+<pb n="4" id="p4"/>
+Jane&rdquo; lugger, built at Sunderland, with a real little wooden stern stuck on it, &mdash; a work of art combining composition with carpentry, which I had regarded in my childhood as one of the most enviable possessions the world could afford. Mr. Peggotty, as honest a seafaring man as ever breathed, dealt in lobsters, crabs, and crawfish; and a heap of those creatures, in a state of wonderful conglomeration with one another, and never leaving off pinching whatever they laid hold of, were usually to be found in a little wooden out-house, where the pots and kettles were kept.</p>
+<p>As in my childhood, so in these days, when I was a young man, Mr. Peggotty's household consisted of his orphan nephew, Ham Peggotty, a young shipwright; his adopted niece, little Emily, once my small sweetheart, now a beautiful young woman; and Mrs. Gummidge.</p>
+<p>All three had been maintained at Mr. Peggotty's sole charge for years and years, and Mrs. Gummidge was the widow of his partner in a boat, who had died poor. She was very grateful, but she would have been more agreeable company in a small habitation if she had hit upon any other acknowledgment of the hospitality she received than constantly complaining, as she sat in the most comfortable corner by the fireside, that she was a &ldquo;lone lorn creetur, and everythink went contrairy with her.&rdquo;</p>
+<p>Towards this old boat I walked one memorable
+<pb n="5" id="p5"/>
+night, with my former schoolfellow and present dear friend, Steerforth, &mdash; Steerforth, half a dozen years older than I, brilliant, handsome, easy, winning, whom I admired with my whole heart, for whom I entertained the most romantic feelings of fidelity and friendship. He had come down with me from London, and had entered with the greatest ardor into my scheme of visiting the old simple place, and the old simple people.</p>
+<p>There was no moon, and as he and I walked on the dark, wintry sands, towards the old boat, the wind sighed mournfully.</p>
+<p>&ldquo;This is a wild place, Steerforth, is it not?&rdquo;</p>
+<p>&ldquo;Dismal enough in the dark, and the sea has a cry in it, as if it were hungry for us. Is that the boat, where I see a light yonder?&rdquo;</p>
+<p>&ldquo;That's the boat.&rdquo;</p>
+<p>We said no more as we approached the light, but made softly for the door. I laid my hand upon the latch, and, whispering Steerforth to keep close to me, went in, and I was in the midst of the astonished family, whom I had not seen from my childhood, face to face with Mr. Peggotty, and holding out my hand to him, when Ham shouted, &ldquo;Mas'r Davy! it's Mas'r Davy!&rdquo;</p>
+<p>In a moment we were all shaking hands with one another, and asking one another how we did, and telling one another how glad we were to meet, and all talking at once. Mr. Peggotty was so overjoyed to see me, and to see my friend, that he did
+<pb n="6" id="p6"/>
+not know what to say or do, but kept over and over again shaking hands with me, and then with Steerforth, and then with me, and then ruffling his shaggy hair all over his head, and then laughing with such glee and triumph, that it was a treat to see him.</p>
+<p>&ldquo;Why, that you two gentl'men &mdash; gentl'men growed &mdash; should come to this here roof to-night, of all nights in my life, is such a merry-go-rounder as never happened afore, I do rightly believe. Em'ly, my darling, come here. Come here, my little witch. Theer's Mas'r Davy's friend, my dear! Theer's the gentl'man as you've heerd on, Em'ly. He comes to see you along with Mas'r Davy, on the brightest night of your uncle's life as ever was or will be; horroar for it!&rdquo; Then he let her go, and, as she ran into her little chamber, looked round upon us, quite hot and out of breath with his uncommon satisfaction.</p>
+<p>&ldquo;If you two gentl'men &mdash; gentl'men growed now, and such gentl'men &mdash; don't ex-cuse me for being in a state of mind, when you understand matters, I'll arks your pardon. Em'ly, my dear! She knows I'm going to tell, and has made off. This here little Em'ly, sir,&rdquo; to Steerforth, &mdash; &ldquo;her as you see a blushing here just now, &mdash; this here little Em'ly of ours has been in our house, sir, what I suppose (I'm a ignorant man, but that's my belief) no one but a little bright-eyed creetur <hi rend="italics">can</hi> be in a house. She ain't my child, I never
+<pb n="7" id="p7"/>
+had one; but I couldn't love her more if she was fifty times my child. You understand; I couldn't do it!&rdquo;</p>
+<p>&ldquo;I quite understand.&rdquo;</p>
+<p>&ldquo;I know you do, sir, and thank'ee. Well, sir, there was a certain person as had know'd our Em'ly from the time when her father was drownded; as had seen her constant when a babby, when a young gal, when a woman. Not much of a person to look at, he warn't, &mdash; something o' my own build, rough, a good deal o' the sou'wester in him, wery salt, but, on the whole, a honest sort of a chap, too, with his art in the right place.&rdquo;</p>
+<p>I had never seen Ham grin to anything like the extent to which he sat grinning at us now.</p>
+<p>&ldquo;What does this here blessed tarpaulin go and do, but he loses that there art of his to our little Em'ly. He follers her about, he makes hisself a sort o' servant to her, he loses in a great measure his relish for his wittles, and, in the long run, he makes it clear to me wot's amiss.</p>
+<p>&ldquo;Well, I counsels him to speak to Em'ly. He's big enough, but he's bashfuller than a little un, and he says to me he doen't like. So I speak. &lsquo;What, <hi rend="italics">him!</hi>&rsquo; says Em'ly, &mdash; &lsquo;<hi rend="italics">him</hi> that I've knowed so intimate so many year, and like so much? O uncle, I never can have <hi rend="italics">him!</hi> He's such a good fellow!&rsquo; I gives her a kiss, and I says no more to her than, &lsquo;My dear, you're right to speak out, you're to choose for yourself, you're as free as a
+<pb n="8" id="p8"/>
+little bird.&rsquo; Then I aways to him, and I says, &lsquo;I wish it could have been so, but it can't. But you can both be as you was, and wot I say to you is, Be as you was with her, like a man.&rsquo; He says to me, a shaking of my hand, &lsquo;I will,&rsquo; he says. And he was, honorable, trew, and manful, going on for two year.</p>
+<p>&ldquo;All of a sudden, one evening, as it might be tonight, comes little Em'ly from her work, and him with her! There ain't so much in <hi rend="italics">that,</hi> you'll say. No, sure, because he takes care on her, like a brother, arter dark, and indeed afore dark, and at all times. But this heer tarpaulin chap, he takes hold of her hand, and he cries out to me, joyful, &lsquo;Look'ee here! This is to be my little wife!&rsquo; And she says, half bold and half shy, and half a laughing, and half a crying, &lsquo;Yes, uncle! If you please.&rsquo; If I please! Lord, as if I should do anythink else! &lsquo;If you please,&rsquo; she says, &lsquo;I am steadier now, and I have thought better of it, and I'll be as good a little wife as I can to him, for he's a dear good fellow!&rsquo; Then Missis Gummidge, she claps her hands like a play, and you come in. There, the murder's out! You come in! It took place this here present hour, and here's the man as'll marry her the minute she's out of her time at the needlework.&rdquo;</p>
+<p>Ham staggered, as well he might, under the blow Mr. Peggotty dealt him, as a mark of confidence and friendship; but, feeling called upon to say something to us, he stammered:&mdash;</p>
+<pb n="9" id="p9"/>
+<p>&ldquo;She warn't no higher than you was, Mas'r Davy, when you first come heer, when I thought what she'd grow up to be. I see her grow up, gentl'men, like a flower. I'd lay down my life for her, Mas'r Davy, &mdash; O, most content and cheerful. There ain't a gentl'man in all the land, nor yet a sailing upon all the sea, that can love his lady more than I love her, though there's many a common man as could say better what he meant.&rdquo;</p>
+<p>I thought it affecting to see such a sturdy fellow trembling in the strength of what he felt for the pretty little creature who had won his heart. I thought the simple confidence reposed in us by Mr. Peggotty, and by himself, was touching. I was affected by the story altogether. I was filled with pleasure, but at first with an indescribably sensitive pleasure, that a very little would have changed to pain.</p>
+<p>Therefore, if it had depended upon me to touch the prevailing chord among them, with any skill, I should have made a poor hand of it. But it depended upon Steerforth, and he did it with such address, that in a few minutes we were all as easy as possible.</p>
+<p>&ldquo;Mr. Peggotty,&rdquo; he said, &ldquo;you are a thoroughly good fellow, and deserve to be as happy as you are to-night. My hand upon it. Ham, I give you joy, my boy. My hand upon that, too! Davy, stir the fire and make it a brisk one. And, Mr. Peggotty, unless you can induce your gentle niece to
+<pb n="10" id="p10"/>
+come back, I shall go. Any gap at your fireside on such a night &mdash; such a gap, least of all &mdash; I would n't make for the wealth of the Indies.&rdquo;</p>
+<p>So Mr. Peggotty went to fetch little Em'ly. At first little Em'ly did n't like to come, and then Ham went. Presently they brought her to the fireside, very much confused, and very shy; but she soon became more assured when she found how Steerforth spoke to her; how skilfully he avoided anything that would embarrass her; how he talked to Mr. Peggotty of boats, and ships, and tides, and fish; how delighted he was with that boat and all belonging to it; how lightly and easily he carried on, until he brought us by degrees into a charmed circle.</p>
+<p>But he set up no monopoly of the conversation. He was silent and attentive when little Em'ly talked across the fire to me of our old childish wanderings upon the beach, to pick up shells and pebbles; he was very silent and attentive when I asked her if she recollected how I used to love her, and how we used to walk about that dim old flat, hours and hours, and how the days sported by us as if Time himself had not grown up then, but were a child like ourselves, and always at play. She sat all the evening in her old little corner by the fire, &mdash; Ham beside her. I could not satisfy myself whether it was in her little tormenting way, or in a maidenly reserve before us, that she kept quite close to the wall, and away from Ham; but I observed that she did so all the evening.</p>
+<pb n="11" id="p11"/>
+<p>As I remember, it was almost midnight when we took our leave. We had had some biscuit and dried fish for supper, and Steerforth had produced from his pocket a flask of Hollands. We parted merrily; and as they all stood crowded round the door to light us on our road, I saw the sweet blue eyes of little Em'ly peeping after us, from behind Ham, and heard her soft voice calling to us to be careful how we went.</p>
+<p>&ldquo;A most engaging little beauty!&rdquo; said Steerforth, taking my arm. &ldquo;Well! it's a quaint place, and they are quaint company, and it's quite a new sensation to mix with them.&rdquo;</p>
+<p>&ldquo;How fortunate we are, too, Steerforth, to have arrived to witness their happiness in that intended marriage! I never saw people so happy. How delightful to see it!&rdquo;</p>
+<p>&ldquo;Yes, &mdash; that's rather a chuckle-headed fellow for the girl. Is n't he?&rdquo;</p>
+<p>I felt a shock in this cold reply. But turning quickly upon him, and seeing a laugh in his eyes, I answered:&mdash;</p>
+<p>&ldquo;Ah, Steerforth! It's well for you to joke about the poor! But when I see how perfectly you understand them, and how you can enter into happiness like this plain fisherman's, I know there is not a joy, or sorrow, or any emotion of such people that can be indifferent to you. And I admire and love you for it, Steerforth, twenty times the more!&rdquo;</p>
+<pb n="12" id="p12"/>
+<p>To my surprise he suddenly said, with nothing that I could see to lead to it:&mdash;</p>
+<p>&ldquo;Daisy, I wish to God I had had a judicious father these last twenty years! You know my mother has always doted on me and spoilt me. I wish with all my soul I had been better guided! I wish with all my soul I could guide myself better!&rdquo;</p>
+<p>There was a passionate dejection in his manner that quite amazed me. He was more unlike himself than I could have supposed possible.</p>
+<p>&ldquo;It would be better to be this poor Peggotty, or his lout of a nephew, than be myself, twenty times richer and twenty times wiser, and be the torment to myself that I have been in that Devil's bark of a boat within the last half-hour.&rdquo;</p>
+<p>I was so confounded by the change in him that at first I could only regard him in silence as he walked at my side. At length I asked him to tell me what had happened to cross him so unusually.</p>
+<p>&ldquo;Tut, it's nothing, &mdash; nothing, Davy! I must have had a nightmare, I think. What old women call the horrors have been creeping over me from head to foot. I have been afraid of myself.&rdquo;</p>
+<p>&ldquo;You are afraid of nothing else, I think.&rdquo;</p>
+<p>&ldquo;Perhaps not, and yet may have enough to be afraid of too. Well! so it goes by! Daisy, &mdash; for though that's not the name your godfathers and godmothers gave you, you're such a fresh fellow that it's the name I best like to call you by, &mdash;
+<pb n="13" id="p13"/>
+and I wish, I wish, I wish you could give it to me!&rdquo;</p>
+<p>&ldquo;Why, so I can, if I choose.&rdquo;</p>
+<p>&ldquo;Daisy, if anything should ever happen to separate us, you must think of me at my best, old boy. Come! let us make that bargain. Think of me at my best, if circumstances should ever part us.&rdquo;</p>
+<p>&ldquo;You have no best to me, Steerforth, and no worst. You are always equally loved and cherished in my heart.&rdquo;</p>
+<p>I was up to go away alone next morning with the dawn, and, having dressed as quietly as I could, looked into his room. He was fast asleep, lying easily with his head upon his arm, as I had often seen him lie at school.</p>
+<p>The time came in its season, and that was very soon, when I almost wondered that nothing troubled his repose, as I looked at him then. But he slept &mdash; let me think of him so again &mdash; as I had often seen him sleep at school; and thus, in this silent hour, I left him.</p>
+<p>Nevermore, O God forgive you, Steerforth! to touch that passive hand in love and friendship. Never, never more!</p>
+</div2>
+<div2 type="chapter">
+<pb n="14" id="p14"/>
+<head>CHAPTER II.</head>
+<p>SOME months elapsed before I again found myself down in that part of the country and approaching the old boat by night.</p>
+<p>It was a dark evening, and rain was beginning to fall, when I came within sight of Mr. Peggotty's house, and of the light within it shining through the window. A little floundering across the sand, which was heavy, brought me to the door, and I went in.</p>
+<p>I was bidden to a little supper; Em'ly was to be married to Ham that day fortnight, and this was the last time I was to see her in her maiden life.</p>
+<p>It looked very comfortable indeed. Mr. Peggotty had smoked his evening pipe, and there were preparations for supper by and by. The fire was bright, the ashes were thrown up, the locker was ready for little Em'ly in her old place. Mrs. Gummidge appeared to be fretting a little in her own corner, and consequently looked quite natural.</p>
+<p>&ldquo;You're first of the lot, Mas'r Davy! Sit ye down, sir. It ain't o' no use saying welcome to you; but you're welcome, kind and hearty.&rdquo;</p>
+<p>Here Mrs. Gummidge groaned.</p>
+<p>&ldquo;Cheer up, cheer up, Mrs. Gummidge!&rdquo; said Mr. Peggotty.</p>
+<p>&ldquo;No, no, Dan'l. It ain't o' no use telling me to
+<pb n="15" id="p15"/>
+cheer up, when everythink goes contrairy with me. Nothink's nat'ral to me but to be lone and lorn.&rdquo;</p>
+<p>After looking at Mrs. Gummidge for some moments with great sympathy, Mr. Peggotty glanced at the Dutch clock, rose, snuffed the candle, and put it in the window.</p>
+<p>&ldquo;Theer! theer we are, Missis Gummidge!&rdquo; Mrs. Gummidge slightly groaned again. &ldquo;Theer we are, Mrs. Gummidge, lighted up accordin' to custom! You're a wonderin' what that's fur, sir! Well, it's for our little Em'ly. You see, the path ain't over light or cheerful arter dark; and when I'm here at the hour as she's a comin' home from her needle-work down town, I puts the light in the winder. That, you see, meets two objects. She says to herself, says Em'ly, &lsquo;Theer's home!&rsquo; she says. And likeways, says Em'ly, &lsquo;My uncle's theer!&rsquo; Fur if I ain't theer, I never have no light showed. You may say this is like a babby, sir. Well, I doen't know but what I am a babby in regard o'Em'ly. Not to look at, but to &mdash; to consider on, you know. I doen't care, bless you! Now I tell you. When I go a looking and looking about that theer pritty house of our Em'ly's, all got ready for her to be married, if I doen't feel as if the littlest things was her, a'most. I takes 'em up, and I puts 'em down, and I touches of 'em as delicate as if they was our Em'ly. So 't is with her little bonnets and that. I could n't see one on 'em rough used, a purpose, not fur the whole wureld.</p>
+<pb n="16" id="p16"/>
+<p>&ldquo;It's my opinion, you see, as this is along of my havin' played with Em'ly so much when she was a child, and havin' made believe as we was Turks, and French, and sharks, and every wariety of forriners, &mdash; bless you, yes; and lions and whales, and I don't know what all! &mdash; when she warn't no higher than my knee. I've got into the way on it, you know. Why, this here candle, now! I know wery well that arter she's married and gone, I shall put that candle theer, just the same as now, and sit afore the fire, pretending I'm expecting of her, like as I'm a doing now. Why, at the present minute when I see the candle sparkle up, I says to myself, &lsquo;She's a looking at it! Em'ly's a coming!&rsquo; Right, too, fur here she is!&rdquo;</p>
+<p>No; it was only Ham. The night should have turned more wet since I came in, for he had a large sou'wester hat on, slouched over his face.</p>
+<p>&ldquo;Where's Em'ly?&rdquo;</p>
+<p>Ham made a movement as if she were outside. Mr. Peggotty took the light from the window, trimmed it, put it on the table, and was stirring the fire, when Ham, who had not moved, said, &ldquo;Mas'r Davy, will you come out a minute, and see what Em'ly and me has got to show you?&rdquo;</p>
+<p>As I passed him, I saw to my astonishment and fright that he was deadly pale. He closed the door upon us. Only upon us two.</p>
+<p>&ldquo;Ham! What's the matter?&rdquo;</p>
+<p>&ldquo;My love, Mas'r Davy, &mdash; the pride and hope of
+<pb n="17" id="p17"/>
+my art, &mdash; her that I'd have died for, and would die for now, &mdash; she's gone!&rdquo;</p>
+<p>&ldquo;Gone!&rdquo;</p>
+<p>&ldquo;Em'ly's run away! You're a scholar and know what's right and best. What am I to say, in-doors? How am I ever to break it to him, Mas'r Davy?&rdquo;</p>
+<p>I saw the door move, and tried to hold the latch, to gain a moment's time. It was too late. Mr. Peggotty thrust forth his face; and never could I forget the change that came upon it when he saw us, if I were to live five hundred years.</p>
+<p>I remember a great wail and cry, and the women hanging about him, and we all standing in the room, &mdash; I with an open letter in my hand which Ham had given me; Mr. Peggotty with his vest torn open, his hair wild, his face and lips white, and blood trickling down his bosom (it had sprung from his mouth, I think).</p>
+<p>&ldquo;Read it, sir; slow, please. I doen't know as I can understand.&rdquo;</p>
+<p>In the midst of the silence of death, I read thus, from the blotted letter Ham had given me. In Em'ly's hand, addressed to himself: &mdash;</p>
+<p>&ldquo; &lsquo;When you, who love me so much better than I ever have deserved, even when my mind was innocent, see this, I shall be far away. When I leave my dear home &mdash; my dear home &mdash; O, my dear home! &mdash; in the morning,&rsquo; &rdquo; (the letter bore date on the previous night,) &ldquo; &lsquo;it will be never
+<pb n="18" id="p18"/>
+to come back, unless he brings me back a lady. This will be found at night, many hours after, instead of me. For mercy's sake, tell uncle that I never loved him half so dear as now. O, don't remember you and I were ever to be married, but try to think as if I died when I was very little, and was buried somewhere. Pray Heaven that I am going away from, have compassion on my uncle! Be his comfort. Love some good girl, that will be what I was once to uncle, and that will be true to you, and worthy of you, and know no shame but me. God bless all! If he don't bring me back a lady, and I don't pray for my own self, I'll pray for all. My parting love to uncle. My last tears, and my last thanks, for uncle!' &rdquo; That was all.</p>
+<p>He stood, long after I had ceased to read, still looking at me. Slowly at last he moved his eyes from my face, and cast them round the room.</p>
+<p>&ldquo;Who's the man? I want to know his name.&rdquo; Ham glanced at me, and suddenly I felt a shock. &ldquo;Mas'r Davy! Go out a bit, and let me tell him what I must. You doen't ought to hear it, sir.&rdquo;</p>
+<p>I sank down in a chair and tried to utter some reply; but my tongue was fettered, and my sight was weak. For I felt that the man was my friend, the friend I had unhappily introduced there, &mdash; Steerforth, my old schoolfellow and my friend.</p>
+<p>&ldquo;I want to know his name!&rdquo;</p>
+<p>&ldquo;Mas'r Davy, it ain't no fault of yourn, &mdash; and I
+<pb n="19" id="p19"/>
+am far from laying of it to you, &mdash; but it is your friend Steerforth, and he's a damned villain!&rdquo;</p>
+<p>Mr. Peggotty moved no more, until he seemed to wake all at once, and pulled down his rough coat from its peg in a corner.</p>
+<p>&ldquo;Bear a hand with this! I'm struck of a heap, and can't do it. Bear a hand and help me. Well! Now give me that theer hat!&rdquo;</p>
+<p>Ham asked him whither he was going.</p>
+<p>&ldquo;I'm a going to seek my niece. I'm a going to seek my Em'ly. I'm a going, first, to stave in that theer boat as he gave me, and sink it where I would have drownded <hi rend="italics">him,</hi> as I'm a livin' soul, if I had had one thought of what was in him! As he sat afore me, in that boat, face to face, strike me down dead, but I'd have drownded him, and thought it right! &mdash; I'm a going fur to seek my niece.&rdquo;</p>
+<p>&ldquo;Where?&rdquo;</p>
+<p>&ldquo;Anywhere! I'm a going to seek my niece through the wureld. I'm a going to find my poor niece in her shame, and bring her back wi' my comfort and forgiveness. No one stop me! I tell you I'm a going to seek my niece! I'm a going to seek her fur and wide!&rdquo;</p>
+<p>Mrs. Gummidge came between them in a fit of crying. &ldquo;No, no, Dan'l, not as you are now. Seek her in a little while, my lone lorn Dan'l, and that'll be but right; but not as you are now. Sit ye down, and give me your forgiveness for
+<pb n="20" id="p20"/>
+having ever been a worrit to you, Dan'l, &mdash; what have <hi rend="italics">my</hi> contrairies ever been to this! &mdash; and let us speak a word about them times when she was first a orphan, and when Ham was too, and when I was a poor widder woman and you took me in. It'll soften your poor heart, Dan'l, and you'll bear your sorrow better; for you know the promise, Dan'l, &lsquo;As you have done it unto one of the least of these, you have done it unto me&rsquo;; and that can never fail under this roof, that's been our shelter for so many, many year!&rdquo;</p>
+<p>He was quite passive now; and when I heard him crying, the impulse that had been upon me to go down upon my knees and curse Steerforth yielded to a better feeling. My overcharged heart found the same relief as his, and I cried too.</p>
+</div2>
+<div2 type="chapter">
+<pb n="21" id="p21"/>
+<head>CHAPTER III.</head>
+<p>AT this period of my life I lived in my top set of chambers in Buckingham Street, Strand, London, and was over head and ears in love with Dora. I lived principally on Dora and coffee. My appetite languished, and I was glad of it, for I felt as though it would have been an act of perfidy towards Dora to have a natural relish for my dinner. I bought four sumptuous waistcoats &mdash; not for myself, I had no pride in them &mdash; for Dora. I took to wearing straw-colored kid gloves in the streets. I laid the foundations of all the corns I have ever had. If the boots I wore at that period could only be produced, and compared with the natural size of my feet, they would show in a most affecting manner what the state of my heart was.</p>
+<p>Mrs. Crupp, the housekeeper of my chambers, must have been a woman of penetration; for when this attachment was but a few weeks old she found it out. She came up to me one evening when I was very low, to ask (she being afflicted with spasms) if I could oblige her with a little tincture of cardamums, mixed with rhubarb, and flavored with seven drops of the essence of cloves; or, if I had not such a thing by me, with a little brandy. As I had never even heard of the first remedy, and always had the second in the closet, I gave Mrs.
+<pb n="22" id="p22"/>
+Crupp a glass of the second, which (that I might have no suspicion of its being devoted to any improper use) she began to take immediately.</p>
+<p>&ldquo;Cheer up, sir,&rdquo; said Mrs. Crupp. &ldquo;Excuse me; I know what it is, sir. There's a lady in the case.&rdquo;</p>
+<p>&ldquo;Mrs. Crupp?&rdquo;</p>
+<p>&ldquo;O, bless you! Keep a good heart, sir! Never say die, sir! If she don't smile upon you, there's a many as will. You're a young gentleman to <hi rend="italics">be</hi> smiled on, Mr. Copperfull, and you must learn your walue, sir.&rdquo;</p>
+<p>Mrs. Crupp always called me Mr. Copperfull: firstly, no doubt, because it was not my name; and secondly, I am inclined to think, in some indistinct association with a washing-day.</p>
+<p>&ldquo;What makes you suppose there is any young lady in the case, Mrs. Crupp?&rdquo;</p>
+<p>&ldquo;Mr. Copperfull, I'm a mother myself. Your boots and your waist is equally too small, and you don't eat enough, sir, nor yet drink. Sir, I have laundressed other young gentlemen besides you. It was but the gentleman which died here before yourself that fell in love, &mdash; with a barmaid, &mdash; and had his waistcoats took in directly, though much swelled by drinking.&rdquo;</p>
+<p>&ldquo;Mrs. Crupp, I must beg you not to connect the young lady in my case with a barmaid, or anything of that sort, if you please.&rdquo;</p>
+<p>&ldquo;Mr. Copperfull, I'm a mother myself, and not
+<pb n="23" id="p23"/>
+likely. I ask your pardon, sir, if I intrude. I should never wish to intrude where I were not welcome. But you are a young gentleman, Mr. Copperfull, and my adwice to you is, to cheer up, sir, to keep a good heart, and to know your own walue. If you was to take to something, sir, &mdash; if you was to take to skittles, now, which is healthy, &mdash; you might find it divert your mind, and do you good.&rdquo;</p>
+<p>I turned it off, and changed the subject by informing Mrs. Crupp that I wished to entertain at dinner next day my esteemed friend Traddles and Mr. and Mrs. Micawber; and I took the liberty of suggesting a pair of soles, a small leg of mutton, and a pigeon-pie. Mrs. Crupp broke out into rebellion on my first bashful hint in reference to <hi rend="italics">her</hi> cooking the fish and joint. But, in the end, a compromise was effected, and Mrs. Crupp consented to achieve this feat on condition that I dined from home for a fortnight afterwards.</p>
+<p>Having laid in the materials for a bowl of punch, to be compounded by Mr. Micawber, having provided a bottle of lavender-water, two wax candles, a paper of mixed pins, and a pincushion, to assist Mrs. Micawber in her toilet, at my dressing-table, having also caused the fire in my bedroom to be lighted for Mrs. Micawber's convenience, and having laid the cloth with my own hands, I awaited the result with composure.</p>
+<p>At the appointed time my three visitors arrived
+<pb n="24" id="p24"/>
+together. Mr. Micawber, with more shirt-collar than usual, and a new ribbon to his eye-glass; Mrs. Micawber, with her cap in a parcel; Traddles carrying the parcel, and supporting Mrs. Micawber on his arm. They were all delighted with my residence. When I conducted Mrs. Micawber to my dressing-table, and she saw the scale on which it was prepared for her, she was in such raptures that she called Mr. Micawber to come in and look.</p>
+<p>&ldquo;My dear Copperfield,&rdquo; said Mr. Micawber, &ldquo;this is luxurious. This is a way of life which reminds me of the period when I was myself in a state of celibacy. I am at present established on what may be designated as a small and unassuming scale; but you are aware that I have, in the course of my career, surmounted difficulties and conquered obstacles. You are no stranger to the fact that there have been periods of my life, when it has been requisite that I should pause until certain expected events should turn up, &mdash; when it has been necessary that I should fall back before making what I trust I shall not be accused of presumption in terming &mdash; a spring. The present is one of those momentous stages in the life of man. You find me fallen back <hi rend="italics">for</hi> a spring, and I have every reason to believe that a vigorous leap will shortly be the result.&rdquo;</p>
+<p>I informed Mr. Micawber that I relied upon him for a bowl of punch, and led him to the lemons. I never saw a man so thoroughly enjoy himself, as
+<pb n="25" id="p25"/>
+he stirred, and mixed, and tasted, and looked as if he were making, not mere punch, but a fortune for his family down to the latest posterity. As to Mrs. Micawber, I don't know whether it was the effect of the cap, or the lavender-water, or the pins, or the fire, or the wax candles, but she came out of my room, comparatively speaking, lovely.</p>
+<p>I suppose &mdash; I never ventured to inquire, but I suppose &mdash; that Mrs. Crupp, after frying the soles, was taken ill. Because we broke down at that point. The leg of mutton came up very red inside, and very pale outside, besides having a foreign substance of a gritty nature sprinkled over it, as if it had had a fall into ashes. But we were not in a condition to judge of this fact from the appearance of the gravy, forasmuch as it had been all dropped on the stairs. The pigeon-pie was not bad, but it was a delusive pie, the crust being like a disappointing phrenological head, &mdash; full of lumps and bumps, with nothing particular underneath. In short, the banquet was such a failure that I should have been quite unhappy &mdash; about the failure I mean, for I was always unhappy about Dora &mdash; if I had not been relieved by the great good-humor of my company.</p>
+<p>&ldquo;My dear friend Copperfield,&rdquo; said Mr. Micawber, &ldquo;accidents will occur in the best-regulated families, and especially in families not regulated by that pervading influence which sanctifies while it enhances the &mdash; a &mdash; I would say, in short, by the
+<pb n="26" id="p26"/>
+influence of Woman in the lofty character of Wife. If you will allow me to take the liberty of remarking that there are few comestibles better, in their way, than a Devil, and that I believe, with a little division of labor, we could accomplish a good one if the young person in attendance could produce a gridiron, I would put it to you, that this little misfortune may be easily repaired.&rdquo;</p>
+<p>There <hi rend="italics">was</hi> a gridiron in the pantry, on which my morning rasher of bacon was cooked. We had it out in a twinkling. Traddles cut the mutton into slices; Mr. Micawber covered them with pepper, mustard, salt, and cayenne; I put them on the grid-iron, turned them with a fork, and took them off, under Mr. Micawber's direction; and Mrs. Micawber heated some mushroom ketchup in a little saucepan. Under these circumstances my appetite came back miraculously. I am ashamed to confess it, but I really believe I forgot Dora for a little while.</p>
+<p>&ldquo;Punch, my dear Copperfield,&rdquo; said Mr. Micawber, tasting it as soon as dinner was done, &ldquo;like time and tide, waits for no man. Ah! it is at the present moment in high flavor. My love, will you give me your opinion?&rdquo;</p>
+<p>Mrs. Micawber pronounced it excellent.</p>
+<p>&ldquo;As we are quite confidential here, Mr. Copperfield,&rdquo; said Mrs. Micawber, sipping her punch, &ldquo;(Mr. Traddles being a part of our domesticity), I should much like to have your opinion on Mr.
+<pb n="27" id="p27"/>
+Micawber's prospects. I have consulted branches of my family on the course most expedient for Mr. Micawber to take, and it was, that he should immediately turn his attention to coals.&rdquo;</p>
+<p>&ldquo;To what, ma'am?&rdquo;</p>
+<p>&ldquo;To coals. To the coal trade. Mr. Micawber was induced to think, on inquiry, that there might be an opening for a man of his talent in the Medway Coal Trade. Then, as Mr. Micawber very properly said, the first step to be taken clearly was to go and <hi rend="italics">see</hi> the Medway; which we went and saw. I say &lsquo;we,&rsquo; Mr. Copperfield; for I never will desert Mr. Micawber. I am a wife and mother, and I never will desert Mr. Micawber.&rdquo; Traddles and I murmured our admiration. &ldquo;That,&rdquo; said Mrs. Micawber, &mdash; &ldquo;that, at least, is <hi rend="italics">my</hi> view, my dear Mr. Copperfield and Mr. Traddles, of the obligation which I took upon myself when I repeated the irrevocable words, &lsquo;I, Emma, take thee, Wilkins.&rsquo; I read the service over with a flat candle, on the previous night, and the conclusion I derived from it was that I never could or would desert Mr. Micawber.&rdquo;</p>
+<p>&ldquo;My dear,&rdquo; said Mr. Micawber, a little impatiently, &ldquo;I am not conscious that you are expected to do anything of the sort.&rdquo;</p>
+<p>&ldquo;We went,&rdquo; repeated Mrs. Micawber, &ldquo;and saw the Medway. My opinion of the coal trade on that river was, that it might require talent, but that it certainly requires capital. Talent, Mr. Micawber
+<pb n="28" id="p28"/>
+has; capital, Mr. Micawber has not. We saw, I think, the greater part of the Medway, and that was my individual conclusion. My family were then of opinion that Mr. Micawber should turn his attention to corn &mdash; on commission. But corn, as I have repeatedly said to Mr. Micawber, may be gentlemanly, but it is not remunerative. Commission to the extent of two and ninepence in a fortnight cannot, however limited our ideas, be considered remunerative.&rdquo;</p>
+<p>We were all agreed upon that.</p>
+<p>&ldquo;Then,&rdquo; said Mrs. Micawber, who prided herself on taking a clear view of things, and keeping Mr. Micawber straight by her woman's wisdom, when he might otherwise go a little crooked, &mdash; &ldquo;then I naturally look round the world, and say, &lsquo;What is there in which a person of Mr. Micawber's talent is likely to succeed?&rsquo; I may have a conviction that Mr. Micawber's manners peculiarly qualify him for the banking business. I may argue within myself, that, if I had a deposit in a banking-house, the manners of Mr. Micawber, as representing that banking-house, would inspire confidence and extend the connection. But if the various banking-houses refuse to avail themselves of Mr. Micawber's abilities, or receive the offer of them with contumely, what is the use of dwelling upon <hi rend="italics">that</hi> idea? None. As to originating a banking business, I may know that there are members of my family, who, if they chose
+<pb n="29" id="p29"/>
+to place their money in Mr. Micawber's hands, might found an establishment of that description. But if they do <hi rend="italics">not</hi> choose to place their money in Mr. Micawber's hands, &mdash; which they don't, &mdash; what is the use of that? Again I contend that we are no farther advanced than we were before.&rdquo;</p>
+<p>I shook my head, and said, &ldquo;Not a bit.&rdquo; Traddles also shook his head, and said, &ldquo;Not a bit.&rdquo;</p>
+<p>&ldquo;What do I deduce from this?&rdquo; Mrs. Micawber went on to say, still with the same air of putting a case lucidly. &ldquo;What is the conclusion, my dear Mr. Copperfield, to which I am irresistibly brought. Am I wrong in saying it is clear that we must live?&rdquo;</p>
+<p>I answered, &ldquo;Not at all!&rdquo; and Traddles answered, &ldquo;Not at all!&rdquo; and I found myself afterwards sagely adding, alone, that a person must either live or die.</p>
+<p>&ldquo;Just so,&rdquo; returned Mrs. Micawber. &ldquo;It is precisely that. And here is Mr. Micawber without any suitable position or employment. Where does that responsibility rest? Clearly on society. Then I would make a fact so disgraceful known, and boldly challenge society to set it right. It appears to me, my dear Mr. Copperfield, that what Mr. Micawber has to do is to throw down the gauntlet to society and say, in effect, &lsquo;Show me who will take that up. Let the party immediately step forward.&rsquo; &rdquo;</p>
+<p>I ventured to ask Mrs. Micawber how this was to be done.</p>
+<pb n="30" id="p30"/>
+<p>&ldquo;By advertising in all the papers. It appears to me, that what Mr. Micawber has to do, in justice to himself, in justice to his family, and I will even go so far as to say in justice to society, by which he has been hitherto overlooked, is to advertise in all the papers; to describe himself plainly as so and so, with such and such qualifications, and to put it thus: &lsquo;<hi rend="italics">Now</hi> employ me on remunerative terms, and address, post-paid, to W. M., Post-Office, Camden Town.&rsquo; &rdquo;</p>
+<p>&ldquo;Advertising is rather expensive,&rdquo; I remarked.</p>
+<p>&ldquo;Exactly so!&rdquo; said Mrs. Micawber, preserving the same logical air. &ldquo;Quite true, my dear Mr. Copperfield. I have made the identical observation to Mr. Micawber. It is for that reason, especially, that I think Mr. Micawber ought to raise a certain sum of money &mdash; on a bill.&rdquo;</p>
+<p>Mr. Micawber, leaning back in his chair, trifled with his eye-glass, and cast his eye up at the ceiling; but I thought him observant of Traddles, too, who was looking at the fire.</p>
+<p>&ldquo;If no member of my family,&rdquo; said Mrs. Micawber, &ldquo;is possessed of sufficient natural feeling to negotiate that bill, &mdash; I believe there is a better business term to express what I mean &mdash;&rdquo;</p>
+<p>Mr. Micawber, with his eyes still cast up at the ceiling, suggested, &ldquo;Discount.&rdquo;</p>
+<p>&ldquo;To discount that bill then, my opinion is, that Mr. Micawber should go into the city, should take that bill into the money market, and should dispose of it for what he can get.&rdquo;</p>
+<pb n="31" id="p31"/>
+<p>I felt, but I am sure I don't know why, that this was highly self-denying and devoted in Mrs. Micawber, and I uttered a murmur to that effect. Traddles, who took his tone from me, did likewise, and really I felt that she was a noble woman, &mdash; the sort of woman who might have been a Roman matron, and done all manner of troublesome heroic public actions.</p>
+<p>In the fervor of this impression, I congratulated Mr. Micawber on the treasure he possessed. So did Traddles. Mr. Micawber extended his hand to each of us in succession, and then covered his face with his pocket-handkerchief, &mdash; which I think had more snuff upon it than he was aware of. He then returned to the punch in the highest state of exhilaration.</p>
+<p>Mrs. Micawber made tea for us in a most agreeable manner, and after tea we discussed a variety of topics before the fire; and she was good enough to sing us (in a small, thin, flat voice, which I remembered to have considered, when I first knew her, the very table-beer of acoustics) the favorite ballads of &ldquo;The Dashing White Sergeant&rdquo; and &ldquo;Little Tafflin.&rdquo; For both of these songs Mrs. Micawber had been famous when she lived at home with her papa and mamma. Mr. Micawber told us that when he heard her sing the first one, on the first occasion of his seeing her beneath the parental roof, she had attracted his attention in an extraordinary degree; but that when it came to &ldquo;Little
+<pb n="32" id="p32"/>
+Tafflin&rdquo; he had resolved to win that woman or perish in the attempt.</p>
+<p>It was between ten and eleven o'clock when Mrs. Micawber rose to replace her cap in the parcel, and to put on her bonnet. Mr. Micawber took the opportunity to slip a letter into my hand, with a whispered request that I would read it at my leisure. I also took the opportunity of my holding a candle over the banisters to light them down, when Mr. Micawber was going first, leading Mrs. Micawber, to detain Traddles for a moment on the top of the stairs.</p>
+<p>&ldquo;Traddles, Mr. Micawber don't mean any harm, but, if I were you, I wouldn't lend him anything.&rdquo;</p>
+<p>&ldquo;My dear Copperfield, I haven't got anything to lend.&rdquo;</p>
+<p>&ldquo;You have got a name, you know.&rdquo;</p>
+<p>&ldquo;O, you call <hi rend="italics">that</hi> something to lend?&rdquo;</p>
+<p>&ldquo;Certainly.&rdquo;</p>
+<p>&ldquo;O, yes, to be sure! I am very much obliged to you, Copperfield, but &mdash; I am afraid I have lent him that already.&rdquo;</p>
+<p>&ldquo;For the bill that is to go into the money market?&rdquo;</p>
+<p>&ldquo;No, not for that one. This is the first I have heard of that one. I have been thinking that he will most likely propose that one on the way home. Mine's another.&rdquo;</p>
+<p>&ldquo;I hope there will be nothing wrong about it.&rdquo;</p>
+<p>&ldquo;I hope not. I should think not, though, because
+<pb n="33" id="p33"/>
+he told me, only the other day, that it was provided for. That was Mr. Micawber's expression, &lsquo;provided for.&rsquo; &rdquo;</p>
+<p>Mr. Micawber looking up at this juncture, I had only time to repeat my caution. Traddles thanked me, and descended. But I was much afraid, when I observed the good-natured manner in which he went down with Mrs. Micawber's cap in his hand, that he would be carried into the money market, neck and heels.</p>
+<p>I returned to my fireside, and read Mr. Micawber's letter, which was dated an hour and a half before dinner. I am not sure whether I have mentioned that, when Mr. Micawber was at any particularly desperate crisis, he used a sort of legal phraseology, which he seemed to think equivalent to winding up his affairs.</p>
+<p>This was the letter.</p>
+<q>
+<text>
+<body>
+<div1 type="letter">
+<p>&ldquo;SIR, &mdash; For I dare not say my dear Copperfield, &mdash; It is expedient that I should inform you that the undersigned is Crushed. Some flickering efforts to spare the premature knowledge of his calamitous position, you may observe in him this day; but hope has sunk beneath the horizon, and the undersigned is Crushed.</p>
+<p>&ldquo;The present communication is penned within the personal range (I cannot call it the society) of an individual in a state closely bordering on intoxication, employed by a broker. That individual is
+<pb n="34" id="p34"/>
+in legal possession of the premises, under a distress for rent. His inventory includes, not only the chattels and effects of every description belonging to the undersigned, as yearly tenant of this habitation, but also those appertaining to Mr. Thomas Traddles, lodger, a member of the Honorable Society of the Inner Temple.</p>
+<p>&ldquo;If any drop of gloom were wanting in the overflowing cup, which is now &lsquo;commended&rsquo; (in the language of an immortal Writer) to the lips of the undersigned, it would be found in the fact that a friendly acceptance granted to the undersigned by the before-mentioned Mr. Thomas Traddles, for the sum of &pound;23 4<hi rend="italics">s.</hi> 9&frac12;<hi rend="italics">d.</hi> is overdue, and is not provided for. Also, in the fact, that the living responsibilities clinging to the undersigned will, in the course of nature, be increased by the sum of one more helpless victim, whose miserable appearance may be looked for &mdash; in round numbers &mdash; at the expiration of a period not exceeding six lunar months from the present date.</p>
+<p>&ldquo;After premising thus much, it would be a work of supererogation to add that dust and ashes are forever scattered</p>
+<closer>
+<salute>&ldquo;On <lb/> The <lb/> Head <lb/> Of</salute>
+<signed>&ldquo;WILKINS MICAWBER.&rdquo;</signed>
+</closer>
+</div1>
+</body>
+</text>
+</q>
+</div2>
+<div2 type="chapter">
+<pb n="35" id="p35"/>
+<head>CHAPTER IV.</head>
+<p>SELDOM did I wake at night, seldom did I look up at the moon, or stars, or watch the falling rain, or hear the wind, but I thought of the solitary figure of the good fisherman, toiling on, &mdash; poor Pilgrim, &mdash; and recalled his words, &ldquo;I'm a going to seek my niece. I'm a going to seek her fur and wide.&rdquo;</p>
+<p>Months passed, and he had been absent &mdash; no one knew where &mdash; the whole time. It had been a bitter day in London, and a cutting northeast wind had blown. The wind had gone down with the light, and snow had come on. My shortest way home &mdash; and I naturally took the shortest way on such a night &mdash; was through St. Martin's Lane. On the steps of the church there was the figure of a man, and I stood face to face with Mr. Peggotty.</p>
+<p>&ldquo;Mas'r Davy! It do my art good to see you, sir. Well met, well met!&rdquo;</p>
+<p>&ldquo;Well met, my dear old friend!&rdquo;</p>
+<p>&ldquo;I had thowts o' coming to make inquiration for you, sir, to-night, but it was too late. I should have come early in the morning, sir, afore going away agen.&rdquo;</p>
+<p>&ldquo;Again?&rdquo;</p>
+<p>&ldquo;Yes, sir, I'm away to-morrow.&rdquo;</p>
+<p>In those days there was a side entrance to the
+<pb n="36" id="p36"/>
+stable-yard of the Golden Cross Inn. Two or three public rooms opened out of the yard, and looking into one of them, and finding it empty and a good fire burning, I took him in there.</p>
+<p>&ldquo;I'll tell you, Mas'r Davy, wheer-all I've been, and what-all we've heerd. I've been fur, and we've heerd little; but I'll tell you.&rdquo;</p>
+<p>As he sat thinking, there was a fine massive gravity in his face which I did not venture to disturb.</p>
+<p>&ldquo;You see, sir, when she was a child she used to talk to me a deal about the sea, and about them coasts where the sea got to be dark blue, and to lay a shining and a shining in the sun. When she was lost, I know'd in my mind as he would take her to them countries. I know'd in my mind as he'd have told her wonders of 'em, and how she was to be a lady theer, and how he first got her to listen him along o' sech like. I went across channel to France, and landed theer, as if I'd fell down from the skies. I found out a English gentleman, as was in authority, and told him I was going to seek my niece. He got me them papers as I wanted fur to carry me through, &mdash; I doen't rightly know how they're called, &mdash; and he would have give me money, but that I was thankful to have no need on. I thank him kind for all he done, I'm sure. I told him, best as I was able, what my gratitoode was, and went away through France, fur to seek my niece.&rdquo;</p>
+<p>&ldquo;Alone, and on foot?&rdquo;</p>
+<pb n="37" id="p37"/>
+<p>&ldquo;Mostly afoot; sometimes in carts, along with people going to market; sometimes in empty coaches. Many mile a day afoot, and often with some poor soldier or another, travelling fur to see his friends. I couldn't talk to him, nor he to me; but we was company for one another, too, along the dusty roads. When I come to any town, I found the inn, and waited about the yard till some one came by (some one mostly did) as know'd English. Then I told how that I was on my way to seek my niece, and they told me what manner of gentlefolks was in the house, and I waited to see any as seemed like her, going in or out. When it warn't Em'ly, I went on agen. By little and little, when I come to a new village or that, among the poor people, I found they know'd about me. They would set me down at their cottage doors, and give me what-not fur to eat and drink, and show me where to sleep. And many a woman, Mas'r Davy, as has had a daughter about Em'ly's age, I've found awaiting for me, at Our Saviour's Cross outside the village, fur to do me sim'lar kindnesses. Some has had daughters as was dead. And God only knows how good them mothers was to me!&rdquo;</p>
+<p>I laid my trembling hand upon the hand he put before his face. &ldquo;Thank'ee, sir, doen't take no notice.&rdquo;</p>
+<p>&ldquo;At last I come to the sea. It warn't hard, you may suppose, for a seafaring man like me to work his way over to Italy. When I got theer I
+<pb n="38" id="p38"/>
+wandered on as I had done afore. I got news of her being seen among them Swiss mountains yonder. I made for them mountains, day and night. Ever so fur as I went, ever so fur them mountains seemed to shift away from me. But I come up with 'em, and I crossed 'em. I never doubted her. No! Not a bit! On'y let her see my face, &mdash; on'y let her heer my voice, &mdash; on'y let my stanning still afore her bring to her thoughts the home she had fled away from, and the child she had been, &mdash; and if she had growed to be a royal lady, she'd have fell down at my feet! I know'd it well! I bought a country dress to put upon her. To put that dress upon her, and to cast off what she wore, &mdash; to take her on my arm again, and wander towards home, &mdash; to stop sometimes upon the road and heal her bruised feet and her worse bruised heart, &mdash; was all I thowt of now. But, Mas'r Davy, it warn't to be &mdash; not yet! I was too late, and they was gone. Wheer, I could n't learn. Some said heer, some said theer. I travelled heer, and I travelled theer, but I found no Em'ly, and I travelled home.&rdquo;</p>
+<p>&ldquo;How long ago?&rdquo;</p>
+<p>&ldquo;A matter o' fower days. I sighted the old boat arter dark, and I never could have thowt, I'm sure, that the old boat would have been so strange.&rdquo;</p>
+<p>From some pocket in his breast he took out, with a very careful hand, a small paper bundle
+<pb n="39" id="p39"/>
+containing two or three letters or little packets which he laid upon the table.</p>
+<p>&ldquo;The faithful creetur Missis Gummidge gave me these. This first one come afore I had been gone a week. A fifty-pound bank-note in a sheet of paper, directed to me, and put underneath the door in the night. She tried to hide her writing, but she could n't hide it from Me! This one come to Missis Gummidge two or three months ago. Five pounds.&rdquo;</p>
+<p>It was untouched, like the previous sum, and he refolded both.</p>
+<p>&ldquo;Is that another letter in your hand?&rdquo;</p>
+<p>&ldquo;It's money too, sir. Ten pound, you see. And wrote inside, &lsquo;From a true friend.&rsquo; But the two first was put underneath the door, and this come by the post, day afore yesterday. I'm going to seek her at the post-mark.&rdquo;</p>
+<p>He showed it to me. It was a town on the Upper Rhine. He had found out at Yarmouth some foreign dealers who knew that country, and they had drawn him a rude map on paper, which he could very well understand.</p>
+<p>I asked him how Ham was.</p>
+<p>&ldquo;He works as bold as a man can. He's never been heerd fur to complain. But my belief is ('twixt ourselves), as it has cut him deep. Well, having seen you to-night, Mas'r Davy (and that does me good), I shall away betimes to-morrow morning. You have seen what I've got heer,&rdquo;
+<pb n="40" id="p40"/>
+putting his hand on where the little packet lay. &ldquo;All that troubles me is, to think that any harm might come to me afore this money was give back. If I was to die, and it was lost or stole or elseways made away with, and it was never know'd by him but what I'd accepted of it, I believe the tother wureld would n't hold me! I believe I must come back!&rdquo;</p>
+<p>He rose, and I rose too. We grasped each other by the hand again; and as we went out into the rigorous night, everything seemed to be hushed in reverence for him, when he resumed his solitary journey through the snow.</p>
+</div2>
+<div2 type="chapter">
+<pb n="41" id="p41"/>
+<head>CHAPTER V.</head>
+<p>ALL this time I had gone on loving Dora harder than ever. If I may so express it, I was steeped in Dora. I was not merely over head and ears in love with her, I was saturated through and through. I took night walks to Norwood where she lived, and perambulated round and round the house and garden for hours together, looking through crevices in the palings, using violent exertions to get my chin above the rusty nails on the top, blowing kisses at the lights in the windows, and romantically calling on the night to shield my Dora, &mdash; I don't exactly know from what, &mdash; I suppose from fire, perhaps from mice, to which she had a great objection.</p>
+<p>Dora had a discreet friend, comparatively stricken in years, almost of the ripe age of twenty, I should say, whose name was Miss Mills. Dora called her Julia. She was the bosom friend of Dora. Happy Miss Mills!</p>
+<p>One day Miss Mills said: &ldquo;Dora is coming to stay with me. She is coming the day after tomorrow. If you would like to call, I am sure papa would be happy to see you.&rdquo;</p>
+<p>I passed three days in a luxury of wretchedness. At last, arrayed for the purpose, at a vast expense, I went to Miss Mills's, fraught with a declaration.</p>
+<pb n="42" id="p42"/>
+<p>Mr. Mills was not at home. I did n't expect he would be. Nobody wanted <hi rend="italics">him.</hi> Miss Mills was at home. Miss Mills would do.</p>
+<p>I was shown into a room up stairs, where Miss Mills and Dora were. Dora's little dog Jip was there. Miss Mills was copying music, and Dora was painting flowers. What where my feelings when I recognized flowers I had given her!</p>
+<p>Miss Mills was very glad to see me, and very sorry her papa was not at home, though I thought we all bore that with fortitude. Miss Mills was conversational for a few minutes, and then, laying down her pen, got up and left the room.</p>
+<p>I began to think I would put it off till to-morrow.</p>
+<p>&ldquo;I hope your poor horse was not tired when he got home at night from that picnic,&rdquo; said Dora, lifting up her beautiful eyes. &ldquo;It was a long way for him.&rdquo;</p>
+<p>I began to think I would do it to-day.</p>
+<p>&ldquo;It was a long way for <hi rend="italics">him,</hi> for <hi rend="italics">he</hi> had nothing to uphold him on the journey.&rdquo;</p>
+<p>&ldquo;Was n't he fed, poor thing?&rdquo; asked Dora.</p>
+<p>I began to think I would put it off till to-morrow.</p>
+<p>&ldquo;Ye&mdash;yes, he was well taken care of. I mean he had not the unutterable happiness that I had in being so near to you.&rdquo;</p>
+<p>I saw now that I was in for it, and it must be done on the spot.</p>
+<p>&ldquo;I don't know why you should care for being near me,&rdquo; said Dora, &ldquo;or why you should call it a
+<pb n="43" id="p43"/>
+happiness. But of course you don't mean what you say. Jip, you naughty boy, come here!&rdquo;</p>
+<p>I don't know how I did it, but I did it in a moment. I intercepted Jip. I had Dora in my arms. I was full of eloquence. I never stopped for a word. I told her how I loved her. I told her I should die without her. I told her that I idolized and worshipped her. Jip barked madly all the time. My eloquence increased, and I said, if she would like me to die for her, she had but to say the word, and I was ready. I had loved her to distraction every minute, day and night, since I first set eyes upon her. I loved her at that minute to distraction. I should always love her, every minute, to distraction. Lovers had loved before, and lovers would love again; but no lover had ever loved, might, could, would, or should ever love, as I loved Dora. The more I raved, the more Jip barked. Each of us in his own way got more mad every moment.</p>
+<p>Well, well! Dora and I were sitting on the sofa by and by quiet enough, and Jip was lying in her lap, winking peacefully at me. It was off my mind. I was in a state of perfect rapture. Dora and I were engaged.</p>
+<p>Being poor, I felt it necessary the next time I went to my darling to expatiate on that unfortunate drawback. I soon carried desolation into the bosom of our joys &mdash; not that I meant to do it, but that I was so full of the subject &mdash; by asking Dora, without the smallest preparation, if she could love</p>
+<pb n="44" id="p44"/>
+<p>&ldquo;How can you ask me anything so foolish? Love a beggar!&rdquo;</p>
+<p>&ldquo;Dora, my own dearest, I am a beggar!&rdquo;</p>
+<p>&ldquo;How can you be such a silly thing,&rdquo; replied Dora, slapping my hand, &ldquo;as to sit there, telling such stories? I'll make Jip bite you, if you are so ridiculous.&rdquo;</p>
+<p>But I looked so serious that Dora began to cry. She did nothing but exclaim, O dear! O dear! And O, she was so frightened! And where was Julia Mills? And O, take her to Julia Mills, and go away, please! until I was almost beside myself.</p>
+<p>I thought I had killed her. I sprinkled water on her face; I went down on my knees; I plucked at my hair; I implored her forgiveness; I besought her to look up; I ravaged Miss Mills's work-box for a smelling-bottle, and, in my agony of mind, applied an ivory needle-case instead, and dropped all the needles over Dora.</p>
+<p>At last I got Dora to look at me, with a horrified expression which I gradually soothed until it was only loving, and her soft, pretty cheek was lying against mine.</p>
+<p>&ldquo;Is your heart mine still, dear Dora?&rdquo;</p>
+<p>&ldquo;O yes! O yes! it's all yours. O, don't be dreadful!&rdquo;</p>
+<p>&ldquo;My dearest love, the crust well earned&mdash;&rdquo;</p>
+<p>&ldquo;O yes; but I don't want to hear any more about crusts. And after we are married, Jip must
+<pb n="45" id="p45"/>
+have a mutton chop every day at twelve, or he'll die.&rdquo;</p>
+<p>I was charmed with her childish, winning way, and I fondly explained to her that Jip should have his mutton chop with his accustomed regularity.</p>
+<p>When we had been engaged some half-year or so, Dora delighted me by asking me to give her that cookery-book I had once spoken of, and to show her how to keep accounts, as I had once promised I would. I brought the volume with me on my next visit (I got it prettily bound, first, to make it look less dry and more inviting), and showed her an old housekeeping book of my aunt's, and gave her a set of tablets, and a pretty little pencil-case, and a box of leads, to practise housekeeping with.</p>
+<p>But the cookery-book made Dora's head ache, and the figures made her cry. They wouldn't add up, she said. So she rubbed them out, and drew little nosegays, and likenesses of me and Jip, all over the tablets.</p>
+<p>Time went on, and at last, here in this hand of mine, I held the wedding license. There were the two names in the sweet old visionary connection, &mdash; David Copperfield and Dora Spenlow; and there in the corner was that parental institution, the Stamp Office, looking down upon our union; and there, in the printed form of words, was the Archbishop of Canterbury, invoking a blessing on us,
+<pb n="46" id="p46"/>
+and doing it as cheap as could possibly be expected.</p>
+<p>I doubt whether two young birds could have known less about keeping house than I and my pretty Dora did. We had a servant, of course. <hi rend="italics">She</hi> kept house for us. We had an awful time of it with Mary Anne.</p>
+<p>Her name was Paragon. Her nature was represented to us, when we engaged her, as being feebly expressed in her name. She had a written character, as large as a Proclamation, and according to this document could do everything of a domestic nature that ever I heard of, and a great many things that I never did hear of. She was a woman in the prime of life; of a severe countenance, and subject (particularly in the arms) to a sort of perpetual measles. She had a cousin in the Life Guards, with such long legs that he looked like the afternoon shadow of somebody else. She was warranted sober and honest; and I am therefore willing to believe that she was in a fit when we found her under the boiler, and that the deficient teaspoons were attributable to the dustman. She was the cause of our first little quarrel.</p>
+<p>&ldquo;My dearest life,&rdquo; I said one day to Dora, &ldquo;do you think Mary Anne has any idea of time?&rdquo;</p>
+<p>&ldquo;Why, Doady?&rdquo;</p>
+<p>&ldquo;My love, because it's five, and we were to have dined at four.&rdquo;</p>
+<p>My little wife came and sat upon my knee, to
+<pb n="47" id="p47"/>
+coax me to be quiet, and drew a line with her pencil down the middle of my nose; but I couldn't dine off that, though it was very agreeable.</p>
+<p>&ldquo;Don't you think, my dear, it would be better for you to remonstrate with Mary Anne?&rdquo;</p>
+<p>&ldquo;O no, please! I couldn't, Doady!&rdquo;</p>
+<p>&ldquo;Why not, my love?&rdquo;</p>
+<p>&ldquo;O, because I am such a little goose, and she knows I am!&rdquo;</p>
+<p>I thought this sentiment so incompatible with the establishment of any system of check on Mary Anne, that I frowned a little.</p>
+<p>&ldquo;My precious wife, we must be serious sometimes. Come! sit down on this chair, close beside me! Give me the pencil! There! Now let us talk sensibly. You know, dear,&rdquo; what a little hand it was to hold, and what a tiny wedding-ring it was to see, &mdash; &ldquo;you know, my love, it is not exactly comfortable to have to go out without one's dinner. Now, is it?&rdquo;</p>
+<p>&ldquo;N-n-no!&rdquo; replied Dora, faintly.</p>
+<p>&ldquo;My love, how you tremble!&rdquo;</p>
+<p>&ldquo;Because I know you're going to scold me.&rdquo;</p>
+<p>&ldquo;My sweet, I am only going to reason.&rdquo;</p>
+<p>&ldquo;O, but reasoning is worse than scolding! I didn't marry to be reasoned with. If you meant to reason with such a poor little thing as I am, you ought to have told me so, you cruel boy!&rdquo;</p>
+<p>&ldquo;Dora, my darling!&rdquo;</p>
+<p>&ldquo;No, I am not your darling. Because you <hi rend="italics">must</hi>
+<pb n="48" id="p48"/>
+be sorry that you married me, or else you would n't reason with me!&rdquo;</p>
+<p>I felt so injured by the inconsequential nature of this charge, that it gave me courage to be grave.</p>
+<p>&ldquo;Now, my own Dora, you are childish, and are talking nonsense. You must remember, I am sure, that I was obliged to go out yesterday when dinner was half over; and that, the day before, I was made quite unwell by being obliged to eat underdone veal in a hurry; to-day, I don't dine at all, and I am afraid to say how long we waited for breakfast, and <hi rend="italics">then</hi> the water did n't boil. I don't mean to reproach you, my dear, but this is not comfortable.&rdquo;</p>
+<p>&ldquo;O, you cruel, cruel boy, to say I am a disagreeable wife!&rdquo;</p>
+<p>&ldquo;Now, my dear Dora, you must know that I never said that!&rdquo;</p>
+<p>&ldquo;You said I was n't comfortable!&rdquo;</p>
+<p>&ldquo;I said the housekeeping was not comfortable.&rdquo;</p>
+<p>&ldquo;It's exactly the same thing! and I wonder, I do, at your making such ungrateful speeches. When you know that the other day, when you said you would like a little bit of fish, I went out myself, miles and miles, and ordered it to surprise you.&rdquo;</p>
+<p>&ldquo;And it was very kind of you, my own darling; and I felt it so much that I would n't, on any account, have mentioned that you bought a salmon, which was too much for two; or that it cost one pound six, which was more than we can afford.&rdquo;</p>
+<pb n="49" id="p49"/>
+<p>&ldquo;You enjoyed it very much,&rdquo; sobbed Dora. &ldquo;And you said I was a Mouse.&rdquo;</p>
+<p>&ldquo;And I'll say so again, my love, a thousand times!&rdquo;</p>
+<p>I said it a thousand times, and more, and went on saying it until Mary Anne's cousin deserted into our coal-hole, and was brought out, to our great amazement, by a picket of his companions in arms, who took him away handcuffed in a procession that covered our front garden with disgrace.</p>
+<p>Everybody we had anything to do with seemed to cheat us. Our appearance in a shop was a signal for the damaged goods to be brought out immediately. If we bought a lobster it was full of water. All our meat turned out tough, and there was hardly any crust to our loaves.</p>
+<p>As to the washerwoman pawning the clothes, and coming in a state of penitent intoxication to apologize, I suppose that might have happened several times to anybody. Also the chimney on fire, the parish engine, and perjury on the part of the beadle. But I apprehend we were personally unfortunate in our page, whose principal function was to quarrel with the cook. We wanted to get rid of him, but he was very much attached to us, and would n't go, until one day he stole Dora's watch, and spent the produce (he was always a weak-minded boy) in riding up and down between London and Uxbridge outside the coach.</p>
+<p>He was taken to the Police Office on the completion
+<pb n="50" id="p50"/>
+of his fifteenth journey; when four and sixpence, and a second-hand fife which he could n't play, were found upon his person.</p>
+<p>He was tried, and ordered to be transported. Even then he could n't be quiet, but was always writing us letters; and he wanted so much to see Dora before he went away, that Dora went to visit him, and fainted when she found herself inside the iron bars. I had no peace of my life until he was expatriated and made (as I afterwards heard) a shepherd of &ldquo;up the country&rdquo; somewhere, I have no geographical idea where.</p>
+<p>&ldquo;I am very sorry for all this, Doady,&rdquo; said Dora. &ldquo;Will you call me a name I want you to call me?&rdquo;</p>
+<p>&ldquo;What is it, my dear?&rdquo;</p>
+<p>&ldquo;It's a stupid name, &mdash; Child-wife. When you are going to be angry with me, say to yourself, &lsquo;It's only my Child-wife.&rsquo; When I am very disappointing, say, &lsquo;I knew a long time ago, that she would make but a Child-wife.&rsquo; When you miss what you would like me to be, and what I should like to be, and what I think I never can be, say, &lsquo;Still my foolish Child-wife loves me.&rsquo; For indeed I do.&rdquo;</p>
+<p>I invoke the innocent figure that I dearly loved to come out of the mists and shadows of the past, and to turn its gentle head towards me once again, and to bear witness that it was made happy by what I answered.</p>
+</div2>
+<div2 type="chapter">
+<pb n="51" id="p51"/>
+<head>CHAPTER VI.</head>
+<p>I HEARD a footstep on the stairs one day. I knew it to be Mr. Peggotty's. It came nearer, nearer, rushed into the room.</p>
+<p>&ldquo;Mas'r Davy, I've found her! I thank my Heavenly Father for having guided of me in his own ways to my darling!&rdquo;</p>
+<p>&ldquo;You have made up your mind as to the future, good friend?&rdquo;</p>
+<p>&ldquo;Yes, Mas'r Davy, theer's mighty countries fur from heer. Our future life lays over the sea.&rdquo;</p>
+<p>As he gave me both his hands, hurrying to return to the one charge of his noble existence, I thought of Ham, and who would break the intelligence to him. Mr. Peggotty thought of everything. He had already written to the poor fellow, and had the letter in the pocket of his rough coat, ready for the post. I asked him for it, and said I would go down to Yarmouth, and talk to Ham myself before I gave it him, and prepare him for its contents. He thanked me very earnestly, and we parted, with the understanding that I would go down by the mail that same night. In the evening I started.</p>
+<p>&ldquo;Don't you think that,&rdquo; I asked the coachman, in the first stage out of London, &ldquo;a very remarkable
+<pb n="52" id="p52"/>
+sky? I don't remember to have ever seen one like it.&rdquo;</p>
+<p>&ldquo;Nor I. That's wind, sir. There'll be mischief done at sea before long.&rdquo;</p>
+<p>It was a murky confusion of flying clouds tossed up into most remarkable heaps, through which the wild moon seemed to plunge headlong, as if, in a dread disturbance of the laws of nature, she had lost her way. There had been a wind all day; and it was rising then, with an extraordinary great sound. In another hour it had much increased, and the sky was more overcast, and it blew hard.</p>
+<p>But as the night advanced, it came on to blow harder and harder. Many times, in the dark part of the night (it was then late in September), we were in serious apprehension that the coach would be blown over; and when the day broke, the wind blew harder, and still harder. I had been in Yarmouth when the seamen said it blew great guns, but I had never known the like of this, or anything approaching to it.</p>
+<p>As we struggled on, nearer and nearer to the sea, from which this mighty wind was blowing dead on shore, its force became more and more terrific. When we came within sight of the sea, the waves on the horizon, seen at intervals above the rolling abyss, were like glimpses of another shore with towers and buildings. When at last we got into the town, the people came out to their doors,
+<pb n="53" id="p53"/>
+making a wonder of the mail that had come through such a storm.</p>
+<p>The tremendous sea itself, when I could find pause to look at it, in the agitation of the blinding wind, the flying stones and sand, and the awful noise, confounded me. As the high watery walls came rolling in, and tumbled into surf, I seemed to see a rending and upheaving of all nature.</p>
+<p>Not finding Ham among the people whom this memorable wind &mdash; for it is still remembered down there as the greatest ever known to blow upon that coast &mdash; had brought together on the beach, I made my way to his house.</p>
+<p>I learned that he had gone on a job of ship-wright's work some miles away, but that he would be back to-morrow morning in good time.</p>
+<p>So I went back to the inn; and when I had washed and dressed, and tried to sleep, but in vain, it was late in the afternoon. I had not sat five minutes by the coffee-room fire, when the waiter, coming to stir it, told me that two colliers had gone down, with all hands, a few miles off; and that some other ships had been seen laboring hard in the Roads, and trying, in great distress, to keep off shore. Mercy on them, and on all poor sailors, said he, if we had another night like the last!</p>
+<p>I could not eat, I could not sit still, I could not continue steadfast to anything. My dinner went away almost untasted, and I tried to refresh myself
+<pb n="54" id="p54"/>
+with a glass or two of wine. In vain. I walked to and fro, tried to read an old gazetteer, listened to the awful noises, looked at faces, scenes, and figures in the fire. At length the ticking of the undisturbed clock on the wall tormented me to that degree that I resolved to go to bed.</p>
+<p>For hours I lay in bed listening to the wind and water, imagining, now, that I heard shrieks out at sea; now, that I distinctly heard the firing of signal-guns; now, the fall of houses in the town. At length my restlessness attained to such a pitch that I hurried on my clothes and went down stairs. In the large kitchen all the inn servants and some other watchers were clustered together.</p>
+<p>One man asked me, when I went in among them, whether I thought the souls of the colliers' crews who had gone down were out in the storm.</p>
+<p>I remained with these people, I dare say, two hours. Once I opened the yard gate and looked into the empty street. The sand, the sea-weed, and the flakes of foam were driving by, and I was obliged to call for assistance before I could shut the gate again, and make it fast against the wind.</p>
+<p>There was a dark gloom in my lonely chamber, when I at length returned to it; but I was tired now, and, getting into bed again, fell into the depths of sleep until broad day; when I was aroused at eight or nine o'clock by some one knocking and calling at my door.</p>
+<p>&ldquo;What is the matter?&rdquo;</p>
+<pb n="55" id="p55"/>
+<p>&ldquo;A wreck! close by!&rdquo;</p>
+<p>&ldquo;What wreck?&rdquo;</p>
+<p>&ldquo;A schooner from Spain or Portugal, laden with fruit and wine. Make haste, sir, if you want to see her! It's thought down on the beach she'll go to pieces every moment.&rdquo;</p>
+<p>I wrapped myself in my clothes as quickly as I could, and ran into the street, where numbers of people were before me, all running in one direction, &mdash; to the beach. I ran the same way, outstripping a good many, and soon came facing the wild sea. Every appearance it had before presented bore the expression of being <hi rend="italics">swelled;</hi> and the height to which the breakers rose and bore one another down, and rolled in, in interminable hosts, was most appalling.</p>
+<p>In the difficulty of hearing anything but wind and waves, and in the crowd, and the unspeakable confusion, and my first breathless efforts to stand against the weather, I was so confused that I looked out to sea for the wreck, and saw nothing but the foaming heads of the great waves.</p>
+<p>A boatman laid a hand upon my arm, and pointed. Then I saw it, close in upon us.</p>
+<p>One mast was broken short off, six or eight feet from the deck, and lay over the side, entangled in a maze of sail and rigging; and all that ruin, as the ship rolled and beat, &mdash; which she did with a violence quite inconceivable, &mdash; beat the side as if it would stave it in. Some efforts were being made
+<pb n="56" id="p56"/>
+to cut this portion of the wreck away; for as the ship, which was broadside on, turned towards us in her rolling, I plainly descried her people at work with axes, &mdash; especially one active figure, with long curling hair. But a great cry, audible even above the wind and water, rose from the shore; the sea, sweeping over the wreck, made a clean breach, and carried men, spars, casks, planks, bulwarks, heaps of such toys, into the boiling surge.</p>
+<p>The second mast was yet standing, with the rags of a sail, and a wild confusion of broken cordage, flapping to and fro. The ship had struck once, the same boatman said, and then lifted in, and struck again. I understood him to add that she was parting amidships. As he spoke, there was another great cry of pity from the beach. Four men arose with the wreck out of the deep, clinging to the rigging of the remaining mast; uppermost, the active figure with the curling hair.</p>
+<p>There was a bell on board; and as the ship rolled and dashed, this bell rang; and its sound, the knell of those unhappy men, was borne towards us on the wind. Again we lost her, and again she rose. Two of the four men were gone.</p>
+<p>I noticed that some new sensation moved the people on the beach, and I saw them part, and Ham come breaking through them to the front.</p>
+<p>Instantly I ran to him, for I divined that he meant to wade off with a rope. I held him back
+<pb n="57" id="p57"/>
+with both arms; and implored the men not to listen to him, not to let him stir that sand.</p>
+<p>Another cry arose, and we saw the cruel sail, with blow on blow, beat off the lower of the two men, and fly up in triumph round the active figure left alone upon the mast. Against such a sight, and against such determination as that of the calmly desperate man, who was already accustomed to lead half the people present, I might as hopefully have entreated the wind.</p>
+<p>I was swept away to some distance, where the people around me made me stay; urging, as I confusedly perceived, that he was bent on going, with help or without, and that I should endanger the precautions for his safety by troubling those with whom they rested. I saw hurry on the beach, and men running with ropes, and penetrating into a circle of figures that hid him from me. Then I saw him standing alone, in a seaman's frock and trousers, a rope in his hand, another round his body, and several of the best men holding to the latter.</p>
+<p>The wreck was breaking up. I saw that she was parting in the middle, and that the life of the solitary man upon the mast hung by a thread. He had a singular red cap on, not like a sailor's cap, but of a finer color; and as the few planks between him and destruction rolled and bulged, and as his death-knell rung, he was seen by all of us to wave this cap. I saw him do it now, and thought I was
+<pb n="58" id="p58"/>
+going distracted, when his action brought an old remembrance to my mind of a once dear friend, <hi rend="italics">the</hi> once dear friend, &mdash; Steerforth.</p>
+<p>Ham watched the sea until there was a great retiring wave; when he dashed in after it, and in a moment was buffeting with the water, rising with the hills, falling with the valleys, lost beneath the foam, &mdash; borne in towards the shore, borne on towards the ship.</p>
+<p>At length he neared the wreck. He was so near, that with one more of his vigorous strokes he would be clinging to it, when, a high, green, vast hillside of water moving on shoreward from beyond the ship, he seemed to leap up into it with a mighty bound, &mdash; and the ship was gone!</p>
+<p>They drew him to my very feet, insensible, dead. He was carried to the nearest house, and every means of restoration was tried; but he had been beaten to death by the great wave, and his generous heart was stilled forever.</p>
+<p>As I sat beside the bed, when hope was abandoned, and all was done, a fisherman who had known me when Emily and I were children, and ever since, whispered my name at the door.</p>
+<p>&ldquo;Sir, will you come over yonder?&rdquo;</p>
+<p>The old remembrance that had been recalled to me was in his look, and I asked him, &ldquo;Has a body come ashore?&rdquo;</p>
+<p>&ldquo;Yes.&rdquo;</p>
+<p>&ldquo;Do I know it?&rdquo;</p>
+<pb n="59" id="p59"/>
+<p>He answered nothing. But he led me to the shore. And on that part of it where she and I had looked for shells, two children, &mdash; on that part of it where some lighter fragments of the old boat blown down last night had been scattered by the wind, &mdash; among the ruins of the home he had wronged, &mdash; I saw him lying with his head upon his arm, as I had often seen him lie at school.</p>
+</div2>
+</div1>
+</body>
+</text>
+
+<text>
+<front>
+
+<div1 type="title page image"><p><figure id="title2"><p>[Title Page Image]</p></figure></p></div1>
+<titlePage>
+<docTitle><titlePart>BOOTS <lb/> AT THE HOLLY-TREE INN.
+
+<lb/>
+BY<lb/>
+CHARLES DICKENS
+<lb/>
+<hi rend="italics">READINGS.</hi>
+</titlePart></docTitle>
+
+<docImprint>
+AS CONDENSED BY HIMSELF, FOR HIS <pubPlace>BOSTON</pubPlace>
+<publisher>TICKNOR AND FIELDS.</publisher>
+<docDate>1868.</docDate>
+</docImprint>
+<pb id="piia" n="verso"/>
+<docEdition>GAD'S HILL, HIGHAM BY ROCHESTER, KENT, <lb/> Tenth October, 1867.
+<lb/>
+The edition bearing the imprint of MESSRS. TICKNOR AND FIELDS is the only <lb/>correct and authorized edition of my READINGS.
+<lb/>
+CHARLES DICKENS.</docEdition>
+
+<docImprint>
+Entered according to Act of Congress, in the year 1867, by <lb/> TICKNOR AND FIELDS, <lb/> in the Clerk's Office of the District Court of the District of Massachusetts.<lb/>
+UNIVERSITY PRESS: WELCH, BIGELOW, &amp; CO., <lb/> CAMBRIDGE.
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div1 type="section">
+<pb id="p3b" n="3"/>
+<head>BOOTS AT THE HOLLY-TREE INN.</head>
+<p>BEFORE the days of railways, and in the time of the old Great North Road, I was once snowed up at the Holly-Tree Inn. Beguiling the days of my imprisonment there by talking at one time or other with the whole establishment, I one day talked with the Boots, when he lingered in my room.</p>
+<p>Where had he been in his time? Boots repeated, when I asked him the question. Lord, he had been everywhere! And what had he been? Bless you, everything you could mention a' most.</p>
+<p>Seen a good deal? Why, of course he had. I should say so, he could assure me, if I only knew about a twentieth part of what had come in <hi rend="italics">his</hi> way. Why, it would be easier for him, he expected, to tell what he had n't seen than what he had. Ah! a deal, it would.</p>
+<p>What was the curiousest thing he had seen? Well! He did n't know. He could n't momently name what was the curiousest thing he had seen, &mdash; unless it was a Unicorn, &mdash; and he see <hi rend="italics">him</hi> once at a Fair. But supposing a young gentleman not eight
+<pb n="4" id="p4b"/>year old was to run away with a fine young woman of seven, might I think <hi rend="italics">that</hi> a queer start? Certainly! Then that was a start as he himself had had his blessed eyes on, &mdash; and he had cleaned the shoes they run away in, &mdash; and they was so little that he could n't get his hand into 'em.</p>
+<p>Master Harry Walmers's father, you see, he lived at the Elmses, down away by Shooter's Hill there, six or seven miles from Lunnon. He was a gentleman of spirit, and good-looking, and held his head up when he walked, and had what you may call Fire about him. He wrote poetry, and he rode, and he ran, and he cricketed, and he danced, and he acted, and he done it all equally beautiful. He was uncommon proud of Master Harry as was his only child; but he did n't spoil him, neither. He was a gentleman that had a will of his own, and a eye of his own, and that would be minded. Consequently, though he made quite a companion of the fine bright boy, and was delighted to see him so fond of reading his fairy books, and was never tired of hearing him say my name in Norval, or hearing him sing his songs about Young May Moons is beaming love, and When he as adores thee has left but the name, and that: &mdash; still he kept the command over the child, and the child <hi rend="italics">was</hi> a child, and it's wery much to be wished more of 'em was!</p>
+<p>How did Boots happen to know all this? Why, sir, through being under-gardener. Of course I
+<pb n="5" id="p5b"/>could n't be under-gardener, and be always about, in the summer-time, near the windows on the lawn, a mowing and sweeping, and weeding and pruning, and this and that, without getting acquainted with the ways of the family. Even supposing Master Harry had n't come to me one morning early, and said, &ldquo;Cobbs, how should you spell Norah, if you was asked?&rdquo; and when I give him my views, sir, respectin' the spelling o' that name, he took out his little knife, and he begun a cutting it in print, all over the fence.</p>
+<p>And the courage of the boy! Bless your soul, he'd have throwed off his little hat, and tucked up his little sleeves, and gone in at a Lion, he would. One day he stops, along with her (where I was hoeing weeds in the gravel), and says, speaking up, &ldquo;Cobbs,&rdquo; he says, &ldquo;I like <hi rend="italics">you.</hi>&rdquo; &ldquo;Do you, sir. I'm proud to hear it.&rdquo; &ldquo;Yes, I do, Cobbs. Why do I like you, do you think, Cobbs?&rdquo; &ldquo;Don't know, Master Harry, I am sure.&rdquo; &ldquo;Because Norah likes you, Cobbs.&rdquo; &ldquo;Indeed, sir? That's very gratifying.&rdquo; &ldquo;Gratifying, Cobbs? It's better than millions of the brightest diamonds, to be liked by Norah.&rdquo; &ldquo;Certainly, sir.&rdquo; &ldquo;You're going away, ain't you, Cobbs?&rdquo; &ldquo;Yes, sir.&rdquo; &ldquo;Would you like another situation, Cobbs?&rdquo; &ldquo;Well, sir, I should n't object, if it was a good 'un.&rdquo; &ldquo;Then, Cobbs,&rdquo; says that mite, &ldquo;you shall be our Head Gardener when we are married.&rdquo; And he tucks her, in her little sky-blue mantle, under his arm, and walks away.</p>
+<pb n="6" id="p6b"/>
+<p>Boots could assure me that it was better than a picter, and equal to a play, to see them babies with their long bright curling hair, their sparkling eyes, and their beautiful light tread, rambling about the garden, deep in love. Boots was of opinion that the birds believed they was birds, and kept up with 'em, singing to please 'em. Sometimes they would creep under the Tulip-tree, and would sit there with their arms round one another's necks, and their soft cheeks touching, a reading about the Prince, and the Dragon, and the good and bad enchanters, and the king's fair daughter. Sometimes I would hear them planning about having a house in a forest, keeping bees and a cow, and living entirely on milk and honey. Once I came upon them by the pond, and heard Master Harry say, &ldquo;Adorable Norah, kiss me, and say you love me to distraction, or I'll jump in head-foremost.&rdquo; On the whole, sir, the contemplation o' them two <sic corr="babies">babbies</sic> had a tendency to make me feel as if I was in love myself, &mdash; only I did n't exactly know who with.</p>
+<p>&ldquo;Cobbs,&rdquo; says Master Harry, one evening, when I was watering the flowers; &ldquo;I am going on a visit, this present midsummer, to my grandmamma's at York.&rdquo;</p>
+<p>&ldquo;Are you indeed, sir? I hope you'll have a pleasant time. I am going into Yorkshire, myself, when I leave here.&rdquo;</p>
+<p>&ldquo;Are you going to your grandmamma's, Cobbs?&rdquo;</p>
+<pb n="7" id="p7b"/>
+<p>&ldquo;No, sir. I have n't got such a thing.&rdquo;</p>
+<p>&ldquo;Not as a grandmamma, Cobbs?&rdquo;</p>
+<p>&ldquo;No, sir.&rdquo;</p>
+<p>The boy looks on at the watering of the flowers, for a little while, and then he says, &ldquo;I shall be very glad indeed to go, Cobbs, &mdash; Norah's going.&rdquo;</p>
+<p>&ldquo;You'll be all right then, sir, with your beautiful sweetheart by your side.&rdquo;</p>
+<p>&ldquo;Cobbs,&rdquo; returns the boy, a flushing, &ldquo;I never let anybody joke about that when I can prevent them.&rdquo;</p>
+<p>&ldquo;It was n't a joke, sir, &mdash; was n't so meant.&rdquo;</p>
+<p>&ldquo;I am glad of that, Cobbs, because I like you, you know, and you're going to live with us. &mdash; Cobbs!&rdquo;</p>
+<p>&ldquo;Sir.&rdquo;</p>
+<p>&ldquo;What do you think my grandmamma gives me, when I go down there?&rdquo;</p>
+<p>&ldquo;I could n't so much as make a guess, sir.&rdquo;</p>
+<p>&ldquo;A Bank of England five-pound note, Cobbs.&rdquo;</p>
+<p>&ldquo;Whew! That's a spanking sum of money, Master Harry.&rdquo;</p>
+<p>&ldquo;A person could do a good deal with such a sum of money as that. Could n't a person, Cobbs?&rdquo;</p>
+<p>&ldquo;I believe you, sir!&rdquo;</p>
+<p>&ldquo;Cobbs,&rdquo; says that boy, &ldquo;I'll tell you a secret. At Norah's house they have been joking her about me, and pretending to laugh at our being engaged. Pretending to make game of it, Cobbs!&rdquo;</p>
+<p>&ldquo;Such, sir, is the depravity of human natur.&rdquo;</p>
+<pb n="8" id="p8b"/>
+<p>The boy, looking exactly like his father, stood for a few minutes, and then departed with, &ldquo;Good night, Cobbs. I'm going in.&rdquo;</p>
+<p>If I was to ask Boots how it happened that I was a going to leave that place just at that present time, well, I could n't rightly answer you, sir. I do suppose I might have stayed there till now, if I had been anyways inclined. But, you see, he was younger then, and he wanted change. That's what I wanted, &mdash; change. Mr. Walmers, he says to me, when I give him notice of my intentions to leave, &ldquo;Cobbs,&rdquo; he says, &ldquo;have you anything to complain of? I make the inquiry, because if I find that any of my people really has anythink to complain of, I wish to make it right if I can.&rdquo; &ldquo;No, sir; thanking you, sir, I find myself as well sitiwated here as I could hope to be anywheres. The truth is, sir, that I'm a going to seek my fortun.&rdquo; &ldquo;O, indeed, Cobbs?&rdquo; he says; &ldquo;I hope you may find it.&rdquo; And Boots could assure me &mdash; which he did, touching his hair with his bootjack &mdash; that he had n't found it yet.</p>
+<p>Well, sir! I left the Elmses when my time was up, and Master Harry, he went down to the old lady's at York, which old lady were so wrapt up in that child as she would have give that child the teeth out of her head (if she had had any). What does that Infant do &mdash; for Infant you may call him, and be within the mark &mdash; but cut away from that old lady's with his Norah, on a expedition to go to Gretna Green and be married!</p>
+<pb n="9" id="p9b"/>
+<p>Sir, I was at this identical Holly-Tree Inn (having left it several times since to better myself, but always come back through one thing or another), when, one summer afternoon, the coach drives up, and out of the coach gets them two children. The Guard says to our Governor, &ldquo;I don't quite make out these little passengers, but the young gentleman's words was, that they was to be brought here.&rdquo; The young gentleman gets out; hands his lady out; gives the Guard something for himself; says to our Governor, &ldquo;We're to stop here to-night, please. Sitting-room and two bedrooms will be required. Mutton chops and cherry pudding for two!&rdquo; and tucks her, in her little sky-blue mantle, under his arm, and walks into the house much bolder than Brass.</p>
+<p>Sir, I leave you to judge what the amazement of that establishment was, when those two tiny creatures all alone by themselves was marched into the Angel; much more so, when I, who had seen them without their seeing me, give the Governor my views of the expedition they was upon.</p>
+<p>&ldquo;Cobbs,&rdquo; says the Governor, &ldquo;if this is so, I must set off myself to York and quiet their friends' minds. In which case you must keep your eye upon 'em, and humor 'em, till I come back. But before I take these measures, Cobbs, I should wish you to find from themselves whether your opinions is correct.&rdquo; &ldquo;Sir, to you,&rdquo; says I, &ldquo;that shall be done directly.&rdquo;</p>
+<pb n="10" id="p10b"/>
+<p>So Boots goes up stairs to the Angel, and there he finds Master Harry on a e-normous sofa, &mdash; immense at any time, but looking like the Great Bed of Ware, compared with him, &mdash; a drying the eyes of Miss Norah with his pocket-hankecher. Their little legs was entirely off the ground, of course; and it really is not possible to express how small them children looked.</p>
+<p>&ldquo;It's Cobbs! It's Cobbs!&rdquo; cries Master Harry, and he comes running to me and catching hold of my hand. Miss Norah, she comes running to me on t' other side and catching hold of my t' other hand, and they both jump for joy.</p>
+<p>&ldquo;I see you a getting out, sir,&rdquo; says I. &ldquo;I thought it was you. I thought I could n't be mistaken in your heighth and figure. What's the object of your journey, sir? &mdash; Matrimonial?&rdquo;</p>
+<p>&ldquo;We are going to be married, Cobbs, at Gretna Green, returns the boy. We have run away on purpose. Norah has been in rather low spirits, Cobbs; but she'll be happy, now we have found you to be our friend.&rdquo;</p>
+<p>&ldquo;Thank you, sir, and thank <hi rend="italics">you,</hi> miss, for your good opinion. <hi rend="italics">Did</hi> you bring any luggage with you, sir?&rdquo;</p>
+<p>If I will believe Boots when he gives me his word and honor upon it, the lady had got a parasol, a smelling-bottle, a round and a half of cold buttered toast, eight peppermint drops, and a Doll's hairbrush. The gentleman had got about half a
+<pb n="11" id="p11b"/>dozen yards of string, a knife, three or four sheets of writing-paper folded up surprisingly small, a orange, and a Chaney mug with his name on it.</p>
+<p>&ldquo;What may be the exact natur of your plans, sir?&rdquo; says I.</p>
+<p>&ldquo;To go on,&rdquo; replies the boy &mdash; which the courage of that boy was something wonderful! &mdash; &ldquo;in the morning, and be married to-morrow.&rdquo;</p>
+<p>&ldquo;Just so, sir. Would it meet your views, sir, if I was to accompany you?&rdquo;</p>
+<p>They both jumped for joy again, and cried out, &ldquo;O yes, yes, Cobbs! Yes!&rdquo;</p>
+<p>&ldquo;Well, sir, if you will excuse my having the freedom to give an opinion, what I should recommend would be this. I'm acquainted with a pony, sir, which, put in a pheayton that I could borrow, would take you and Mrs. Harry Walmers, Junior, (driving myself if you approved,) to the end of your journey in a very short space of time. I am not altogether sure, sir, that this pony will be at liberty till to-morrow, but even if you had to wait over to-morrow for him, it might be worth your while. As to the small account here, sir, in case you was to find yourself running at all short, that don't signify; because I'm a part proprietor of this inn, and it could stand over.&rdquo;</p>
+<p>Boots assures me that when they clapped their hands, and jumped for joy again, and called him, &ldquo;Good Cobbs!&rdquo; and &ldquo;Dear Cobbs!&rdquo; and bent across him to kiss one another in the delight of
+<pb n="12" id="p12b"/>their confiding hearts, he felt himself the meanest rascal, for deceiving 'em, that ever was born.</p>
+<p>&ldquo;Is there anything you want, just at present, sir?&rdquo; I says, mortally ashamed of myself.</p>
+<p>&ldquo;We should like some cakes after dinner,&rdquo; answers Master Harry, &ldquo;and two apples &mdash; and jam. With dinner we should like to have toast and water. But Norah has always been accustomed to half a glass of currant wine at dessert. And so have I.&rdquo;</p>
+<p>&ldquo;It shall be ordered at the bar, sir,&rdquo; I says.</p>
+<p>Sir, I has the feeling as fresh upon me at this minute of speaking as I had then, that I would far rather have had it out in half a dozen rounds with the Governor, than have combined with him; and that I wished with all my heart there was any impossible place where those two babies could make an impossible marriage, and live impossibly happy ever afterwards. However, as it could n't be, I went into the Governor's plans, and the Governor set off for York in half an hour.</p>
+<p>The way in which the women of that house &mdash; without exception &mdash; every one of 'em &mdash; married <hi rend="italics">and</hi> single &mdash; took to that boy when they heard the story, is surprising. It was as much as could be done to keep 'em from dashing into the room and kissing him. They climbed up all sorts of places, at the risk of their lives, to look at him through a pane of glass. And they was seven deep at the keyhole.</p>
+<pb n="13" id="p13b"/>
+<p>In the evening, I went into the room to see how the runaway couple was getting on. The gentleman was on the window-seat, supporting the lady in his arms. She had tears upon her face, and was lying, very tired and half asleep, with her head upon his shoulder.</p>
+<p>&ldquo;Mrs. Harry Walmers, Junior, fatigued, sir?&rdquo;</p>
+<p>&ldquo;Yes, she is tired, Cobbs; but she is not used to be away from home, and she has been in low spirits again. Cobbs, do you think you could bring a biffin, please?&rdquo;</p>
+<p>&ldquo;I ask your pardon, sir. What was it you &mdash;&rdquo;</p>
+<p>&ldquo;I think a Norfolk biffin would rouse her, Cobbs. She is very fond of them.&rdquo;</p>
+<p>Well, sir, I withdrew in search of the required restorative, and the gentleman handed it to the lady, and fed her with a spoon, and took a little himself. The lady being heavy with sleep, and rather cross, &ldquo;What should you think, sir,&rdquo; I says, &ldquo;of a chamber candlestick?&rdquo; The gentleman approved; the chambermaid went first up the great staircase; the lady, in her sky-blue mantle, followed, gallantly escorted by the gentleman; the gentleman embraced her at her door, and retired to his own apartment, where I locked him up.</p>
+<p>Boots could n't but feel with increased acuteness what a base deceiver he was, when they consulted him at breakfast (they had ordered sweet milk-and-water, and toast and currant jelly, overnight) about the pony. It really was as much as
+<pb n="14" id="p14b"/>he could do, he don't mind confessing to me, to look them two young things in the face, and think what a wicked old father of lies he had grown up to be. Howsomever, sir, I went on a lying like a Trojan about the pony. I told 'em that it did so unfort'nately happen that the pony was half clipped, you see, and that he could n't be took out in that state, for fear it should strike to his inside. But that he 'd be finished clipping in the course of the day, and that to-morrow morning at eight o'clock the pheayton would be ready. Boots's view of the whole case, looking back upon it in my room, is, that Mrs. Harry Walmers, Junior, was beginning to give in. She had n't had her hair curled when she went to bed, and she did n't seem quite up to brushing it herself, and its getting in her eyes put her out. But nothing put out Master Harry. He sat behind his breakfast-cup, a tearing away at the jelly, as if he had been his own father.</p>
+<p>In the course of the morning, Master Harry rung the bell, &mdash; it was surprising how that there boy did carry on, &mdash; and said, in a sprightly way, &ldquo;Cobbs, is there any good walks in this neighborhood?&rdquo;</p>
+<p>&ldquo;Yes, sir. There 's Love Lane.&rdquo;</p>
+<p>&ldquo;Get out with you, Cobbs!&rdquo; &mdash; that was that there boy's expression, &mdash; &ldquo;you 're joking.&rdquo;</p>
+<p>&ldquo;Begging your pardon, sir, there really is Love Lane; and a pleasant walk it is, and proud shall I
+<pb n="15" id="p15b"/>be to show it to yourself and Mrs. Harry Walmers, Junior.&rdquo;</p>
+<p>&ldquo;Norah, dear,&rdquo; says Master Harry, &ldquo;this is curious. We really ought to see Love Lane. Put on your bonnet, my sweetest darling, and we will go there with Cobbs.&rdquo;</p>
+<p>Boots leaves me to judge what a Beast he felt himself to be, when that young pair told him, as they all three jogged along together, that they had made up their minds to give him two thousand guineas a year as head gardener, on account of his being so true a friend to 'em. Well, sir, I turned the conversation as well as I could, and I took 'em down Love Lane to the water-meadows, and there Master Harry would have drowned himself in a half a moment more, a getting out a water-lily for her, &mdash; but nothing daunted that boy. Well, sir, they was tired out. All being so new and strange to 'em, they was tired as tired could be. And they laid down on a bank of daisies, like the children in the wood, leastways meadows, and fell asleep.</p>
+<p>I don't know, sir, &mdash; perhaps you do, &mdash; why it made a man fit to make a fool of himself, to see them two pretty babies a lying there in the clear still sunny day, not dreaming half so hard when they was asleep as they done when they was awake. But Lord! when you come to think of yourself, you know, and what a game you have been up to ever since you was in your own cradle,
+<pb n="16" id="p16b"/>and what a poor sort of a chap you are, arter all, that's were it is! Don't you see, sir?</p>
+<p>Well, sir, they woke up at last, and then one thing was getting pretty clear to me, namely, that Mrs. Harry Walmerses, Junior's, temper was on the move. When Master Harry took her round the waist, she said he &ldquo;teased her so&rdquo;; and when he says, &ldquo;Norah, my young May Moon, your Harry tease you?&rdquo; she tells him, &ldquo;Yes; and I want to go home!&rdquo;</p>
+<p>A biled fowl and baked bread-and-butter pudding brought Mrs. Walmers up a little; but I could have wished, I must privately own to you, sir, to have seen her more sensible of the woice of love, and less abandoning of herself to the currants in the pudding. However, Master Harry, he kep' up, and his noble heart was as fond as ever. Mrs. Walmers turned very sleepy about dusk, and begun to cry. Therefore, Mrs. Walmers went off to bed as per yesterday; and Master Harry ditto repeated.</p>
+<p>About eleven or twelve at night comes back the Governor in a chaise, along with Mr. Walmers and a elderly lady. Mr. Walmers says to our missis: &ldquo;We are much indebted to you, ma'am, for your kind care of our little children, which we can never sufficiently acknowledge. Pray, ma'am, where is my boy?&rdquo; Our missis says: &ldquo;Cobbs has the dear child in charge, sir. Cobbs, show Forty!&rdquo; Then Mr. Walmers, he says: &ldquo;Ah
+<pb n="17" id="p17b"/>Cobbs! I am glad to see <hi rend="italics">you.</hi> I understood you was here!&rdquo; And I says: &ldquo;Yes, sir. Your most obedient, sir.&rdquo;</p>
+<p>&ldquo;I beg your pardon, sir,&rdquo; I adds, while unlocking the door; &ldquo;I hope you are not angry with Master Harry. For Master Harry is a fine boy, sir, and will do you credit and honor.&rdquo; And Boots signifies to me, that if the fine boy's father had contradicted him in the state of mind in which he then was, he thinks he should have &ldquo;fetched him a crack,&rdquo; and took the consequences.</p>
+<p>But Mr. Walmers only says, &ldquo;No, Cobbs. No, my good fellow. Thank you!&rdquo; and, the door being opened, goes in, goes up to the bedside, bends gently down, and kisses the little sleeping face. Then he stands looking at it for a minute, looking wonderfully like it (they do say he ran away with Mrs. Walmers); and then he gently shakes the little shoulder.</p>
+<p>&ldquo;Harry, my dear boy! Harry!&rdquo;</p>
+<p>Master Harry starts up and looks at his pa. Looks at me too. Such is the honor of that mite, that he looks at me, to see whether he has brought me into trouble.</p>
+<p>&ldquo;I am not angry, my child. I only want you to dress yourself and come home.&rdquo;</p>
+<p>&ldquo;Yes, pa.&rdquo;</p>
+<p>Master Harry dresses himself quick.</p>
+<p>&ldquo;Please may I&rdquo; &mdash; the spirit of that little creatur,
+<pb n="18" id="p18b"/>&mdash; &ldquo;please, dear pa, &mdash; may I &mdash; kiss Norah, before I go?&rdquo;</p>
+<p>&ldquo;You may, my child.&rdquo;</p>
+<p>So he takes Master Harry in his hand, and I leads the way with the candle to that other bedroom, where the elderly lady is seated by the bed, and poor little Mrs. Harry Walmers, Junior, is fast asleep. There the father lifts the boy up to the pillow, and he lays his little face down for an instant by the little warm face of poor little Mrs. Harry Walmers, Junior, and gently draws it to him, &mdash; a sight so touching to the chambermaids who are a peeping through the door, that one of them calls out, &ldquo;It's a shame to part 'em!&rdquo;</p>
+<p>Finally, Boots says, that's all about it. Mr. Walmers drove away in the chaise, having hold of Master Harry's hand. The elderly lady and Mrs. Harry Walmers, Junior, that was never to be (she married a captain, long afterwards, and died in India), went off next day. In conclusion, Boots puts it to me whether I hold with him in two opinions: firstly, that there are not many couples on their way to be married who are half as innocent as them two children; secondly, that it would be a jolly good thing for a great many couples on their way to be married, if they could only be stopped in time and brought back separate.</p>
+</div1>
+</body>
+<back>
+<div1 type="section">
+<div2>
+<pb id="piiia" n="[i]"/>
+
+<head>THE ILLUSTRATED LIBRARY EDITION <lb/> OF THE COMPLETE WORKS OF <lb/> CHARLES DICKENS.</head>
+
+<p>THIS Edition is unquestionably the best and most desirable of all the editions of Mr. DICKENS'S Works now published, in the following respects:&mdash;</p>
+<p>LARGE TYPE. &mdash; This Edition is printed from larger, better-faced type than any other, and the page presents an open, attractive appearance.</p>
+<p>ILLUSTRATIONS. &mdash; This Edition contains (as no other does) all the <hi rend="italics">original illustrations</hi> by eminent English artists, &mdash; CRUIKSHANK, PHIZ, JOHN LEECH, SEYMOUR, CATTERMOLE, and others, &mdash; printed from the original plates, in which the spirit and delicacy of the early etchings are preserved.</p>
+<p>FINE SHAPE. &mdash; It is convenient and altogether comely in shape; the volumes are as handsome in form and external appearance as they are desirable on account of their beauty of type and illustration.</p>
+<p>CONTINUOUS PAGING. &mdash; Each volume is paged continuously, instead of having two or more series of pages, as in books made up of two or more separate volumes.</p>
+<p>CHEAPNESS. &mdash; This Edition is much cheaper than any other edition for the Library. It is published at the exceedingly low price of Two Dollars a volume.</p>
+<p>AUTHORIZED EDITION. &mdash; This Edition, which MR. DICKENS characterizes as &ldquo;The Best Edition of my Works,&rdquo; &mdash; together with the <hi rend="italics">Charles Dickens</hi> and <hi rend="italics">Diamond Editions,</hi> &mdash; is issued under the special authorization of MR. DICKENS, and <hi rend="italics">these are the only American Editions</hi> authorized by him, and in which he is pecuniarily interested.</p>
+<p>This Edition is complete in twenty-six volumes, as follows:&mdash;</p>
+<list>
+<item>The Pickwick Papers, 2 vols.</item>
+<item>Nicholas Nickleby, 2 vols.</item>
+<item>Our Mutual Friend, 2 vols.</item>
+<item>Great Expectations, 1 vol.</item>
+<item>Old Curiosity Shop, 2 vols.</item>
+<item>Barnaby Rudge, 2 vols.</item>
+<item>Oliver Twist, 1 vol.</item>
+<item>Sketches by &ldquo;Boz,&rdquo; 1 vol.</item>
+<item>David Copperfield, 2 vols.</item>
+<item>Martin Chuzzlewit, 2 vols.</item>
+<item>Little Dorrit, 2 vols.</item>
+<item>Dombey and Son, 2 vols.</item>
+<item>Bleak House, 2 vols.</item>
+<item>Christmas Books, 1 vol.</item>
+<item>Tale of Two Cities, 1 vol.</item>
+<item>Pictures from Italy, and American Notes, 1 vol.</item>
+</list>
+<p>These volumes, elegantly bound in Green Morocco Cloth, are sold separately or in sets, at &dollar; 2.00 a volume; bound in Half Calf, &dollar; 96.00 a set.</p>
+<p><hi rend="italics">For sale by the Booksellers. Sent, free of cost, on receipt of price, by the Publishers,</hi></p>
+<closer><signed>TICKNOR AND FIELDS,</signed> Boston; <lb/><hi rend="italics">and</hi> 63 <hi rend="italics">Bleecker Street, New York.</hi></closer>
+</div2>
+<div2>
+<pb id="piv" n="[ii]"/>
+<head>THE
+<lb/>
+EDITION.
+<lb/>
+OF THE COMPLETE WORKS OF
+<lb/>
+CHARLES DICKENS.</head>
+<p>This is an entirely New Edition, published simultaneously in London and Boston. It is produced with especial care, and combines, in a remarkable <sic corr="degree">degreee</sic>, LEGIBILITY, DURABILITY, BEAUTY, and CHEAPNESS. A distinguishing feature of this Edition&mdash;one that adds greatly to its convenience&mdash;is the attaching of a descriptive head-line by Mr. Dickens to every right-hand page. Each Novel is completed in a single volume.</p>
+<p>This Edition is printed in clear type, on fine toned paper, and is strongly bound in purple cloth. Every volume contains eight of the original Illustrations, selected as the best.</p>
+<p>The Edition bears a distinguishing fac-simile title, as represented above. It will be comprised in Thirteen or Fourteen Volumes, of which the following are</p>
+<list>
+<head>ALREADY ISSUED:</head>
+<item>The Pickwick Papers.</item>
+<item>Nicholas Nickleby.</item>
+<item>Martin Chuzzlewit.</item>
+<item>Dombey and Son.</item>
+<item>David Copperfield.</item> </list>
+<p>The remaining volumes will be issued at the rate of one or more a month until the set is completed.</p>
+<p>Price, One Dollar and Fifty Cents a Volume.</p>
+<p>For Sale by all the Booksellers. Sent postpaid on receipt of the price by the Publishers,</p>
+<closer><signed>TICKNOR AND FIELDS, Boston;<lb/>
+</signed><hi>and 63 Bleecker Street, New York.</hi></closer>
+</div2>
+</div1>
+</back>
+</text>
+<!--
+</group>
+-->
+</text>
+</TEI.2>

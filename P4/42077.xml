@@ -1,0 +1,869 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI U5-1995//DTD TEI Lite//EN" "teixlite.dtd" [
+
+]>
+<TEI.2>
+<teiHeader type="3D">
+<fileDesc>
+<titleStmt>
+<title><emph>The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. XI:</emph>
+Electronic Edition.
+</title><author>Dickens, Charles, 1812-1870</author>
+
+<respStmt>
+<resp>Illustrated by </resp>
+<name>Pailthorpe, F. W. (Frederic W.)</name>
+<name>Seymour, Robert, 1798-1836.</name>
+<name>Buss, Robert William, 1804-1875.</name>
+<name>Browne, Hablot Knight, 1815-1882.</name>
+</respStmt>
+
+<funder>Funding from the  E. S. P. Das Educational Foundation supported the electronic publication of this title.</funder>
+
+<respStmt>
+<resp>Text transcribed  by</resp>
+<name>Apex Data Services, Inc.</name>
+</respStmt>
+
+<respStmt><resp>Images scanned by</resp>
+<name>Matthew Kern</name></respStmt><respStmt><resp>Text encoded by </resp>
+<name>Apex Data Services, Inc., Harris Henderson, and Jill Kuhn Sexton</name></respStmt></titleStmt>
+<editionStmt><edition>First edition, <date>2002</date></edition></editionStmt>
+<extent>ca. 125K</extent>
+<publicationStmt>
+<publisher>Academic Affairs Library, UNC-CH</publisher>
+<pubPlace>University of North Carolina at Chapel Hill, </pubPlace><date>2002.</date>
+
+<availability>
+<p>&copy; This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+</availability>
+</publicationStmt>
+
+
+<sourceDesc>
+
+<biblFull>
+<titleStmt>
+<title type="title page">The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. XI</title>
+
+<author>Boz</author>
+
+<respStmt><resp>Illustrations by</resp>
+<name>Phiz</name></respStmt>
+
+</titleStmt>
+
+<extent> 38  p., ill.</extent>
+
+<publicationStmt>
+<pubPlace>LONDON:</pubPlace>
+<publisher>CHAPMAN &amp; HALL, 186, STRAND.</publisher>
+<date>MDCCCXXXVI</date>
+<authority></authority>
+</publicationStmt>
+<notesStmt><note>Call number Dickens 13 pt. 11 (Rare Book Collection, University of North Carolina at Chapel Hill)</note></notesStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+
+
+<editorialDecl>
+
+<p>The text has been entered using double-keying and verified against the original. 
+The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+
+<p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+
+<p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+
+<p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+<p>All double right and left quotation marks are encoded as &rdquo; and &ldquo;
+respectively.</p>
+<p>All single right and left quotation marks are encoded as &rsquo; and &lsquo; respectively.</p>
+<p>All em dashes are encoded as &mdash;</p><p>Indentation in lines has not been preserved.</p>
+<p>Running titles have not been preserved.</p>
+<p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+</editorialDecl>
+
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+
+<language id="eng">English</language>
+
+
+</langUsage>
+
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2002-12-03, </date><respStmt><name> Jill Kuhn Sexton, </name><resp>project manager, </resp>
+</respStmt><item>finished TEI-conformant encoding and final proofing.</item>
+</change>
+<change>
+<date>2002-09-27, </date><respStmt><name>Harris Henderson</name>
+<resp></resp></respStmt><item> finished TEI/SGML encoding</item></change>
+<change><date>2002-08-01, </date>
+<respStmt><name>Apex Data Services, Inc.</name><resp></resp></respStmt>
+<item> finished transcribing the text.</item></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<titlePage>
+
+
+<titlePart> No. XI.]</titlePart>
+
+<docEdition>[PRICE  1<hi rend="italics">s.</hi></docEdition>
+
+<docTitle><titlePart>THE <lb/> POSTHUMOUS PAPERS <lb/> OF THE PICKWICK CLUB <lb/> CONTAINING A FAITHFUL RECORD OF THE <lb/> PERAMBULATIONS, PERILS, TRAVELS, ADVENTURES <lb/> AND <lb/> Sporting Transactions <lb/> OF THE CORRESPONDING MEMBERS. 
+</titlePart></docTitle>
+
+<docAuthor>
+EDITED BY &ldquo;BOZ.&rdquo;
+</docAuthor>
+
+<docEdition>WITH ILLUSTRATIONS.</docEdition>
+
+
+<docImprint><pubPlace>LONDON:</pubPlace>
+<publisher>CHAPMAN &amp; HALL, 186, STRAND.</publisher>
+<docDate>MDCCCXXXVI</docDate>
+</docImprint>
+</titlePage>
+<div1 type="advertisement">
+<pb id="pii" n="ii"/>
+<head>SPLENDIDLY ILLUSTRATED VOLUME.</head>
+<p>In quarto, bound in a peculiarly elegant and novel manner, price 28<hi
+rend="italics">s.,</hi><lb/> THE PICTORIAL ALBUM, <lb/> OR <lb/> CABINET OF PAINTINGS, <lb/> FOR THE YEAR 1837.</p>
+<p>Containing Eleven Designs, executed in Oil-colours by G. BAXTER, and forming perfect Fac-similes of the original Pictures. With Letter-press Illustrations. The Poetry by MISS LONDON. The Prose by JAMES OLLIER, Esq.</p>
+<p>&ldquo;Of all the novelties of the season, this is <hi rend="italics">the</hi> novelty&mdash;a decided original, and, what is still better, as beautiful as it is new.&rdquo;&mdash;<hi
+rend="italics">Court Journal.</hi></p>
+<p>&ldquo;Unique, among the annual tribe, as regards its embellishments, which are the grand attraction. They have the appearance of highly-elaborated miniatures, executed with body colours, and mounted on tinted paper. The subjects are various, including landscapes, interiors, and figures, and the different style of each artist is imitated completely. The binding of the book is correspondingly novel and striking.&rdquo;&mdash;<hi
+rend="italics">Spectator.</hi></p>
+<p>&ldquo;The literature of the Pictorial Album is of high pretension, and of an elevated order; the tales are written with spirit, and the poetry is considerably superior to the average verse which we find in the Annuals.&rdquo;&mdash;<hi
+rend="italics">Atlas.</hi></p>
+</div1>
+<div1 type="advertisement">
+<opener>Price 8<hi rend="italics">s.,</hi> containing Four Hundred pages of Letter-press, and Fourteen Illustrations, the First Volume of </opener><head>THE LIBRARY OF FICTION, <lb/> OR <lb/> FAMILY STORY-TELLER.</head>
+<p>This cheap and entertaining volume, admirably adapted for fireside reading, contains Sketches and Tales written expressly for the work, by</p>
+<list>
+<item>&ldquo;BOZ.&rdquo;</item>
+<item>THE COUNTESS OF BLESSINGTON.</item>
+<item>SHERIDAN KNOWLES.</item>
+<item>E. MAYHEW, Author of &ldquo;Make your Wills.&rdquo;</item>
+<item>CHARLES OLLIER, Author of &ldquo;Inesilla.&rdquo;</item>
+<item>G. P. R. JAMES.</item>
+<item>MISS MITFORD.</item>
+<item>DOUGLAS JERROLD.</item>
+<item>C. WHITEHEAD, Author of the &ldquo;Cavalier.&rdquo;</item>
+<item>T. K. HERVEY.</item>
+<item>THE GENTLEMAN IN BLACK</item>
+<item>AUTHOR OF RATTLIN THE REEFER.</item>
+</list>
+<p>&ldquo;This periodical has taken a more lofty, a more discursive, and consequently a much improved flight, and the latter numbers have contained some tales of a very high order.</p>
+<p>&ldquo;We should be doing an injustice to the publishers did we not remark, that in all the novelties that have yet appeared in the Library of Fiction, there is not one that has contained aught that might shock the purity of the most rigid moralist, or wound the feelings of the most serious Christian. It may safely be admitted into families.&rdquo;&mdash;<hi
+rend="italics">Metropolitan.</hi></p>
+</div1>
+<div1 type="advertisement">
+<opener>In two vols., small 8vo, with Frontispieces, price 9<hi rend="italics">s.</hi></opener>
+<head>EDWARD, THE CRUSADER'S SON.</head>
+<p>A Tale, illustrating the History, Manners, and Customs of England in the Eleventh Century.</p>
+<p>By MRS. BARWELL.</p>
+<p>&ldquo;The intelligent and accomplished lady who has written these volumes was urged to the undertaking by an idea that a tale founded on, and illustrating the manners, customs, architecture, and costume of the eleventh century, would be valuable, not only to the young, but to that class of instructors who disapprove of the too-stimulating pages of historical romance, and yet desire something more than dull details for their pupils. The task was difficult, but it has been fully conquered. Mrs. Barwell has proved herself worthy to take place amongst the most able of those who write for the benefit of the rising generation and we most cordially recommend the volumes.&rdquo;&mdash;<hi
+rend="italics">New Monthly Magazine.</hi></p>
+<closer>LONDON: CHAPMAN AND HALL, 186, STRAND.</closer>
+</div1>
+</front>
+<body>
+<div1 type="section">
+<pb id="piii" n="iii"/>
+<p>
+<figure id="ill1">
+<p><hi rend="italics">page 313</hi></p>
+</figure>
+</p>
+</div1>
+<div1 type="section">
+<pb id="piv" n="iv"/>
+<p>
+<figure id="ill2">
+<p><hi rend="italics">page 326</hi></p>
+</figure>
+</p>
+</div1>
+<div1 type="text">
+
+<head>[POSTHUMOUS PAPERS OF THE PICKWICK CLUB]</head>
+
+<div2 type="chapter">
+<pb id="p307" n="307"/>
+<head>CHAPTER XXIX.</head>
+<head>
+HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE OF A COUPLE OF NICE YOUNG MEN BELONGING TO ONE OF THE LIBERAL PROFESSIONS; HOW THEY DISPORTED THEMSELVES ON THE ICE; AND HOW THEIR VISIT CAME TO A CONCLUSION.
+</head>
+<p>&ldquo;WELL Sam,&rdquo; said Mr. Pickwick as that favoured servitor entered his bed-chamber with his warm water, on the morning of Christmas Day, &ldquo;Still frosty?&rdquo;</p>
+<p>&ldquo;Water in the wash-hand basin's a mask o' ice, Sir,&rdquo; responded Sam.</p>
+<p>&ldquo;Severe weather, Sam,&rdquo; observed Mr. Pickwick.</p>
+<p>&ldquo;Fine time for them as is well wropped up, as the Polar Bear said to himself, ven he was practising his skaiting,&rdquo; replied Mr. Weller.</p>
+<p>&ldquo;I shall be down in a quarter of an hour, Sam,&rdquo; said Mr. Pickwick, untying his nightcap.</p>
+<p>&ldquo;Wery good, Sir,&rdquo; replied Sam. &ldquo;There's a couple o' Sawbones down stairs.&rdquo;</p>
+<p>&ldquo;A couple of what!&rdquo; exclaimed Mr. Pickwick, sitting up in bed.</p>
+<p>&ldquo;A couple o' Sawbones,&rdquo; said Sam.</p>
+<p>&ldquo;What's a Sawbones?&rdquo; inquired Mr. Pickwick, not quite certain whether it was a live animal, or something to eat.</p>
+<p>&ldquo;What! don't you know what a Sawbones is, Sir?&rdquo; enquired Mr. Weller; &ldquo;I thought every body know'd as a Sawbones was a Surgeon.&rdquo;</p>
+<p>&ldquo;Oh, a Surgeon, eh?&rdquo; said Mr. Pickwick with a smile.</p>
+<p>&ldquo;Just that Sir,&rdquo; replied Sam. &ldquo;These here ones as is below, though, aint reg'lar thorough-bred Sawbones; they're only in trainin.&rdquo;</p>
+<p>&ldquo;In other words they're Medical Students, I suppose?&rdquo; said Mr. Pickwick.</p>
+<p>Sam Weller nodded assent.</p>
+<p>&ldquo;I am glad of it,&rdquo; said Mr. Pickwick, casting his nightcap energetically on the counterpane, &ldquo;They are fine fellows; very fine fellows, with judgments matured by observation and reflection; and tastes refined by reading and study. I am very glad of it.&rdquo;</p>
+<p>&ldquo;They're a smokin' cigars by the kitchen fire,&rdquo; said Sam.</p>
+<p>&ldquo;Ah!&rdquo; observed Mr. Pickwick, rubbing his hands, &ldquo;overflowing with kindly feelings and animal spirits. Just what I like to see!&rdquo;</p>
+<p>&ldquo;And one on 'em,&rdquo; said Sam, not noticing his master's interruption, &ldquo;one on 'em 's got his legs on the table, and is a drinkin' brandy neat, vile the tother one&mdash;him in the barnacles&mdash;has got a barrel o' oysters atween his knees, vich he's a openin' like steam, and as fast as he eats 'em, he takes a aim vith the shells at young dropsy, who's a settin' down fast asleep, in the chimbley corner.&rdquo;</p>
+<pb n="308" id="p308"/>
+<p>&ldquo;Eccentricities of genius, Sam,&rdquo; said Mr. Pickwick. &ldquo;You may retire.&rdquo;</p>
+<p>Sam did retire accordingly; and Mr. Pickwick, at the expiration of the quarter of an hour, went down to breakfast.</p>
+<p>&ldquo;Here he is at last,&rdquo; said old Wardle. &ldquo;Pickwick, this is Miss Allen's brother, Mr. Benjamin Allen&mdash;Ben we call him, and so may you if you like. This gentleman is his very particular friend, Mr.&mdash;&rdquo;</p>
+<p>&ldquo;Mr. Bob Sawyer,&rdquo; interposed Mr. Benjamin Allen, whereupon Mr. Bob Sawyer and Mr. Benjamin Allen laughed in concert.</p>
+<p>Mr. Pickwick bowed to Bob Sawyer, and Bob Sawyer bowed to Mr. Pickwick; Bob and his very particular friend then applied themselves most assiduously to the eatables before them; and Mr. Pickwick had an opportunity of glancing at them both.</p>
+<p>Mr. Benjamin Allen was a coarse, stout, thick-set young man, with black hair cut rather short, and a white face cut rather long. He was embellished with spectacles, and wore a white neckerchief. Below his single-breasted black surtout, which was buttoned up to his chin, appeared the usual number of pepper-and-salt coloured legs, terminating in a pair of imperfectly polished boots. Although his coat was short in the sleeves, it disclosed no vestige of a linen wristband; and although there was quite enough of his face to admit of the encroachment of a shirt collar, it was not graced by the smallest approach to that appendage. He presented altogether rather a mildewy appearance, and omitted a fragrant odour of full-flavoured Cubas.</p>
+<p>Mr. Bob Sawyer, who was habited in a coarse blue coat, which, without being either a great coat or a surtout, partook of the nature and qualities of both, had about him that sort of slovenly smartness, and swaggering gait, which is peculiar to young gentlemen who smoke in the streets by day, shout and scream in the same by night, call waiters by their christian names, and do various other acts and deeds of an equally facetious description. He wore a pair of plaid trousers, and a large rough double-breasted waistcoat; and out of doors, carried a thick stick with a big top. He eschewed gloves, and looked, upon the whole, something like a dissipated Robinson Crusoe.</p>
+<p>Such were the two worthies to whom Mr. Pickwick was introduced, as he took his seat at the breakfast table on Christmas morning.</p>
+<p>&ldquo;Splendid morning, gentlemen,&rdquo; said Mr. Pickwick.</p>
+<p>Mr. Bob Sawyer slightly nodded his assent to the proposition, and asked Mr. Benjamin Allen for the mustard.</p>
+<p>&ldquo;Have you come far this morning, gentlemen?&rdquo; inquired Mr. Pickwick.</p>
+<p>&ldquo;Blue Lion at Muggleton,&rdquo; briefly responded Mr. Allen.</p>
+<p>&ldquo;You should have joined us last night,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;So we should,&rdquo; replied Bob Sawyer, &ldquo;but the brandy was too good to leave in a hurry: wasn't it, Ben?&rdquo;</p>
+<p>&ldquo;Certainly,&rdquo; said Mr. Benjamin Allen; &ldquo;and the cigars were not bad, or the pork chops either: were they, Bob?&rdquo;</p>
+<p>&ldquo;Decidedly not,&rdquo; said Bob. And the particular friends resumed
+<pb n="309" id="p309"/>
+their attack upon the breakfast, more freely than before, as if the recollection of last night's supper had imparted a new relish to the meal.</p>
+<p>&ldquo;Peg away, Bob,&rdquo; said Mr. Allen to his companion, encouragingly.</p>
+<p>&ldquo;So I do,&rdquo; replied Bob Sawyer. And so, to do him justice, he did.</p>
+<p>&ldquo;Nothing like dissecting, to give one an appetite,&rdquo; said Mr. Bob Sawyer, looking round the table.</p>
+<p>Mr. Pickwick slightly shuddered.</p>
+<p>&ldquo;By the bye, Bob,&rdquo; said Mr. Allen, &ldquo;have you finished that leg yet?&rsquo;</p>
+<p>&ldquo;Nearly,&rdquo; replied Sawyer, helping himself to half a fowl as he spoke. &ldquo;It's a very muscular one for a child's.&rdquo;</p>
+<p>&ldquo;Is it?&rdquo; inquired Mr. Allen, carelessly.</p>
+<p>&ldquo;Very,&rdquo; said Bob Sawyer, with his mouth full.</p>
+<p>&ldquo;I've put my name down for an arm, at our place,&rdquo; said Mr. Allen. &ldquo;We're clubbing for a subject, and the list is nearly full, only we can't get hold of any fellow that wants a head. I wish you'd take it.&rdquo;</p>
+<p>&ldquo;No,&rdquo; replied Bob Sawyer; &ldquo;can't afford expensive luxuries.&rdquo;</p>
+<p>&ldquo;Nonsense!&rdquo; said Allen.</p>
+<p>&ldquo;Can't indeed,&rdquo; rejoined Bob Sawyer. &ldquo;I wouldn't mind a brain, but I couldn't stand a whole head.&rdquo;</p>
+<p>&ldquo;Hush, hush, gentlemen, pray,&rdquo; said Mr. Pickwick, &ldquo;I hear the ladies.&rdquo;</p>
+<p>As Mr. Pickwick spoke, the ladies, gallantly escorted by Messrs. Snodgrass, Winkle, and Tupman, returned from an early walk.</p>
+<p>&ldquo;Lor, Ben!&rdquo; said Arabella, in a tone which expressed more surprise than pleasure at the sight of her brother.</p>
+<p>&ldquo;Come to take you home to-morrow,&rdquo; replied Benjamin.</p>
+<p>Mr. Winkle turned pale.</p>
+<p>&ldquo;Don't you see Bob Sawyer, Arabella?&rdquo; enquired Mr. Benjamin Allen, somewhat reproachfully. Arabella gracefully held out her hand, in acknowledgment of Bob Sawyer's presence. A thrill of hatred struck to Mr. Winkle's heart, as Bob Sawyer inflicted on the proffered hand a perceptible squeeze.</p>
+<p>&ldquo;Ben dear!&rdquo; said Arabella, blushing; &ldquo;have&mdash;have&mdash;you been introduced to Mr. Winkle?&rdquo;</p>
+<p>&ldquo;I have not been, but I shall be very happy to be, Arabella,&rdquo; replied her brother gravely. Here Mr. Allen bowed grimly to Mr. Winkle, while Mr. Winkle and Mr. Bob Sawyer glanced mutual distrust out of the corners of their eyes.</p>
+<p>The arrival of the two new visitors, and the consequent check upon Mr. Winkle and the young lady with the fur round her boots, would in all probability have proved a very unpleasant interruption to the hilarity of the party, had not the cheerfulness of Mr. Pickwick, and the good humour of the host, been exerted to the very utmost for the common weal. Mr. Winkle gradually insinuated himself into the good graces of Mr. Benjamin Allen, and even joined in a friendly conversation with Mr. Bob Sawyer; who, enlivened with the brandy, and the breakfast, and the talking, gradually ripened into a state of extreme facetiousness, and related with much glee an agreeable anecdote, about the removal of a tumour on some gentleman's head, which he illustrated
+<pb n="310" id="p310"/>
+by means of an oyster-knife and a half-quartern loaf, to the great edification of the assembled company. Then the whole train went to church, where Mr. Benjamin Allen fell fast asleep; while Mr. Bob Sawyer abstracted his thoughts from worldly matters, by the ingenious process of carving his name on the seat of the pew, in corpulent letters of about four inches long.</p>
+<p>&ldquo;Now,&rdquo; said Wardle, after a substantial lunch, with the agreeable items of strong-beer and cherry-brandy, had been done ample justice to; &ldquo;what say you to an hour on the ice? We shall have plenty of time.&rdquo;</p>
+<p>&ldquo;Capital!&rdquo; said Mr. Benjamin Allen.</p>
+<p>&ldquo;Prime!&rdquo; ejaculated Mr. Bob Sawyer.</p>
+<p>&ldquo;You skait, of course, Winkle?&rdquo; said Wardle.</p>
+<p>&ldquo;Ye&mdash;yes; oh, yes;&rdquo; replied Mr. Winkle. &ldquo;I&mdash;I&mdash;am <hi
+rend="italics">rather</hi> out of practice.&rdquo;</p>
+<p>&ldquo;Oh, <hi rend="italics">do</hi> skait, Mr. Winkle,&rdquo; said Arabella. &ldquo;I like to see it <hi
+rend="italics">so</hi> much.&rdquo;</p>
+<p>&ldquo;Oh, it is <hi rend="italics">so</hi> graceful,&rdquo; said another young lady.</p>
+<p>A third young lady said it was elegant, and a fourth expressed her opinion that it was &ldquo;swan-like.&rdquo;</p>
+<p>&ldquo;I should be very happy, I'm sure,&rdquo; said Mr. Winkle, reddening; &ldquo;but I have no skaits.&rdquo;</p>
+<p>This objection was at once overruled. Trundle had got a couple of pair, and the fat boy announced that there were half-a-dozen more, down stairs, whereat Mr. Winkle expressed exquisite delight, and looked exquisitely uncomfortable.</p>
+<p>Old Wardle led the way to a pretty large sheet of ice; and the fat boy and Mr. Weller, having shovelled and swept away the snow which had fallen on it during the night, Mr. Bob Sawyer adjusted his skaits with a dexterity which to Mr. Winkle was perfectly marvellous, and described circles with his left leg, and cut figures of eight; and inscribed upon the ice, without once stopping for breath, a great many other pleasant and astonishing devices, to the excessive satisfaction of Mr. Pickwick, Mr. Tupman, and the ladies; which reached a pitch of positive enthusiasm, when old Wardle and Benjamin Allen, assisted by the aforesaid Bob Sawyer, performed some mystic evolutions, which they called a reel.</p>
+<p>All this time, Mr. Winkle, with his face and hands blue with the cold, had been forcing a gimlet into the soles of his feet, and putting his skaits on, with the points behind, and getting the straps into a very complicated and entangled state, with the assistance of Mr. Snodgrass, who knew rather less about skaits than a Hindoo. At length, however, with the assistance of Mr. Weller, the unfortunate skaits were firmly screwed and buckled on, and Mr. Winkle was raised to his feet.</p>
+<p>&ldquo;Now, then, Sir,&rdquo; said Sam, in an encouraging tone; &ldquo;off vith you, and show 'em how to do it.&rdquo;</p>
+<p>&ldquo;Stop, Sam, stop,&rdquo; said Mr. Winkle, trembling violently, and clutching hold of Sam's arms with the grasp of a drowning man. &ldquo;How slippery it is, Sam!&rdquo;</p>
+<pb n="311" id="p311"/>
+<p>&ldquo;Not an uncommon thing upon ice, Sir,&rdquo; replied Mr. Weller. &ldquo;Hold up, Sir.&rdquo;</p>
+<p>This last observation of Mr. Weller's bore reference to a demonstration Mr. Winkle made at the instant, of a frantic desire to throw his feet in the air, and dash the back of his head on the ice.</p>
+<p>&ldquo;These&mdash;these&mdash;are very awkward skaits; ain't they, Sam?&rdquo; enquired Mr. Winkle, staggering.</p>
+<p>&ldquo;I'm afeerd there's an orkard gen'lm'n in 'em, Sir,&rdquo; replied Sam.</p>
+<p>&ldquo;Now, Winkle,&rdquo; cried Mr. Pickwick, quite unconscious that there was anything the matter. &ldquo;Come; the ladies are all anxiety.&rdquo;</p>
+<p>&ldquo;Yes, yes,&rdquo; replied Mr. Winkle, with a ghastly smile. &ldquo;I'm coming.&rdquo;</p>
+<p>&ldquo;Just a goin' to begin,&rdquo; said Sam, endeavouring to disengage himself. &ldquo;Now, Sir, start off.&rdquo;</p>
+<p>&ldquo;Stop an instant, Sam,&rdquo; gasped Mr. Winkle, clinging most affectionately to Mr. Weller. &ldquo;I find I've got a couple of coats at home, that I don't want, Sam. You may have them, Sam.&rdquo;</p>
+<p>&ldquo;Thank'ee, Sir,&rdquo; replied Mr. Weller.</p>
+<p>&ldquo;Never mind touching your hat, Sam,&rdquo; said Mr. Winkle, hastily. &ldquo;You needn't take your hand away, to do that. I meant to have given you five shillings this morning for a Christmas-box, Sam. I'll give it you this afternoon, Sam.&rdquo;</p>
+<p>&ldquo;You're wery good, Sir,&rdquo; replied Mr. Weller.</p>
+<p>&ldquo;Just hold me at first, Sam; will you?&rdquo; said Mr. Winkle. &ldquo;There&mdash;that's right. I shall soon get in the way of it, Sam. Not too fast, Sam; not too fast.&rdquo;</p>
+<p>Mr. Winkle, stooping forward with his body half doubled up, was being assisted over the ice by Mr. Weller, in a very singular and un-swan-like manner, when Mr. Pickwick most innocently shouted from the opposite bank&mdash;</p>
+<p>&ldquo;Sam!&rdquo;</p>
+<p>&ldquo;Sir?&rdquo; said Mr. Weller.</p>
+<p>&ldquo;Here. I want you.&rdquo;</p>
+<p>&ldquo;Let go, Sir,&rdquo; said Sam. &ldquo;Don't you hear the governor a callin'? Let go, Sir.&rdquo;</p>
+<p>With a violent effort, Mr. Weller disengaged himself from the grasp of the agonized Pickwickian; and, in so doing, administered a considerable impetus to the unhappy Mr. Winkle. With an accuracy which no degree of dexterity or practice could have ensured, that unfortunate gentleman bore swiftly down into the centre of the reel, at the very moment when Mr. Bob Sawyer was performing a flourish of unparalleled beauty. Mr. Winkle struck wildly against him, and with a loud crash they both fell heavily down. Mr. Pickwick ran to the spot. Bob Sawyer had risen to his feet, but Mr. Winkle was far too wise to do anything of the kind in skaits. He was seated on the ice, making spasmodic efforts to smile; but anguish was depicted on every lineament of his countenance.</p>
+<p>&ldquo;Are you hurt?&rdquo; enquired Mr. Benjamin Allen, with great anxiety.</p>
+<p>&ldquo;Not much,&rdquo; said Mr. Winkle, rubbing his back very hard.</p>
+<pb n="312" id="p312"/>
+<p>&ldquo;I wish you'd let me bleed you,&rdquo; said Mr. Benjamin with great eagerness.</p>
+<p>&ldquo;No, thank you,&rdquo; replied Mr. Winkle hurriedly.</p>
+<p>&ldquo;I really think you had better,&rdquo; said Allen.</p>
+<p>&ldquo;Thank you,&rdquo; replied Mr. Winkle; &ldquo;I'd rather not.&rdquo;</p>
+<p>&ldquo;What do <hi rend="italics">you</hi> think, Mr. Pickwick?&rdquo; enquired Bob Sawyer.</p>
+<p>Mr. Pickwick was excited and indignant. He beckoned to Mr. Weller, and said in a stern voice, &ldquo;Take his skaits off.&rdquo;</p>
+<p>&ldquo;No; but really I had scarcely begun,&rdquo; remonstrated Mr. Winkle.</p>
+<p>&ldquo;Take his skaits off,&rdquo; repeated Mr. Pickwick firmly.</p>
+<p>The command was not to be resisted. Mr. Winkle allowed Sam to obey it, in silence.</p>
+<p>&ldquo;Lift him up,&rdquo; said Mr. Pickwick. Sam assisted him to rise.</p>
+<p>Mr. Pickwick retired a few paces apart from the by-standers; and, beckoning his friend to approach, fixed a searching look upon him, and uttered in a low, but distinct and emphatic tone, these remarkable words:</p>
+<p>&ldquo;You're a humbug, Sir.&rdquo;</p>
+<p>&ldquo;A what!&rdquo; said Mr. Winkle, starting.</p>
+<p>&ldquo;A humbug, Sir. I will speak plainer, if you wish it. An impostor, Sir.&rdquo;</p>
+<p>With these words, Mr. Pickwick turned slowly on his heel, and rejoined his friends.</p>
+<p>While Mr. Pickwick was delivering himself of the sentiment just recorded, Mr. Weller and the fat boy, having by their joint endeavours cut out a slide, were exercising themselves thereupon, in a very masterly and brilliant manner. Sam Weller, in particular, was displaying that beautiful feat of fancy sliding which is currently denominated &ldquo;knocking at the cobbler's door,&rdquo; and which is achieved by skimming over the ice on one foot, and occasionally giving a two-penny postman's knock upon it, with the other. It was a good long slide, and there was something in the motion which Mr. Pickwick, who was very cold with standing still, could not help envying.</p>
+<p>&ldquo;It looks a nice warm exercise that, doesn't it?&rdquo; he enquired of Wardle, when that gentleman was thoroughly out of breath, by reason of the indefatigable manner in which he had converted his legs into a pair of compasses, and drawn complicated problems on the ice.</p>
+<p>&ldquo;Ah, it does, indeed,&rdquo; replied Wardle. &ldquo;Do you slide?&rdquo;</p>
+<p>&ldquo;I used to do so, on the gutters, when I was a boy,&rdquo; replied Mr. Pickwick.</p>
+<p>&ldquo;Try it now,&rdquo; said Wardle.</p>
+<p>&ldquo;Oh do, please, Mr. Pickwick,&rdquo; cried all the ladies.</p>
+<p>&ldquo;I should be very happy to afford you any amusement,&rdquo; replied Mr. Pickwick, &ldquo;but I haven't done such a thing these thirty years.&rdquo;</p>
+<p>&ldquo;Pooh! pooh! nonsense!&rdquo; said Wardle, dragging off his skaits with the impetuosity which characterised all his proceedings. &ldquo;Here; I'll keep you company; come along.&rdquo; And away went the good tempered old fellow down the slide, with a rapidity which came very close upon Mr. Weller, and beat the fat boy all to nothing.</p>
+<pb n="313" id="p313"/>
+<p>Mr. Pickwick paused, considered, pulled off his gloves and put them in his hat, took two or three short runs, baulked himself as often, and at last took another run and went slowly and gravely down the slide, with his feet about a yard and a quarter apart, amidst the gratified shouts of all the spectators.</p>
+<p>&ldquo;Keep the pot a bilin', Sir,&rdquo; said Sam; and down went Wardle again, and then Mr. Pickwick, and then Sam, and then Mr. Winkle, and then Mr. Bob Sawyer, and then the fat boy, and then Mr. Snodgrass, following closely upon each other's heels, and running after each other with as much eagerness as if all their future prospects in life depended on their expedition.</p>
+<p>It was the most intensely interesting thing, to observe the manner in which Mr. Pickwick performed his share in the ceremony: to watch the torture of anxiety with which he viewed the person behind, gaining upon him at the imminent hazard of tripping him up: to see him gradually expend the painful force which he had put on at first, and turn slowly round on the slide, with his face towards the point from which he had started: to contemplate the playful smile which mantled on his face when he had accomplished the distance, and the eagerness with which he turned round when he had done so, and ran after his predecessor, his black gaiters tripping pleasantly through the snow, and his eyes beaming cheerfulness and gladness through his spectacles. And when he was knocked down, (which happened upon the average every third round), it was the most invigorating sight that can possibly be imagined, to behold him gather up his hat, gloves, and handkerchief, with a glowing countenance, and resume his station in the rank, with an ardour and enthusiasm which nothing could abate.</p>
+<p>The sport was at its height, the sliding was at the quickest, the laughter was at the loudest, when a sharp smart crack was heard. There was a quick rush towards the bank, a wild scream from the ladies, and a shout from Mr. Tupman. A large mass of ice disappeared, the water bubbled up over it, and Mr. Pickwick's hat, gloves, and handkerchief were floating on the surface; and this was all of Mr. Pickwick that anybody could see.</p>
+<p>Dismay and anguish were depicted on every countenance; the males turned pale, and the females fainted; Mr. Snodgrass and Mr. Winkle grasped each other by the hand, and gazed at the spot where their leader had gone down, with frenzied eagerness; while Mr. Tupman, by way of rendering the promptest assistance, and at the same time conveying to any persons who might be within hearing the clearest possible notion of the catastrophe, ran off across the country at his utmost speed, screaming &ldquo;Fire!&rdquo; with all his might and main.</p>
+<p>It was at this very moment, when old Wardle and Sam Weller were approaching the hole with cautious steps, and Mr. Benjamin Allen was holding a hurried consultation with Mr. Bob Sawyer, on the advisability of bleeding the company generally, as an improving little bit of professional practice&mdash;it was at this very moment that a face, head, and shoulders emerged from beneath the water, and disclosed the features and spectacles of Mr. Pickwick</p>
+<pb id="p314" n="314"/>
+<p>&ldquo;Keep yourself up for an instant&mdash;for only one instant,&rdquo; bawled Mr. Snodgrass.</p>
+<p>&ldquo;Yes, do; let me implore you&mdash;for my sake,&rdquo; roared Mr. Winkle, deeply affected. The adjuration was rather unnecessary; the probability being, that if Mr. Pickwick had declined to keep himself up for anybody else's sake, it would have occurred to him that he might as well do so, for his own.</p>
+<p>&ldquo;Do you feel the bottom there, old fellow?&rdquo; said Wardle.</p>
+<p>&ldquo;Yes, certainly,&rdquo; replied Mr. Pickwick, wringing the water from his head and face, and gasping for breath. &ldquo;I fell upon my back. I couldn't get on my feet at first.&rdquo;</p>
+<p>The clay upon so much of Mr. Pickwick's coat as was yet visible, bore testimony to the accuracy of this statement; and as the fears of the spectators were still further relieved by the fat boy's suddenly recollecting that the water was nowhere more than five feet deep, prodigies of valour were performed to get him out. After a vast quantity of splashing, and cracking, and struggling, Mr. Pickwick was at length fairly extricated from his unpleasant position, and once more stood on dry land.</p>
+<p>&ldquo;Oh, he'll catch his death of cold,&rdquo; said Emily.</p>
+<p>&ldquo;Dear old thing!&rdquo; said Arabella. &ldquo;Let me wrap this shawl round you, Mr. Pickwick.&rdquo;</p>
+<p>&ldquo;Ah, that's the best thing you can do,&rdquo; said Wardle; &ldquo;and when you've got it on, run home as fast as your legs can carry you, and jump into bed directly.&rdquo;</p>
+<p>A dozen shawls were offered on the instant; and three or four of the thickest having been selected, Mr. Pickwick was wrapped up, and started off, under the guidance of Mr. Weller; presenting the singular phenomenon of an elderly gentleman dripping wet, and without a hat, with his arms bound down to his sides, skimming over the ground without any clearly defined purpose, at the rate of six good English miles an hour.</p>
+<p>But Mr. Pickwick cared not for appearances in such an extreme case, and urged on by Sam Weller, he kept at the very top of his speed until he reached the door of Manor Farm, where Mr. Tupman had arrived some five minutes before, and had frightened the old lady into palpitations of the heart, by impressing her with the unalterable conviction that the kitchen chimney was on fire&mdash;a calamity which always presented itself in the most glowing colours to the old lady's mind, when anybody about her evinced the smallest agitation.</p>
+<p>Mr. Pickwick paused not an instant until he was snug in bed. Sam Weller lighted a blazing fire in the room, and took up his dinner; a bowl of punch was carried up afterwards, and a grand carouse held in honour of his safety. Old Wardle would not hear of his rising, so they made the bed the chair, and Mr. Pickwick presided. A second and a third bowl were ordered in; and when Mr. Pickwick awoke next morning, there was not a symptom of rheumatism about him, which proves, as Mr. Bob Sawyer very justly observed, that there is nothing like hot punch in such cases, and that if ever hot punch did fail to act as a preventive,
+<pb n="315" id="p315"/>
+it was merely because the patient fell into the vulgar error of not taking enough of it.</p>
+<p>The jovial party broke up next morning. Breakings up are capital things in our school days, but in after life they are painful enough. Death, self-interest, and fortune's changes, are every day breaking up many a happy group and scattering them far and wide; and the boys and girls never come back again. We do not mean to say that it was exactly the case in this particular instance; all we wish to inform the reader is, that the different members of the party dispersed to their several homes; that Mr. Pickwick and his friends once more took their seats on the top of the Muggleton coach; and that Arabella Allen repaired to her place of destination, wherever it might have been&mdash;we dare say Mr. Winkle knew, but we confess we don't&mdash;under the care and guardianship of her brother Benjamin, and his most intimate and particular friend, Mr. Bob Sawyer.</p>
+<p>Before they separated, however, that gentleman and Mr. Benjamin Allen drew Mr. Pickwick aside with an air of some mystery; and Mr. Bob Sawyer thrusting his forefinger between two of Mr. Pickwick's ribs, and thereby displaying his native drollery, and his knowledge of the anatomy of the human frame, at one and the same time, enquired&mdash;</p>
+<p>&ldquo;I say, old boy, where do you hang out?&rdquo;</p>
+<p>Mr. Pickwick replied that he was at present suspended at the George and Vulture.</p>
+<p>&ldquo;I wish you'd come and see me,&rdquo; said Bob Sawyer.</p>
+<p>&ldquo;Nothing would give me greater pleasure,&rdquo; replied Mr. Pickwick.</p>
+<p>&ldquo;There's my lodgings,&rdquo; said Mr. Bob Sawyer, producing a card, &ldquo;Lant Street, Borough; it's near Guy's, and handy for me you know. Little distance after you've passed Saint George's Church&mdash;turns out of the High Street on the right hand side the way.&rdquo;</p>
+<p>&ldquo;I shall find it,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Come on Thursday fortnight, and bring the other chaps with you,&rdquo; said Mr. Bob Sawyer, &ldquo;I'm going to have a few medical fellows that night.&rdquo;</p>
+<p>Mr. Pickwick expressed the pleasure it would afford him to meet the medical fellows; and after Mr. Bob Sawyer had informed him that he meant to be very cosey, and that his friend Ben was to be one of the party, they shook hands and separated.</p>
+<p>We feel that in this place we lay ourself open to the enquiry whether Mr. Winkle was whispering, during this brief conversation, to Arabella Allen, and if so, what he said; and furthermore, whether Mr. Snodgrass was conversing apart with Emily Wardle, and if so, what <hi
+rend="italics">he</hi> said. To this, we reply, that whatever they might have said to the ladies, they said nothing at all to Mr. Pickwick or Mr. Tupman for eight-and-twenty miles, and that they sighed very often, refused ale and brandy, and looked gloomy. If our observant lady readers can deduce any satisfactory inferences from these facts, we beg them by all means to do so.</p>
+</div2>
+<div2 type="chapter">
+<pb n="316" id="p316"/>
+<head>CHAPTER XXX.</head>
+<head>
+WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES LEARNED THEREIN.
+</head>
+<p>SCATTERED about, in various holes and corners of the Temple, are certain dark and dirty chambers, in and out of which, all the morning in Vacation, and half the evening too in Term time, there may be seen constantly hurrying with bundles of papers under their arms, and protruding from their pockets, an almost uninterrupted succession of Lawyers' Clerks. There are several grades of Lawyers' Clerks. There is the Articled Clerk, who has paid a premium, and is an attorney in perspective, who runs a tailor's bill, receives invitations to parties, knows a family in Gower Street and another in Tavistock Square, goes out of town every Long Vacation to see his father, who keeps live horses innumerable; and who is, in short, the very aristocrat of clerks. There is the salaried clerk&mdash;out of door, or in door, as the case may be&mdash;who devotes the major part of his thirty shillings a week to his personal pleasure and adornment, repairs half-price to the Adelphi at least three times a week, dissipates majestically at the cider cellars afterwards, and is a dirty caricature of the fashion, which expired six months ago. There is the middle-aged copying clerk, with a large family, who is always shabby, and often drunk. And there are the office lads in their first surtouts, who feel a befitting contempt for boys at day-schools, club as they go home at night, for saveloys and porter, and think there's nothing like &ldquo;life.&rdquo; There are varieties of the genus too numerous to recapitulate, but however numerous they may be, they are all to be seen, at certain regulated business hours, hurrying to and from the places we have just mentioned.</p>
+<p>These sequestered nooks are the public offices of the legal profession, where writs are issued, judgments signed, declarations filed, and numerous other ingenious little machines put in motion for the torture and torment of His Majesty's liege subjects, and the comfort and emolument of the practitioners of the law. They are, for the most part, lowroofed, mouldy rooms, where innumerable rolls of parchment, which have been perspiring in secret for the last century, send forth an agreeable odour, which is mingled by day with the scent of the dry rot, and by night with the various exhalations which arise from damp cloaks, festering umbrellas, and the coarsest tallow candles.</p>
+<p>About half-past seven o'clock in the evening, some ten days or a fortnight after Mr. Pickwick and his friends returned to London, there hurried into one of these offices, an individual in a brown coat and brass buttons, whose long hair was scrupulously twisted round the rim of his napless hat, and whose soiled drab trousers were so tightly strapped over his Blucher boots, that his knees threatened every moment to start from their concealment. He produced from his coat pockets a long and narrow strip of parchment, on which the presiding functionary impressed an
+<pb n="317" id="p317"/>
+illegible black stamp. He then drew forth four scraps of paper, of similar dimensions, each containing a printed copy of the strip of parchment with blanks for a name; and having filled up the blanks, put all the five documents in his pocket, and hurried away.</p>
+<p>The man in the brown coat with the cabalistic documents in his pocket, was no other than our old acquaintance Mr. Jackson, of the house of Dodson and Fogg, Freeman's Court, Cornhill. Instead of returning to the office from whence he came, however, he bent his steps direct to Sun Court, and walking straight into the George and Vulture, demanded to know whether one Mr. Pickwick was within.</p>
+<p>&ldquo;Call Mr. Pickwick's servant, Tom,&rdquo; said the barmaid of the George and Vulture.</p>
+<p>&ldquo;Don't trouble yourself,&rdquo; said Mr. Jackson, &ldquo;I've come on business. If you'll show me Mr. Pickwick's room, I'll step up myself.&rdquo;</p>
+<p>&ldquo;What name, Sir?&rdquo; said the waiter.</p>
+<p>&ldquo;Jackson,&rdquo; replied the clerk.</p>
+<p>The waiter stepped up stairs to announce Mr. Jackson, but Mr. Jackson saved him the trouble by following close at his heels, and walking into the apartment before he could articulate a syllable.</p>
+<p>Mr. Pickwick had that day invited his three friends to dinner; and they were all seated round the fire, drinking their wine, when Mr. Jackson presented himself, as above described.</p>
+<p>&ldquo;How de do, Sir,&rdquo; said Mr. Jackson, nodding to Mr. Pickwick.</p>
+<p>That gentleman bowed, and looked somewhat surprised, for the physiognomy of Mr. Jackson dwelt not in his recollection.</p>
+<p>&ldquo;I have called from Dodson and Fogg's,&rdquo; said Mr. Jackson, in an explanatory tone.</p>
+<p>Mr. Pickwick roused at the name. &ldquo;I refer you to my attorney Sir: Mr. Perker, of Gray's Inn,&rdquo; said he. &ldquo;Waiter, show this gentleman out.&rdquo;</p>
+<p>&ldquo;Beg your pardon, Mr. Pickwick,&rdquo; said Jackson, deliberately depositing his hat on the floor, and drawing from his pocket the strip of parchment. &ldquo;But personal service, by clerk or agent, in these cases, you know, Mr. Pickwick&mdash;eh, Sir? nothing like caution, Sir, in all legal forms&mdash;eh?&rdquo;</p>
+<p>Here Mr. Jackson cast his eye on the parchment; and, resting his hands on the table, and looking round with a winning and persuasive smile, said, &ldquo;Now come; don't let's have no words about such a little matter as this. Which of you gentlemen's name's Snodgrass?&rdquo;</p>
+<p>At this inquiry, Mr. Snodgrass gave such a very undisguised and palpable start, that no further reply was needed.</p>
+<p>&ldquo;Ah! I thought so,&rdquo; said Mr. Jackson, more affably than before. &ldquo;I've got a little something to trouble you with, Sir.&rdquo;</p>
+<p>&ldquo;Me!&rdquo; exclaimed Mr. Snodgrass.</p>
+<p>&ldquo;It's only a <hi rend="italics">subp&aelig;na</hi> in Bardell and Pickwick on behalf of the plaintiff,&rdquo; replied Jackson, singling out one of the slips of paper, and producing a shilling from his waistcoat-pocket. &ldquo;It'll come on, in the settens after Term; fourteenth of Febooary, we expect; we've marked it a special jury cause, and it's only ten down the paper. That's yours, Mr.
+<pb n="318" id="p318"/>
+Snodgrass.&rdquo; As Jackson said this, he presented the parchment before the eyes of Mr. Snodgrass, and slipped the paper and the shilling into his hand.</p>
+<p>Mr. Tupman had witnessed this process in silent astonishment, when Jackson, turning sharply upon him, said:</p>
+<p>&ldquo;I think I ain't mistaken when I say your name's Tupman, am I?&rdquo;</p>
+<p>Mr. Tupman looked at Mr. Pickwick; but, perceiving no encouragement in that gentleman's widely-opened eyes to deny his name, said:</p>
+<p>&ldquo;Yes, my name <hi rend="italics">is</hi> Tupman, Sir.&rdquo;</p>
+<p>&ldquo;And that other gentleman's Mr. Winkle, I think,&rdquo; said Jackson.</p>
+<p>Mr. Winkle faltered out a reply in the affirmative; and both gentlemen were forthwith invested with a slip of paper, and a shilling each, by the dexterous Mr. Jackson.</p>
+<p>&ldquo;Now,&rdquo; said Jackson, &ldquo;I'm afraid you'll think me rather troublesome, but I want somebody else, if it ain't inconvenient. I <hi
+rend="italics">have</hi> Samuel Weller's name here, Mr. Pickwick.&rdquo;</p>
+<p>&ldquo;Send my servant here, waiter,&rdquo; said Mr. Pickwick. The waiter retired, considerably astonished, and Mr. Pickwick motioned Jackson to a seat.</p>
+<p>There was a painful pause, which was at length broken by the innocent defendant.</p>
+<p>&ldquo;I suppose, Sir,&rdquo; said Mr. Pickwick, his indignation rising while he spoke; &ldquo;I suppose, Sir, that it is the intention of your employers to seek to criminate me, upon the testimony of my own friends?&rdquo;</p>
+<p>Mr. Jackson struck his fore-finger several times against the left side of his nose, to intimate that he was not there to disclose the secrets of the prison-house, and playfully rejoined,</p>
+<p>&ldquo;Not knowin', can't say.&rdquo;</p>
+<p>&ldquo;For what other reason, Sir,&rdquo; pursued Mr. Pickwick, &ldquo;are these subp&oelig;nas served upon them, if not for this?&rdquo;</p>
+<p>&ldquo;Very good plant, Mr. Pickwick,&rdquo; replied Jackson, slowly shaking his head. &ldquo;But it won't do. No harm in trying, but there's little to be got out of me.&rdquo;</p>
+<p>Here Mr. Jackson smiled once more upon the company; and, applying his left thumb to the tip of his nose, worked a visionary coffee-mill with his right hand, thereby performing a very graceful piece of pantomime (then much in vogue, but now, unhappily, almost obsolete) which was familiarly denominated &ldquo;taking a grinder.&rdquo;</p>
+<p>&ldquo;No, no, Mr. Pickwick,&rdquo; said Jackson in conclusion; &ldquo;Perker's people must guess what we've served these subp&oelig;nas for. If they can't, they must wait till the action comes on, and then they'll find out.&rdquo;</p>
+<p>Mr. Pickwick bestowed a look of excessive disgust on his unwelcome visitor, and would probably have hurled some tremendous anathema at the heads of Messrs. Dodson and Fogg, had not Sam's entrance at the instant interrupted him.</p>
+<p>&ldquo;Samuel Weller?&rdquo; said Mr. Jackson, enquiringly.</p>
+<p>&ldquo;Vun o'the truest things as you've said for many a long year,&rdquo; replied Sam, in a most composed manner.</p>
+<p>&ldquo;Here's a subp&oelig;na for you, Mr. Weller,&rdquo; said Jackson.</p>
+<pb id="p319" n="319"/>
+<p>&ldquo;What's that in English?&rsquo; enquired Sam.</p>
+<p>&ldquo;Here's the original,&rdquo; said Jackson, declining the required explanation.</p>
+<p>&ldquo;Which?&rdquo; said Sam.</p>
+<p>&ldquo;This,&rdquo; replied Jackson, shaking the parchment.</p>
+<p>&ldquo;Oh, that's the 'rig'nal, is it?&rdquo; said Sam. &ldquo;Well, I'm wery glad I've seen the 'rig'nal, 'cos it's a gratifyin' sort o' thing, and eases vun's mind so much.&rdquo;</p>
+<p>&ldquo;And here's the shilling,&rdquo; said Jackson. &ldquo;It's from Dodson and Fogg's.&rdquo;</p>
+<p>&ldquo;And it's uncommon handsome o' Dodson and Fogg, as knows so little of me, to come down vith a present,&rdquo; said Sam. &ldquo;I feel it as a wery high compliment, Sir; and it's a wery hon'rable thing to them, as they knows how to reward merit verever they meets it. Besides vich, it's wery affectin' to one's feelin's.&rdquo;</p>
+<p>As Mr. Weller said this, he inflicted a little friction on his right eyelid, with the sleeve of his coat, after the most approved manner of actors when they are in domestic pathetics.</p>
+<p>Mr. Jackson seemed rather puzzled by Sam's proceedings; but, as he had served the subp&oelig;nas, and had nothing more to say, he made a feint of putting on the one glove which he usually carried in his hand, for the sake of appearances; and returned to the office to report progress.</p>
+<p>Mr. Pickwick slept little that night; his memory had received a very disagreeable refresher on the subject of Mrs. Bardell's action. He breakfasted betimes next morning; and, desiring Sam to accompany him, set forth towards Gray's Inn square.</p>
+<p>&ldquo;Sam!&rdquo; said Mr. Pickwick, looking round, when they got to the end of Cheapside.</p>
+<p>&ldquo;Sir?&rdquo; said Sam, stepping up to his master.</p>
+<p>&ldquo;Which way?&rdquo;</p>
+<p>&ldquo;Up Newgate-street.&rdquo;</p>
+<p>Mr. Pickwick did not turn round immediately, but looked vacantly in Sam's face for a few seconds, and heaved a deep sigh.</p>
+<p>&ldquo;What's the matter, Sir?&rdquo; enquired Sam.</p>
+<p>&ldquo;This action, Sam,&rdquo; said Mr. Pickwick, &ldquo;is expected to come on, on the fourteenth of next month.&rdquo;</p>
+<p>&ldquo;Remarkable coincidence that'ere, Sir,&rdquo; replied Sam.</p>
+<p>&ldquo;Why remarkable, Sam?&rdquo; enquired Mr. Pickwick.</p>
+<p>&ldquo;Walentine's day, Sir,&rdquo; responded Sam; &ldquo;reg'lar good day for a breach o' promise trial.&rdquo;</p>
+<p>Mr. Weller's smile awakened no gleam of mirth in his master's countenance. Mr. Pickwick turned abruptly round, and led the way in silence.</p>
+<p>They had walked some distance, Mr. Pickwick trotting on before, plunged in profound meditation, and Sam following behind, with a countenance expressive of the most enviable and easy defiance of everything and everybody, when the latter, who was always especially anxious to impart to his master any exclusive information he possessed, quickened
+<pb n="320" id="p320"/>
+his pace until he was close at Mr. Pickwick's heels; and, pointing up at a house they were passing, said,</p>
+<p>&ldquo;Wery nice pork-shop that'ere, Sir.&rdquo;</p>
+<p>&ldquo;Yes, it seems so,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Celebrated Sassage factory,&rdquo; said Sam.</p>
+<p>&ldquo;Is it?&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Is it!&rdquo; reiterated Sam with some indignation; &ldquo;I should rayther think it was. Why sir, bless your innocent eyebrows, that's vere the mysterious disappearance of a respectable tradesman took place, four year ago.&rdquo;</p>
+<p>&ldquo;You don't mean to say he was burked, Sam?&rdquo; said Mr. Pickwick, looking hastily round.</p>
+<p>&ldquo;No I don't indeed, Sir,&rdquo; replied Mr. Weller, &ldquo;I vish I did; far worse than that. He was the master o' that 'ere shop, Sir, and the inwenter o' the patent-never-leavin-off sassage steam 'ingine, as ud swaller up a pavin' stone if you put it too near, and grind it into sassages as easy as if it was a tender young babby. Wery proud o' that machine he was, as it was nat'ral he should be; and he'd stand down in the celler a lookin' at it, ven it was in full play, till he got quite melancholy with joy. A wery happy man he'd ha' been, Sir, in the procession o' that 'ere ingine and two more lovely hinfants besides, if it hadn't been for his wife, who was a most ow-dacious wixin. She was always a follerin him about, and dinnin' in his ears 'till at last he couldn't stand it no longer. &lsquo;I'll tell you what it is, my dear,&rsquo; he says one day; &lsquo;If you persewere in this here sort of amusement,&rsquo; he says, &lsquo;I'm blessed if I don't go away to 'Merriker; and that's all about it.&rsquo; &lsquo;You're a idle willin,&rsquo; says she, &lsquo;and I wish the 'Merrikins joy of their bargin.&rsquo; Arter vich she keeps on abusin' him for half an hour, and then runs into the little parlour behind the shop, sets to a scremin', says he'll be the death on her, and falls in a fit, which lasts for three good hours&mdash;one o' them fits which is all screamin' and kickin'. Well, next mornin', the husband was missin'. He hadn't taken nothin' from the till,&mdash;hadn't even put on his great coat, so it was quite clear he warn't gone to 'Merriker. Didn't come back next day, didn't come back next week; the Missis had bills printed sayin' that, if he'd come back, he should be forgiven everythin', (which was very liberal, seein' that he hadn't done nothin' at all,) all the canals was dragged, and for two months arterwards venever a body turned up, it was carried, as a reg'lar thing, straight off to the sassage shop. Hows'-ever none on'em answered, so they gave out that he'd run avay, and she kept on the bis'ness. One Saturday night, a little thin old gen'lm'n comes into the shop in a great passion and says, &lsquo;Are you the missis o' this here shop?&rsquo; &lsquo;Yes I am,&rsquo; says she. &lsquo;Well Ma'am,&rsquo; says he, &lsquo;then l've just looked in to say, that me and my family ain't a goin&rsquo; to be choaked for othin'; and more than that Ma'am,&rsquo; he says, &lsquo;you'll allow  me to observe, that as you don't use the primest parts of the meat in the manafacter o' sassages, I think you'd find beef come nearly as cheap as buttons.&rsquo; &lsquo;Buttons, Sir!&rsquo; says she. &lsquo;Buttons, Ma'am,&rsquo; says the little old gentleman, unfolding a bit of paper, and shewin' twenty or thirty halves o' buttons. &lsquo;Nice seasonin&rsquo; for sassages, is trousers' buttons,
+<pb n="321" id="p321"/>
+Ma'am.&rsquo; &lsquo;They're my husband's buttons,&rsquo; says the widder, beginnin' to faint. &lsquo;What!&rsquo; screams the little old gen'lm'n, turnin' wery pale. &lsquo;I see it all,&rsquo; says the widder; &lsquo;in a fit of temporary insanity he rashly converted his-self into sassages!&rsquo; And so he had, Sir,&rdquo; said Mr. Weller, looking steadily into Mr. Pickwick's horror-stricken countenance, &ldquo;or else he'd been draw'd into the ingine, but however that might ha' been, the little old gen'lm'n, who had been remarkably partial to sassages all his life, rushed out o' the shop in a wild state, and was never heerd on artervards!&rdquo;</p>
+<p>The relation of this affecting incident of private life, brought master and man to Mr. Perker's chambers. Lowten, holding the door half open, was in conversation with a rustily-clad, miserable looking man, in boots without toes, and gloves without fingers. There were traces of privation and suffering&mdash;almost of despair&mdash;in his lank and care-worn countenance; he felt his poverty, for he shrunk to the dark side of the staircase as Mr. Pickwick approached.</p>
+<p>&ldquo;It's very unfortunate,&rdquo; said the stranger with a sigh.</p>
+<p>&ldquo;Very,&rdquo; said Lowten, scribbling his name on the door post with his pen and rubbing it out again with the feather. &ldquo;Will you leave a message for him?&rdquo;</p>
+<p>&ldquo;When do you think he'll be back?&rdquo; enquired the stranger.</p>
+<p>&ldquo;Quite uncertain,&rdquo; replied Lowten, winking at Mr. Pickwick, as the stranger cast his eyes towards the ground.</p>
+<p>&ldquo;You don't think it would be of any use my waiting for him?&rdquo; said the stranger, looking wistfully into the office.</p>
+<p>&ldquo;Oh no, I'm sure it wouldn't,&rdquo; replied the clerk, moving a little more into the centre of the door-way. &ldquo;He's certain not to be back this week, and it's a chance whether he will, next, for when Perker once gets out of town, he's never in a hurry to come back again.&rdquo;</p>
+<p>&ldquo;Out of town!&rdquo; said Mr. Pickwick; &ldquo;dear me, how unfortunate!&rdquo;</p>
+<p>&ldquo;Don't go away, Mr. Pickwick,&rdquo; said Lowten, &ldquo;I've got a letter for you.&rdquo; The stranger seeming to hesitate, once more looked towards the ground, and the clerk winked slily at Mr. Pickwick as if to intimate that some exquisite piece of humour was going forward; though what it was, Mr. Pickwick could not, for the life of him, divine.</p>
+<p>&ldquo;Step in, Mr. Pickwick,&rdquo; said Lowten. &ldquo;Well, will you leave a message, Mr. Watty, or will you call again?&rdquo;</p>
+<p>&ldquo;Ask him to be so kind as to leave out word what has been done in my business,&rdquo; said the man; &ldquo;for God's sake don't neglect it, Mr. Lowten.&rdquo;</p>
+<p>&ldquo;No, no; I won't forget it,&rdquo; replied the clerk. &ldquo;Walk in, Mr. Pickwick. Good morning, Mr. Watty; it's a fine day for walking, isn't it?&rdquo; And, seeing that the stranger still lingered, he beckoned Sam Weller to follow his  in, and shut the door in his face.</p>
+<p>&ldquo;There never was such a pestering bankrupt as that, since the world began, I do believe!&rdquo; said Lowten, throwing down his pen with the air of an injured man. &ldquo;His affairs haven't been in chancery quite four years yet, and I'm d&mdash;d if he don't come worrying here twice a-week. Step this way, Mr. Pickwick. Perker <hi
+rend="italics">is</hi> in, and he'll see you, I know.
+<pb n="322" id="p322"/>
+Devilish cold,&rdquo; he added pettishly, &ldquo;standing at that door, wasting one's time with such seedy vagabonds.&rdquo; And, having very vehemently stirred a particularly large fire with a particularly small poker, the clerk led the way to his principal's private room, and announced Mr. Pickwick.</p>
+<p>&ldquo;Ah, my dear Sir,&rdquo; said little Mr. Perker, bustling up from his chair; &ldquo;Well, my dear Sir, and what's the news about your matter&mdash;eh? Anything more about our friends in Freeman's-court? They've not been sleeping, <hi
+rend="italics">I</hi> know that. Ah, they're very smart fellows&mdash;very smart, indeed.&rdquo;</p>
+<p>As the little man concluded, he took an emphatic pinch of snuff, as a tribute to the smartness of Messrs. Dodson and Fogg.</p>
+<p>&ldquo;They are great scoundrels,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Aye, aye,&rdquo; said the little man; &ldquo;that's a mere matter of opinion, you know, and we won't dispute about terms; because of course you can't be expected to view these subjects with a professional eye. Well, we've done everything that's necessary. I have retained Serjeant Snubbin.&rdquo;</p>
+<p>&ldquo;Is he a good man?&rdquo; enquired Mr. Pickwick.</p>
+<p>&ldquo;Good man!&rdquo; replied Perker; &ldquo;bless your heart and soul, my dear Sir, Serjeant Snubbin is at the very top of his profession. Gets treble the business of any man in court&mdash;engaged in every' case. You needn't mention it abroad; but we say&mdash;we of the profession&mdash;that Serjeant Snubbin leads the court by the nose.&rdquo;</p>
+<p>The little man took another pinch of snuff as he made this communication, and nodded mysteriously to Mr. Pickwick.</p>
+<p>&ldquo;They have subp&oelig;na'd my three friends,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Ah! of course they would,&rdquo; replied Perker. &ldquo;Important witnesses; saw you in a delicate situation.&rdquo;</p>
+<p>&ldquo;But she fainted of her own accord,&rdquo; said Mr. Pickwick. &ldquo;She threw herself into my arms.&rdquo;</p>
+<p>&ldquo;Very likely, my dear Sir,&rdquo; replied Perker; &ldquo;very likely and very natural. Nothing more so, my dear Sir&mdash;nothing. But who's to prove it?&rdquo;</p>
+<p>&ldquo;They have subp&oelig;na'd my servant too,&rdquo; said Mr. Pickwick, quitting the other point; for there Mr. Perker's question had somewhat staggered him.</p>
+<p>&ldquo;Sam?&rdquo; said Perker.</p>
+<p>Mr. Pickwick replied in the affirmative.</p>
+<p>&ldquo;Of course, my dear Sir; of course. I knew they would; I could have told <hi
+rend="italics">you</hi> that, a month ago. You know, my dear Sir, if you <hi
+rend="italics">will</hi> take the management of your affairs into your own hands after entrusting them to your Solicitor, you must also take the consequences.&rdquo; Here Mr. Perker drew himself up with conscious dignity, and brushed some stray grains of snuff from his shirt frill.</p>
+<p>&ldquo;And what do they want him to prove?&rdquo; asked Mr. Pickwick, after two or three minutes' silence.</p>
+<p>&ldquo;That you sent him up to the Plaintiff's to make some offer of a compromise, I suppose,&rdquo; replied Perker. &ldquo;It don't matter much, though I don't think many counsel could get a great deal out of <hi
+rend="italics">him.</hi>&rdquo;</p>
+<pb id="p323" n="323"/>
+<p>&ldquo;I don't think they could,&rdquo; said Mr. Pickwick; smiling, despite his vexation, at the idea of Sam's appearance as a witness. &ldquo;What course do we pursue?&rdquo;</p>
+<p>&ldquo;We have only one to adopt, my dear Sir,&rdquo; replied Perker; &ldquo;cross-examine the witnesses, trust to Snubbin's eloquence, throw dust in the eyes of the judge; and ourselves on the jury.&rdquo;</p>
+<p>&ldquo;And suppose the verdict is against me?&rdquo; said Mr. Pickwick.</p>
+<p>Mr. Perker smiled, took a very long pinch of snuff, stirred the fire, shrugged his shoulders, and remained expressively silent.</p>
+<p>&ldquo;You mean that in that case I must pay the damages?&rdquo; said Mr. Pickwick, who had watched this telegraphic answer with considerable sternness.</p>
+<p>Perker gave the fire another very unnecessary poke, and said &ldquo;I am afraid so.&rdquo;</p>
+<p>&ldquo;Then I beg to announce to you, my unalterable determination to pay no damages whatever,&rdquo; said Mr. Pickwick most emphatically. &ldquo;None, Perker. Not a pound, not a penny, of my money shall find its way into the pockets of Dodson and Fogg. That is my deliberate and irrevocable determination.&rdquo; And Mr. Pickwick gave a heavy blow on the table beside him, in confirmation of the irrevocability of his intention.</p>
+<p>&ldquo;Very well, my dear Sir, very well,&rdquo; said Perker. &ldquo;You know best, of course.&rdquo;</p>
+<p>&ldquo;Of course,&rdquo; replied Mr. Pickwick hastily. &ldquo;Where does Serjeant Snubbin live?&rdquo;</p>
+<p>&ldquo;In Lincoln's Inn Old Square,&rdquo; replied Perker.</p>
+<p>&ldquo;I should like to see him,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;See Serjeant Snubbin, my dear Sir!&rdquo; rejoined Perker, in utter amazement. &ldquo;Pooh, pooh, my dear Sir, impossible. See Serjeant Snubbin! Bless you, my dear Sir, such a thing was never heard of, without a consultation fee being previously paid, and a consultation fixed. It couldn't be done, my dear Sir; it couldn't be done.&rdquo;</p>
+<p>Mr. Pickwick, however, had made up his mind not only that it could be done, but that it should be done; and the consequence was, that within ten minutes after he had received the assurance that the thing was impossible, he was conducted by his solicitor into the outer office of the great Serjeant Snubbin himself.</p>
+<p>It was an uncarpeted room of tolerable dimensions, with a large writing-table drawn up near the fire, the baize top of which had long since lost all claim to its original hue of green, and had gradually grown grey with dust and age, except where all traces of its natural colour were obliterated by ink-stains. Upon the table were numerous little bundles of papers tied with red tape; and behind it, sat an elderly clerk, whose sleek appearance and heavy gold watch-chain presented imposing indications of the extensive and lucrative practice of Mr. Serjeant Snubbin.</p>
+<p>&ldquo;Is the Serjeant in his room, Mr. Mallard?&rdquo; inquired Perker, offering his box with all imaginable courtesy.</p>
+<p>&ldquo;Yes he is,&rdquo; was the reply, &ldquo;but he's very busy Look here; not
+<pb n="324" id="p324"/>
+an opinion given yet, on any one of these cases; and an expedition fee paid with all of them.&rdquo; The clerk smiled as he said this, and inhaled the pinch of snuff with a zest which seemed to be compounded of a fondness for snuff and a relish for fees.</p>
+<p>&ldquo;Something like practice that,&rdquo; said Perker.</p>
+<p>&ldquo;Yes,&rdquo; said the barrister's clerk, producing his own box, and offering it with the greatest cordiality; &ldquo;and the best of it, is, that as nobody alive except myself can read the Serjeant's writing, they are obliged to wait for the opinions, when he has given them, till I have copied 'em, ha&mdash;ha&mdash;ha!&rdquo;</p>
+<p>&ldquo;Which makes good for we know who, besides the Serjeant, and draws a little more out of the clients, eh?&rdquo; said Perker; &ldquo;Ha, ha, ha!&rdquo; At this the Serjeant's clerk laughed again&mdash;not a noisy boisterous laugh, but a silent, internal chuckle, which Mr. Pickwick disliked to hear. When a man bleeds inwardly, it is a dangerous thing for himself; but when he laughs inwardly, it bodes no good to other people.</p>
+<p>&ldquo;You haven't made me out that little list of the fees that I'm in your debt, have you?&rdquo; said Perker.</p>
+<p>&ldquo;No, I have not,&rdquo; replied the clerk.</p>
+<p>&ldquo;I wish you would,&rdquo; said Perker. &ldquo;Let me have them, and I'll send you a cheque. But I suppose you're too busy pocketing the ready money, to think of the debtors, eh? ha, ha, ha!&rdquo; This sally seemed to tickle the clerk amazingly, and he once more enjoyed a little quiet laugh to himself.</p>
+<p>&ldquo;But, Mr. Mallard, my dear friend,&rdquo; said Perker, suddenly recovering his gravity, and drawing the great man's great man into a corner, by the lappel of his coat, &ldquo;you must persuade the Serjeant to see me, and my client here.&rdquo;</p>
+<p>&ldquo;Come, come,&rdquo; said the clerk, &ldquo;that's not bad either. See the Serjeant! come, that's too absurd.&rdquo; Notwithstanding the absurdity of the proposal, however, the clerk allowed himself to be gently drawn beyond the hearing of Mr. Pickwick; and after a short conversation conducted in whispers, walked softly down a little dark passage and disappeared into the legal luminary's sanctum, from whence he shortly returned on tiptoe, and informed Mr. Perker and Mr. Pickwick that the Serjeant had been prevailed upon, in violation of all his established rules and customs, to admit them at once.</p>
+<p>Mr. Serjeant Snubbin was a lantern-faced sallow-complexioned man, of about five-and-forty, or&mdash;as the novels say&mdash;he might be fifty. He had that dull-looking boiled eye which is so often to be seen in the heads of people who have applied themselves during many years to a weary and laborious course of study; and which would have been sufficient, without the additional eye-glass which dangled from a broad black riband round his neck, to warn a stranger that he was very near-sighted. His hair was thin and weak, which was partly attributable to his having never devoted much time to its arrangement, and partly to his having worn for five-and-twenty years the forensic wig which hung on a block beside him. The marks of hair-powder on his coat-collar, and the illwashed and worse tied white neckerchief round his throat, showed that
+<pb n="325" id="p325"/>
+he had not found leisure since he left the court to make any alteration in his dress; while the slovenly style of the remainder of his costume warranted the inference that his personal appearance would not have been very much improved if he had. Books of practice, heaps of papers, and opened letters, were scattered over the table without any attempt at order or arrangement; the furniture of the room was old and rickety; the doors of the book-case were rotting in their hinges; the dust flew out from the carpet in little clouds at every step; the blinds were yellow with age and dirt; and the state of every thing in the room showed, with a clearness not to be mistaken, that Mr. Serjeant Snubbin was far too much occupied with his professional pursuits to take any great heed or regard of his personal comforts.</p>
+<p>The Serjeant was writing when his clients entered; he bowed abstractedly when Mr. Pickwick was introduced by his solicitor; and then, motioning them to a seat, put his pen carefully in the inkstand, nursed his left leg, and waited to be spoken to.</p>
+<p>&ldquo;Mr. Pickwick is the defendant in Bardell and Pickwick, Serjeant Snubbin,&rdquo; said Perker.</p>
+<p>&ldquo;I am retained in that, am I?&rdquo; said the Serjeant.</p>
+<p>&ldquo;You are, Sir,&rdquo; replied Perker.</p>
+<p>The Serjeant nodded his head, and waited for something else.</p>
+<p>&ldquo;Mr. Pickwick was anxious to call upon you, Serjeant Snubbin,&rdquo; said Perker, &ldquo;to state to you, before you entered upon the case, that he denies there being any ground or pretence whatever for the action against him; and that unless he came into court with clean hands, and without the most conscientious conviction that he was right in resisting the plaintiff's demand, he would not be there at all. I believe I state your views correctly; do I not, my dear Sir?&rdquo; said the little man, turning to Mr. Pickwick.</p>
+<p>&ldquo;Quite so,&rdquo; replied that gentleman.</p>
+<p>Mr. Serjeant Snubbin unfolded his glasses, raised them to his eyes; and, after looking at Mr. Pickwick for a few seconds with great curiosity, turned to Mr. Perker, and said, smiling slightly as he spoke&mdash;</p>
+<p>&ldquo;Has Mr. Pickwick a strong case?&rdquo;</p>
+<p>The attorney shrugged his shoulders.</p>
+<p>&ldquo;Do you purpose calling witnesses?&rdquo;</p>
+<p>&ldquo;No.&rdquo;</p>
+<p>The smile on the Serjeant's countenance became more defined; he rocked his leg with increased violence; and, throwing himself back in his easy-chair, coughed dubiously.</p>
+<p>These tokens of the Serjeant's presentiments on the subject, slight as they were, were not lost on Mr. Pickwick. He settled the spectacles, through which he had attentively regarded such demonstrations of the barrister's feeling as he had permitted himself to exhibit, more firmly on his nose; and said with great energy, and in utter disregard of all Mr. Perker's admonitory winkings and frownings&mdash;</p>
+<p>&ldquo;My wishing to wait upon you for such a purpose as this, Sir, appears, I have no doubt, to a gentleman who sees so much of these matters as you must necessarily do, a very extraordinary circumstance.&rdquo;</p>
+<pb n="326" id="p326"/>
+<p>The Serjeant tried to look gravely at the fire, but the smile came back again.</p>
+<p>&ldquo;Gentlemen of your profession, Sir,&rdquo; continued Mr. Pickwick, &ldquo;see the worst side of human nature&mdash;all its disputes, all its ill-will and bad blood, rise up before you. You know from your experience of juries (I mean no disparagement to you, or them) how much depends upon <hi
+rend="italics">effect:</hi> and you are apt to attribute to others, a desire to use, for purposes of deception and self-interest, the very instruments which you, in pure honesty and honour of purpose, and with a laudable desire to do your utmost for your client, know the temper and worth of so well, from constantly employing them yourselves. I really believe that to this circumstance may be attributed the vulgar but very general notion of your being, as a body, suspicious, distrustful, and over-cautious. Conscious as I am, Sir, of the disadvantage of making such a declaration to you, under such circumstances, I have come here, because I wish you distinctly to understand, as my friend Mr. Perker has said, that I am innocent of the falsehood laid to my charge; and although I am very well aware of the inestimable value of your assistance, Sir, I must beg to add, that unless you sincerely believe this, I would rather be deprived of the aid of your talents than have the advantage of them.&rdquo;</p>
+<p>Long before the close of this address, which we are bound to say was of a very prosy character for Mr. Pickwick, the Serjeant had relapsed into a state of abstraction. After some minutes, however, during which he had reassumed his pen, he appeared to be again aware of the presence of his clients; and, raising his head from the paper, said, rather snappishly&mdash;</p>
+<p>&ldquo;Who's with me in this case?&rdquo;</p>
+<p>&ldquo;Mr. Phunky, Serjeant Snubbin,&rdquo; replied the attorney.</p>
+<p>&ldquo;Phunky&mdash;Phunky,&rdquo; said the Serjeant; &ldquo;I never heard the name before. He must be a very young man.&rdquo;</p>
+<p>&ldquo;Yes, he is a very young man,&rdquo; replied the attorney. &ldquo;He was only called the other day. Let me see&mdash;oh, he hasn't been at the Bar eight years yet.&rdquo;</p>
+<p>&ldquo;Ah, I thought not,&rdquo; said the Serjeant, in that sort of pitying tone in which ordinary folks would speak of a very helpless little child. &ldquo;Mr. Mallard, send round to Mr. &mdash; Mr. &mdash;&rdquo;</p>
+<p>&ldquo;Phunky's&mdash;Holborn Court, Gray's Inn,&rdquo; interposed Perker&mdash;(Holborn Court, by the bye, is South Square now)&mdash;&ldquo;Mr. Phunky and say I should be glad if he'd step here, a moment.&rdquo;</p>
+<p>Mr. Mallard departed to execute his commission; and Serjeant Snubbin relapsed into abstraction until Mr. Phunky himself was introduced.</p>
+<p>Although an infant barrister, he was a full-grown man. He had a very nervous manner, and a painful hesitation in his speech; it did not appear to be a natural defect, but seemed rather the result of timidity, arising from the consciousness of being &ldquo;kept down&rdquo; by want of means, or interest, or connexion, or impudence, as the case might be. He was overawed by the Serjeant, and profoundly courteous to the attorney.</p>
+<p>&ldquo;I have not had the pleasure of seeing you before, Mr. Phunky,&rdquo; said Serjeant Snubbin, with haughty condescension.</p>
+<pb id="p327" n="327"/>
+<p>Mr. Phunky bowed. He <hi rend="italics">had</hi> had the pleasure of seeing the Serjeant, and of envying him too, with all a poor man's envy, for eight years and a quarter.</p>
+<p>&ldquo;You are with me in this case, I understand?&rdquo; said the Serjeant.</p>
+<p>If Mr. Phunky had been a rich man, he would have instantly sent for his clerk to remind him; if he had been a wise one, he would have applied his fore-finger to his forehead, and endeavoured to recollect whether in the multiplicity of his engagements he had undertaken this one, or not: but as he was neither rich nor wise (in this sense at all events) he turned red, and bowed.</p>
+<p>&ldquo;Have you read the papers, Mr. Phunky?&rdquo; inquired the Serjeant.</p>
+<p>Here again Mr. Phunky should have professed to have forgotten all about the merits of the case; but as he had read such papers as had been laid before him in the course of the action, and had thought of nothing else, waking or sleeping, throughout the two months during which he had been retained as Mr. Serjeant Snubbin's junior, he turned a deeper red, and bowed again.</p>
+<p>&ldquo;This is Mr. Pickwick,&rdquo; said the Serjeant, waving his pen in the direction in which that gentleman was standing.</p>
+<p>Mr. Phunky bowed to Mr. Pickwick with the reverence which a first client must ever awaken; and again inclined his head towards his leader.</p>
+<p>&ldquo;Perhaps you will take Mr. Pickwick away,&rdquo; said the Serjeant, &ldquo;and&mdash;and&mdash;and&mdash;hear anything Mr. Pickwick may wish to communicate. We shall have a consultation, of course.&rdquo; With this hint that he had been interrupted quite long enough, Mr. Sergeant Snubbin, who had been gradually growing more and more abstracted, applied his glass to his eyes for an instant, bowed slightly round, and was once more deeply immersed in the case before him, which arose out of an interminable lawsuit, originating in the act of an individual, deceased a century or so ago, who had stopped up a pathway leading from some place which nobody ever came from, to some other place which nobody ever went to.</p>
+<p>Mr. Phunky would not hear of passing through any door until Mr. Pickwick and his solicitor had passed through before him, so it was some time before they got into the Square; and when they did reach it, they walked up and down, and held a long conference, the result of which, was, that it was a very difficult matter to say how the verdict would go; that nobody could presume to calculate on the issue of an action; that it was very lucky they had prevented the other party from getting Serjeant Snubbin; and other topics of doubt and consolation, common in such a position of affairs.</p>
+<p>Mr. Weller was then roused by his master from a sweet sleep of an hour's duration; and, bidding adieu to Lowten, they returned to the City.</p>
+</div2>
+<div2 type="chapter">
+<pb n="328" id="p328"/>
+<head>CHAPTER XXXI.</head>
+<head>
+DESCRIBES, FAR MORE FULLY THAN THE COURT NEWSMAN EVER DID, A BACHELOR'S PARTY, GIVEN BY MR. BOB SAWYER AT HIS LODGINGS IN THE BOROUGH.
+</head>
+<p>THERE is a repose about Lant Street, in the Borough, which sheds a gentle melancholy upon the soul. There are always a good many houses to let in the street: it is a bye-street too, and its dulness is soothing. A house in Lant Street would not come within the denomination of a first-rate residence, in the strict acceptation of the term; but it is a most desirable spot nevertheless. If a man wished to abstract himself from the world; to remove himself from within the reach of temptation; to place himself beyond the possibility of any inducement to look out of the window, we should recommend him by all means to go to Lant Street.</p>
+<p>In this happy retreat are colonised a few clear-starchers, a sprinkling of journeymen bookbinders, one or two prison agents for the Insolvent Court, several small housekeepers who are employed in the Docks, a handful of mantua-makers, and a seasoning of jobbing tailors. The majority of the inhabitants either direct their energies to the letting of furnished apartments, or devote themselves to the healthful and invigorating pursuit of mangling. The chief features in the still life of the street, are green shutters, lodging-bills, brass door-plates, and bell-handles; the principal specimens of animated nature, the pot-boy, the muffin youth, and the baked-potato man. The population is migratory, usually disappearing on the verge of quarter-day, and generally by night. His Majesty's revenues are seldom collected in this happy valley, the rents are dubious, and the water communication is very frequently cut off.</p>
+<p>Mr. Bob Sawyer embellished one side of the fire, in his first-floor front, early on the evening for which he had invited Mr. Pickwick; and Mr. Ben Allen the other. The preparations for the reception of visiters appeared to be completed. The umbrellas in the passage had been heaped into the little corner outside the back-parlour door; the bonnet and shawl of the landlady's servant had been removed from the bannisters; there were not more than two pair of pattens on the street-door mat; and a kitchen candle, with a very long snuff, burnt cheerfully on the ledge of the staircase window. Mr. Bob Sawyer had himself purchased the spirits at a wine vaults in High Street, and had returned home preceding the bearer thereof, to preclude the possibility of their delivery at the wrong house. The punch was ready-made in a red pan in the bed-room; a little table, covered with a green baize cloth, had been borrowed from the parlour, to play at cards on; and the glasses of the establishment, together with those which had been borrowed for the
+<pb n="329" id="p329"/>
+occasion from the public-house, were all drawn up in a tray, which was deposited on the landing outside the door.</p>
+<p>Notwithstanding the highly satisfactory nature of all these arrangements, there was a cloud on the countenance of Mr. Bob Sawyer, as he sat by the fire-side. There was a sympathising expression, too, in the features of Mr. Ben Allen, as he gazed intently on the coals; and a tone of melancholy in his voice, as he said, after a long silence&mdash;</p>
+<p>&ldquo;Well, it <hi rend="italics">is</hi> unlucky that she should have taken it in her head to turn sour, just on this occasion. She might at least have waited till to-morrow.&rdquo;</p>
+<p>&ldquo;That's her malevolence; that's her malevolence,&rdquo; returned Mr. Bob Sawyer vehemently. &ldquo;She says that if I can afford to give a party I ought to be able to afford to pay her confounded &lsquo;little bill&rsquo;.&rdquo;</p>
+<p>&ldquo;How long has it been running?&rdquo; inquired Mr. Ben Allen. A bill, by the bye, is the most extraordinary locomotive engine that the genius of man ever produced. It would keep on running during the longest life-time, without ever once stopping of its own accord.</p>
+<p>&ldquo;Only a quarter, and a month or so,&rdquo; replied Mr. Bob Sawyer.</p>
+<p>Ben Allen coughed hopelessly, and directed a searching look between the two top bars of the stove.</p>
+<p>&ldquo;It'll be a deuced unpleasant thing if she takes it into her head to let out, when those fellows are here, won't it?&rdquo; said Mr. Ben Allen at length.</p>
+<p>&ldquo;Horrible,&rdquo; replied Bob Sawyer, &ldquo;horrible.&rdquo;</p>
+<p>A low tap was heard at the room door. Mr. Bob Sawyer looked expressively at his friend, and bade the tapper come in; whereupon a dirty slipshod girl in black cotton stockings, who might have passed for the neglected daughter of a superannuated dustman in very reduced circumstances, thrust in her head, and said,</p>
+<p>&ldquo;Please, Mister Sawyer, Missis Raddle wants to speak to <hi
+rend="italics">you.</hi>&rdquo;</p>
+<p>Before Mr. Bob Sawyer could return any answer, the girl suddenly disappeared with a jerk, as if somebody had given her a violent pull behind; this mysterious exit was no sooner accomplished, than there was another tap at the door&mdash;a smart pointed tap, which seemed to say, &ldquo;Here I am, and in I'm coming.&rdquo;</p>
+<p>Mr. Bob Sawyer glanced at his friend with a look of abject apprehension, and once more cried &ldquo;Come in.&rdquo;</p>
+<p>The permission was not at all necessary, for, before Mr. Bob Sawyer had uttered the words, a little fierce woman bounced into the room, all in a tremble with passion, and pale with rage.</p>
+<p>&ldquo;Now Mr. Sawyer,&rdquo; said the little fierce woman, trying to appear very calm, &ldquo;if you'll have the kindness to settle that little bill of mine I'll thank you, because I've got my rent to pay this afternoon, and my landlord's a waiting below now.&rdquo; Here the little woman rubbed her hands, and looked steadily over Mr. Bob Sawyer's head, at the wall behind him.</p>
+<p>&ldquo;I am very sorry to put you to any inconvenience, Mrs. Raddle,&rdquo; said Bob Sawyer deferentially, &ldquo;but&mdash;&rdquo;</p>
+<p>&ldquo;Oh, it isn't any inconvenience,&rdquo; replied the little woman, with a shrill titter. &ldquo;I didn't want it particular before to-day; leastways, as
+<pb n="330" id="p330"/>
+it has to go to my landlord directly, it was as well for you to keep it as me. You promised me this afternoon, Mr. Sawyer, and every gentleman as has ever lived here has kept his word, Sir, as of course anybody as calls himself a gentleman, does.&rdquo; And Mrs. Raddle tossed her head, bit her lips, rubbed her hands harder, and looked at the wall more steadily than ever. It was plain to see, as Mr. Bob Sawyer remarked in a style of eastern allegory on a subsequent occasion, that she was &ldquo;getting the steam up.&rdquo;</p>
+<p>&ldquo;I am very sorry, Mrs. Raddle,&rdquo; said Bob Sawyer with all imaginable humility, &ldquo;but the fact is, that I have been disappointed in the City to-day.&rdquo;&mdash;Extraordinary place that city. We know a most astonishing number of men who always <hi
+rend="italics">are</hi> getting disappointed there.</p>
+<p>&ldquo;Well, Mr. Sawyer,&rdquo; said Mrs. Raddle, planting herself firmly on a purple cauliflower in the Kidderminster carpet, &ldquo;and what's that to me, Sir?&rdquo;</p>
+<p>&ldquo;I&mdash;I&mdash;have no doubt, Mrs. Raddle,&rdquo; said Bob Sawyer, blinking this last question, &ldquo;that before the middle of next week we shall be able to set ourselves quite square, and go on on a better system, afterwards.&rdquo;</p>
+<p>This was all Mrs. Raddle wanted. She had bustled up to the apartment of the unlucky Bob Sawyer so bent upon going into a passion, that in all probability payment would have rather disappointed her than otherwise. She was in excellent order for a little relaxation of the kind, having just exchanged a few introductory compliments with Mr. R. in the front kitchen.</p>
+<p>&ldquo;Do you suppose, Mr. Sawyer,&rdquo; said Mrs. Raddle, elevating her voice for the information of the neighbours, &ldquo;do you suppose that I'm a-going day after day to let a fellar occupy my lodgings as never thinks of paying his rent, nor even the very money laid out for the fresh butter and lump sugar that's bought for his breakfast, and the very milk that's took in, at the street door? Do you suppose a hard-working and industrious woman as has lived in this street for twenty years (ten years over the way, and nine years and three quarters in this very house) has nothing else to do, but to work herself to death after a parcel of lazy iale fellars, that are always smoking and drinking, and lounging, when they ought to be glad to turn their hands to anything that would help 'em to pay their bills? Do you&mdash;&rdquo;</p>
+<p>&ldquo;My good soul,&rdquo; interposed Mr. Benjamin Allen, soothingly.</p>
+<p>&ldquo;Have the goodness to keep your observashuns to yourself Sir, I beg,&rdquo; said Mrs. Raddle, suddenly arresting the rapid torrent of her speech, and addressing the third party with impressive slowness and solemnity. &ldquo;I am not aweer, Sir, that you have any right to address your conversation to me. I don't think I let these apartments to you, Sir.&rdquo;</p>
+<p>&ldquo;No, you certainly did not,&rdquo; said Mr. Benjamin Allen.</p>
+<p>&ldquo;Very good, Sir,&rdquo; responded Mrs. Raddle, with lofty politeness. &ldquo;Then p'raps, Sir, you'll confine yourself to breaking the arms and legs of the poor people in the hospitals, and keep yourself <hi
+rend="italics">to</hi> yourself Sir, or there may be some persons here as will make you, Sir.&rdquo;</p>
+<p>&ldquo;But you are such an unreasonable woman,&rdquo; remonstrated Mr. Benjamin Allen.</p>
+<pb n="331" id="p331"/>
+<p>&ldquo;I beg your parding, young man,&rdquo; said Mrs. Raddle, in a cold perspiration of anger. &ldquo;But will you have the goodness just to call me that, again, Sir?&rdquo;</p>
+<p>&ldquo;I didn't make use of the word in any invidious manner, ma'am,&rdquo; replied Mr. Benjamin Allen, growing somewhat uneasy on his own account.</p>
+<p>&ldquo;I beg your parding, young man,&rdquo; demanded Mrs. Raddle in a louder and more imperative tone. &ldquo;But who do you call a woman? Did you make that remark to me, Sir?&rdquo;</p>
+<p>&ldquo;Why, bless my heart!&rdquo; said Mr. Benjamin Allen.</p>
+<p>&ldquo;Did you apply that name to me, I ask of you, Sir?&rdquo; interrupted Mrs. Raddle with intense fierceness, throwing the door wide open.</p>
+<p>&ldquo;Why, of course I did,&rdquo; replied Mr. Benjamin Allen.</p>
+<p>&ldquo;Yes, of course you did,&rdquo; said Mrs. Raddle, backing gradually to the door, and raising her voice to its loudest pitch, for the special behoof of Mr. Raddle in the kitchen. &ldquo;Yes, of course you did, and everybody knows that they may safely insult me in my own ouse while my husband sits sleeping down stairs, and taking no more notice than if I was a dog in the streets. He ought to be ashamed of himself (here Mrs. Raddle sobbed) to allow his wife to be treated in this way by a parcel of young cutters and carvers of live people's bodies, that disgraces the lodgings (another sob), and leaving her exposed to all manner of abuse; a base faint-hearted, timorous wretch, that's afraid to come up stairs, and face the ruffinly creatures&mdash;that's afraid&mdash;that's afraid to come.&rdquo; Mrs. Raddle paused to listen whether the repetition of the taunt had roused her better half; and, finding that it had not been successful, proceeded to descend the stairs with sobs innumerable, when there came a loud double knock at the street door: whereupon she burst into an hysterical fit of weeping, accompanied with dismal moans, which was prolonged until the knock had been repeated six times, when, in an uncontrollable burst of mental agony, she threw down all the umbrellas, and disappeared into the back parlour, closing the door after herwith an awful crash.</p>
+<p>&ldquo;Does Mr. Sawyer live here?&rdquo; said Mr. Pickwick, when the door was opened.</p>
+<p>&ldquo;Yes,&rdquo; said the girl, &ldquo;first floor. It's the door straight afore you, when you gets to the top of the stairs.&rdquo;&mdash;Having given this instruction, the handmaid, who had been brought up among the aboriginal inhabitants of Southwark, disappeared with the candle in her hand down the kitchen stairs, perfectly satisfied that she had done every thing that could possibly be required of her under the circumstances.</p>
+<p>Mr. Snodgrass, who entered last, secured the street door, after several ineffectual efforts, by putting up the chain; and the friends stumbled up stairs where they were received by Mr. Bob Sawyer, who had been afraid to go down lest he should be waylaid by Mrs. Raddle.</p>
+<p>&ldquo;How are you?&rdquo; said the discomfited student&mdash;&ldquo;Glad to see you, &mdash;take care of the glasses.&rdquo; This caution was addressed to Mr. Pickwick, who had put his hat in the tray.</p>
+<p>&ldquo;Dear me,&rdquo; said Mr. Pickwick, &ldquo;I beg your pardon.&rdquo;</p>
+<p>&ldquo;Don't mention it, don't mention it,&rdquo; said Bob Sawyer. &ldquo;I'm rather
+<pb n="332" id="p332"/>
+confined for room here, but you must put up with all that, when you come to see a young bachelor. Walk in. You've seen this gentleman before, I think?&rdquo; Mr. Pickwick shook hands with Mr. Benjamin Allen, and his friends followed his example. They had scarcely taken their seats when there was another double knock.</p>
+<p>&ldquo;I hope that's Jack Hopkins!&rdquo; said Mr. Bob Sawyer. &ldquo;Hush. Yes, it is. Come up, Jack; come up.&rdquo;</p>
+<p>A heavy footstep was heard upon the stairs, and Jack Hopkins presented himself. He wore a black velvet waistcoat, with thunder-and-lightning buttons; and a blue striped shirt, with a white false collar.</p>
+<p>&ldquo;You're late, Jack?&rdquo; said Mr. Benjamin Allen.</p>
+<p>&ldquo;Been detained at Bartholomew's,&rdquo;&mdash;replied Hopkins.</p>
+<p>&ldquo;Anything new?&rdquo;</p>
+<p>&ldquo;No, nothing particular. Rather a good accident brought into the casualty ward.&rdquo;</p>
+<p>&ldquo;What was that, Sir?&rdquo; inquired Mr. Pickwick.</p>
+<p>&ldquo;Only a man fallen out of a four pair of stairs' window;&mdash;but it's a very fair case&mdash;very fair case indeed.&rdquo;</p>
+<p>&ldquo;Do you mean that the patient is in a fair way to recover?&rdquo; inquired Mr. Pickwick.</p>
+<p>&ldquo;No,&rdquo; replied Hopkins, carelessly. &ldquo;No, I should rather say he wouldn't. There must be a splendid operation though, to-morrow&mdash;magnificent sight if Slasher does it.&rdquo;</p>
+<p>&ldquo;You consider Mr. Slasher a good operator?&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Best alive,&rdquo; replied Hopkins. &ldquo;Took a boy's leg out of the socket last week&mdash;boy ate five apples and a gingerbread cake&mdash;exactly two minutes after it was all over, boy said he wouldn't lie there to be made game of; and he'd tell his mother if they didn't begin.&rdquo;</p>
+<p>&ldquo;Dear me!&rdquo; said Mr. Pickwick, astonished.</p>
+<p>&ldquo;Pooh! that's nothing, that ain't,&rdquo; said Jack Hopkins. &ldquo;Is it, Bob?&rdquo;</p>
+<p>&ldquo;Nothing at all,&rdquo; replied Mr. Bob Sawyer.</p>
+<p>&ldquo;By the bye, Bob,&rdquo; said Hopkins, with a scarcely perceptible glance at Mr. Pickwick's attentive face, &ldquo;we had a curious accident last night. A child was brought in, who had swallowed a necklace.&rdquo;</p>
+<p>&ldquo;Swallowed what, Sir?&rdquo; interrupted Mr. Pickwick.</p>
+<p>&ldquo;A necklace,&rdquo; replied Jack Hopkins. &ldquo;Not all at once, you know, that would be too much&mdash;<hi
+rend="italics">you</hi> couldn't swallow that, if the child did&mdash;eh, Mr. Pickwick, ha! ha!&rdquo;&mdash;Mr. Hopkins appeared highly gratified with his own pleasantry; and continued&mdash;&ldquo;No, the way was this;&mdash;child's parents were poor people who lived in a court. Child's eldest sister bought a necklace,&mdash;common necklace, made of large black wooden beads. Child, being fond of toys, cribbed the necklace, hid it, played with it, cut the string, and swallowed a bead.  Child thought it capital fun, went back next day, and swallowed another bead.&rdquo;</p>
+<p>&ldquo;Bless my heart,&rdquo; said Mr. Pickwick, &ldquo;what a dreadful thing! I beg your pardon, Sir. Go on.&rdquo;</p>
+<p>&ldquo;Next day, child swallowed two beads; the day after that, he treated himself to three, and so on, till in a week's time he had got through
+<pb n="333" id="p333"/>
+the necklace, five-and-twenty beads in all. The sister, who was an industrious girl, and seldom treated herself to a bit of finery, cried her eyes out, at the loss of the necklace; looked high and low for it; but I needn't say didn't find it. A few days afterwards, the family were at dinner&mdash;baked shoulder of mutton, and potatoes under it&mdash;the child, who wasn't hungry, was playing about the room, when suddenly there was heard a devil of a noise, like a small hail storm. &lsquo;Don't do that, my boy,&rsquo; said the father. &lsquo;I ain't a doin nothing,&rsquo; said the child. &lsquo;Well, don't do it again,&rsquo; said the father. There was a short silence, and then the noise began again, worse than ever. &lsquo;If you don't mind what I say, my boy,&rsquo; said the father, &lsquo;you'll find yourself in bed, in something less than a pig's whisper.&rsquo; He gave the child a shake to make him obedient, and such a rattling ensued as nobody ever heard before. &lsquo;Why, damme, it's <hi
+rend="italics">in</hi> the child!&rsquo; said the father, &lsquo;he's got the croup in the wrong place!&rsquo; &lsquo;No I haven't, father,&rsquo; said the child, beginning to cry, &lsquo;it's the necklace; I swallowed it, father.&rsquo;&mdash;The father caught the child up, and ran with him to the hospital: the beads in the boy's stomach rattling all the way with the jolting; and the people looking up in the air, and down in the cellars, to see where the unusual sound came from. He's in the hospital now,&rdquo; said Jack Hopkins, &ldquo;and he makes such a devil of a noise when he walks about, that they're obliged to muffle him in a watchman's coat, for fear he should wake the patients!&rdquo;</p>
+<p>&ldquo;That's the most extraordinary case I ever heard of,&rdquo; said Mr. Pickwick, with an emphatic blow on the table.</p>
+<p>&ldquo;Oh, that's nothing,&rdquo; said Jack Hopkins; &ldquo;is it, Bob?&rdquo;</p>
+<p>&ldquo;Certainly not,&rdquo; replied Mr. Bob Sawyer.</p>
+<p>&ldquo;Very singular things occur in our profession, I can assure you, Sir,&rdquo; said Hopkins.</p>
+<p>&ldquo;So I should be disposed to imagine,&rdquo; replied Mr. Pickwick.</p>
+<p>Another knock at the door, announced a large-headed young man in a black wig, who brought with him a scorbutic youth in a long stock. The next comer was a gentleman in a shirt emblazoned with pink anchors, who was closely followed by a pale youth with a plated watchguard. The arrival of a prim personage in clean linen and cloth boots rendered the party complete. The little table with the green baize cover was wheeled out; the first instalment of punch was brought in, in a white jug; and the succeeding three hours were devoted to <hi
+rend="italics">vingt-un</hi> at sixpence a dozen, which was only once interrupted by a slight dispute between the scorbutic youth and the gentleman with the pink anchors; in the course of which, the scorbutic youth intimated a burning desire to pull the nose of the gentleman with the emblems of hope, in reply to which, that individual expressed his decided unwillingness to accept of any &ldquo;sauce&rdquo; on gratuitous terms, either from the irascible young gentleman with the scorbutic countenance, or any other person who was ornamented with a head.</p>
+<p>When the last &ldquo;natural&rdquo; had been declared, and the profit and loss account of fish and sixpences adjusted, to the satisfaction of all parties, Mr. Bob Sawyer rang for supper, and the visiters squeezed themselves into corners while it was getting ready.</p>
+<pb n="334" id="p334"/>
+<p>It was not so easily got ready as some people may imagine. First of all, it was necessary to awaken the girl, who had fallen asleep with her face on the kitchen table; this took a little time, and, even when she did answer the bell, another quarter of an hour was consumed in fruitless endeavours to impart to her a faint and distant glimmering of reason. The man to whom the order for the oysters had been sent, had not been told to open them; it is a very difficult thing to open an oyster with a limp knife or a two-pronged fork, and very little was done in this way. Very little of the beef was done either; and the ham (which was also from the German sausage-shop round the corner) was in a similar predicament. However, there was plenty of porter in a tin can; and the cheese went a great way, for it was very strong. So upon the whole, perhaps, the supper was quite as good as such matters usually are.</p>
+<p>After supper another jug of punch was put upon the table, together with a paper of cigars, and a couple of bottles of spirits. Then there was an awful pause; and this awful pause was occasioned by a very common occurrence in this sort of place, but a very embarrassing one notwithstanding.</p>
+<p>The fact is, that the girl was washing the glasses. The establishment boasted four; we do not record the circumstance as at all derogatory to Mrs. Raddle, for there never was a lodging-house yet, that was not short of glasses. The landlady's glasses were little thin blown glass tumblers, and those which had been borrowed from the public house were great, dropsical, bloated articles, each supported on a huge gouty leg. This would have been in itself sufficient to have possessed the company with the real state of affairs; but the young woman of all work had prevented the possibility of any misconception arising in the mind of any gentleman upon the subject, by forcibly dragging every man's glass away, long before he had finished his beer, and audibly stating, despite the winks and interruptions of Mr. Bob Sawyer, that it was to be conveyed down stairs, and washed forthwith.</p>
+<p>It is a very ill wind that blows nobody any good. The prim man in the cloth boots, who had been unsuccessfully attempting to make a joke during the whole time the round game lasted, saw his opportunity, and availed himself of it. The instant the glasses disappeared he commenced a long story about a great public character, whose name he had forgotten, making a particularly happy reply to another eminent and illustrious individual whom he had never been able to identify. He enlarged at some length and with great minuteness upon divers collateral circumstances, distinctly connected with the anecdote in hand, but for the life of him he couldn't recollect at that precise moment what the anecdote was, although he had been in the habit of telling the story with great applause for the last ten years.</p>
+<p>&ldquo;Dear me,&rdquo; said the prim man in the cloth boots, &ldquo;it is a very extraordinary circumstance.&rdquo;</p>
+<p>&ldquo;I am sorry you have forgotten it,&rdquo; said Mr. Bob Sawyer, glancing eagerly at the door, as he thought he heard the noise of glasses jingling&mdash;&ldquo;very sorry.&rdquo;</p>
+<p>&ldquo;So am I,&rdquo; responded the prim man, &ldquo;because I know it would have
+<pb n="335" id="p335"/>
+afforded so much amusement. Never mind; I dare say I shall manage to recollect it, in the course of half an hour or so.&rdquo;</p>
+<p>The prim man arrived at this point, just as the glasses came back, when Mr. Bob Sawyer, who had been absorbed in attention during the whole time, said he should very much like to hear the end of it, for, so far as it went, it was, without exception, the very best story he had ever heard.</p>
+<p>The sight of the tumblers restored Bob Sawyer to a degree of equanimity which he had not possessed since his interview with his landlady. His face brightened up, and he began to feel quite convivial.</p>
+<p>&ldquo;Now, Betsy,&rdquo; said Mr. Bob Sawyer, with great suavity, and dispersing, at the same time, the tumultuous little mob of glasses that the girl had collected in the centre of the table; &ldquo;now, Betsy, the warm water: be brisk, there's a good girl.&rdquo;</p>
+<p>&ldquo;You can't have no warm water,&rdquo; replied Betsy.</p>
+<p>&ldquo;No warm water!&rdquo; exclaimed Mr. Bob Sawyer.</p>
+<p>&ldquo;No,&rdquo; said the girl, with a shake of the head which expressed a more decided negative than the most copious language could have conveyed. &ldquo;Missis Raddle said you warn't to have none.&rdquo;</p>
+<p>The surprise depicted on the countenances of his guests imparted new courage to the host.</p>
+<p>&ldquo;Bring up the warm water instantly&mdash;instantly!&rdquo; said Mr. Bob Sawyer, with desperate sternness.</p>
+<p>&ldquo;No; I can't,&rdquo; replied the girl; &ldquo;Missis Raddle raked out the kitchen fire afore she went to bed, and locked up the kittle.&rdquo;</p>
+<p>&ldquo;Oh, never mind; never mind. Pray don't disturb yourself about such a trifle,&rdquo; said Mr. Pickwick, observing the conflict of Bob Sawyer's passions, as depicted in his countenance, &ldquo;cold water will do very well.&rdquo;</p>
+<p>&ldquo;Oh, admirably,&rdquo; said Mr. Benjamin Allen.</p>
+<p>&ldquo;My landlady is subject to some slight attacks of mental derangement,&rdquo; remarked Bob Sawyer with a ghastly smile; &ldquo;I fear I must give her warning.&rdquo;</p>
+<p>&ldquo;No, don't,&rdquo; said Ben Allen.</p>
+<p>&ldquo;I fear I must,&rdquo; said Bob with heroic firmness. &ldquo;I'll pay her what I owe her, and give her warning to-morrow morning.&rdquo; Poor fellow! how devoutly he wished he could!</p>
+<p>Mr. Bob Sawyer's heart-sickening attempts to rally under this last blow communicated a dispiriting influence to the company, the greater part of whom, with the view of raising their spirits, attached themselves with extra cordiality to the cold brandy and water, the first perceptible effects of which were displayed in a renewal of hostilities between the scorbutic youth and the gentleman in the sanguine shirt. The belligerents vented their feelings of mutual contempt, for some time, in a variety of frownings and snortings, until at last the scorbutic youth felt it necessary to come to a more explicit understanding on the matter, when the following clear understanding took place.</p>
+<p>&ldquo;Sawyer,&rdquo; said the scorbutic youth, in a loud voice.</p>
+<p>&ldquo;Well, Noddy,&rdquo; replied Mr. Bob Sawyer.</p>
+<pb n="336" id="p336"/>
+<p>&ldquo;I should be very sorry, Sawyer,&rdquo; said Mr. Noddy, &ldquo;to create any unpleasantness at any friend's table, and much less at yours, Sawyer.&mdash;very; but I must take this opportunity of informing Mr. Gunter that he is no gentleman.&rdquo;</p>
+<p>&ldquo;And <hi rend="italics">I</hi> should be very sorry, Sawyer, to create any disturbance in the street in which you reside,&rdquo; said Mr. Gunter, &ldquo;but I'm afraid I shall be under the necessity of alarming the neighbours by throwing the person who has just spoken, out o' window.&rdquo;</p>
+<p>&ldquo;What do you mean by that, Sir?&rdquo; inquired Mr. Noddy.</p>
+<p>&ldquo;What I say, Sir,&rdquo; replied Mr. Gunter.</p>
+<p>&ldquo;I should like to see you do it, Sir,&rdquo; said Mr. Noddy.</p>
+<p>&ldquo;You shall <hi rend="italics">feel</hi> me do it in half a minute, Sir,&rdquo; replied Mr. Gunter.</p>
+<p>&ldquo;I request that you'll favour me with your card, sir,&rdquo; said Mr. Noddy.</p>
+<p>&ldquo;I'll do nothing of the kind, Sir,&rdquo; replied Mr. Gunter.</p>
+<p>&ldquo;Why not, Sir?&rdquo; inquired Mr. Noddy.</p>
+<p>&ldquo;Because you'll stick it up over your chimney-piece, and delude your visiters into the false belief that a gentleman has been to see you, Sir,&rdquo; replied Mr. Gunter.</p>
+<p>&ldquo;Sir, a friend of mine shall wait on you in the morning,&rdquo; said Mr. Noddy.</p>
+<p>&ldquo;Sir, I'm very much obliged to you for the caution, and I'll leave particular directions with the servant to lock up the spoons,&rdquo; replied Mr. Gunter.</p>
+<p>At this point the remainder of the guests interposed, and remonstrated with both parties on the impropriety of their conduct, on which Mr. Noddy begged to state that his father was quite as respectable as Mr. Gunter's father; to which Mr. Gunter replied that his father was to the full as respectable as Mr. Noddy's father, and that his father's son was as good a man as Mr. Noddy, any day in the week. As this announcement seemed the prelude to a recommencement of the dispute, there was another interference on the part of the company; and a vast quantity of talking and clamouring ensued, in the course of which Mr. Noddy gradually allowed his feelings to overpower him, and professed that he had ever entertained a devoted personal attachment towards Mr. Gunter. To this Mr. Gunter replied that, upon the whole, he rather preferred Mr. Noddy to his own brother; on hearing which admission Mr. Noddy magnanimously rose from his seat, and proffered his hand to Mr. Gunter. Mr. Gunter grasped it with affecting fervour; and everybody said that the whole dispute had been conducted in a manner which was highly honourable to both parties concerned.</p>
+<p>&ldquo;Now,&rdquo; said Jack Hopkins, &ldquo;just to set us going again, Bob, I don't mind singing a song.&rdquo; And Hopkins, incited thereto, by tumultuous applause, plunged himself at once into &lsquo;The King, God bless him,&rsquo; which he sang as loud as he could, to a novel , compounded of the &lsquo;Bay of Biscay,&rsquo; and &lsquo;A Frog he would.&rsquo;&mdash;The chorus was the essence of the song, and, as each gentleman sang it to the tune he knew best, the effect was very striking indeed.</p>
+<p>It was at the end of the chorus to the first verse, that Mr. Pickwick held up his hand in a listening attitude, and said, as soon as silence was restored&mdash;</p>
+<pb n="337" id="p337"/>
+<p>&ldquo;Hush! I beg your pardon. I thought I heard somebody calling from up stairs.&rdquo;</p>
+<p>A profound silence immediately ensued; and Mr. Bob Sawyer was observed to turn pale.</p>
+<p>&ldquo;I think I hear it now,&rdquo; said Mr. Pickwick. &ldquo;Have the goodness to open the door.&rdquo;</p>
+<p>The door was no sooner opened than all doubt on the subject was removed.</p>
+<p>&ldquo;Mr. Sawyer&mdash;Mr. Sawyer&rdquo;&mdash;screamed a voice from the two-pair landing.</p>
+<p>&ldquo;It's my landlady,&rdquo; said Bob Sawyer, looking round him with great dismay. &ldquo;Yes, Mrs. Raddle.&rdquo;</p>
+<p>&ldquo;What do you mean by this, Mr. Sawyer?&rdquo; replied the voice, with great shrillness and rapidity of utterance. &ldquo;Ain't it enough to be swindled out of one's rent, and money lent out of pocket besides, and abused and insulted by your friends that dares to call themselves men, without having the house turned out of window, and noise enough made to bring the fire-engines here, at two o'clock in the morning?&mdash;Turn them wretches away.&rdquo;</p>
+<p>&ldquo;You ought to be ashamed of yourselves,&rdquo; said the voice of Mr. Raddle, which appeared to proceed from beneath some distant bedclothes.</p>
+<p>&ldquo;Ashamed of themselves!&rdquo; said Mrs. Raddle. &ldquo;Why don't you go down and knock 'em every one down stairs? you would if you was a man.&rdquo;</p>
+<p>&ldquo;I should if I was a dozen men, dear,&rdquo; replied Mr. Raddle, pacifically, &ldquo;but they've rather the advantage of me in numbers, my dear.&rdquo;</p>
+<p>&ldquo;Ugh, you coward!&rdquo; replied Mrs. Raddle, with supreme contempt. &ldquo;<hi
+rend="italics">Do</hi> you mean to turn them wretches out, or not, Mr. Sawyer?&rdquo;</p>
+<p>&ldquo;They're going, Mrs. Raddle, they're going,&rdquo; said the miserable Bob. &ldquo;I am afraid you'd better go,&rdquo; said Mr. Bob Sawyer to his friends. &ldquo;I <hi
+rend="italics">thought</hi> you were making too much noise.&rdquo;</p>
+<p>&ldquo;It's a very unfortunate thing,&rdquo; said the prim man. &ldquo;Just as we were getting so comfortable too!&rdquo; The fact was, that the prim man was just beginning to have a dawning recollection of the story he had forgotten.</p>
+<p>&ldquo;It's hardly to be borne,&rdquo; said the prim man, looking round. &ldquo;Hardly to be borne, is it?&rdquo;</p>
+<p>&ldquo;Not to be endured,&rdquo; replied Jack Hopkins; &ldquo;let's have the other verse, Bob; come, here goes.&rdquo;</p>
+<p>&ldquo;No, no, Jack, don't,&rdquo; interposed Bob Sawyer; &ldquo;it's a capital song, but I am afraid we had better not have the other verse. They are very violent people, the people of the house.&rdquo;</p>
+<p>&ldquo;Shall I step up stairs, and pitch into the landlord?&rdquo; inquired Hopkins, &ldquo;or keep on ringing the bell, or go and groan on e-Staircase? You may command me, Bob.&rdquo;</p>
+<p>&ldquo;I am very much indebted to you for your friendship and good nature, Hopkins,&rdquo; said the wretched Mr. Bob Sawyer, &ldquo;but I think the best plan to avoid any further dispute is for us to break up at once.&rdquo;</p>
+<pb n="338" id="p338"/>
+<p>&ldquo;Now, Mr. Sawyer,&rdquo; screamed the shrill voice of Mrs. Raddle, &ldquo;<hi
+rend="italics">are</hi> them brutes going?&rdquo;</p>
+<p>&ldquo;They're only looking for their hats, Mrs. Raddle,&rdquo; said Bob; &ldquo;they are going directly.&rdquo;</p>
+<p>&ldquo;Going!&rdquo; said Mrs. Raddle, thrusting her night-cap over the bannisters just as Mr. Pickwick, followed by Mr. Tupman, emerged from the sitting-room. &ldquo;Going! What did they ever come for?&rdquo;</p>
+<p>&ldquo;My dear ma'am,&rdquo; remonstrated Mr. Pickwick, looking up.</p>
+<p>&ldquo;Get along with you, you old wretch!&rdquo; replied Mrs. Raddle, hastily withdrawing the night-cap. &ldquo;Old enough to be his grandfather, you villin! You're worse than any of 'em.&rdquo;</p>
+<p>Mr. Pickwick found it in vain to protest his innocence, so hurried down stairs into the street, whither he was closely followed by Mr. Tupman, Mr. Winkle, and Mr. Snodgrass. Mr. Ben Allen, who was dismally depressed with spirits and agitation, accompanied them as far as London Bridge, and in the course of the walk confided to Mr. Winkle, as an especially eligible person to intrust the secret to, that he was resolved to cut the throat of any gentleman except Mr. Bob Sawyer who should aspire to the affections of his sister Arabella. Having expressed his determination to perform this painful duty of a brother with proper firmness, he burst into tears, knocked his hat over his eyes, and, making the best of his way back, knocked double knocks at the door of the Borough Market, and took short naps on the steps alternately, till day-break, under the firm impression that he lived there, and had forgotten the key.</p>
+<p>The visiters having all departed, in compliance with the rather pressing request of Mrs. Raddle, the luckless Mr. Bob Sawyer was left alone, to meditate on the probable events of the morrow, and the pleasures of the evening.</p>
+</div2>
+</div1></body>
+<back>
+<div1 type="advertisement">
+<pb id="pv" n="v"/>
+<head>TRAVELLING AND HUNTING MAPS.</head>
+<p><hi rend="italics">Mounted in cases adapted to the waistcoat pocket,</hi> 1<hi
+rend="italics">s.</hi> 6<hi rend="italics">d. each,</hi>
+<lb/> MAPS OF THE ENGLISH COUNTIES, <lb/> ENGRAVED BY SIDNEY HALL, <lb/> WITH THE MAIL AND COACH ROADS CORRECTLY COLOURED.</p>
+<list>
+<item>BEDFORDSHIRE</item>
+<item>BERKSHIRE</item>
+<item>BUCKINHAMSHIRE</item>
+<item>CAMBRIDGESHIRE</item>
+<item>CHESHIRE</item>
+<item>CORNWALL</item>
+<item>CUMBERLAND</item>
+<item>DERBYSRIRE</item>
+<item>DEVONSHIRE</item>
+<item>DORSETSHIRE</item>
+<item>DURHAM</item>
+<item>ENGLAND</item>
+<item>ESSEX</item>
+<item>GLOUCESTERSHIRE</item>
+<item>HAMPSHIRE</item>
+<item>HEREFORDSHIRE</item>
+<item>HERTFORDSHIRE</item>
+<item>HUNTINGDONSHIRE</item>
+<item>ISLE OF WIGHT</item>
+<item>ISLES OF MAN, <lb/> JERSEY, AND GUERNSEY</item>
+<item>KENT</item>
+<item>LANCASHIRE</item>
+<item>LEICESTERSHIRE</item>
+<item>LINCOLNSHIRE</item>
+<item>MIDDLESEX</item>
+<item>MONMOUTHSHIRE</item>
+<item>NORFOLK</item>
+<item>NORTHAMPTONSHIRE</item>
+<item>NORTHUMBERLAND</item>
+<item>NOTTINGHAMSHIRE</item>
+<item>OXFORDSHIRE</item>
+<item>RUTLANDSHIRE</item>
+<item>SHROPSHIRE</item>
+<item>SOMERSETSHIRE</item>
+<item>STAFFORDSHIRE</item>
+<item>SUFFOLK</item>
+<item>SURREY</item>
+<item>SUSSEX</item>
+<item>WARWICKSHIRE</item>
+<item>WESTMORELAND</item>
+<item>WILTSHIRE</item>
+<item>WORCESTERSHIRE</item>
+</list>
+<div2 type="section">
+<opener><hi rend="italics">Price</hi> 2<hi rend="italics">s. double the size of the above</hi></opener>
+<head>YORKSHIRE, IRELAND, SCOTLAND, AND WALES.</head>
+<p>Complete Sets of the above, uniformly mounted and lettered, in a neat Case, may be had, price Four <lb/> Guineas.</p></div2>
+</div1>
+<div1 type="advertisement">
+<opener>One volume, small 8vo, elegantly bound, gilt leaves, price 6<hi
+rend="italics">s.,</hi> or in silk 7<hi rend="italics">s.</hi></opener>
+<head>A GARLAND OF LOVE,</head><p>Wreathed of Choice Flowers, gathered in the Field of English Poetry. With a beautiful Frontispiece, from a design by HARVEY, printed in Sepia by BAXTER.</p>
+<p>&ldquo;A charming little volume, selected with much taste, and elegantly put together. We have to bestow unqualified praise on the judgment which has avoided the slightest approach to what might bring a blush upon the modest cheek.&rdquo;&mdash;<hi
+rend="italics">Literary Gazette.</hi></p>
+</div1>
+<div1 type="advertisement">
+<opener>In one volume, small 8vo, bound, gilt leaves, price 7<hi rend="italics">s.</hi></opener>
+<head>THE POETIC WREATH.</head>
+<p>Consisting of Select Passages from the works of English Poets, from Chaucer to Wordsworth. Alphabetically arranged, with twenty-six Vignette Letters, beautifully engraved on wood, from designs by S. W. ARNALD.</p>
+<p>&ldquo;This volume chancing to fall into our hands, has charmed us by the taste with which it has been prepared, both with respect to the literary materials, and the paper, print, embellishment, and binding. The pieces are arranged alphabetically under their titles, and at the beginning of each of the twenty-four letters is a beautiful device, in wood engraving, representing that letter by a combination of cherubs. Being satisfied, upon inspection, that the volume does not contain one trashy piece, we earnestly recommend it to general notice.&rdquo;&mdash;<hi
+rend="italics">Chambers' Journal.</hi></p>
+</div1>
+<div1 type="advertisement">
+<opener>One volume, foolscap, handsomely bound in embossed cloth, gilt edges, price 12<hi
+rend="italics">s.,</hi> or in morocco, 16<hi rend="italics">s.</hi></opener>
+<head>THE ARTIST; <lb/> OR <lb/> YOUNG LADIES' INSTRUCTOR IN ORNAMENTAL PAINTING, <lb/> DRAWING, &amp;c.</head>
+<p>Consisting of Lessons in Grecian Painting, Japan Painting, Oriental Tinting, Mezzotinting, Transferring, Inlaying, and Manufacturing, Articles for Fancy Fairs, &amp;c. By B. F. GANDEE, Teacher. Embellished with a beautiful Frontispiece and Title Page, printed in Oil Colours by Baxter, and seventeen other illustrative Engravings.</p>
+<p>LONDON: CHAPMAN AND HALL, 186, STRAND.</p>
+</div1>
+<div1 type="advertisement">
+<pb id="pvi" n="vi"/>
+<head>POPULAR JUVENILE BOOKS, <lb/> ELEGANTLY EMBELLISHED.</head>
+<div2 type="section">
+<opener><hi rend="italics">Neatly bound in Cloth, price</hi> 2<hi
+rend="italics">s.</hi> 6<hi rend="italics">d.</hi></opener>
+<head>REMEMBER; <lb/> OR, <lb/> MAMMA'S BIRTHDAY.</head>
+<p>BY MRS. BARWELL.</p>
+<p>WITH ILLUSTRATIONS.</p>
+</div2>
+<div2 type="section">
+<opener><hi rend="italics">Neatly bound, price</hi> 3<hi rend="italics">s.</hi> 6<hi
+rend="italics">d.</hi></opener>
+<head>THE JUVENILE PIANIST;</head><p>OR, A MIRROR OF <lb/> MUSIC FOR INFANT MINDS <lb/> BY ANN RODWELL, <lb/> TEACHER OF THE PIANOFORTE.</p>
+<p>Illustrated by upwards of One Hundred Musical Diagrams, and embellished with Engravings printed in Colours.</p>
+<p>&ldquo;This instructive little work, which is illustrated with numerous engravings and diagrams explanatory of its interesting art, is truly what it professes to be, a Mirror of Music for Infant Minds, constructed with such simplicity and clearness, that it would be impossible, even for a very young child, to read without deriving the wished for instruction. It is admirably calculated to render the early practice of the piano easy and attractive.&rdquo;&mdash;<hi
+rend="italics">Morning Post.</hi></p></div2>
+<div2 type="section">
+<opener><hi rend="italics">Square</hi> 1<hi rend="italics">Gmo, neatly bound, price</hi> 2<hi
+rend="italics">s.</hi> 6<hi rend="italics">d.</hi></opener>
+<head>POETRY FOR CHILDREN.</head>
+<p>Selected by the late. WM. BURDON.</p>
+<p>A New Edition, <lb/> WITH ILLUSTRATIONS PRINTED IN COLOURS.</p></div2>
+<div2 type="section">
+<opener><hi rend="italics">Neatly bound in cloth, price</hi> 2<hi
+rend="italics">s.</hi> 6<hi rend="italics">d.</hi></opener>
+<head>THE TWO COUSINS, <lb/> AND OTHER TALES.</head>
+<p>By the Authoress of &ldquo;POETIC SKETCHES.&rdquo;</p>
+<p>WITH ILLUSTRATIONS.</p>
+</div2>
+<div2 type="section">
+<opener><hi rend="italics">Neatly bound in cloth, price</hi> 2<hi
+rend="italics">s.</hi> 6<hi rend="italics">d.</hi></opener>
+<head>CAROLINE; <lb/> OR, THE <lb/> PLEASURES OF A BIRTHDAY.</head>
+<p>BY M. M. RODWELL, <lb/> Author of &ldquo;GEOGRAPHY OF THE BRITISH ISLES.&rdquo;</p>
+<p>WITH SIX ILLUSTRATIONS.</p>
+</div2><div2 type="section">
+<opener><hi rend="italics">Neatly bound in cloth, price</hi> 2<hi
+rend="italics">s.</hi> 6<hi rend="italics">d.</hi></opener>
+<head>THE SPOILED CHILD <lb/> RECLAIMED.</head>
+<p>BY M. M. RODWELL, <lb/> WITH SIX ILLUSTRATIONS.</p>
+<p>&ldquo;Two works brought out with great taste and neatness, for the amusement of children. The stories are well told, the moral lessons they inculcate, precisely those which it is of most importance to impress on the youthful mind.&rdquo;&mdash;<hi
+rend="italics">Athen&aelig;m.</hi></p></div2>
+<div2 type="section">
+<opener><hi rend="italics">Square</hi> 16<hi rend="italics">mo, neatly bound, price</hi> 1<hi
+rend="italics">s.</hi> 6<hi rend="italics">d.</hi></opener>
+<head>ROSE AND ANNE.</head>
+<p>A FIRST BOOK, IN MONOSYLLABLES, <lb/> WITH SIX ILLUSTRATIONS.</p>
+</div2><div2 type="section">
+<opener>One volume, 12mo, neatly bound in cloth, gilt edges, price 4<hi
+rend="italics">s.</hi></opener>
+<head>FLEURS DE POESIE MODERNE,</head><p> Containing the Beauties of A. De Lamartine, Victor Hugo, De Beranger, C. Delavigne.</p>
+<p>&ldquo;A selection made in the spirit of the day. Instead of a collection from other and old collections, the compiler has chosen the best of modern French writers, and presented us with the very best of their thoughts.&rdquo;&mdash;<hi
+rend="italics">Spectator.</hi></p>
+</div2><div2 type="section">
+<opener>SECOND EDITION, <hi rend="italics">price One Shilling,</hi> </opener><head> NURSERY GOVERNMENT;</head><p> OR, <lb/> HINTS ADDRESSED TO MOTHERS AND NURSERYMAIDS, <lb/> ON THE <lb/> MANAGEMENT OF YOUNG CHILDREN.</p><p>BY MRS. BARWELL.</p>
+<p>&ldquo;This little pamplilet is one of the most sensibly-written productions on this interesting subject that we ever remember to have perused. We have gone through it with a feeling of real pleasure, and we earnestly recommend it to the notice of mothers, and all who have the care of young children confided to them.&rdquo;&mdash;<hi
+rend="italics">Salisbury Journal.</hi></p>
+<closer>LONDON: CHAPMAN AND HALL, 186, STRAND.</closer>
+</div2>
+</div1>
+</back>
+</text>
+</TEI.2>

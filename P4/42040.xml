@@ -1,0 +1,1196 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI U5-1995//DTD TEI Lite//EN" "teixlite.dtd" [
+
+]>
+<TEI.2>
+<teiHeader type="3D">
+<fileDesc>
+<titleStmt>
+<title><emph>A Tale of Two Cities, No. VI:
+Electronic Edition.
+</emph></title><author>Dickens, Charles, 1812-1870.</author>
+
+<respStmt>
+<resp>Illustrated by </resp><name>Browne, H. K. (Hablot Knight), 1815-1882.</name>
+</respStmt>
+
+<funder>Funding from the  E. S. P. Das Educational Foundation supported the electronic publication of this title.</funder><respStmt>
+<resp>Text transcribed  by</resp>
+<name>Apex Data Services, Inc.</name>
+</respStmt>
+<respStmt><resp>Images scanned by</resp>
+<name>Andrew Leiter</name></respStmt><respStmt><resp>Text encoded by </resp>
+<name>Apex Data Services, Inc., Matthew Kern and Jill Kuhn Sexton</name></respStmt></titleStmt>
+<editionStmt><edition>First edition, <date>2002</date></edition></editionStmt>
+<extent>ca. 190K</extent>
+<publicationStmt>
+<publisher>Academic Affairs Library, UNC-CH</publisher>
+<pubPlace>University of North Carolina at Chapel Hill, </pubPlace><date>2002.</date>
+
+<availability>
+<p>&copy; This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+</availability>
+</publicationStmt>
+
+
+<sourceDesc>
+
+<biblFull>
+<titleStmt>
+<title type="title page">A Tale of Two Cities</title>
+
+<author>Charles Dickens</author>
+
+<respStmt><resp>Illustrations by</resp>
+<name>H. K. Browne</name></respStmt>
+
+</titleStmt>
+
+<extent> 50 p., ill.</extent>
+
+<publicationStmt>
+<pubPlace>London</pubPlace>
+<publisher>Chapman and Hall, 193, Piccadilly</publisher>
+<date>1859</date>
+<authority></authority>
+</publicationStmt>
+<notesStmt><note>Call number Dickens 23 (Rare Book Collection, University of North Carolina at Chapel Hill)</note></notesStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+<editorialDecl>
+
+<p>The text has been entered using double-keying and verified against the original. 
+The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+
+<p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+<p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+
+<p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+<p>All double right and left quotation marks are encoded as &rdquo; and &ldquo;
+respectively.</p>
+<p>All single right and left quotation marks are encoded as &rsquo; and &lsquo; respectively.</p>
+<p>All em dashes are encoded as &mdash;</p><p>Indentation in lines has not been preserved.</p>
+<p>Running titles have not been preserved.</p>
+<p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+</editorialDecl>
+
+
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+
+<language id="eng">English</language>
+
+</langUsage>
+
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2002-10-16, </date><respStmt><name> Jill Kuhn Sexton </name><resp></resp>
+</respStmt><item>finished TEI-conformant encoding and final proofing.</item>
+</change>
+<change>
+<date>2002-09-12, </date><respStmt><name>Matthew Kern</name>
+<resp></resp></respStmt><item> finished TEI/SGML encoding</item></change>
+<change><date>2002-08-01, </date>
+<respStmt><name>Apex Data Services, Inc.</name><resp></resp></respStmt>
+<item> finished transcribing the text.</item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<titlePage>
+
+<titlePart> No. VI. </titlePart>
+<docDate>NOVEMBER.</docDate>
+<docEdition>PRICE 1<hi rend="italics">s.</hi></docEdition>
+
+
+<docTitle><titlePart>A TALE <lb/> OF <lb/> TWO CITIES </titlePart></docTitle>
+<byline>BY</byline>
+<docAuthor>CHARLES DICKENS.</docAuthor>
+<docImprint>
+WITH <lb/> ILLUSTRATIONS BY H. K. BROWNE.
+<pubPlace>LONDON:</pubPlace>
+<publisher>CHAPMAN AND HALL, 193, PICCADILLY.
+<lb/>AGENTS: J. MENZIES, EDINBURGH; MURRAY AND SON, GLASGOW; J. M'GLASHAN AND GILL, DUBLIN.</publisher>
+<lb/>The Author reserves the right of Translation.
+</docImprint>
+</titlePage>
+<div1 type="section">
+<pb id="pii" n="ii"/>
+<head>THE WAR <lb/> WITH THE SARDINIANS</head>
+<p>Has evidently thrown no check over the inventive faculties of the French. Although <hi rend="italics">la gloire</hi> is the theme of conversation amongst the <hi rend="italics">habitu&eacute;s</hi> of <hi rend="italics">le club,</hi> the prattle of the <hi rend="italics">beau monde</hi> is still, as ever, What dress? what bonnet? and what mode?</p>
+<p>Indeed we learn from amusing and instructing letters from the Parisian agents of the Messrs. JAY that the only effect of a declaration of war amongst <hi rend="italics">les belles,</hi> is, that &ldquo;white bonnets appear to bristle like a phalanx of bayonets more than ever in the Bois de Boulogne.&rdquo;</p>
+<p>It is likewise curious to observe in these communications the practical despotism which occasionally oozes out even in a matter so apparently insignificant as Fashion. &ldquo;Your season <hi rend="italics">shall</hi> not commence until June,&rdquo; says one; &ldquo;Send your Modiste over at once,&rdquo; says another; and although this house had not intended to have done this until some fortnight hence, such is the submission to the behests of the imperial rulers of &ldquo;shape and make,&rdquo; that the telegraph is on the instant put into requisition to announce that the Head Milliner of the Firm is <hi rend="italics">en route</hi> for the city of Fashion, to return again to our shores, it may be, but a few hours after this appears in type.</p>
+<p><hi rend="italics">Morning Papers, May</hi> 23<hi rend="italics">rd.</hi></p>
+</div1>
+<div1 type="advertisement">
+<pb id="p1" n="1"/>
+<opener>DR. <lb/> DE JONGH'S <lb/> (<hi rend="italics">Knight of the</hi>
+<lb/>
+<hi rend="italics">Order of Leopold of Belgium</hi>) <lb/> LIGHT-BROWN</opener><head>COD LIVER OIL,</head><p><hi rend="italics">Prescribed by the most eminent medical men throughout the world as the safest,</hi>
+<lb/>
+<hi rend="italics">speediest, and most effectual remedy for</hi>
+<lb/> CONSUMPTION AND DISEASES OF THE CHEST AND THROAT, <lb/> GENERAL DEBILITY, GOUT, RHEUMATISM, <lb/> NEURALGIA, DISEASES OF THE SKIN, SCROFULOUS AFFECTIONS, <lb/> RICKETS, INFANTILE WASTING, AND ALL THE DISORDERS <lb/> OF CHILDREN ARISING FROM DEFECTIVE NUTRITION.</p>
+<p>DR. DE JONGH, an eminent Dutch Physician, has, as is well known, devoted himself for upwards of sixteen years to a series of scientific researches into the nature and properties of Cod Liver Oil. His works recording these investigations have been translated into most of the European languages; by universal admission, they are regarded by the Faculty as the standard authority upon the subject; and in addition to the spontaneous approval and highly flattering testimonials from some of the most distinguished medical men and scientific chemists of Europe&mdash;amongst whom may be enumerated the illustrious LIEBIG, of the University of Giessen, the renowned Swedish Chemist, BERZELIUS, and the celebrated Physician, BARON FOUQUIER, of the University of Paris&mdash;DR. DE JONGH has been rewarded by his Majesty LEOPOLD I., the King of the Belgians, with the dignity of a Knight of the Order of Leopold, and the large Gold Medal of Merit, and by his Majesty WILLIAM II., the King of the Netherlands, with a Silver Medal specially struck for the purpose.</p>
+<p>Extensive use upon the Continent for many years has gained for DR. DE JONGH'S Oil the highest repute, and professional and general appreciation. Since its introduction into this country it has secured the entire confidence of the most eminent members of the British medical profession, and has obtained, notwithstanding the active and in many instances unscrupulous opposition of interested dealers, an unprecedented amount of public patronage.</p>
+<p>DR. DE JONGH'S elaborate chemical investigations and therapeutical experiments with the several kinds of Cod Liver Oil have demonstrated the superior efficacy of this pure Light Brown Oil, which effects a cure, relieves symptoms, and alleviates suffering in a much shorter time than the Pale Oil: iodine, phosphate of lime, volatile fatty acids, and the elements of the bile&mdash;imparting the colour to the Oil, and deemed amongst its most active and essential principles&mdash;being invariably present in much larger quantities than in the Pale Oils manufactured in England and Newfoundland, which, by their mode of preparation, are in a great measure deprived of these active properties.</p>
+<p>In taste and odour DR. DE JONGH'S OIL is not disagreeable or repulsive; it is easily taken by the most delicate invalid or child; creates no nausea or after-taste; is borne with facility, and not rejected by the stomach; and does not irritate or disturb the organs, but improves the functions of digestion and assimilation.</p>
+<p>Its medicinal properties are found, in practice, to be infinitely greater than those of the ordinary Cod Liver Oil, and it produces beneficial results and effects a cure in a much shorter period. In innumerable cases DR. DE JONGH'S OIL has afforded immediate mitigation of symptoms, arrested disease, and restored health, where other kinds of Cod Liver Oil had been long and copiously administered with little or no benefit.</p>
+<p>In use it is not so expensive as any Oil sold as genuine by respectable Chemists, whilst its active properties, more rapid effects, the smaller doses required, and its uniform purity and certainty of operation, render it far preferable and more really economical than that which is offered at the lowest price. <hi rend="italics">This latter consideration is particularly worthy the attention of all who, from motives of apparent cheapness, may be induced inadvertently to recommend or purchase an inferior or spurious preparation.</hi></p>
+<div2 type="section">
+<pb id="p2" n="2"/>
+<head>PRINCIPAL MALADIES IN WHICH DR. DE JONGH'S COD LIVER OIL HAS <lb/> BEEN SUCCESSFULLY PRESCRIBED.</head>
+<div3 type="section">
+<head>CONSUMPTION AND DISEASES OF THE CHEST AND THROAT.</head>
+<p>The extraordinary virtues of this medicine in tubercular consumption, a disease long allowed to be one of the <hi rend="italics">opprobria medicin&oelig;,</hi> may now be considered as fully established. Administered in time, and steadily persevered in, it has not only the power of subduing all disposition to phthisis, but of arresting the development of tubercles; or, when the disease has advanced to the developed form, it has accomplished, in numerous instances, a perfect cure. In the last stage, it is, at all events, the best palliative means of allaying the urgent symptoms, and even when a complete cure is not produced, it may for years prolong life and render it more supportable. No remedy so rapidly restores the exhausted strength, improves the nutritive functions, stops or diminishes emaciation, checks the perspiration, quiets the cough and expectoration, or produces a more marked and favourable influence on the local malady. Hospital, dispensary, and private practice, all furnish innumerable cases in which the administration of this remedy has been attended with the happiest results. To quote the eloquent words of the Rev. C.D. BADHAM, M.D., the gifted author of &ldquo;Ancient and Modern Fish Tattle:&rdquo;&mdash;</p>
+<q><p>&ldquo;With what still greater wonder and complacency must every enlightened physician, now-a-days, contemplate that wholly unexpected and invaluable ally which suffering lungs have recently secured from the iatric liver of the cod. <hi rend="italics">Alere vitam</hi>&mdash;to feed common lamps&mdash;was, till lately, all it professed to do; but now its vaunt is, <hi rend="italics">alere vitam</hi>&mdash;to replenish the lamp of life when burning low, and threatening to go out. Thousands of cases hitherto most unpromising, have, under its auspices, suddenly changed their aspect, and looked bright: here, a fair girl hastening to decay, had scarcely taken a few doses, when the ominous cough was appeased, she recovered her roses, smiled once more on a reassured family of friends, and went on her way rejoicing; there, a case of graver import, which had whispered death to the inquiring ear, made a stand, rallied, and consumption was, for the time, arrested in mid-course; and again, in patients still further reduced by the blighting malady, the administration of the bland Oil was frequently observed to respite, soften, and assuage sufferings beyond its power to remove. Scepticism, by slow degrees, made way to conviction; and he who, a few years ago, would justly have passed for a quack who should have pretended to cure consumption, is now countenanced everywhere by brother practitioners, who have all the same story to tell, till the world at large has become convinced of the fact; and there is now not a village apothecary through the length and breadth of our isle who has not himself witnessed some of the endless beneficent wonders which this penetrating balm, under the Divine blessing, has already worked, and is daily working, among the children of men.&rdquo;</p></q>
+<p>In non-tubercular pulmonary disease, so prevalent, especially among the industrial population, who are exposed to abrupt vicissitudes of heat and cold, and to the mechanical irritation produced in the respiratory organs by the impregnation of the air of mines and manufactories with earthy or metallic particles, or with dust emanating from flax, cotton, or wool, the soothing and reparative action of DR. DE JONGH'S Oil subdues the chronic inflammation of the lungs, and effectually arrests the progress of the malady.</p>
+<p>The same beneficial results attend the administration of this Oil in many chronic affections of the throat as in pulmonary diseases. M. CHAMPOUILLON, the celebrated French Physician of the Hospital of Val de Gr&acirc;ce, asserts, from considerable experience, that this Oil is most effectual in curing chronic bronchitis. No remedy so speedily allays, and permanently cures, the distressing irritation which provokes frequent and prolonged coughing. The actual benefit derived is thus conclusively stated by ARTHUR CRIDLAND, Esq., an eminent surgeon in extensive practice at Brighton:&mdash;</p>
+<q><p>&ldquo;The effect of DR. DE JONGH'S Cod Liver Oil on myself in the latter stage of whooping cough, last winter, was remarkable. I suffered from excessive irritation of the larynx; consequently, I was greatly reduced in strength and appearance, and quite unable to attend to my professional duties. It occurred to me that the Oil which I was frequently prescribing would benefit my own ease, and, after taking it a few days, its good effect commenced, and at the end of six weeks I regained my usual health and strength, and had entirely lost the laryngial irritation, which was of a most harassing and fearfully distressing character.</p><p>&ldquo;It is therefore with much pleasure I beg to add my testimony to the excellent results attendant on DR. DE JONGH'S Oil.&rdquo;</p></q>
+</div3>
+<div3 type="section">
+<head>GENERAL DEBILITY AND EMACIATION.</head>
+<p>To maintain health, or to avert the access or development of disorders to which there is a constitutional predisposition, as well as to impart strength in old age, convalescence, or natural feebleness, DR. DE JONGH'S Oil has been used with the greatest benefit. In cases of prostration and emaciation, produced by long sickness, by exposure to the influence of tropical climates or vicissitudes of temperature, to a cold, humid, or vitiated atmosphere, in fenny and marshy countries, unhealthy manufactories and mines, or where excessive labour, fatigue, bad nourishment, and other hardships, have reduced the vital forces, and where life appeared to be even at its lowest ebb, the reparative and restorative powers of this Oil have been remarkably manifested. According to TAUFFLIEB, BREFELD, CAREY, and other eminent physicians, its action appears to be different from that of the ordinary tonics properly so called, and it has, in consequence, been resorted to with the most beneficial effect after the whole range of these had been in vain exhausted.</p>
+<p>By its administration the failing physical powers of advancing age are renewed, the natural appetite is revived, and the functions of digestion and assimilation improved and regulated, and when its use is steadily persevered in, from its peculiarly nutritious and tonic properties, it swiftly restores flesh to the most emaciated frame, and imparts health and strength to the most feeble and deteriorated constitution. These peculiar characteristics of DR. DE JONGH'S Oil are thus described by HENRY HANKS, Esq., a distinguished London practitioner:&mdash;</p>
+<q><p>&ldquo;The superior efficacy of DR. DE JONGH'S Light-Brown Cod Liver Oil over the Pale Cod Liver Oil has proved, in my experience, unequivocal.</p><p>&ldquo;Patients who have persisted for several months in the use of the latter, with scarcely any perceptible improvement, have, after a brief trial of DR. DE JONGH'S Light-Brown Cod Liver Oil, acquired such fatness, and those distressing symptoms accompanying emaciation have so rapidly subsided, that I have been induced to confide in its reputed remedial powers, and, consequently, to advise its substitution for the Pale Cod Liver Oil.&rdquo;</p></q>
+</div3>
+<div3 type="section">
+<pb id="p3" n="3"/>
+<head>DISORDERS OF INFANCY, CHILDHOOD, AND ADOLESCENCE.</head>
+<p>In those severe disorders, infantile wasting, rickets, and mesenteric disease or swelling of the belly, DR. DE JONGH'S Cod Liver Oil, whether the disease be at its commencement or at its height, will supersede every other means of cure, and will accomplish whatever can be expected or hoped for from any medicine. The learned German Physician BREFELD, gives the following description of its operation:&mdash;</p>
+<q><p>&ldquo;The healing virtue of this Oil in these forms of disease is as incredible as it is unlimited in its effects. Even in the very extremity of life, where the patient appears to be sinking, and death inevitable, it affords relief as a matter of certainty. I know nothing to controvert this, except an intervening attack of acute fever and the termination of life, the death-struggle itself. It moderates slow fever and diarrh&oelig;a as well as the other symptoms of rickets, which one after the other are gradually dispersed. It improves digestion and the consequent nourishment of the body; the tumid belly softens and diminishes in size as the wasted extremities begin to recover their rotundity. The old features again become natural and childish; the skin moist and clear; the powers of life are restored; the eyes are again full of life and brightness; the slow fever disappears; the childish gaiety re-establishes itself; with a return of healthy sound sleep, and removal of that anxious nightly starting and shrieking which render the night so wretched to the infant. With the increasing strength the desire and ability to stand and to walk return; and the unnatural state of the bones, both in form and strength, by degrees is corrected.</p><p>&ldquo;As an anthelmintic the Oil is a most excellent adjuvant, by which the worms are dislodged, both mildly and effectually.&rdquo;</p></q>
+<p>In that precarious and distressing state where the child may be sickly and feeble without being actually ill, the surprising efficacy of DR. DE JONGH'S Oil is thus described by the distinguished Physician, DR. EDWARD CAREY:&mdash;</p>
+<q><p>&ldquo;It is in the diseases incidental to childhood that mainly depend on the mal-assimilation of the food in the pale eachectic child, when the anxious practitioner has exhausted the whole range of alteratives and tonics, that this Cod Liver Oil will come in and satisfy his most sanguine expectations. Where the powers of life are low, it affords nourishment to the body when none other can be borne; it furnishes the frame with fat in a truly wonderful manner; and, administered as it is in Holland, to the delicate and puny child, who, though not considered ill, is in that state of impaired health which would favour the development of disease, its extraordinary effects will soon be visible, after having taken it for a short period, by an appearance of health and strength which was before unknown, and which will be accomplished by no other remedy with which we are at present acquainted.&rdquo;</p></q>
+<p>The remedial virtues of DR. DE JONGH'S Oil in cases of hereditary weakness or deficient nutrition, the prolific causes of convulsive affections and many fatal disorders of children, are thus recorded in the <hi rend="italics">Medical Times and Gazette:</hi>&mdash;</p>
+<q><p>&ldquo;In badly nourished Infants DR. DE JONGH'S Light-Brown Cod Liver Oil is invaluable. The rapidity with which two or three teaspoonfuls per diem will fatten a young child is truly astonishing. The weight gained is three times the weight of the Oil swallowed, or more; and, as children like the taste of the Oil, and when it is given them often cry for more, it appears as though there were some prospect of deliverance for the appalling multitude of children who figure in the weekly bills of mortality issued from the office of the Registrar-General.&rdquo;</p></q>
+<p>In checking a tendency to consumption and general debility at that age when a too rapid growth in the young renders the constitution fragile, and weakens the powers of assimilation and nutrition, this Oil has been found singularly efficacious. DR. PRUYS VAN DER HOEVEN, the eminent Physician of Leyden, states:&mdash;</p>
+<q><p>&ldquo;I have given it to boys whose form of chest, delicate skin, and disposition to catarrh, showed a phthisical habit, and it has, in conjunction with dietetic and gymnastic rules, not only improved the delicate appearance, but has removed the obstinate cough. I have administered it to young people who grow tall exceedingly quickly, and have in all cases found it a most powerful restorative.&rdquo;</p></q>
+</div3>
+<div3 type="section">
+<head>DISEASES OF THE SKIN.</head>
+<p>In these distressing and unsightly complaints, which oftentimes tenaciously resist for years the whole Pharmacop&oelig;ia of alteratives and tonics, combined with every available ointment and lotion, the curative effects of DR. DE JONGH'S Oil, after a few weeks' administration, in the most inveterate cases, have been so remarkable, that this safe and simple remedy is now regarded as a specific in the most prevalent chronic cutaneous affections.</p>
+<p>It will be sufficient to quote the following opinion of THOMAS HUNT, Esq., Surgeon to the Western Dispensary for Diseases of the Skin, and the eminent writer on cutaneous disorders, who, in his popular work, &ldquo;Guide to the Treatment of Diseases of the Skin,&rdquo; observes:&mdash;</p>
+<q><p>&ldquo;If there is any one medicine which is at all to be compared with arsenic in its power over skin diseases, that medicine is the Cod Liver Oil sold in bottles as DR. DE JONGH'S Oil. As there is no medicine in the market more grossly adulterated than what is called Cod Liver Oil, I insist upon my patients procuring this article, which I know to be genuine, not only by analysis, but by the invariably satisfactory operation of the medicine in very small doses, in the cases to which it is appropriate. These are chiefly those accompanied with wasting of the flesh, from whatever cause, mal-assimilation, defective nutrition, variable appetite, deficient food, strumous disease, &amp;c. The cutaneous diseases most benefited by the Oil may be cited in the following order&mdash;strumous sores, sycosis, lupus, acne, prurigo, lichen, eczema.&rdquo;</p></q>
+</div3>
+<div3 type="section">
+<head>SCROFULA AND SCROFULOUS DISORDERS.</head>
+<p>All who have prescribed this Oil have unanimously acknowledged its virtues in every form of scrofula, and bestowed upon it the highest praise, which has secured it the first place amongst anti-scrofulous remedies. It eradicates the first trace of the disease, and prevents its development and formation.</p>
+<q><p>BREFELD says, &ldquo;There is no remedy which at all approaches its therapeutic properties in scrofulous disease; it is an undoubted powerful medicine, operating in a peculiar specific manner, and affording relief where, to all appearance, and according to former experience, the disorder was beyond the reach of medicine.&rdquo;</p><p>KOPP states, &ldquo;The first time the Cod Liver Oil is prescribed for a scrofulous patient, its favourable effects are soon apparent, and which can only be attributed to its use, frequently acting in a truly wonderful manner. It effects a change in the general appearance; the cachectic colour is lost, the flabby flesh becomes firm, the chain of swollen glands diminish and separate, and ulcers put on a healthy character and heal.&rdquo;</p></q>
+</div3>
+</div2>
+<div2 type="advertisement">
+<pb id="p4" n="4"/>
+<head>SELECT MEDICAL OPINIONS.</head>
+<p>The following are selected from some of the leading British medical opinions in commendation <lb/> of DR. DE JONGH'S Light-Brown Cod Liver Oil:&mdash;</p><div3>
+<head>The late JONATHAN PEREIRA, M.D., F.R.S., F.L.S.,</head><p><hi rend="italics">Professor at the University of London, &amp;c. &amp;c.</hi></p>
+<p>&ldquo;My dear Sir,&mdash;I was very glad to find from you, when I had the pleasure of seeing you in London, that you were interested commercially in Cod Liver Oil. It was fitting that the Author of the best analysis and investigations into the properties of this Oil should himself be the Purveyor of this important medicine.</p>
+<p>&ldquo;I feel, however, some diffidence in venturing to fulfil your request, by giving you my opinion of the quality of the Oil of which you gave me a sample; because I know that no one can be better, and few so well, acquainted with the physical and chemical properties of this medicine as yourself, whom I regard as the highest authority on the subject.</p>
+<p>&ldquo;I can, however, have no hesitation about the propriety of responding to your application. The Oil which you gave me was of the very finest quality, whether considered with reference to its colour, flavour, or chemical properties; and I am satisfied that, for medicinal purposes, no finer Oil can be procured.</p>
+<p>&ldquo;With my best wishes for your success, believe me, my dear Sir, to be very faithfully yours,</p>
+<closer>
+<signed>&ldquo;(Signed) <lb/> JONATHAN PEREIRA,</signed><dateline>&ldquo;To Dr. de Jongh.&rdquo; &ldquo;Finsbury Square, London, April 16, 1851.</dateline>
+</closer>
+</div3><div3>
+<head>A. B. GRANVILLE, Esq., M.D., F.R.S.,</head><p><hi rend="italics">Author of</hi> &ldquo;THE SPAS OF GERMANY,&rdquo; &ldquo;THE SPAS OF ENGLAND,&rdquo; &ldquo;ON SUDDEN DEATH,&rdquo; <hi rend="italics">&amp;c. &amp;c.</hi></p>
+<p>&ldquo;Dr. Granville has used DR. DE JONGH'S Light-Brown Cod Liver Oil extensively in his practice, and has found it not only efficacious, but uniform in its qualities. He believes it to be preferable in many respects to Oils sold without the guarantee of such an authority as De Jongh. Dr. Granville has found that this particular kind produces the desired effect in a shorter time than others, and that it does not cause the nausea and indigestion too often consequent on the administration of the pale Newfoundland Oils. The Oil being, moreover, much more palatable, Dr. Granville's patients have themselves expressed a preference for DR. DE JONGH'S Light-Brown Cod Liver Oil.&rdquo;</p>
+</div3><div3>
+<head>G. H. BARLOW, Esq., M.D., F.R.C.P.,</head><p><hi rend="italics">Physician to Guy's Hospital, Author of</hi> &ldquo;A MANUAL OF THE PRACTICE OF MEDICINE,&rdquo; <hi rend="italics">&amp;c. &amp;c.</hi></p>
+<p>&ldquo;I have frequently recommended persons consulting me to make use of DR. DE JONGH'S Cod Liver Oil. I have been well satisfied with its effects, and believe it to be a pure Oil, well fitted for those cases in which the use of that substance is indicated.&rdquo;</p>
+</div3><div3>
+<head>CHARLES COWAN, Esq., M.D., L.R.C.S.E.,</head><p><hi rend="italics">Senior Physician to the Royal Berkshire Hospital, Consulting Physician to the Reading Dispensary, &amp;c. &amp;c.</hi></p>
+<p>&ldquo;Dr. Cowan is glad to find that the Profession has some reasonable guarantee for a genuine article. The material now sold varies in almost every establishment where it is purchased, and a tendency to prefer a colourless and tasteless Oil, if not counteracted, will ultimately jeopardize the reputation of an unquestionably valuable addition to the Materia Medica. Dr. Cowan wishes DR. DE JONGH every success in his meritorious undertaking.&rdquo;</p>
+</div3><div3>
+<head>C. RADCLYFFE HALL, Esq., M.D., F.R.C.P.E.,</head><p><hi rend="italics">Physician to the Hospital for Consumption, Torquay, Author of</hi> &ldquo;TORQUAY IN ITS MEDICAL ASPECT,&rdquo; <hi rend="italics">&amp;c. &amp;c.</hi></p>
+<p>&ldquo;I have no hesitation in saying that I generally prefer your Cod Liver Oil, for the following reasons:&mdash;I have found it to agree better with the digestive organs, especially in those patients who consider themselves to be bilious; it seldom causes nausea or eructation; it is more palatable to most patients than the other kinds of Cod Liver Oil; it is stronger, and consequently a smaller dose is sufficient.&rdquo;</p>
+</div3><div3>
+<head>RICHARD MOORE LAWRANCE, Esq., M.D.,</head><p><hi rend="italics">Physician to H.R.H. the Duke of Saxe-Coburg and Gotha, Ophthalmic Surgeon to the Great Northern Hospital, &amp;c.</hi></p>
+<p>&ldquo;I have frequently tested your Cod Liver Oil, and so impressed am I with its superiority, that I invariably prescribe it in preference to any other, feeling assured that I am recommending a genuine article, and not a manufactured compound, in which the efficacy of this invaluable medicine is destroyed.&rdquo;</p>
+</div3><div3>
+<p>DR. DE JONGH'S LIGHT-BROWN COD LIVER OIL <hi rend="italics">is sold only in bottles; each bottle being sealed with a stamped metallic capsule, and bearing beneath the pink outside wrapper a label with</hi> DR. DE JONGH'S <hi rend="italics">stamp and signature, and to these capsules and marks purchasers are earnestly requested to pay particular attention.</hi></p>
+<p>WITHOUT THESE NONE CAN POSSIBLY BE GENUINE.</p>
+<p>FULL DIRECTIONS FOR USE ACCOMPANY EACH BOTTLE.</p>
+<p>IMPERIAL Half-Pints (10 ounces), 2<hi rend="italics">s.</hi> 6<hi rend="italics">d.</hi> Pints (20 ounces), 4<hi rend="italics">s.</hi> 9<hi rend="italics">d.</hi> Quarts (40 ounces), 9<hi rend="italics">s.</hi></p>
+<p>Sold by ANSAR, HARFORD, &amp; Co., 77, STRAND, LONDON, W.C., <lb/> DR. DE JONGH'S <hi rend="italics">sole accredited Consignees and Agents; and by most respectable Chemists and Druggists</hi>
+<lb/>
+<hi rend="italics">throughout the British Empire.</hi></p>
+<p>IMPORTANT CAUTION.&mdash;<hi rend="italics">The public are solicitously cautioned against intrusive attempts frequently made by apparently respectable but not over-scrupulous Chemists, not satisfied with the legitimate profits of trade, to induce them to purchase other kinds of Cod Liver Oil, under the fallacious pretence that they are the same as</hi> DR. DE JONGH'S, <hi rend="italics">or equally efficacious. Where this discreditable course is pursued, purchasers are earnestly requested to apply directly to</hi> DR. DE JONGH'S <hi rend="italics">Agents in London, who will enable them to obtain the Oil without any additional charge.</hi></p>
+</div3>
+</div2>
+</div1>
+<div1 type="advertisement">
+<pb id="p5" n="5"/>
+<head>THE <lb/> MORISONIAN MONUMENT,</head><p>ERECTED IN FRONT OF THE <lb/> BRITISH COLLEGE OF HEALTH, <lb/> EUSTON ROAD, LONDON.</p>
+<p>THE 31st OF MARCH, 1856.</p>
+<p>THIS MEMORIAL, <lb/> RAISED BY A PENNY SUBSCRIPTION, <lb/> HAS BEEN ERECTED A.D. 1856.</p>
+<p>TO <lb/> JAMES MORISON, <lb/> THE HYGEIST.</p>
+<div2 type="section">
+<head>REASONS FOR THE MONUMENT: BY JOHN FRASER, <lb/> 71, PRINCE'S STREET, EDINBURGH.</head>
+<p>FRIENDS,&mdash;You will have perceived by the <hi rend="italics">Hygeist,</hi> that a proposal, emanating originally from Hygeists themselves, has for some time been before the public, to erect a monument to JAMES MORISON, ESQ., the founder of Hygeianism. Monuments to medical men are rarities in the world; not that there have not been great and good men in the profession, but because the want of sound medical principles, and success in curing, (facts universally known,) have always prevented the growth of deep public interest in the minds of the people, in reference to either the conflicting principles or practice of doctors. It is indeed wise that no such monuments should be erected. Such honours appropriately belong to those only, who have done substantial and extensive good in the world. Now the highest medical authorities have themselves admitted <hi rend="italics">&ldquo;That it is questionable whether their system has not done more real harm than good to the world.&rdquo;</hi> Therefore, to such a profession, monuments are not due. How different is the case with James Morison! His principles, and theory of disease are not conflicting, but accordant; and like all principles of everlasting truth, capable from their simplicity, of being easily understood by the common mind. For us to have been made, by his writings, to understand the general origin of disease, is an attainment unspeakably gratifying, and of unspeakable importance. In what a state of distraction have thousands of us been kept, when trouble was on ourselves, or in our families, because we could neither tell nor understand the causes of that trouble; and of course, had no principles to suggest a natural, and proper method of cure. Such a state of ignorance and uncertainty as this is extremely distressing in a sick family. Enlightened by Hygeian principles, no such uncertainty exists now, with its consequent pain and distraction.
+<pb id="p6" n="2"/>
+This great blessing we owe to Mr. Morison on our own account, independently of the fact that the same blessing will extend itself to all future ages. A positive discovery in any department of science is a discovery for ever; and honest history will never lose sight of him who made it; but rather surround his name and memory with those praises and laurels that to him justly belong. But what was the discovery? Was it a high road to wealth, to improvements in commerce, or the arts, or anything connected with the dry business concerns of life? No. It was a discovery that pointed directly and certainly to the cause of bodily pain and sickness; and clearly indicated the way to remove them. This was a discovery infinitely surpassing in value to humanity, all the ordinary routine of discoveries with which the world abounds, for what is the worth of life or riches to a sick man, whose days are spent in grief and sorrow? On these grounds a monument to the memory of Morison is pre-eminently due, as a token of gratitude on our part, and as manifesting the sincerity of our convictions. The knowledge that has been so great a blessing to ourselves we desire all men to enjoy; and as a means of extending it, the erection of a permanent monument will be most serviceable. To popularise the sciences is now, by all enlightened minds, regarded as a duty due to society at large. It is quite foreign to the benign, the universal spirit of science, or any truth of nature, to be imprisoned within narrow confines, or to be monopolised by corporated bodies. Science is designed for the blessing and benefit of every human being. Morison was the first individual in Great Britain, perhaps in the civilised world, who made a gigantic and most successful effort to popularise medicine, the prince of all sciences. He has emancipated countless thousands from the chains of professional intolerance and bigotry, elevating their minds to the high, the dignified, the manly position of thinking and acting for themselves, on all subjects connected with their physical well-being. Society now proudly flutters in the breeze, its flag of long won religious and political freedom; and the noble efforts and influence of Morison, will yet result in another victory for oppressed man&mdash;the medical liberty of the subject. Other assistants in this cause have of late years sprung up; but to Morison we are indebted for its bold origination, and the great advancement it has made in these nations. Even on this account, he deserves a monument, as the great originator of medical freedom.</p>
+<p>He raised his indignant, powerful voice against the use of poisons as medicine. He pointed out their unmedicinal nature, influence, and fatal effects. He has put thousands on their guard against their use; and thereby saved hosts of lives. His writings on this subject have originated deep and extensive enquiry, on the vastly important subject of the use of poisons for the alleged cure of disease. His opinions and predictions have been verified in the countless numbers of deaths occasioned by their use from his days to the present, death continually increasing in number, in a great variety of horrifying forms&mdash;often occasioned by Doctors, often when the poisons are given by mistake, and often when used by confectioners, grocers, spirit and beersellers, by private individuals to kill secretly for the sake of gain, or the gratification of malice; and by professional burglars to secure in quietude the gains they covet, whilst the melancholy fact is&mdash;the doctors have led and taught the way to these murderous, universal practices. At this moment every newspaper teams with the most awful accounts of murders perpetrated by the use of poisons; and Medical hospitals and books, unblushingly proclaim that hosts of patients are daily falling victims to the use of poisons administered as medicines, on the pretence of curing disease. Against these horrifying practices, vastly extended of late years, Morison protested; and taught, that as poisons, they could do nothing but destroy and kill. His protest and his opinions on this subject are not now those of a single individual. He has roused opposition to this direful practice throughout the world, an opposition which now exists as a great moral and medical fact. Some years ago, 19,950 persons in Great Britain, through the instrumentality of the British College of Health, signed a petition to the legislature, to restrain the use and sale of these poisons; and this public sentiment chiefly owed its origin to the writings of Morison, and his successors. And can there be a doubt that, on this ground alone, we would do honour to ourselves, independently of meritorious honour to him, by the erection of the proposed monument?</p>
+<p>Who was the first to denounce the use of alcoholic poisons in disease? It was Morison. The simplicity, clearness, consistency, unity, and harmony of his principles, enabled him to see that, in opposing poison as destructive to the tender sensibilities and substance of the bodily structure, alcohol as a certain poison would act in the very same manner; and hence his opposition to it as well as to every other substance of a poisonous nature. Independent of the destructive effects of poisons on the body, he knew that disease simply required the purification and nourishment of that body; and that as alcohol neither purifies nor nourishes, it could never be a fitting medicine. The enunciation of this great saving principle by Morison, led his followers very generally to the adoption of a temperate and abstinent policy, in reference to the common use of all intoxicating drinks, on the ground that if poisons be injurious in disease, they cannot be innocuous in health; or <hi rend="italics">vice versa,</hi> if they be injurious in health, they cannot be beneficial in disease. To the discussion and adoption of these opinions generally, the most of us, I believe, have been led by what Morison taught respecting them, in his works. In discussing the question of moral evil, we do not condemn one form of it, and uphold others; so Morison in discussing the evils of poison, consistently put his veto on the whole class. I submit, therefore, that his opening up the way to a great medical and moral reformation, in regard to intoxicating drink, forms another important inducement for erecting a monument to his memory and worth.</p>
+<p>It was Morison, also, who wrote against the practice of bleeding, described by some medical men themselves, to have been, and to be still, as fatal to society, as the murderous art of war. He knew the blood was the life, the mainspring of the body's support, and, therefore, of its health; and that to abstract blood, was just to abstract life, leave the body weaker, and bring it nearer to death, without purifying, to the slightest extent, the quantity of the vital fluid remaining in the system. Abstracting blood, in the light of these views, and in the light of its known practical effects, justly appeared to him quite inapplicable to the cure of disease, very destructive to the body, and its practice most unphilosophic, unnatural, revolting, and barbarous. Morison has taught us that, the pain which bleeding occasionally (not always) removes, is no evidence of cure, but rather of diminished sensibility, depressed or reduced vitality, occasioned by abstracting that blood, which alone gives sensibility and vitality to
+<pb id="p7" n="3"/>
+every part of the system. We know pain can always be relieved by taking away a sufficiency of blood; but doing this is at the risk of relieving us of life, of breaking down the bodily vigour; and making recovery quite impossible. He knew pain was only an <hi rend="italics">effect</hi> of disease, of some irritating waste matter in the body or blood that should not be there; and therefore, like a true philosopher, he said, &ldquo;Let the blood alone, but purge away these irritating matters, and the pain would cease.&rdquo; Now this is a magnificent and true doctrine, which he was the instrument of teaching and extending a thousand times more than any other writer, in opposition to this bloody practice. The result is, that as countless multitudes have adopted his views, a vast amount of life has been prolonged and saved among them by their not having had recourse in any case, to the practice in question. We have increasing reason, then, I aver, to make a grateful and vigorous exertion to raise a monument to a gentleman, who has, in this respect, done us such invaluable service; and brought the medical lancet into such extensive disrepute and disuse.</p>
+<p>In addition to all these remarkable and invaluable grounds of public respect, and just claims on our support to the present proposal, I have to add his discovery of an aperient vegetable medicine, most singularly and amazingly adapted to the exigencies of disease. It is on the broad, practical, and curative effects of his medicine, realised in every clime and country, his theories triumphantly stand. It is easy to say purify the blood, and you will enjoy health; but it is not so easy to discover the means of making it pure. And though I were hypothetically to say the means are transcendently simple, yet as centuries have passed without possessing such knowledge, so might pass away centuries to come equally ignorant, had not the unseen agencies and influencies that lie beneath the surface of every-day events interposed, and made in and through James Morison the invaluable discovery of his Universal Vegetable Medicine. You all know it can be used as to quantity, and as to long continuance, with extraordinary safety; and with curative effects, resulting in all kinds of diseases, utterly unknown to the common schools of medicine. Myriads of witnesses can testify to these facts. Of course I am not speaking of a few random, and, therefore, it might be mistaken experiments&mdash;I am speaking as you would of the crowding stars&mdash;speaking of experiments extending over thirty years, throughout all the countries in the civilized world, and in cases almost above human practical reckoning&mdash;so numerous and so common-place, as long, long ago, to have ceased to excite any special interest in the minds of those of us familiarised to such results. No wider field has ever been occupied, or more extensive system of experiments has ever hitherto been made with any one medicine throughout the whole world. The medicine is not propounded on a mysterious principle, to mystify and deceive,&mdash;it is just given as an aperient to cleanse and purge, on the ground that disease needs no other treatment. The medicine once taken, the greatest earthly fool can tell if his disease be either reduced or removed. If the medicine had been propounded on a fraudulent principle, never could any system have been invented so ill calculated to perpetuate the fraud. When purgation is once effected on the principles of the system, the patient has nothing farther to do than to ask &ldquo;am I getting better?&rdquo; His own sensations and condition will always supply an undeceiving answer. This system is neither empirical nor quackish. Nothing can be more distant from its nature then a system of blind experimentation. It is but one medicine&mdash;it is always the same. It is just a transcendently safe, yet when necessary a most powerful aperient. Disease is always the same&mdash;simply morbid matter to remove from the body. The patient is so told; and he soon perceives, to his astonishment, the truth of the theory in the operation of the medicine, and in its beneficial effects on his system. Now, this is not empiricism. It is sound, enlightened, philosophical practice. No higher and surer method of practice, so far as its principle is concerned, exists in the world. The theory of disease, all may comprehend&mdash;all in using the medicine are encouraged to study it. The theory is submitted to the test of the medicine; and the result is, the medicine in its effects and results, proves the theory. This then is not empiricism, with its blind experiments. It is not quackery. Its principles are patent to the world, and beautiful they are, and I may add, not capable of successful refutation. The practice is unsurpassed in simplicity; as well as in its manifest adaption to the theory. On its results the whole truth of the system has been everywhere, and in all times fearlessly, openly, experimentally, perilled; and the world and the profession challenged to come and to behold, to believe or to confute. Had fatal results been consequent on the use of the medicine, then owing to that use being so extensive and unprecedentedly great, these results would have become so public, and in hosts of cases so apparent, and so incapable of concealment, as to have produced universal horror and alarm in the public mind. But no such results have ever taken place. Indeed, the more the medicine is taken and known, the less fear is entertained of injurious consequences. Now it is to Morison we owe the discovery of this practice, and this medicine. It matters not to my objects, though we should be told that, hundreds of other similar medicines now exist in the world. It is simple matter of fact that, Morison was for all practical known purposes, both the originator of his own principles and his own medicine; and though his imitators and rivals, may filch and rob him of his laurels, in ways most dishonourable, he yet had occupied alone a universal field, and acquired universal fame, long before one of them sprang up, indeed, so much so, that the Lancet, the great literary gun of the profession, declared if Morison were not put down, the doctors would be ruined. He then, on these various, all-important grounds, richly deserves at our hands some tribute to his memory; and what way more striking, effective, and public, could we adopt than in erecting the proposed monument?</p>
+<p>The vast amount of human life he has been instrumental in saving, is far beyond our calculation. Millions have used his medicine in disease;&mdash;some to a trifling extent only, who, therefore, have derived little or no good&mdash;and some, again, to a fuller extent, thereby obtaining a mitigation of their ailments, whilst others using it more extensively and perseveringly have been rejoicingly cured. Now, had these same millions, not been led to adopt this wonderfully safe, alleviating, curative practice, they would of course, have fallen into the hands of the doctors, who with their astringents, opiates, blisters, bleedings, poisons, alteratives, caustics, knives, lancets, blind experiments, or sheer empiricism, would have, out of that vast number, a mighty multitude to hear evidence of ruined constitutions, shortened lives, and countless deaths, occasioned by having been subjected to the horrible influences of the ill-fated &ldquo;destructive art of healing.&rdquo; These are facts in which we all believe.
+<pb id="p8" n="4"/>
+They have ever and anon stared us in the face; and though we do not believe Morison's medicine can make us immortal, we know what a vast and safe control it has over common ailments, thus permitting life to run its appointed, natural course, without being cut short by the suicidal hands of the common system of medicine. Admitting then, as we all do, that Morison has been the honoured instrument of saving thousands of lives, without perilling any, who, in this country of great inventions, and <gap
+extent="1 character" reason="illegible"/>aving institutions, could more deserve a monument to perpetuate the memory of his deeds and discoveries?</p>
+<p>Well, Morison, after being ripe with years wonderfully extended by his own medicine, gave practical testimony to the truth of his own system on his bed if death; and though now silent among the honoured dead, yet his system lives a blessing to the world at large. His sons possess the spirit, the principles, and the convictions of their departed Sire. They following his footsteps, maintain unflinchingly the Hygeian doctrines, and the British College of Health established by him. They maintain them, as the most of us well know, from incomparably higher motives than the mere love of gain. How often have they fought the battle of right against vindictive medical opposition at enormous expense! How perseveringly have they clung to the noble, the good, and the true cause! How indefatigable in their exertions to enlighten the public mind by publications without number; and to diffuse a knowledge of sound physiological principles irrespective of the sale of their medicine! How unceasingly have they exposed the system of medical poisoning; and made their warning voice reach, by their publications, to the very ends of the earth! How honestly, and how honourably, have they conducted the whole medical business of the College! Who has ever been able to convict them of fraud, or deceit, in all their public efforts and statements in reference to the practical operations of the Hygeian system of medicine? To encourage such noble and invaluable efforts, made by the sons of the great departed dead involving as they do, the good of the world&mdash;efforts made against the most powerful and extensive opposition, and against surrounding ignorance and prejudice in every disagreeable shape and form&mdash;I appeal but to the common sense of you all, if the erection of a monument, even in reference only to them and the cause they now uphold, be not worthy of our most ardent support. It is a most happy idea, to have the monument erected in front of the College, in the centre of the ornamental ground attached to the establishment. The effect will be most imposing and commanding. Fronting, and close to the great London thoroughfare, the New Road, it will daily command the attention of thousands from all parts of the world who throng that road; and lead to enquiries as to whom it represents, by whom it was erected, the cause it <sic corr="commemorates">comemorates</sic>, and the nature of the principles connected with the name of Morison.</p>
+<p>The monumental erection will thus become a most important, influential, and extensive teacher. It will be the first grand exhibition in Britain of a monument erected to a great, independent Medical Reformer. It will give telling evidence of mental expansion, elevation, and freedom of thought on the part of thousands in these countries, who have adopted the principles and the practice of Morison. It will prove they are honest in their convictions, for otherwise no such erection could ever have taken place. It will be a standing reproof to doctors, of the inefficiency, danger, and falsities of the greater part of their system. It will confer respect, dignity, and honour on the Hygeian cause; and be a ground of encouragement, and honourable pride to its followers. It will demonstrate that Hygeianism is an established fact in Great Britain; and on all these accounts, it will indeed be a noble <sic corr="triumph">trinmph</sic>, to see a monument erected to the memory of the world's benefactor; and to the consecration of principles that have saved, and will yet continue to save countless, numbers of lives; control and subdue pain and suffering to a boundless extent; and restore to health, in the future as in the past, inconceivable multitudes who would otherwise have become the victims of disease, and of destructive treatment.</p>
+<closer>
+<signed>JOHN FRASER,</signed><dateline>71, Prince's Street Edinburgh, <lb/> Hygeian General Agent for Scotland.</dateline>
+</closer>
+</div2>
+<div2 type="section">
+<head>THE MORISONIAN SYSTEM OF MEDICINE.</head>
+<list>
+<item>1. The vital principal is in the blood.</item>
+<item>2. Everything in the body is derived from the blood.</item>
+<item>3. All constitutions are radically the same.</item>
+<item>4. All diseases arise from impurity of the blood.</item>
+<item>5. Pain and disease have the same origin.</item>
+<item>6. From the intimate connection subsisting between mind and body, the health of the one must conduce to the serenity of the other.</item>
+<item>7. Proper vegetable purgation is the only medicinal mode for effectually eradicating disease.</item>
+<item>8. The discovery of a vegetable medicine was a desideratum.</item>
+<item>9. This discovery was made by James Morison, the Hygeist, who also proclaimed &ldquo;the medical liberty of the subject.&rdquo;</item>
+</list>
+</div2>
+<div2 type="section">
+<head>THE IMMORTAL HARVEY.&mdash;</head><p>All Hygeists throughout the world will be glad to hear that at the base of the Morisonian Monument, at the British College of Health, the name of the discoverer of the circulation of the blood has been engraved in prominent characters. It is right that such should be the case, since the Hygeian system of James Morison, the Hygeist, is founded upon the great discovery of Harvey, who was at the time denounced by the medical profession as a quack and impostor.</p>
+<p>BRITISH COLLEGE OF HEALTH, EUSTON ROAD, LONDON, <lb/> MARCH 18, 1859.</p>
+</div2>
+</div1>
+</front>
+<body>
+<div1 type="section">
+<pb id="piii" n="iii"/>
+<p><figure id="ill4"><p>The Knock at the Door.</p></figure></p>
+</div1>
+<div1 type="section">
+<pb id="piv" n="iv"/>
+<p><figure id="ill5"><p>Before the Prison Tribunal.</p></figure></p>
+</div1>
+
+
+<div1 type="text">
+
+<pb n="165" id="p165"/>
+
+<head>[A TALE OF TWO CITIES]</head>
+
+<div2 type="book">
+
+<head>BOOK THE THIRD.<lb/>
+THE TRACK OF A STORM.</head>
+
+<div3 type="chapter">
+<head>CHAPTER I. <lb/> IN SECRET.</head>
+<p>THE traveller fared slowly on his way, who fared towards Paris from England in the autumn of the year one thousand seven hundred and ninety-two. More than enough of bad roads, bad equipages, and bad horses, he would have encountered to delay him, though the fallen and unfortunate King of France had been upon his throne in all his glory; but, the changed times were fraught with other obstacles than these. Every town gate and village taxing-house had its band of citizen-patriots, with their national muskets in a most explosive state of readiness, who stopped all comers and goers, cross-questioned them, inspected their papers, looked for their names in lists of their own, turned them back, or sent them on, or stopped them and laid them in hold, as their capricious judgment or fancy deemed best for the dawning Republic One and Indivisible, of Liberty, Equality, Fraternity, or Death.</p>
+<p>A very few French leagues of his journey were accomplished, when Charles Darnay began to perceive that for him along these country roads there was no hope of return until he should have been declared a good citizen at Paris. Whatever might befal now, he must on to his journey's end. Not a mean village closed upon him, not a common barrier dropped across the road behind him, but he knew it to be another iron door in the series that was barred between him and England. The universal watchfulness so encompassed him, that if he had been taken in a net, or were being forwarded to his destination in a cage, he could not have felt his freedom more completely gone.</p>
+<p>This universal watchfulness not only stopped him on the highway twenty times in a stage, but retarded his progress twenty times in a day, by riding after him and taking him back, riding before him and stopping him by anticipation, riding with him and keeping him in charge. He had been days upon his journey in France alone, when he went to bed tired out, in a little town on the high road, still a long way from Paris.</p>
+<p>Nothing but the production of the afflicted Gabelle's letter from his prison of the Abbaye would have got him on so far. His difficulty at the guard-house in this small place had been such, that he felt his journey to have come to a crisis. And he was, therefore, as little surprised
+<pb n="166" id="p166"/>
+as a man could be, to find himself awakened at the small inn to which he had been remitted until morning, in the middle of the night.</p>
+<p>Awakened by a timid local functionary and three armed patriots in rough red caps and with pipes in their mouths, who sat down on the bed.</p>
+<p>&ldquo;Emigrant,&rdquo; said the functionary, &ldquo;I am going to send you on to Paris, under an escort.&rdquo;</p>
+<p>&ldquo;Citizen, I desire nothing more than to get to Paris, though I could dispense with the escort.&rdquo;</p>
+<p>&ldquo;Silence!&rdquo; growled a red-cap, striking at the coverlet with the butt-end of his musket. &ldquo;Peace, aristocrat!&rdquo;</p>
+<p>&ldquo;It is as the good patriot says,&rdquo; observed the timid functionary. &ldquo;You are an aristocrat, and must have an escort&mdash;and must pay for it.&rdquo;</p>
+<p>&ldquo;I have no choice,&rdquo; said Charles Darnay.</p>
+<p>&ldquo;Choice! Listen to him!&rdquo; cried the same scowling red-cap. &ldquo;As if it was not a favour to be protected from the lamp-iron!&rdquo;</p>
+<p>&ldquo;It is always as the good patriot says,&rdquo; observed the functionary. &ldquo;Rise and dress yourself, emigrant.&rdquo;</p>
+<p>Darnay complied, and was taken back to the guard-house where other patriots in rough red caps were smoking, drinking, and sleeping, by a watch-fire. Here he paid a heavy price for his escort, and hence he started with it on the wet, wet roads at three o'clock in the morning.</p>
+<p>The escort were two mounted patriots in red caps and tricolored cockades, armed with national muskets and sabres, who rode one on either side of him. The escorted governed his own horse, but a loose line was attached to his bridle, the end of which one of the patriots kept girded round his wrist. In this state they set forth, with the sharp rain driving in their faces: clattering at a heavy dragoon trot over the uneven town pavement, and out upon the mire-deep roads. In this state they traversed without change, except of horses and pace, all the mire-deep leagues that lay between them and the capital.</p>
+<p>They travelled in the night, halting an hour or two after daybreak, and lying by until the twilight fell. The escort were so wretchedly clothed, that they twisted straw round their bare legs, and thatched their ragged shoulders to keep the wet off. Apart from the personal discomfort of being so attended, and apart from such considerations of present danger as arose from one of the patriots being chronically drunk, and carrying his musket very recklessly, Charles Darnay did not allow the restraint that was laid upon him to awaken any serious fears in his breast; for, he reasoned with himself that it could have no reference to the merits of an individual case that was not yet stated, and of representations, confirmable by the prisoner in the Abbaye, that were not yet made.</p>
+<p>But, when they came to the town of Beauvais&mdash;which they did at eventide, when the streets were filled with people&mdash;he could not conceal from <sic corr="himself">himse</sic> that the aspect of affairs was very alarming. An ominous crowd gathered to see him dismount at the posting-yard, and many voices in it called out loudly, &ldquo;Down with the emigrant!&rdquo;</p>
+<p>He stopped in the act of swinging himself out of his saddle, and, resuming it as his safest place, said:</p>
+<pb n="167" id="p167"/>
+<p>&ldquo;Emigrant, my friends! Do you not see me here, in France, of my own will?&rdquo;</p>
+<p>&ldquo;You are a cursed emigrant,&rdquo; cried a farrier, making at him in a furious manner through the press, hammer in hand; &ldquo;and you are a cursed aristocrat!&rdquo;</p>
+<p>The postmaster interposed himself between this man and the rider's bridle (at which he was evidently making), and soothingly said, &ldquo;Let him be; let him be! He will be judged at Paris.&rdquo;</p>
+<p>&ldquo;Judged!&rdquo; repeated the farrier, swinging his hammer. &ldquo;Ay! and condemned as a traitor.&rdquo; At this, the crowd roared approval.</p>
+<p>Checking the postmaster, who was for turning his horse's head to the yard (the drunken patriot sat composedly in his saddle looking on, with the line round his wrist), Darnay said, as soon as he could make his voice heard:</p>
+<p>&ldquo;Friends, you deceive yourselves, or you are deceived. I am not a traitor.&rdquo;</p>
+<p>&ldquo;He lies!&rdquo; cried the smith. &ldquo;He is a traitor since the decree. His life is forfeit to the people. His cursed life is not his own!&rdquo;</p>
+<p>At the instant when Darnay saw a rush in the eyes of the crowd, which another instant would have brought upon him, the postmaster turned his horse into the yard, the escort rode in close upon his horse's flanks, and the postmaster shut and barred the crazy double gates. The farrier struck a blow upon them with his hammer, and the crowd groaned; but, no more was done.</p>
+<p>&ldquo;What is this decree that the smith spoke of?&rdquo; Darnay asked the postmaster, when he had thanked him, and stood beside him in the yard.</p>
+<p>&ldquo;Truly, a decree for selling the property of emigrants.&rdquo;</p>
+<p>&ldquo;When passed?&rdquo;</p>
+<p>&ldquo;On the fourteenth.&rdquo;</p>
+<p>&ldquo;The day I left England!&rdquo;</p>
+<p>&ldquo;Everybody says it is but one of several, and that there will be others&mdash;if there are not already&mdash;banishing all emigrants, and condemning all to death who return. That is what he meant when he said your life was not your own.&rdquo;</p>
+<p>&ldquo;But there are no such decrees yet?&rdquo;</p>
+<p>&ldquo;What do I know!&rdquo; said the postmaster, shrugging his shoulders; &ldquo;there may be, or there will be. It is all the same. What would you have?&rdquo;</p>
+<p>They rested on some straw in a loft until the middle of the night, and then rode forward again when all the town was asleep. Among the many wild changes observable on familiar things which make this wild ride unreal, not the least was the seeming rarity of sleep. After long and lonely spurring over dreary roads, they would come to a cluster of poor cottages, not steeped in darkness, but all glittering with lights, and would find the people, in a ghostly manner in the dead of the night, circling hand in hand round a shrivelled tree of Liberty, or all drawn up together singing a Liberty song. Happily, however, there was sleep in Beauvais that night to help them out of it, and they passed on once more into solitude and loneliness: jingling through the untimely cold and wet, among impoverished fields that had yielded no fruits of the earth that year, diversified by the blackened remains of burnt houses, and by the sudden emergence
+<pb n="168" id="p168"/>
+from ambuscade, and sharp reining up across their way, of patriot patrols on the watch on all the roads.</p>
+<p>Daylight at last found them before the wall of Paris. The barrier was closed and strongly guarded when they rode up to it.</p>
+<p>&ldquo;Where are the papers of this prisoner?&rdquo; demanded a resolute-looking man in authority, who was summoned out by the guard.</p>
+<p>Naturally struck by the disagreeable word, Charles Darnay requested the speaker to take notice that he was a free traveller and French citizen, in charge of an escort which the disturbed state of the country had imposed upon him, and which he had paid for.</p>
+<p>&ldquo;Where,&rdquo; repeated the same personage, without taking any heed of him whatever, &ldquo;are the papers of this prisoner?&rdquo;</p>
+<p>The drunken patriot had them in his cap, and produced them. Casting his eyes over Gabelle's letter, the same personage in authority showed some disorder and surprise, and looked at Darnay with a close attention.</p>
+<p>He left escort and escorted without saying a word, however, and went into the guard-room; meanwhile, they sat upon their horses outside the gate. Looking about him while in this state of suspense, Charles Darnay observed that the gate was held by a mixed guard of soldiers and patriots, the latter far outnumbering the former; and that while ingress into the city for peasants' carts bringing in supplies, and for similar traffic and traffickers, was easy enough, egress, even for the homeliest people, was very difficult. A numerous medley of men and women, not to mention beasts and vehicles of various sorts, was waiting to issue forth; but, the previous identification was so strict that they filtered through the barrier very slowly. Some of these people knew their turn for examination to be so far off, that they lay down on the ground to sleep or smoke, while others talked together, or loitered about. The red cap and tricolor cockade were universal, both among men and women.</p>
+<p>When he had sat in his saddle some half-hour, taking note of these things, Darnay found himself confronted by the same man in authority, who directed the guard to open the barrier. Then he delivered to the escort, drunk and sober, a receipt for the escorted, and requested him to dismount. He did so, and the two patriots, leading his tired horse, turned and rode away without entering the city.</p>
+<p>He accompanied his conductor into a guard-room, smelling of common wine and tobacco, where certain soldiers and patriots, asleep and awake, drunk and sober, and in various neutral states between sleeping and waking, drunkenness and sobriety, were standing and lying about. The light in the guard-house, half derived from the waning oil-lamps of the night, and half from the overcast day, was in a correspondingly uncertain condition. Some registers were lying open on a desk, and an officer of a coarse, dark aspect, presided over these.</p>
+<p>&ldquo;Citizen Defarge,&rdquo; said he to Darnay's conductor, as he took a slip of paper to write on. &ldquo;Is this the emigrant Evr&eacute;monde?&rdquo;</p>
+<p>&ldquo;This is the man.&rdquo;</p>
+<p>&ldquo;Your age, Evr&eacute;monde?&rdquo;</p>
+<p>&ldquo;Thirty-seven.&rdquo;</p>
+<p>&ldquo;Married, Evr&eacute;monde?&rdquo;</p>
+<pb n="169" id="p169"/>
+<p>&ldquo;Yes.&rdquo;</p>
+<p>&ldquo;Where married?&rdquo;</p>
+<p>&ldquo;In England.&rdquo;</p>
+<p>&ldquo;Without doubt. Where is your wife, Evr&eacute;monde?&rdquo;</p>
+<p>&ldquo;In England.&rdquo;</p>
+<p>&ldquo;Without doubt. You are consigned, Evr&eacute;monde, to the Prison of La Force.&rdquo;</p>
+<p>&ldquo;Just Heaven!&rdquo; exclaimed Darnay. &ldquo;Under what law, and for what offence?&rdquo;</p>
+<p>The officer looked up from his slip of paper for a moment.</p>
+<p>&ldquo;We have new laws, Evr&eacute;monde, and new offences, since you were here.&rdquo; He said it with a hard smile, and went on writing.</p>
+<p>&ldquo;I entreat you to observe that I have come here voluntarily, in response to that written appeal of a fellow-countryman which lies before you. I demand no more than the opportunity to do so without delay. Is not that my right?&rdquo;</p>
+<p>&ldquo;Emigrants have no rights, Evr&eacute;monde,&rdquo; was the stolid reply. The officer wrote until he had finished, read over to himself what he had written, sanded it, and handed it to Defarge, with the words &ldquo;In secret.&rdquo;</p>
+<p>Defarge motioned with the paper to the prisoner that he must accompany him. The prisoner obeyed, and a guard of two armed patriots attended them.</p>
+<p>&ldquo;It is you,&rdquo; said Defarge, in a low voice, as they went down the guard-house steps and turned into Paris, &ldquo;who married the daughter of Doctor Manette, once a prisoner in the Bastille that is no more.&rdquo;</p>
+<p>&ldquo;Yes,&rdquo; replied Darnay, looking at him with surprise.</p>
+<p>&ldquo;My name is Defarge, and I keep a wine-shop in the Quarter Saint Antoine. Possibly you have heard of me.&rdquo;</p>
+<p>&ldquo;My wife came to your house to reclaim her father? Yes!&rdquo;</p>
+<p>The word &ldquo;wife&rdquo; seemed to serve as a gloomy reminder to Defarge, to say with sudden impatience, &ldquo;In the name of that sharp female newly born and called La Guillotine, why did you come to France?&rdquo;</p>
+<p>&ldquo;You heard me say why, a minute ago. Do you not believe it is the truth?&rdquo;</p>
+<p>&ldquo;A bad truth for you,&rdquo; said Defarge, speaking with knitted brows, and looking straight before him.</p>
+<p>&ldquo;Indeed, I am lost here. All here is so unprecedented, so changed, so sudden and unfair, that I am absolutely lost. Will you render me a little help?&rdquo;</p>
+<p>&ldquo;None.&rdquo; Defarge spoke, always looking straight before him.</p>
+<p>&ldquo;Will you answer me a single question?&rdquo;</p>
+<p>&ldquo;Perhaps. According to its nature. You can say what it is.&rdquo;</p>
+<p>&ldquo;In this prison that I am going to so unjustly, shall I have some free communication with the world outside?&rdquo;</p>
+<p>&ldquo;You will see.&rdquo;</p>
+<p>&ldquo;I am not to be buried there, prejudged, and without any means of presenting my case?&rdquo;</p>
+<p>&ldquo;You will see. But, what then? Other people have been similarly buried in worse prisons, before now.&rdquo;</p>
+<p>&ldquo;But never by me, Citizen Defarge.&rdquo;</p>
+<pb n="170" id="p170"/>
+<p>Defarge glanced darkly at him for answer, and walked on in a steady and set silence. The deeper he sank into this silence, the fainter hope there was&mdash;or so Darnay thought&mdash;of his softening in any slight degree. He, therefore, made haste to say:</p>
+<p>&ldquo;It is of the utmost importance to me (you know, Citizen, even better than I, of how much importance), that I should be able to communicate to Mr. Lorry of Tellson's Bank, an English gentleman who is now in Paris, the simple fact, without comment, that I have been thrown into the prison of La Force. Will you cause that to be done for me?&rdquo;</p>
+<p>&ldquo;I will do,&rdquo; Defarge doggedly rejoined, &ldquo;nothing for you. My duty is to my country and the People. I am the sworn servant of both, against you. I will do nothing for you.&rdquo;</p>
+<p>Charles Darnay felt it hopeless to entreat him further, and his pride was touched besides. As they walked on in silence, he could not but see how used the people were to the spectacle of prisoners passing along the streets. The very children scarcely noticed him. A few passers turned their heads, and a few shook their fingers at him as an aristocrat; otherwise, that a man in good clothes should be going to prison, was no more remarkable than that a labourer in working clothes should be going to work. In one narrow, dark, and dirty street through which they passed, an excited orator, mounted on a stool, was addressing an excited audience on the crimes against the people, of the king and the royal family. The few words that he caught from this man's lips, first made it known to Charles Darnay that the king was in prison, and that the foreign ambassadors had one and all left Paris. On the road (except at Beauvais) he had heard absolutely nothing. The escort and the universal watchfulness had completely isolated him.</p>
+<p>That he had fallen among far greater dangers than those which had developed themselves when he left England, he of course knew now. That perils had thickened about him fast, and might thicken faster and faster yet, he of course knew now. He could not but admit to himself that he might not have made this journey, if he could have foreseen the events of a few days. And yet his misgivings were not so dark as, imagined by the light of this later time, they would appear. Troubled as the future was, it was the unknown future, and in its obscurity there was ignorant hope. The horrible massacre, days and nights long, which, within a few rounds of the clock, was to set a great mark of blood upon the blessed garnering time of harvest, was as far out of his knowledge as if it had been a hundred thousand years away. The &ldquo;sharp female newly-born, and called La Guillotine,&rdquo; was hardly known to him, or to the generality of people, by name. The frightful deeds that were to be soon done, were probably unimagined at that time in the brains of the doers. How could they have a place in the shadowy conceptions of a gentle mind?</p>
+<p>Of unjust treatment in detention and hardship, and in cruel separation from his wife and child, he foreshadowed the likelihood, or the certainty; but, beyond this, he dreaded nothing distinctly. With this on his mind, which was enough to carry into a dreary prison court-yard, he arrived at the prison of La Force.</p>
+<p>A man with a bloated face opened the strong wicket, to whom Defarge presented &ldquo;The Emigrant Evr&eacute;monde.&rdquo;</p>
+<pb n="171" id="p171"/>
+<p>&ldquo;What the Devil! How many more of them!&rdquo; exclaimed the man with the bloated face.</p>
+<p>Defarge took his receipt without noticing the exclamation, and withdrew, with his two fellow-patriots.</p>
+<p>&ldquo;What the Devil, I say again!&rdquo; exclaimed the gaoler, left with his wife. &ldquo;How many more!&rdquo;</p>
+<p>The gaoler's wife, being provided with no answer to the question, merely replied, &ldquo;One must have patience, my dear!&rdquo; Three turnkeys who entered responsive to a bell she rang, echoed the sentiment, and one added, &ldquo;For the love of Liberty;&rdquo; which sounded in that place like an inappropriate conclusion.</p>
+<p>The prison of La Force was a gloomy prison, dark and filthy, and with a horrible smell of foul sleep in it. Extraordinary how soon the noisome flavour of imprisoned sleep, becomes manifest in all such places that are ill-cared for!</p>
+<p>&ldquo;In secret, too,&rdquo; grumbled the gaoler, looking at the written paper. &ldquo;As if I was not already full to bursting!&rdquo;</p>
+<p>He stuck the paper on a file, in an ill-humour, and Charles Darnay awaited his further pleasure for half an hour: sometimes, pacing to and fro in the strong arched room: sometimes, resting on a stone seat: in either case detained to be imprinted on the memory of the chief and his subordinates.</p>
+<p>&ldquo;Come!&rdquo; said the chief, at length taking up his keys, &ldquo;come with me, emigrant.&rdquo;</p>
+<p>Through the dismal prison twilight, his new charge accompanied him by corridor and staircase, many doors clanging and locking behind them, until they came into a large, low, vaulted chamber, crowded with prisoners of both sexes. The women were seated at a long table, reading and writing, knitting, sewing, and embroidering; the men were for the most part standing behind their chairs, or lingering up and down the room.</p>
+<p>In the instinctive association of prisoners with shameful crime and disgrace, the new comer recoiled from this company. But, the crowning unreality of his long unreal ride, was, their all at once rising to receive him, with every refinement of manner known to the time, and with all the engaging graces and courtesies of life.</p>
+<p>So strangely clouded were these refinements by the prison manners and gloom, so spectral did they become in the inappropriate squalor and misery through which they were seen, that Charles Darnay seemed to stand in a company of the dead. Ghosts all! The ghost of beauty, the ghost of stateliness, the ghost of elegance, the ghost of pride, the ghost of frivolity, the ghost of wit, the ghost of youth, the ghost of age, all waiting their dismissal from the desolate shore, all turning on him eyes that were changed by the death they had died in coming there.</p>
+<p>It struck him motionless. The gaoler standing at his side, and the other gaolers moving about, who would have been well enough as to appearance in the ordinary exercises of their functions, looked so extravagantly coarse contrasted with sorrowing mothers and blooming daughters who were there&mdash;with the apparitions of the coquette, the young beauty, and the mature woman delicately bred&mdash;that the inversion of all experience and likelihood which the scene of shadows presented, was heightened to its utmost. Surely, ghosts all. Surely,
+<pb n="172" id="p172"/>
+the long unreal ride some progress of disease that had brought him to these gloomy shades!</p>
+<p>&ldquo;In the name of the assembled companions in misfortune,&rdquo; said a gentleman of courtly appearance and address, coming forward, &ldquo;I have the honour of giving you welcome to La Force, and of condoling with you on the calamity that has brought you among us. May it soon terminate happily! It would be an impertinence elsewhere, but it is not so here, to ask your name and condition?&rdquo;</p>
+<p>Charles Darnay roused himself, and gave the required information, in words as suitable as he could find.</p>
+<p>&ldquo;But I hope,&rdquo; said the gentleman, following the chief gaoler with his eyes, who moved across the room, &ldquo;that you are not in secret?&rdquo;</p>
+<p>&ldquo;I do not understand the meaning of the term, but I have heard them say so.&rdquo;</p>
+<p>&ldquo;Ah, what a pity! We so much regret it! But take courage; several members of our society have been in secret, at first, and it has lasted but a short time.&rdquo; Then he added, raising his voice, &ldquo;I grieve to inform the society&mdash;in secret.&rdquo;</p>
+<p>There was a murmur of commiseration as Charles Darnay crossed the room to a grated door where the gaoler awaited him, and many voices&mdash;among which, the soft and compassionate voices of women were conspicuous&mdash;gave him good wishes and encouragement. He turned at the grated door, to render the thanks of his heart; it closed under the gaoler's hand; and the apparitions vanished from his sight for ever.</p>
+<p>The wicket opened on a stone staircase, leading upward. When they had ascended forty steps (the prisoner of half an hour already counted them), the gaoler opened a low black door, and they passed into a solitary cell. It struck cold and damp, but was not dark.</p>
+<p>&ldquo;Yours,&rdquo; said the gaoler.</p>
+<p>&ldquo;Why am I confined alone?&rdquo;</p>
+<p>&ldquo;How do I know!&rdquo;</p>
+<p>&ldquo;I can buy pen, ink, and paper?&rdquo;</p>
+<p>&ldquo;Such are not my orders. You will be visited, and can ask then. At present, you may buy your food, and nothing more.&rdquo;</p>
+<p>There were in the cell, a chair, a table, and a straw mattress. As the gaoler made a general inspection of these objects, and of the four walls, before going out, a wandering fancy wandered through the mind of the prisoner leaning against the wall opposite to him, that this gaoler was so unwholesomely bloated, both in face and person, as too look like a man who had been drowned and filled with water. When the gaoler was gone, he thought, in the same wandering way, &ldquo;Now am I left, as if I were dead.&rdquo; Stopping then, to look down at the mattress, he turned from it with a sick feeling, and thought, &ldquo;And here in these crawling creatures is the first condition of the body after death.&rdquo;</p>
+<p>&ldquo;Five paces by four and a half, five paces by four and a half, five paces by four and a half.&rdquo; The prisoner walked to and fro in his cell, counting its measurement, and the roar of the city arose like muffled drums with a wild swell of voices added to them. &ldquo;He made shoes, he made shoes, he made shoes.&rdquo; The prisoner counted the measurement again, and paced faster, to draw his mind with him from that latter repetition. &ldquo;The ghosts that vanished when the wicket closed. There was one among them, the appearance of a lady dressed
+<pb n="173" id="p173"/>
+in black, who was leaning in the embrasure of a window, and she had a light shining upon her golden hair, and she looked like * * * * Let us ride on again, for God's sake, through the illuminated villages with the people all awake! * * * * He made shoes, he made shoes, he made shoes. * * * * Five paces by four and a half.&rdquo; With such scraps tossing and rolling upward from the depths of his mind, the prisoner walked faster and faster, obstinately counting and counting; and the roar of the city changed to this extent&mdash;that it still rolled in like muffled drums, but with the wail of voices that he knew, in the swell that rose above them.</p>
+</div3>
+<div3 type="chapter">
+<head>CHAPTER II. <lb/> THE GRINDSTONE.</head>
+<p>TELLSON'S Bank, established in the Saint Germain Quarter of Paris, was in a wing of a large house, approached by a court-yard and shut off from the street by a high wall and a strong gate. The house belonged to a great nobleman who had lived in it until he made a flight from the troubles, in his own cook's dress, and got across the borders. A mere beast of the chase flying from hunters, he was still in his metempsychosis no other than the same Monseigneur, the preparation of whose chocolate for whose lips had once occupied three strong men besides the cook in question.</p>
+<p>Monseigneur gone, and the three strong men absolving themselves from the sin of having drawn his high wages, by being more than ready and willing to cut his throat on the altar of the dawning Republic one and indivisible of Liberty, Equality, Fraternity, or Death, Monseigneur's house had been first sequestrated, and then confiscated. For, all things moved so fast, and decree followed decree with that fierce precipitation, that now upon the third night of the autumn month of September, patriot emissaries of the law were in possession of Monseigneur's house, and had marked it with the tricolor, and were drinking brandy in its state apartments.</p>
+<p>A place of business in London like Tellson's place of business in Paris, would soon have driven the House out of its mind and into the Gazette. For, what would staid British responsibility and respectability have said to orange-trees in boxes in a Bank court-yard, and even to a Cupid over the counter? Yet such things were. Tellson's had whitewashed the Cupid, but he was still to be seen on the ceiling, in the coolest linen, aiming (as he very often does) at money from morning to night. Bankruptcy must inevitably have come of this young Pagan, in Lombard-street, London, and also of a curtained alcove in the rear of the immortal boy, and also of a looking-glass let into the wall, and also of clerks not at all old who danced in public on the slightest provocation. Yet, a French Tellson's could get on with these things exceedingly well, and, as long as the times held together, no man had taken fright at them, and drawn out his money.</p>
+<p>What money would be drawn out of Tellson's henceforth, and what would lie there, lost and forgotten; what plate and jewels
+<pb n="174" id="p174"/>
+would tarnish in Tellson's hiding-places, while the depositors rusted in prisons, and when they should have violently perished; how many accounts with Tellson's, never to be balanced in this world, must be carried over into the next; no man could have said, that night, any more than Mr. Jarvis Lorry could, though he thought heavily of these questions. He sat by a newly lighted wood fire (the blighted and unfruitful year was prematurely cold), and on his honest and courageous face there was a deeper shade than the pendent lamp could throw, or any object in the room distortedly reflect&mdash;a shade of horror.</p>
+<p>He occupied rooms in the Bank, in his fidelity to the House <sic corr="of">o</sic> which he had grown to be a part, like strong root-ivy. It chanced that they derived a kind of security from the patriotic occupation of the main building, but the true-hearted old gentleman never calculated about that. All such circumstances were indifferent to him, so that he did his duty. On the opposite side of the court-yard, under a colonnade, was extensive standing for carriages&mdash;where, indeed, some carriages of Monseigneur yet stood. Against two of the pillars were fastened two great flaring flambeaux, and, in the light of these, standing out in the open air, was a large grindstone: a roughly mounted thing which appeared to have hurriedly been brought there from some neighbouring smithy, or other workshop. Rising and looking out of window at these harmless objects, Mr. Lorry shivered, and retired to his seat by the fire. He had opened, not only the glass window, but the lattice blind outside it, and he had closed both again, and he shivered through his frame.</p>
+<p>From the streets beyond the high wall and the strong gate, there came the usual night hum of the city, with now and then an indescribable ring in it, weird and unearthly, as if some unwonted sounds of a terrible nature were going up to Heaven.</p>
+<p>&ldquo;Thank God,&rdquo; said Mr. Lorry, clasping his hands, &ldquo;that no one near and dear to me is in this dreadful town to-night. May He have mercy on all who are in danger!&rdquo;</p>
+<p>Soon afterwards, the bell at the great gate sounded, and he thought, &ldquo;They have come back!&rdquo; and sat listening. But, there was no loud irruption into the court-yard as he had expected, and he heard the gate clash again, and all was quiet.</p>
+<p>The nervousness and dread that were upon him inspired that vague uneasiness respecting the Bank, which a great charge would naturally awaken, with such feelings roused. It was well guarded, and he got up to go among the trusty people who were watching it, when his door suddenly opened, and two figures rushed in, at sight of which he fell back in amazement.</p>
+<p>Lucie and her father! Lucie with her arms stretched out to him, and with that old look of earnestness so concentrated and intensified, that it seemed as though it had been stamped upon her face expressly to give force and power to it in this one passage of her life.</p>
+<p>&ldquo;What is this!&rdquo; cried Mr. Lorry, breathless and confused. &ldquo;What is the matter? Lucie! Manette! What has happened? What has brought you here? What is it?&rdquo;</p>
+<p>With the look fixed upon him, in her paleness and wildness, she panted out in his arms, imploringly, &ldquo;O my dear friend! My husband!&rdquo;</p>
+<pb n="175" id="p175"/>
+<p>&ldquo;Your husband, Lucie?&rdquo;</p>
+<p>&ldquo;Charles.&rdquo;</p>
+<p>&ldquo;What of Charles?&rdquo;</p>
+<p>&ldquo;Here.&rdquo;</p>
+<p>&ldquo;Here, in Paris?&rdquo;</p>
+<p>&ldquo;Has been here, some days&mdash;three or four&mdash;I don't know how many&mdash;I can't collect my thoughts. An errand of generosity brought him here unknown to us; he was stopped at the barrier, and sent to prison.&rdquo;</p>
+<p>The old man uttered an irrepressible cry. Almost at the same moment, the bell of the great gate rang again, and a loud noise of feet and voices came pouring into the court-yard.</p>
+<p>&ldquo;What is that noise?&rdquo; said the Doctor, turning towards the window.</p>
+<p>&ldquo;Don't look!&rdquo; cried Mr. Lorry. &ldquo;Don't look out! Manette, for your life, don't touch the blind!&rdquo;</p>
+<p>The Doctor turned, with his hand upon the fastening of the window, and said, with a cool, bold smile:</p>
+<p>&ldquo;My dear friend, I have a charmed life in this city. I have been a Bastille prisoner. There is no patriot in Paris&mdash;in Paris? In France&mdash;who, knowing me to have been a prisoner in the Bastille, would touch me, except to overwhelm me with embraces, or carry me in triumph. My old pain has given me a power that has brought us through the barrier, and gained us news of Charles there, and brought us here. I knew it would be so; I knew I could help Charles out of all danger; I told Lucie so.&mdash;What is that noise?&rdquo; His hand was again upon the window.</p>
+<p>&ldquo;Don't look!&rdquo; cried Mr. Lorry, absolutely desperate. &ldquo;No, Lucie, my dear, nor you!&rdquo; He got his arm round her, and held her. &ldquo;Don't be so terrified, my love. I solemnly swear to you that I know of no harm having happened to Charles; that I had no suspicion even, of his being in this fatal place. What prison is he in?&rdquo;</p>
+<p>&ldquo;La Force!&rdquo;</p>
+<p>&ldquo;La Force! Lucie, my child, if ever you were brave and serviceable in your life&mdash;and you were always both&mdash;you will compose yourself now, to do exactly as I bid you; for, more depends upon it than you can think, or I can say. There is no help for you in any action on your part to-night; you cannot possibly stir out. I say this, because what I must bid you to do for Charles's sake, is the hardest thing to do of all. You must instantly be obedient, still, and quiet. You must let me put you in a room at the back here. You must leave your father and me alone for two minutes, and as there are Life and Death in the world you must not delay.&rdquo;</p>
+<p>&ldquo;I will be submissive to you. I see in your face that you know I can do nothing else than this. I know you are true.&rdquo;</p>
+<p>The old man kissed her, and hurried her into his room, and turned the key; then, came hurrying back to the Doctor, and opened the window and partly opened the blind, and put his hand upon the Doctor's arm, and looked out with him into the court-yard.</p>
+<p>Looked out upon a throng of men and women: not enough in number, or near enough, to fill the court-yard: not more than forty or fifty in all. The people in possession of the house had let them in at the gate, and they had rushed in to work at the grindstone; it had
+<pb n="176" id="p176"/>
+evidently been set up there for their purpose, as in a convenient and retired spot.</p>
+<p>But, such awful workers, and such awful work!</p>
+<p>The grindstone had a double handle, and, turning at it madly were two men, whose faces, as their long hair flapped back when the whirlings of the grindstone brought their faces up, were more horrible and cruel than the visages of the wildest savages in their most barbarous disguise. False eyebrows and false moustaches were stuck upon them, and their hideous countenances were all bloody and sweaty, and all awry with howling, and all staring and glaring with beastly excitement and want of sleep. As these ruffians turned and turned, their matted locks now flung forward over their eyes, now flung backward over their necks, some women held wine to their mouths that they might drink; and what with dropping blood, and what with dropping wine, and what with the stream of sparks struck out of the stone, all their wicked atmosphere seemed gore and fire. The eye could not detect one creature in the group, free from the smear of blood. Shouldering one another to get next at the sharpening-stone, were men stripped to the waist, with the stain all over their limbs and bodies; men in all sorts of rags, with the stain upon those rags; men devilishly set off with spoils of women's lace and silk and ribbon, with the stain dyeing those trifles through and through. Hatchets, knives, bayonets, swords, all brought to be sharpened, were all red with it. Some of the hacked swords were tied to the wrists of those who carried them, with strips of linen and fragments of dress: ligatures various in kind, but all deep of the one colour. And as the frantic wielders of these weapons snatched them from the stream of sparks and tore away into the streets, the same red hue was red in their frenzied eyes;&mdash;eyes which any unbrutalised beholder would have given twenty years of life, to petrify with a well-directed gun.</p>
+<p>All this was seen in a moment, as the vision of a drowning man, or of any human creature at any very great pass, could see a world if it were there. They drew back from the window, and the doctor looked for explanation in his friend's ashy face.</p>
+<p>&ldquo;They are,&rdquo; Mr. Lorry whispered the words, glancing fearfully round at the locked room, &ldquo;Murdering the prisoners. If you are sure of what you say; if you really have the power you think you have&mdash;as I believe you have&mdash;make yourself known to these devils, and get taken to La Force. It may be too late, I don't know, but let it not be a minute later!&rdquo;</p>
+<p>Doctor Manette pressed his hand, hastened bareheaded out of the room, and was in the court-yard when Mr. Lorry regained the blind.</p>
+<p>His streaming white hair, his remarkable face, and the impetuous confidence of his manner, as he put the weapons aside like water, carried him in an instant to the heart of the concourse at the stone. For a few moments there was a pause, and a hurry, and a murmur, and the unintelligible sound of his voice; and then Mr. Lorry saw him, surrounded by all, and in the midst of a line twenty men long, all linked shoulder to shoulder, and hand to shoulder, hurried out with cries of &ldquo;Live the Bastille prisoner! Help for the Bastille prisoner's kindred in La Force! Room for the Bastille prisoner in front there! Save the prisoner Evr&eacute;monde at La Force!&rdquo; and a thousand answering shouts.</p>
+<pb n="177" id="p177"/>
+<p>He closed the lattice again with a fluttering heart, closed the window and the curtain, hastened to Lucie, and told her that her father was assisted by the people, and gone in search of her husband. He found her child and Miss Pross with her; but, it never occurred to him to be surprised by their appearance until a long time afterwards, when he sat watching them in such quiet as the night knew.</p>
+<p>Lucie had, by that time, fallen into a stupor on the floor at his feet, clinging to his hand. Miss Pross had laid the child down on his own bed, and her head had gradually fallen on the pillow beside her pretty charge. O the long, long night, with the moans of the poor wife. And O the long, long night, with no return of her father and no tidings!</p>
+<p>Twice more in the darkness the bell at the great gate sounded, and the irruption was repeated, and the grindstone whirled and spluttered. &ldquo;What is it?&rdquo; cried Lucie, affrighted. &ldquo;Hush! The soldiers' swords are sharpened there,&rdquo; said Mr. Lorry. &ldquo;The place is National property now, and used as a kind of armoury, my love.&rdquo;</p>
+<p>Twice more in all; but, the last spell of work was feeble and fitful. Soon afterwards the day began to dawn, and he softly detached himself from the clasping hand, and cautiously looked out again. A man, so besmeared that he might have been a sorely wounded soldier creeping back to consciousness on a field of slain, was rising from the pavement by the side of the grindstone, and looking about him with a vacant air. Shortly, this worn-out murderer descried in the imperfect light one of the carriages of Monseigneur, and, staggering to that gorgeous vehicle, climbed in at the door, and shut himself up to take his rest on its dainty cushions.</p>
+<p>The great grindstone, Earth, had turned when Mr. Lorry looked out again, and the sun was red on the court-yard. But, the lesser grindstone stood alone there in the calm morning air, with a red upon it that the sun had never given, and would never take away.</p>
+</div3>
+<div3 type="chapter">
+<head>CHAPTER III. <lb/> THE SHADOW.</head>
+<p>ONE of the first considerations which arose in the business mind of Mr. Lorry when business hours came round, was this:&mdash;that he had no right to imperil Tellson's by sheltering the wife of an emigrant prisoner under the Bank roof. His own possessions, safety, life, he would have hazarded for Lucie and her child, without a moment's demur; but, the great trust he held was not his own, and as to that business charge he was a strict man of business.</p>
+<p>At first, his mind reverted to Defarge, and he thought of finding out the wine-shop again and taking counsel with its master in reference to the safest dwelling-place in the distracted state of the city. But, the same consideration that suggested him, repudiated him; he lived in the most violent Quarter, and doubtless was influential there, and deep in its dangerous workings.</p>
+<p>Noon coming, and the Doctor not returning, and every minute's
+<pb n="178" id="p178"/>
+delay tending to compromise Tellson's, Mr. Lorry advised with Lucie. She said that her father had spoken of hiring a lodging for a short term, in that Quarter, near the Banking-house. As there was no business objection to this, and as he foresaw that even if it were all well with Charles, and he were to be released, he could not hope to leave the city, Mr. Lorry went out in quest of such a lodging, and found a suitable one, high up in a removed by-street where the closed blinds in all the other windows of a high melancholy square of buildings marked deserted homes.</p>
+<p>To this lodging he at once removed Lucie and her child, and Miss Pross: giving them what comfort he could, and much more than he had himself. He left Jerry with them, as a figure to fill a doorway that would bear considerable knocking on the head, and returned to his own occupations. A disturbed and doleful mind he brought to bear upon them, and slowly and heavily the day lagged on with him.</p>
+<p>It wore itself out, and wore him out with it, until the Bank closed. He was again alone in his room of the previous night, considering what to do next, when he heard a foot upon the stair. In a few moments, a man stood in his presence, who, with a keenly observant look at him, addressed him by his name.</p>
+<p>&ldquo;Your servant,&rdquo; said Mr. Lorry. &ldquo;Do you know me?&rdquo;</p>
+<p>He was a strongly made man with dark curling hair, from forty-five to fifty years of age. For answer he repeated, without any change of emphasis, the words:</p>
+<p>&ldquo;Do you know me?&rdquo;</p>
+<p>&ldquo;I have seen you somewhere.&rdquo;</p>
+<p>&ldquo;Perhaps at my wine-shop?&rdquo;</p>
+<p>Much interested and agitated, Mr. Lorry said: &ldquo;You come from Doctor Manette?&rdquo;</p>
+<p>&ldquo;Yes. I come from Doctor Manette.&rdquo;</p>
+<p>&ldquo;And what says he? What does he send me?&rdquo;</p>
+<p>Defarge gave into his anxious hand, an open scrap of paper. It bore the words in the Doctor's writing,</p>
+<p>&ldquo;Charles is safe, but I cannot safely leave this place yet. I have obtained the favour that the bearer has a short note from Charles to his wife. Let the bearer see his wife.&rdquo;</p>
+<p>It was dated from La Force, within an hour.</p>
+<p>&ldquo;Will you accompany me,&rdquo; said Mr. Lorry, joyfully relieved after reading this note aloud, &ldquo;to where his wife resides?&rdquo;</p>
+<p>&ldquo;Yes,&rdquo; returned Defarge.</p>
+<p>Scarcely noticing, as yet, in what a curiously reserved and mechanical way Defarge spoke, Mr. Lorry put on his hat and they went down into the court-yard. There, they found two women; one, knitting.</p>
+<p>&ldquo;Madame Defarge, surely!&rdquo; said Mr. Lorry, who had left her in exactly the same attitude some seventeen years ago.</p>
+<p>&ldquo;It is she,&rdquo; observed her husband.</p>
+<p>&ldquo;Does Madame go with us?&rdquo; inquired Mr. Lorry, seeing that she moved as they moved.</p>
+<p>&ldquo;Yes. That she may be able to recognise the faces and know the persons. It is for their safety.&rdquo;</p>
+<p>Beginning to be struck by Defarge's manner, Mr. Lorry looked
+<pb n="179" id="p179"/>
+dubiously at him, and led the way. Both the women followed; the second woman being The Vengeance.</p>
+<p>They passed through the intervening streets as quickly as they might, ascended the staircase of the new domicile, were admitted by Jerry, and found Lucie weeping, alone. She was thrown into a transport by the tidings Mr. Lorry gave her of her husband, and clasped the hand that delivered his note&mdash;little thinking what it had been doing near him in the night, and might, but for a chance, have done to him.</p>
+<p>&ldquo;DEAREST,&mdash;Take courage. I am well, and your father has influence around me. You cannot answer this. Kiss our child for me.&rdquo;</p>
+<p>That was all the writing. It was so much, however, to her who received it, that she turned from Defarge to his wife, and kissed one of the hands that knitted. It was a passionate, loving, thankful, womanly action, but the hand made no response&mdash;dropped cold and heavy, and took to its knitting again.</p>
+<p>There was something in its touch that gave Lucie a check. She stopped in the act of putting the note in her bosom, and, with her hands yet at her neck, looked terrified at Madame Defarge. Madame Defarge met the lifted eyebrows and forehead with a cold, impassive stare.</p>
+<p>&ldquo;My dear,&rdquo; said Mr. Lorry, striking in to explain; &ldquo;there are frequent risings in the streets; and, although it is not likely that they will ever trouble you, Madame Defarge wishes to see those whom she has the power to protect at such times, to the end that she may know them&mdash;that she may identify them. I believe,&rdquo; said Mr. Lorry, rather halting in his reassuring words, as the stony manner of all the three impressed itself upon him more and more, &ldquo;I state the case, Citizen Defarge?&rdquo;</p>
+<p>Defarge looked gloomily at his wife, and gave no other answer than a gruff sound of acquiescence.</p>
+<p>&ldquo;You had better, Lucie,&rdquo; said Mr. Lorry, doing all he could to propitiate, by tone and manner, &ldquo;have the dear child here, and our good Pross. Our good Pross, Defarge, is an English lady, and knows no French.&rdquo;</p>
+<p>The lady in question, whose rooted conviction that she was more than a match for any foreigner, was not to be shaken by distress and danger, appeared with folded arms, and observed in English to The Vengeance whom her eyes first encountered, &ldquo;Well, I am sure, Boldface! I hope <hi rend="italics">you</hi> are pretty well!&rdquo; She also bestowed a British cough on Madame Defarge; but, neither of the two took much heed of her.</p>
+<p>&ldquo;Is that his child?&rdquo; said Madame Defarge, stopping in her work for the first time, and pointing her knitting-needle at little Lucie as if it were the finger of Fate.</p>
+<p>&ldquo;Yes, madame, answered Mr. Lorry; &ldquo;this is our poor prisoner's darling daughter, and only child.&rdquo;</p>
+<p>The shadow attendant on Madame Defarge and her party seemed to fall so threatening and dark on the child, that her mother instinctively kneeled on the ground beside her, and held her to her breast. The shadow attendant on Madame Defarge and her party seemed then to fall, threatening and dark, on both the mother and the child.</p>
+<pb n="180" id="p180"/>
+<p>&ldquo;It is enough, my husband,&rdquo; said Madame Defarge. &ldquo;I have seen them. We may go.&rdquo;</p>
+<p>But, the suppressed manner had enough of menace in it&mdash;not visible and presented, but indistinct and withheld&mdash;to alarm Lucie into saying, as she laid her appealing hand on Madame Defarge's dress:</p>
+<p>&ldquo;You will be good to my poor husband. You will do him no harm. You will help me to see him if you can?&rdquo;</p>
+<p>&ldquo;Your husband is not my business here,&rdquo; returned Madame Defarge, looking down at her with perfect composure. &ldquo;It is the daughter of your father who is my business here.&rdquo;</p>
+<p>&ldquo;For my sake, then, be merciful to my husband. For my child's sake! She will put her hands together and pray you to be merciful. We are more afraid of you than of these others.&rdquo;</p>
+<p>Madame Defarge received it as a compliment, and looked at her husband. Defarge, who had been uneasily biting his thumb-nail and looking at her, collected his face into a sterner expression.</p>
+<p>&ldquo;What is it that your husband says in that little letter?&rdquo; asked Madame Defarge, with a lowering smile. &ldquo;Influence; he says something touching influence?&rdquo;</p>
+<p>&ldquo;That my father,&rdquo; said Lucie, hurriedly taking the paper from her breast, but with her alarmed eyes on her questioner and not on it, &ldquo;has much influence around him.&rdquo;</p>
+<p>&ldquo;Surely it will release him!&rdquo; said Madame Defarge. &ldquo;Let it do so.&rdquo;</p>
+<p>&ldquo;As a wife and mother,&rdquo; cried Lucie, most earnestly, &ldquo;I implore you to have pity on me and not to exercise any power that you possess, against my innocent husband, but to use it in his behalf. O sister-woman, think of me. As a wife and mother!&rdquo;</p>
+<p>Madame Defarge looked, coldly as ever, at the suppliant, and said, turning to her friend The Vengeance:</p>
+<p>&ldquo;The wives and mothers we have been used to see, since we were as little as this child, and much less, have not been greatly considered? We have known <hi rend="italics">their</hi> husbands and fathers laid in prison and kept from them, often enough? All our lives, we have seen our sister-women suffer, in themselves and in their children, poverty, nakedness, hunger, thirst, sickness, misery, oppression and neglect of all kinds?&rdquo;</p>
+<p>&ldquo;We have seen nothing else,&rdquo; returned The Vengeance.</p>
+<p>&ldquo;We have borne this a long time,&rdquo; said Madame Defarge, turning her eyes again upon Lucie. &ldquo;Judge you! Is it likely that the trouble of one wife and mother would be much to us now?&rdquo;</p>
+<p>She resumed her knitting and went out. The Vengeance followed. Defarge went last, and closed the door.</p>
+<p>&ldquo;Courage, my dear Lucie,&rdquo; said Mr. Lorry, as be raised her. &ldquo;Courage, courage! So far all goes well with us&mdash;much, much better than it has of late gone with many poor souls. Cheer up, and have a thankful heart.&rdquo;</p>
+<p>&ldquo;I am not thankless, I hope, but that dreadful woman seems to throw a shadow on me and on all my hopes.&rdquo;</p>
+<p>&ldquo;Tut, tut!&rdquo; said Mr. Lorry; &ldquo;what is this despondency in the brave little breast? A shadow indeed! No substance in it, Lucie.&rdquo;</p>
+<p>But the shadow of the manner of these Defarges was dark upon himself, for all that, and in his secret mind it troubled him greatly.</p>
+</div3>
+<div3 type="chapter">
+<pb n="181" id="p181"/>
+<head>CHAPTER IV. <lb/> CALM IN STORM.</head>
+<p>DOCTOR MANETTE did not return until the morning of the fourth day of his absence. So much of what had happened in that dreadful time as could be kept from the knowledge of Lucie was so well concealed from her, that not until long afterwards when France and she were far apart, did she know that eleven hundred defenceless prisoners of both sexes and all ages had been killed by the populace; that four days and nights had been darkened by this deed of horror; and that the air around her had been tainted by the slain. She only knew that there had been an attack upon the prisons, that all political prisoners had been in danger, and that some had been dragged out by the crowd and murdered.</p>
+<p>To Mr. Lorry, the Doctor communicated under an injunction of secrecy on which he had no need to dwell, that the crowd had taken him through a scene of carnage to the prison of La Force. That, in the prison he had found a self-appointed Tribunal sitting, before which the prisoners were brought singly, and by which they were rapidly ordered to be put forth to be massacred, or to be released, or (in a few cases) to be sent back to their cells. That, presented by his conductors to this Tribunal, he had announced himself by name and profession as having been for eighteen years a secret and an unaccused prisoner in the Bastille; that, one of the body so sitting in judgment had risen and identified him, and that this man was Defarge.</p>
+<p>That, hereupon he had ascertained, through the registers on the table, that his son-in-law was among the living prisoners, and had pleaded hard to the Tribunal&mdash;of whom some members were asleep and some awake, some dirty with murder and some clean, some sober and some not&mdash;for his life and liberty. That, in the first frantic greetings lavished on himself as a notable sufferer under the overthrown system, it had been accorded to him to have Charles Darnay brought before the lawless Court, and examined. That, he seemed on the point of being at once released, when the tide in his favour met with some unexplained check (not intelligible to the Doctor), which led to a few words of secret conference. That, the man sitting as President had then informed Doctor Manette that the prisoner must remain in custody, but should, for his sake, be held inviolate in safe custody. That, immediately, on a signal, the prisoner was removed to the interior of the prison again; but, that he, the Doctor, had then so strongly pleaded for permission to remain and assure himself that his son-in-law was, through no malice or mischance, delivered to the concourse whose murderous yells outside the gate had often drowned the proceedings, that he had obtained the permission, and had remained in that Hall of Blood until the danger was over.</p>
+<pb n="182" id="p182"/>
+<p>The sights he had seen there, with brief snatches of food and sleep by intervals, shall remain untold. The mad joy over the prisoners who were saved, had astounded him scarcely less than the mad ferocity against those who were cut to pieces. One prisoner there was, he said, who had been discharged into the street free, but at whom a mistaken savage had thrust a pike as he passed out. Being besought to go to him and dress the wound, the Doctor had passed out at the same gate, and had found him in the arms of a company of Samaritans, who were seated on the bodies of their victims. With an inconsistency as monstrous as anything in this awful nightmare, they had helped the healer, and tended the wounded man with the gentlest solicitude&mdash;had made a litter for him and escorted him carefully from the spot&mdash;had then caught up their weapons and plunged anew into a butchery so dreadful, that the Doctor had covered his eyes with his hands, and swooned away in the midst of it.</p>
+<p>As Mr. Lorry received these confidences, and as he watched the face of his friend now sixty-two years of age, a misgiving arose within him that such dread experiences would revive the old danger. But, he had never seen his friend in his present aspect; he had never at all known him in his present character. For the first time the Doctor felt, now, that his suffering was strength and power. For the first time, he felt that in that sharp fire, he had slowly forged the iron which could break the prison door of his daughter's husband, and deliver him. &ldquo;It all tended to a good end, my friend; it was not mere waste and ruin. As my beloved child was helpful in restoring me to myself, I will be helpful now in restoring the dearest part of herself to her; by the aid of Heaven I will do it!&rdquo; Thus, Doctor Manette. And when Jarvis Lorry saw the kindled eyes, the resolute face, the calm strong look and bearing of the man whose life always seemed to him to have been stopped, like a clock, for so many years, and then set going again with an energy which had lain dormant during the cessation of its usefulness, he believed.</p>
+<p>Greater things than the Doctor had at that time to contend with, would have yielded before his persevering purpose. While he kept himself in his place, as a physician whose business was with all degrees of mankind, bond and free, rich and poor, bad and good, he used his personal influence so wisely, that he was soon the inspecting physician of three prisons, and among them of La Force. He could now assure Lucie that her husband was no longer confined alone, but was mixed with the general body of prisoners; he saw her husband weekly, and brought sweet messages to her, straight from his lips; sometimes her husband himself sent a letter to her (though never by the Doctor's hand), but she was not permitted to write to him; for, among the many wild suspicions of plots in the prisons, the wildest of all pointed at emigrants who were known to have made friends or permanent connexions abroad.</p>
+<p>This new life of the Doctor's was an anxious life, no doubt; still, the sagacious Mr. Lorry saw that there was a new sustaining pride in it. Nothing unbecoming tinged the pride; it was a natural and worthy one; but he observed it as a curiosity. The Doctor knew, that up to that time, his imprisonment had been associated in the minds of his daughter and his friend, with his personal affliction, deprivation, and weakness. Now that this was changed, and he
+<pb n="183" id="p183"/>
+knew himself to be invested through that old trial with forces to which they both looked for Charles's ultimate safety and deliverance, he became so far exalted by the change, that he took the lead and direction, and required them as the weak, to trust to him as the strong. The preceding relative positions of himself and Lucie were reversed, yet only as the liveliest gratitude and affection could reverse them, for he could have had no pride but in rendering some service to her who had rendered so much to him. &ldquo;All curious to see,&rdquo; thought Mr. Lorry, in his amiably shrewd way, &ldquo;but all natural and right; so, take the lead, my dear friend, and keep it; it couldn't be in better hands.&rdquo;</p>
+<p>But, though the Doctor tried hard, and never ceased trying, to get Charles Darnay set at liberty, or at least to get him brought to trial, the public current of the time set too strong and fast for him. The new Era began; the king was tried, doomed, and beheaded; the Republic of Liberty, Equality, Fraternity, or Death, declared for victory or death against the world in arms; the black flag waved night and day from the great towers of Notre-Dame; three hundred thousand men, summoned to rise against the tyrants of the earth, rose from all the varying soils of France, as if the dragon's teeth had been sown broadcast, and had yielded fruit equally on hill and plain, on rock in gravel and alluvial mud, under the bright sky of the South and under the clouds of the North, in fell and forest, in the vineyards and the olive-grounds and among the cropped grass and the stubble of the corn, along the fruitful banks of the broad rivers, and in the sand of the sea-shore. What private solicitude could rear itself against the deluge of the Year One of Liberty&mdash;the deluge rising from below, not falling from above, and with the windows of Heaven shut, not opened!</p>
+<p>There was no pause, no pity, no peace, no interval of relenting rest, no measurement of time. Though days and nights circled as regularly as when time was young, and the evening and the morning were the first day, other count of time there was none. Hold of it was lost in the raging fever of a nation, as it is in the fever of one patient. Now, breaking the unnatural silence of a whole city, the executioner showed the people the head of the king&mdash;and now, it seemed almost in the same breath, the head of his fair wife which had had eight weary months of imprisoned widowhood and misery, to turn it grey.</p>
+<p>And yet, observing the strange law of contradiction which obtains in all such cases, the time was long, while it flamed by so fast. A revolutionary tribunal in the capital, and forty or fifty thousand revolutionary committees all over the land; a law of the Suspected, which struck away all security for liberty or life, and delivered over any good and innocent person to any bad and guilty one; prisons gorged with people who had committed no offence, and could obtain no hearing; these things became the established order and nature of appointed things, and seemed to be ancient usage before they were many weeks old. Above all, one hideous figure grew as familiar as if it had been before the general gaze from the foundations of the world&mdash;the figure of the sharp female called La Guillotine.</p>
+<p>It was the popular theme for jests; it was the best cure for headache, it infallibly prevented the hair from turning grey, it imparted
+<pb n="184" id="p184"/>
+a peculiar delicacy to the complexion, it was the National Razor which shaved close: who kissed La Guillotine, looked through the little window and sneezed into the sack. It was the sign of the regeneration of the human race. It superseded the Cross. Models of it were worn on breasts from which the Cross was discarded, and it was bowed down to and believed in where the Cross was denied.</p>
+<p>It sheared off heads so many, that it, and the ground it most polluted, were a rotten red. It was taken to pieces, like a toy-puzzle for a young Devil, and was put together again where the occasion wanted it. It hushed the eloquent, struck down the powerful, abolished the beautiful and good. Twenty-two friends of high public mark, twenty-one living and one dead, it had lopped the heads off, in one morning, in as many minutes. The name of the strong man of Old Scripture had descended to the chief functionary who worked it; but, so armed, he was stronger than his namesake, and blinder, and tore away the gates of God's own Temple every day.</p>
+<p>Among these terrors, and the brood belonging to them, the Doctor walked with a steady head: confident in his power, cautiously persistent in his end, never doubting that he would save Lucie's husband at last. Yet the current of the time swept by, so strong and deep, and carried the time away so fiercely, that Charles had lain in prison one year and three months when the Doctor was thus steady and confident. So much more wicked and distracted had the Revolution grown in that December month, that the rivers of the South were encumbered with the bodies of the violently drowned by night, and prisoners were shot in lines and squares under the southern wintry sun. Still, the Doctor walked among the terrors with a steady head. No man better known than he, in Paris at that day; no man in a stranger situation. Silent, humane, indispensable in hospital and prison, using his art equally among assassins and victims, he was a man apart. In the exercise of his skill, the appearance and the story of the Bastille Captive removed him from all other men. He was not suspected or brought in question, any more than if he had indeed been recalled to life some eighteen years before, or were a Spirit moving among mortals.</p>
+</div3>
+<div3 type="chapter">
+<head>CHAPTER V. <lb/> THE WOOD-SAWYER.</head>
+<p>ONE year and three months. During all that time Lucie was never sure, from hour to hour, but that the Guillotine would strike off her husband's head next day. Every day, through the stony streets, the tumbrils now jolted heavily, filled with Condemned. Lovely girls; bright women, brown-haired, black-haired, and grey; youths; stalwart men and old; gentle born and peasant born; all red wine for La Guillotine, all daily brought into light from the dark cellars of the loathsome prisons, and carried to her through the streets to slake her devouring thirst. Liberty, equality, fraternity, or death;&mdash;the last, much the easiest to bestow, O Guillotine!</p>
+<pb n="185" id="p185"/>
+<p>If the suddenness of her calamity, and the whirling wheels of the time, had stunned the Doctor's daughter into awaiting the result in idle despair, it would but have been with her as it was with many. But, from the hour when she had taken the white head to her fresh young bosom in the garret of Saint Antoine, she had been true to her duties. She was truest to them in the season of trial, as all the quietly loyal and good will always be.</p>
+<p>As soon as they were established in their new residence, and her father had entered on the routine of his avocations, she arranged the little household as exactly as if her husband had been there. Everything had its appointed place and its appointed time. Little Lucie she taught, as regularly, as if they had all been united in their English home. The slight devices with which she cheated herself into the show of a belief that they would soon be reunited&mdash;the little preparations for his speedy return, the setting aside of his chair and his books&mdash;these, and the solemn prayer at night for one dear prisoner especially, among the many unhappy souls in prison and the shadow of death&mdash;were almost the only outspoken reliefs of her heavy mind.</p>
+<p>She did not greatly alter in appearance. The plain dark dresses, akin to mourning dresses, which she and her child wore, were as neat and as well attended to as the brighter clothes of happy days. She lost her colour, and the old intent expression was a constant, not an occasional, thing; otherwise, she remained very pretty and comely. Sometimes, at night on kissing her father, she would burst into the grief she had repressed all day, and would say that her sole reliance, under Heaven, was on him. He always resolutely answered: &ldquo;Nothing can happen to him without my knowledge, and I know that I can save him, Lucie.&rdquo;</p>
+<p>They had not made the round of their changed life, many weeks, when her father said to her, on coming home one evening:</p>
+<p>&ldquo;My dear, there is an upper window in the prison, to which Charles can sometimes gain access at three in the afternoon. When he can get to it&mdash;which depends on many uncertainties and incidents&mdash;he might see you in the street, he thinks, if you stood in a certain place that I can show you. But you will not be able to see him, my poor child, and even if you could, it would be unsafe for you to make a sign of recognition.&rdquo;</p>
+<p>&ldquo;O show me the place, my father, and I will go there every day.&rdquo;</p>
+<p>From that time, in all weathers, she waited there two hours. As the clock struck two, she was there, and at four she turned resignedly away. When it was not too wet or inclement for her child to be with her, they went together; at other times she was alone; but, she never missed a single day.</p>
+<p>It was the dark and dirty corner of a small winding street. The hovel of a cutter of wood into lengths for burning, was the only house at that end; all else was wall. On the third day of her being there, he noticed her.</p>
+<p>&ldquo;Good day, citizeness.&rdquo;</p>
+<p>&ldquo;Good day, citizen.&rdquo;</p>
+<p>This mode of address was now prescribed by decree. It had been established voluntarily some time ago, among the more through patriots; but, was now law for everybody.</p>
+<pb n="186" id="p186"/>
+<p>&ldquo;Walking here again, citizeness?&rdquo;</p>
+<p>&ldquo;You see me, citizen!&rdquo;</p>
+<p>The wood-sawyer, who was a little man with a redundancy of gesture (he had once been a mender of roads), cast a glance at the prison, pointed at the prison, and putting his ten fingers before his face to represent bars, peeped through them jocosely.</p>
+<p>&ldquo;But it's not my business,&rdquo; said he. And went on sawing his wood.</p>
+<p>Next day, he was looking out for her, and accosted her the moment she appeared.</p>
+<p>&ldquo;What! Walking here again, citizeness?&rdquo;</p>
+<p>&ldquo;Yes, citizen.&rdquo;</p>
+<p>&ldquo;Ah! A child too! Your mother, is it not, my little citizeness?&rdquo;</p>
+<p>&ldquo;Do I say yes, mamma?&rdquo; whispered little Lucie, drawing close to her.</p>
+<p>&ldquo;Yes, dearest.&rdquo;</p>
+<p>&ldquo;Yes, citizen.&rdquo;</p>
+<p>&ldquo;Ah! But it's not my business. My work is my business. See my saw! I call it my Little Guillotine. La, la, la; La, la, la! And off his head comes!&rdquo;</p>
+<p>The billet fell as he spoke, and he threw it into a basket.</p>
+<p>&ldquo;I call myself the Samson of the firewood guillotine. See here again! Loo, loo, loo; Loo, loo, loo! And off <hi rend="italics">her</hi> head comes! Now, a child. Tickle, tickle; Pickle, pickle! And off <hi rend="italics">its</hi> head comes. All the family!&rdquo;</p>
+<p>Lucie shuddered as he threw two more billets into his basket, but it was impossible to be there while the wood-sawyer was at work, and not be in his sight. Thenceforth, to secure his good will, she always spoke to him first, and often gave him drink-money which he readily received.</p>
+<p>He was an inquisitive fellow, and sometimes when she had quite forgotten him in gazing at the prison roofs and grates, and in lifting her heart up to her husband, she would come to herself to find him looking at her, with his knee on his bench and his saw stopped in its work. &ldquo;But it's not my business!&rdquo; he would generally say at those times, and would briskly fall to his sawing again.</p>
+<p>In all weathers, in the snow and frost of winter, in the bitter winds of spring, in the hot sunshine of summer, in the rains of autumn, and again in the snow and frost of winter, Lucie passed two hours of every day at this place; and every day, on leaving it, she kissed the prison wall. Her husband saw her (so she learned from her father) it might be once in five or six times: it might be twice or thrice running: it might be, not for a week or a fortnight together. It was enough that he could and did see her when the chances served, and on that possibility she would have waited out the day, seven days a week.</p>
+<p>These occupations brought her round to the December month, wherein her father walked among the terrors with a steady head. On a lightly-snowing afternoon she arrived at the usual corner. It was a day of some wild rejoicing, and a festival. She had seen the houses, as she came along, decorated with little pikes, and with little red caps stuck upon them; also, with tricolored ribbons; also, with
+<pb n="187" id="p187"/>
+the standard inscription (tricolored letters were the favourite), Republic One and Indivisible. Liberty, Equality, Fraternity, or Death!</p>
+<p>The miserable shop of the wood-sawyer was so small, that its whole surface furnished very indifferent space for this legend. He had got somebody to scrawl it up for him, however, who had squeezed Death in with most inappropriate difficulty. On his house-top, he displayed pike and cap, as a good citizen must, and in a window he had stationed his saw, inscribed as his &ldquo;Little Sainte Guillotine&rdquo;&mdash;for the great sharp female was by that time popularly canonised. His shop was shut and he was not there, which was a relief to Lucie and left her quite alone.</p>
+<p>But, he was not far off, for presently she heard a troubled movement and a shouting coming along, which filled her with fear. A moment afterwards, and a throng of people came pouring round the corner by the prison wall, in the midst of whom was the wood-sawyer hand in hand with The Vengeance. There could not be fewer than five hundred people, and they were dancing like five thousand demons. There was no other music than their own singing. They danced to the popular Revolution song, keeping a ferocious time that was like a gnashing of teeth in unison. Men and women danced together, women danced together, men danced together, as hazard had brought them together. At first, they were a mere storm of coarse red caps and coarse woollen rags; but, as they filled the place, and stopped to dance about Lucie, some ghastly apparition of a dance-figure gone raving mad arose among them. They advanced, retreated, struck at one another's hands, clutched at one another's heads, spun round alone, caught one another and spun round in pairs, until many of them dropped. While those were down, the rest linked hand in hand, and all spun round together: then the ring broke, and in separate rings of two and four they turned and turned until they all stopped at once, began again, struck, clutched, and tore, and then reversed the spin, and all spun round another way. Suddenly they stopped again, paused, struck out the time afresh, formed into lines the width of the public way, and, with their heads low down and their hands high up, swooped screaming off. No fight could have been half so terrible as this dance. It was so emphatically a fallen sport&mdash;a something, once innocent, delivered over to all devilry&mdash;a healthy pastime changed into a means of angering the blood, bewildering the senses, and steeling the heart. Such grace as was visible in it, made it the uglier, showing how warped and perverted all things good by nature were become. The maidenly bosom bared to this, the pretty almost-child's head thus distracted, the delicate foot mincing in this slough of blood and dirt, were types of the disjointed time.</p>
+<p>This was the Carmagnole. As it passed, leaving Lucie frightened and bewildered in the doorway of the wood-sawyer's house, the feathery snow fell as quietly and lay as white and soft, as if it had never been.</p>
+<p>&ldquo;O my father!&rdquo; for he stood before her when she lifted up the eyes she had momentarily darkened with her hand; &ldquo;such a cruel, bad sight.&rdquo;</p>
+<p>&ldquo;I know, my dear, I know. I have seen it many times. Don't be frightened! Not one of them would harm you.&rdquo;</p>
+<pb n="188" id="p188"/>
+<p>&ldquo;I am not frightened for myself, my father. But when I think of my husband, and the mercies of these people&mdash;&rdquo;</p>
+<p>&ldquo;We will set him above their mercies, very soon. I left him climbing to the window, and I came to tell you. There is no one here to see. You may kiss your hand towards that highest shelving roof.&rdquo;</p>
+<p>&ldquo;I do so, father, and I send him my Soul with it!&rdquo;</p>
+<p>&ldquo;You cannot see him, my poor dear?&rdquo;</p>
+<p>&ldquo;No, father,&rdquo; said Lucie, yearning and weeping as she kissed her hand, &ldquo;no.&rdquo;</p>
+<p>A footstep in the snow. Madame Defarge. &ldquo;I salute you, citizeness,&rdquo; from the Doctor. &ldquo;I salute you, citizen.&rdquo; This in passing. Nothing more. Madame Defarge gone, like a shadow over the white road.</p>
+<p>&ldquo;Give me your arm, my love. Pass from here with an air of cheerfulness and courage, for his sake. That was well done;&rdquo; they had left the spot; &ldquo;it shall not be in vain. Charles is summoned for to-morrow.&rdquo;</p>
+<p>&ldquo;For to-morrow!&rdquo;</p>
+<p>&ldquo;There is no time to lose. I am well prepared, but there are precautions to be taken, that could not be taken until he was actually summoned before the Tribunal. He has not received the notice yet, but I know that he will presently be summoned for to-morrow, and removed to the Conciergerie; I have timely information. You are not afraid?&rdquo;</p>
+<p>She could scarcely answer, &ldquo;I trust in you.&rdquo;</p>
+<p>&ldquo;Do so, implicitly. Your suspense is nearly ended, my darling; he shall be restored to you within a few hours; I have encompassed him with every protection. I must see Lorry.&rdquo;</p>
+<p>He stopped. There was a heavy lumbering of wheels within hearing. They both knew too well what it meant. One. Two. Three. Three tumbrils faring away with their dread loads over the hushing snow.</p>
+<p>&ldquo;I must see Lorry,&rdquo; the Doctor repeated, turning her another way.</p>
+<p>The staunch old gentleman was still in his trust; had never left it. He and his books were in frequent requisition as to property confiscated and made national. What he could save for the owners, he saved. No better man living to hold fast by what Tellson's had in keeping, and to hold his peace.</p>
+<p>A murky red and yellow sky, and a rising mist from the Seine, denoted the approach of darkness. It was almost dark when they arrived at the Bank. The stately residence of Monseigneur was altogether blighted and deserted. Above a heap of dust and ashes in the court, ran the letters: National Property. Republic One and Indivisible. Liberty, Equality, Fraternity, or Death.</p>
+<p>Who could that be with Mr. Lorry&mdash;the owner of the riding-coat upon the chair&mdash;who must not be seen? From whom newly arrived, did he come out, agitated and surprised, to take his favourite in his arms? To whom did he appear to repeat her faltering words, when, raising his voice and turning his head towards the door of the room from which he had issued, he said: &ldquo;Removed to the Conciergerie, and summoned for to-morrow?&rdquo;</p>
+</div3>
+<div3 type="chapter">
+<pb n="189" id="p189"/>
+<head>CHAPTER VI. <lb/> TRIUMPH.</head>
+<p>THE dread Tribunal of five Judges, Public Prosecutor, and determined Jury, sat every day. Their lists went forth every evening, and were read out by the gaolers of the various prisons to their prisoners. The standard gaoler-joke was, &ldquo;Come out and listen to the Evening Paper, you inside there!&rdquo;</p>
+<p>&ldquo;Charles Evr&eacute;monde, called Darnay!&rdquo;</p>
+<p>So, at last, began the Evening Paper at La Force.</p>
+<p>When a name was called, its owner stepped apart into a spot reserved for those who were announced as being thus fatally recorded. Charles Evr&eacute;monde, called Darnay, had reason to know the usage; he had seen hundreds pass away so.</p>
+<p>His bloated gaoler, who wore spectacles to read with, glanced over them to assure himself that he had taken his place, and went through the list, making a similar short pause at each name. There were twenty-three names, but only twenty were responded to; for, one of the prisoners so summoned had died in gaol and been forgotten, and two had been already guillotined and forgotten. The list was read, in the vaulted chamber where Darnay had seen the associated prisoners on the night of his arrival. Every one of those had perished in the massacre; every human creature he had since cared for and parted with, had died on the scaffold.</p>
+<p>There were hurried words of farewell and kindness, but the parting was soon over. It was the incident of every day, and the society of La Force were engaged in the preparation of some games of forfeits and a little concert, for that evening. They crowded to the grates and shed tears there; but, twenty places in the projected entertainments had to be refilled, and the time was, at best, short to the lockup hour, when the common rooms and corridors would be delivered over to the great dogs who kept watch there through the night. The prisoners were far from insensible or unfeeling; their ways arose out of the condition of the time. Similarly, though with a subtle difference, a species of fervour or intoxication, known, without doubt, to have led some persons to brave the guillotine unnecessarily, and to die by it, was not mere boastfulness, but a wild infection of the wildly shaken public mind. In seasons of pestilence, some of us will have a secret attraction to the disease&mdash;a terrible passing inclination to die of it. And all of us have like wonders hidden in our breasts, only needing circumstances to evoke them.</p>
+<p>The passage to the Conciergerie was short and dark; the night in its vermin-haunted cells was long and cold. Next day, fifteen prisoners were put to the bar before Charles Darnay's name was called. All the fifteen were condemned, and the trials of the whole occupied an hour and a half.</p>
+<p>&ldquo;Charles Evr&eacute;monde, called Darnay,&rdquo; was at length arraigned.</p>
+<p>His Judges sat upon the Bench in feathered hats; but the rough red cap and tricolored cockade was the head-dress otherwise prevailing. Looking at the Jury and the turbulent audience, he might have
+<pb n="190" id="p190"/>
+thought that the usual order of things was reversed, and that the felons were trying the honest men. The lowest, cruelest, and worst populace of a city, never without its quantity of low, cruel, and bad, were the directing spirits of the scene: noisily commenting, applauding, disapproving, anticipating, and precipitating the result, without a check. Of the men, the greater part were armed in various ways; of the women, some wore knives, some daggers, some ate and drank as they looked on, many knitted. Among these last, was one, with a spare piece of knitting under her arm as she worked. She was in a front row, by the side of a man whom he had never seen since his arrival at the Barrier, but whom he directly remembered as Defarge. He noticed that she once or twice whispered in his ear, and that she seemed to be his wife; but, what he most noticed in the two figures was, that although they were posted as close to himself as they could be, they never looked towards him. They seemed to be waiting for something with a dogged determination, and they looked at the Jury, but at nothing else. Under the President sat Doctor Manette, in his usual quiet dress. As well as the prisoner could see, he and Mr. Lorry were the only men there, unconnected with the Tribunal, who wore their usual clothes, and had not assumed the coarse garb of the Carmagnole.</p>
+<p>Charles Evr&eacute;monde called Darnay, was accused by the public prosecutor as an emigrant, whose life was forfeit to the Republic, under the decree which banished all emigrants on pain of Death. It was nothing that the decree bore date since his return to France. There he was, and there was the decree; he had been taken in France, and his head was demanded.</p>
+<p>&ldquo;Take off his head!&rdquo; cried the audience. &ldquo;An enemy to the Republic!&rdquo;</p>
+<p>The President rang his bell to silence those cries, and asked the prisoner whether it was not true that he had lived many years in England?</p>
+<p>Undoubtedly it was.</p>
+<p>Was he not an emigrant then? What did he call himself?</p>
+<p>Not an emigrant, he hoped, within the sense and spirit of the law.</p>
+<p>Why not? the President desired to know.</p>
+<p>Because he had voluntarily relinquished a title that was distasteful to him, and a station that was distasteful to him, and had left his country&mdash;he submitted before the word emigrant in its present acceptation by the Tribunal was in use&mdash;to live by his own industry in England, rather than on the industry of the overladen people of France.</p>
+<p>What proof had he of this?</p>
+<p>He handed in the names of two witnesses: Th&eacute;ophile Gabelle, and Alexandre Manette.</p>
+<p>But he had married in England? the President reminded him.</p>
+<p>True, but not an English woman.</p>
+<p>A citizeness of France?</p>
+<p>Yes. By birth.</p>
+<p>Her name and family?</p>
+<p>&ldquo;Lucie Manette, only daughter of Doctor Manette, the good physician who sits there.&rdquo;</p>
+<p>This answer had a happy effect upon the audience. Cries in exaltation of the well-known good physician rent the hall. So capriciously
+<pb n="191" id="p191"/>
+were the people moved, that tears immediately rolled down several ferocious countenances which had been glaring at the prisoner a moment before, as if with impatience to pluck him out into the streets and kill him.</p>
+<p>On these few steps of his dangerous way, Charles Darnay had set his foot according to Doctor Manette's reiterated instructions. The same cautious counsel directed every step that lay before him, and had prepared every inch of his road.</p>
+<p>The President asked why had he returned to France when he did, and not sooner?</p>
+<p>He had not returned sooner, he replied, simply because he had no means of living in France, save those he had resigned; whereas, in England, he lived by giving instruction in the French language and literature. He had returned when he did, on the pressing and written entreaty of a French citizen, who represented that his life was endangered by his absence. He had come back, to save a citizen's life, and to bear his testimony, at whatever personal hazard, to the truth. Was that criminal in the eyes of the Republic?</p>
+<p>The populace cried enthusiastically, &ldquo;No!&rdquo; and the President rang his bell to quiet them. Which it did not, for they continued to cry &ldquo;No!&rdquo; until they left off, of their own will.</p>
+<p>The President required the name of that Citizen? The accused explained that the citizen was his first witness. He also referred with confidence to the citizen's letter, which had been taken from him at the Barrier, but which he did not doubt would be found among the papers then before the President.</p>
+<p>The Doctor had taken care that it should be there&mdash;had assured him that it would be there&mdash;and at this stage of the proceedings it was produced and read. Citizen Gabelle was called to confirm it, and did so. Citizen Gabelle hinted, with infinite delicacy and politeness, that in the pressure of business imposed on the Tribunal by the multitude of enemies of the Republic with which it had to deal, he had been slightly overlooked in his prison of the Abbaye&mdash;in fact, had rather passed out of the Tribunal's patriotic remembrance&mdash;until three days ago; when he had been summoned before it, and had been set at liberty on the Jury's declaring themselves satisfied that the accusation against him was answered, as to himself, by the surrender of the citizen Evr&eacute;monde, called Darnay.</p>
+<p>Doctor Manette was next questioned. His high personal popularity, and the clearness of his answers, made a great impression; but, as he proceeded, as he showed that the Accused was his first friend on his release from his long imprisonment; that, the accused had remained in England, always faithful and devoted to his daughter and himself in their exile; that, so far from being in favour with the Aristocrat government there, he had actually been tried for his life by it, as the foe of England and friend of the United States&mdash;as he brought these circumstances into view, with the greatest discretion and with the straightforward force of truth and earnestness, the Jury and the populace became one. At last, when he appealed by name to Monsieur Lorry, an English gentleman then and there present, who, like himself, had been a witness on that English trial and could corroborate his account of it, the Jury declared that they had heard enough, and that they were ready with their votes if the President were content to receive them.</p>
+<pb n="192" id="p192"/>
+<p>At every vote (the Jurymen voted aloud and individually), the populace set up a shout of applause. All the voices were in the prisoner's favour, and the President declared him free.</p>
+<p>Then, began one of those extraordinary scenes with which the populace sometimes gratified their fickleness, or their better impulses towards generosity and mercy, or which they regarded as some set-off against their swollen account of cruel rage. No man can decide now to which of these motives such extraordinary scenes were referable; it is probable, to a blending of all the three, with the second predominating. No sooner was the acquittal pronounced, than tears were shed as freely as blood at another time, and such fraternal embraces were bestowed upon the prisoner by as many of both sexes as could rush at him, that after his long and unwholesome confinement he was in danger of fainting from exhaustion; none the less because he knew very well, that the very same people, carried by another current, would have rushed at him with the very same intensity, to rend him to pieces and strew him over the streets.</p>
+<p>His removal, to make way for other accused persons who were to be tried, rescued him from these caresses for the moment. Five were to be tried together, next, as enemies of the Republic, forasmuch as they had not assisted it by word or deed. So quick was the Tribunal to compensate itself and the nation for a chance lost, that these five came down to him before he left the place, condemned to die within twenty-four hours. The first of them told him so, with the customary prison sign of Death&mdash;a raised finger&mdash;and they all added in words, &ldquo;Long live the Republic!&rdquo;</p>
+<p>The five had had, it is true, no audience to lengthen their proceedings, for when he and Doctor Manette emerged from the gate, there was a great crowd about it, in which there seemed to be every face he had seen in Court&mdash;except two, for which he looked in vain. On his coming out, the concourse made at him anew, weeping, embracing, and shouting, all by turns and all together, until the very tide of the river on the bank of which the mad scene was acted, seemed to run mad, like the people on the shore.</p>
+<p>They put him into a great chair they had among them, and which they had taken either out of the Court itself, or one of its rooms or passages. Over the chair they had thrown a red flag, and to the back of it they had bound a pike with a red cap on its top. In this car of triumph, not even the Doctor's entreaties could prevent his being carried to his home on men's shoulders, with a confused sea of red caps heaving about him, and casting up to sight from the stormy deep such wrecks of faces, that he more than once misdoubted his mind being in confusion, and that he was in the tumbril on his way to the Guillotine.</p>
+<p>In wild dreamlike procession, embracing whom they met and pointing him out, they carried him on. Reddening the snowy streets with the prevailing Republican colour, in winding and tramping through them, as they had reddened them below the snow with a deeper dye, they carried him thus into the court-yard of the building where he lived. Her father had gone on before, to prepare her, and when her husband stood upon his feet, she dropped insensible in his arms.</p>
+<p>As he held her to his heart and turned her beautiful head between his face and the brawling crowd, so that his tears and her lips might come together unseen, a few of the people fell to dancing. Instantly,
+<pb n="193" id="p193"/>
+all the rest fell to dancing, and the court-yard overflowed with the Carmagnole. Then, they elevated into the vacant chair a young woman from the crowd to be carried as the Goddess of Liberty, and then, swelling and overflowing out into the adjacent streets, and along the river's bank, and over the bridge, the Carmagnole absorbed them every one and whirled them away.</p>
+<p>After grasping the Doctor's hand, as he stood victorious and proud before him; after grasping the hand of Mr. Lorry, who came panting in breathless from his struggle against the waterspout of the Carmagnole; after kissing little Lucie, who was lifted up to clasp her arms round his neck; and after embracing the ever zealous and faithful Pross who lifted her; he took his wife in his arms and carried her up to their rooms.</p>
+<p>&ldquo;Lucie! My own! I am safe.&rdquo;</p>
+<p>&ldquo;O dearest Charles, let me thank God for this on my knees as I have prayed to Him.&rdquo;</p>
+<p>They all reverently bowed their heads and hearts. When she was again in his arms, he said to her:</p>
+<p>&ldquo;And now speak to your father, dearest. No other man in all this France could have done what he has done for me.&rdquo;</p>
+<p>She laid her head upon her father's breast as she had laid his poor head on her own breast, long, long ago. He was happy in the return he had made her, he was recompensed for his suffering, he was proud of his strength. &ldquo;You must not be weak, my darling,&rdquo; he remonstrated; &ldquo;don't tremble so. I have saved him.&rdquo;</p>
+</div3>
+<div3 type="chapter">
+<head>CHAPTER VII. <lb/> A KNOCK AT THE DOOR.</head>
+<p>&ldquo;I HAVE saved him.&rdquo; It was not another of the dreams in which he had often come back; he was really here. And yet his wife trembled, and a vague but heavy fear was upon her.</p>
+<p>All the air around was so thick and dark, the people were so passionately revengeful and fitful, the innocent were so constantly put to death on vague suspicion and black malice, it was so impossible to forget that many as blameless as her husband and as dear to others as he was to her, every day shared the fate from which he had been clutched, that her heart could not be as lightened of its load as she felt it ought to be. The shadows of the wintry afternoon were beginning to fall, and even now the dreadful carts were rolling through the streets. Her mind pursued them, looking for him among the Condemned; and then she clung closer to his real presence and trembled more.</p>
+<p>Her father, cheering her, showed a compassionate superiority to this woman's weakness, which was wonderful to see. No garret, no shoemaking, no One Hundred and Five, North Tower, now! He had accomplished the task he had set himself, his promise was redeemed, he had saved Charles. Let them all lean upon him.</p>
+<p>Their housekeeping was of a very frugal kind: not only because that was the safest way of life, involving the least offence to the people, but because they were not rich, and Charles, throughout his
+<pb n="194" id="p194"/>
+imprisonment, had had to pay heavily for his bad food, and for his guard, and towards the living of the poorer prisoners. Partly on this account, and partly to avoid a domestic spy, they kept no servant; the citizen and citizeness who acted as porters at the court-yard gate, rendered them occasional service; and Jerry (almost wholly transferred to them by Mr. Lorry) had become their daily retainer, and had his bed there every night.</p>
+<p>It was an ordinance of the Republic One and Indivisible of Liberty, Equality, Fraternity, or Death, that on the door or doorpost of every house, the name of every inmate must be legibly inscribed in letters of a certain size, at a certain convenient height from the ground. Mr. Jerry Cruncher's name, therefore, duly embellished the doorpost down below; and, as the afternoon shadows deepened, the owner of that name himself appeared, from overlooking a painter whom Doctor Manette had employed to add to the list the name of Charles Evr&eacute;monde, called Darnay.</p>
+<p>In the universal fear and distrust that darkened the time, all the usual harmless ways of life were changed. In the Doctor's little household, as in very many others, the articles of daily consumption that were wanted, were purchased every evening, in small quantities and at various small shops. To avoid attracting notice, and to give as little occasion as possible for talk and envy, was the general desire.</p>
+<p>For some months past, Miss Pross and Mr. Cruncher had discharged the office of purveyors; the former carrying the money; the latter, the basket. Every afternoon at about the time when the public lamps were lighted, they fared forth on this duty, and made and brought home such purchases as were needful. Although Miss Pross, through her long association with a French family, might have known as much of their language as of her own, if she had had a mind, she had no mind in that direction; consequently she knew no more of &ldquo;that nonsense&rdquo; (as she was pleased to call it), than Mr. Cruncher did. So her manner of marketing was to plump a noun-substantive at the head of a shopkeeper without any introduction in the nature of an article, and, if it happened not to be the name of the thing she wanted, to look round for that thing, lay hold of it, and hold on by it until the bargain was concluded. She always made a bargain for it, by holding up, as a statement of its just price, one finger less than the merchant held up, whatever his number might be.</p>
+<p>&ldquo;Now, Mr. Cruncher,&rdquo; said Miss Pross, whose eyes were red with felicity; &ldquo;if you are ready, I am.&rdquo;</p>
+<p>Jerry hoarsely professed himself at Miss Pross's service. He had worn all his rust off long ago, but nothing would file his spiky head down.</p>
+<p>&ldquo;There's all manner of things wanted,&rdquo; said Miss Pross, &ldquo;and we shall have a precious time of it. We want wine, among the rest. Nice toasts these Redheads will be drinking, wherever we buy it.&rdquo;</p>
+<p>&ldquo;It will be much the same to your knowledge, miss, I should think,&rdquo; retorted Jerry, &ldquo;whether they drink your health or the Old Un's.&rdquo;</p>
+<p>&ldquo;Who's he?&rdquo; said Miss Pross.</p>
+<p>Mr. Cruncher, with some diffidence, explained himself as meaning &ldquo;Old Nick's.&rdquo;</p>
+<p>&ldquo;Ha!&rdquo; said Miss Pross, &ldquo;it doesn't need an interpreter to explain
+<pb n="195" id="p195"/>
+the meaning of these creatures. They have but one, and it's Midnight Murder, and Mischief.&rdquo;</p>
+<p>&ldquo;Hush, dear! Pray, pray, be cautious!&rdquo; cried Lucie.</p>
+<p>&ldquo;Yes, yes, yes, I'll be cautious,&rdquo; said Miss Pross; &ldquo;but I may say among ourselves, that I do hope there will be no oniony and tobaccoey smotherings in the form of embracings all round, going on in the streets. Now, Ladybird, never you stir from that fire till I come back! Take care of the dear husband you have recovered, and don't move your pretty head from his shoulder as you have it now, till you see me again! May I ask a question, Doctor Manette, before I go?&rdquo;</p>
+<p>&ldquo;I think you may take that liberty,&rdquo; the Doctor answered, smiling.</p>
+<p>&ldquo;For gracious sake, don't talk about Liberty; we have quite enough of that,&rdquo; said Miss Pross.</p>
+<p>&ldquo;Hush, dear! Again?&rdquo; Lucie remonstrated.</p>
+<p>&ldquo;Well, my sweet,&rdquo; said Miss Pross, nodding her head emphatically, &ldquo;the short and the long of it is, that I am a subject of His Most Gracious Majesty King George the Third;&rdquo; Miss Pross curtseyed at the name; &ldquo;and as such, my maxim is, Confound their politics, Frustrate their knavish tricks, On him our hopes we fix, God save the King!&rdquo;</p>
+<p>Mr. Cruncher, in an access of loyalty, growlingly repeated the words after Miss Pross, like somebody at church.</p>
+<p>&ldquo;I am glad you have so much of the Englishman in you, though I wish you had never taken that cold in your voice,&rdquo; said Miss Pross, approvingly. &ldquo;But the question, Doctor Manette. Is there&rdquo;&mdash;it was the good creature's way to affect to make light of anything that was a great anxiety with them all, and to come at it in this chance manner&mdash;&ldquo;is there any prospect yet, of our getting out of this place?&rdquo;</p>
+<p>&ldquo;I fear not yet. It would be dangerous for Charles yet.&rdquo;</p>
+<p>&ldquo;Heigh-ho-hum!&rdquo; said Miss Pross, cheerfully repressing a sigh as she glanced at her darling's golden hair in the light of the fire, &ldquo;then we must have patience and wait: that's all. We must hold up our heads and fight low, as my brother Solomon used to say. Now, Mr. Cruncher!&mdash;Don't you move, Ladybird!&rdquo;</p>
+<p>They went out, leaving Lucie, and her husband, her father, and the child, by a bright fire. Mr. Lorry was expected back presently from the Banking House. Miss Pross had lighted the lamp, but had put it aside in a corner, that they might enjoy the firelight undisturbed. Little Lucie sat by her grandfather with her hands clasped through his arm; and he, in a tone not rising much above a whisper, began to tell her a story of a great and powerful Fairy who had opened a prison-wall and let out a captive who had once done the Fairy a service. All was subdued and quiet, and Lucie was more at ease than she had been.</p>
+<p>&ldquo;What is that!&rdquo; she cried, all at once.</p>
+<p>&ldquo;My dear!&rdquo; said her father, stopping in his story, and laying his hand on hers, &ldquo;command yourself. What a disordered state you are in! The least thing&mdash;nothing&mdash;startles you. <hi rend="italics">You,</hi> your father's daughter?&rdquo;</p>
+<p>&ldquo;I thought, my father,&rdquo; said Lucie, excusing herself, with a pale face and in a faltering voice, &ldquo;that I heard strange feet upon the stairs.&rdquo;</p>
+<p>&ldquo;My love, the staircase is as still as Death.&rdquo;</p>
+<p>As he said the word, a blow was struck upon the door.</p>
+<pb n="196" id="p196"/>
+<p>&ldquo;O father, father. What can this be! Hide Charles. Save him!&rdquo;</p>
+<p>&ldquo;My child,&rdquo; said the Doctor, rising and laying his hand upon her shoulder, &ldquo;I <hi rend="italics">have</hi> saved him. What weakness is this, my dear! Let me go to the door.&rdquo;</p>
+<p>He took the lamp in his hand, crossed the two intervening outer rooms, and opened it. A rude clattering of feet over the floors, and four rough men in red caps, armed with sabres and pistols, entered the room.</p>
+<p>&ldquo;The Citizen Evr&eacute;monde, called Darnay,&rdquo; said the first.</p>
+<p>&ldquo;Who seeks him?&rdquo; answered Darnay.</p>
+<p>&ldquo;I seek him. We seek him. I know you, Evr&eacute;monde; I saw you before the Tribunal to-day. You are again the prisoner of the Republic.&rdquo;</p>
+<p>The four surrounded him, where he stood with his wife and child clinging to him.</p>
+<p>&ldquo;Tell me how and why am I again a prisoner?&rdquo;</p>
+<p>&ldquo;It is enough that you return straight to the Conciergerie, and will know to-morrow. You are summoned for to-morrow.&rdquo;</p>
+<p>Dr. Manette, whom this visitation had so turned into stone, that he stood with the lamp in his hand, as if he were a statue made to hold it, moved after these words were spoken, put the lamp down, and confronting the speaker, and taking him, not ungently, by the loose front of his red woollen shirt, said:</p>
+<p>&ldquo;You know him, you have said. Do you know me?&rdquo;</p>
+<p>&ldquo;Yes, I know you, Citizen Doctor.&rdquo;</p>
+<p>&ldquo;We all know you, Citizen Doctor,&rdquo; said the other three.</p>
+<p>He looked abstractedly from one to another, and said, in a lower voice, after a pause:</p>
+<p>&ldquo;Will you answer his question to me then? How does this happen?&rdquo;</p>
+<p>&ldquo;Citizen Doctor,&rdquo; said the first, reluctantly; &ldquo;he has been denounced to the Section of Saint Antoine. This citizen, pointing out the second who had entered, &ldquo;is from Saint Antoine.&rdquo;</p>
+<p>The citizen here indicated nodded his head, and added:</p>
+<p>&ldquo;He is accused by Saint Antoine.&rdquo;</p>
+<p>&ldquo;Of what?&rdquo; asked the Doctor.</p>
+<p>&ldquo;Citizen Doctor,&rdquo; said the first, with his former reluctance, &ldquo;ask no more. If the Republic demands sacrifices from you, without doubt you as a good patriot will be happy to make them. The Republic goes before all. The People is supreme. Evr&eacute;monde, we are pressed.&rdquo;</p>
+<p>&ldquo;One word,&rdquo; the Doctor entreated. &ldquo;Will you tell me who denounced him?&rdquo;</p>
+<p>&ldquo;It is against rule,&rdquo; answered the first; &ldquo;but you can ask Him of Saint Antoine here.&rdquo;</p>
+<p>The Doctor turned his eyes upon that man. Who moved uneasily on his feet, rubbed his beard a little, and at length said:</p>
+<p>&ldquo;Well! Truly it is against rule. But he is denounced&mdash;and gravely&mdash;by the Citizen and Citizeness Defarge. And by one other.&rdquo;</p>
+<p>&ldquo;What other?&rdquo;</p>
+<p>&ldquo;Do <hi rend="italics">you</hi> ask, Citizen Doctor?&rdquo;</p>
+<p>&ldquo;Yes.&rdquo;</p>
+<p>&ldquo;Then,&rdquo; said he of Saint Antoine, with a strange look, &ldquo;you will be answered to-morrow. Now, I am dumb!&rdquo;</p>
+</div3>
+</div2>
+</div1>
+
+
+</body>
+<back>
+<div1 type="advertisement">
+<pb id="p1a" n="1"/>
+<head>THOMAS DE LA RUE &amp; CO'S <lb/> DIARIES &amp; ALMANACKS <lb/> FOR 1860.</head>
+<p>Now Ready at all the Stationers.</p>
+<p>POCKET DIARIES. DE LA RUE'S INDELIBLE RED LETTER DIARY AND MEMORANDUM BOOK, printed on Electro-Metallic Paper, prepared by a New Patent Process, and fitted with Pencils manufactured of Hard Electro Metal, which ensures a permanent point.</p>
+<p>&ldquo;It contains all that is needful in the way of reference * * * * * * De La Rue's Pocket Books excel all others in elegance of finish, and contain a very full supply of business information&mdash;carefully edited in the astronomical department&mdash;and in other respects not likely to disappoint.&rdquo;&mdash;<hi rend="italics">Literary Examiner.</hi></p>
+<p>They are published in three sizes, fitted in elegant Cases suitable for the pocket, in the following varieties:</p>
+<p>
+<table rows="22" cols="4">
+<row role="label">
+<cell>DESCRIPTION.</cell>
+<cell>A SIZE. 3&frac18; by 2 in.</cell>
+<cell>B SIZE. 3&frac34; by 2&frac12; in</cell>
+<cell>C SIZE. 4&frac12; by 2 &frac34; in.</cell>
+</row>
+<row>
+<cell></cell>
+<cell>No.</cell>
+<cell>No.</cell>
+<cell>No.</cell>
+</row>
+<row>
+<cell>Paper Wrapper, gilt edges</cell>
+<cell>1300</cell>
+<cell>1310</cell>
+<cell>1325</cell>
+</row>
+<row>
+<cell>Silk Covered, gilt edges</cell>
+<cell>1301</cell>
+<cell>1311</cell>
+<cell>1326</cell>
+</row>
+<row>
+<cell>Silk Covered, gilt edges, and gilt lines, loop and pencil</cell>
+<cell>1365</cell>
+<cell>1366</cell>
+<cell>1367</cell>
+</row>
+<row>
+<cell>French Morocco Tuck, gilt edges</cell>
+<cell>1302</cell>
+<cell>1312</cell>
+<cell>1327</cell>
+</row>
+<row>
+<cell>French Morocco Wallet, with elastic band</cell>
+<cell>1308</cell>
+<cell>1309</cell>
+<cell>1332</cell>
+</row>
+<row>
+<cell>Limp French Morocco Wallet, silk lined, with strap and catch</cell>
+<cell>1299</cell>
+<cell>1318</cell>
+<cell>1334</cell>
+</row>
+<row>
+<cell>Morocco Tuck, fancy paper lined, gilt edges</cell>
+<cell>1303</cell>
+<cell>1314</cell>
+<cell>1328</cell>
+</row>
+<row>
+<cell>Russia Tuck, gilt edges</cell>
+<cell>1304</cell>
+<cell>1815</cell>
+<cell>1329</cell>
+</row>
+<row>
+<cell>Morocco Wallet, silk lined, with lock and spring</cell>
+<cell>1305</cell>
+<cell>1316</cell>
+<cell>1330</cell>
+</row>
+<row>
+<cell>Morocco Wallet, with elastic band</cell>
+<cell>1297</cell>
+<cell>1323</cell>
+<cell>1337</cell>
+</row>
+<row>
+<cell>Limp Morocco gilt, with strap and catch</cell>
+<cell>1295</cell>
+<cell>1313</cell>
+<cell>1333</cell>
+</row>
+<row>
+<cell>Limp Morocco extra gilt, with strap and engraved catch</cell>
+<cell>1360</cell>
+<cell>1361</cell>
+<cell>1362</cell>
+</row>
+<row>
+<cell>Fancy Morocco Ladies' Note Book, silk lined, with lock, gilt</cell>
+<cell>&mdash;</cell>
+<cell>1319</cell>
+<cell>&mdash;</cell>
+</row>
+<row>
+<cell>Morocco Ladies' Note Book, with gilt lock and edgings</cell>
+<cell>&mdash;</cell>
+<cell>1321</cell>
+<cell>&mdash;</cell>
+</row>
+<row>
+<cell>Russia Ladies' Note Book, with gilt lock and edgings</cell>
+<cell>&mdash;</cell>
+<cell>1340</cell>
+<cell>&mdash;</cell>
+</row>
+<row>
+<cell>Velvet covered Ladies' Note Book, gilt rims and lock, satin lined</cell>
+<cell>&mdash;</cell>
+<cell>1322</cell>
+<cell>&mdash;</cell>
+</row>
+<row>
+<cell>Russia Wallet, silk lined, with lock and spring</cell>
+<cell>1306</cell>
+<cell>1317</cell>
+<cell>1339</cell>
+</row>
+<row>
+<cell>Russia Wallet, with elastic band</cell>
+<cell>1298</cell>
+<cell>1324</cell>
+<cell>1338</cell>
+</row>
+<row>
+<cell>Russia Wallet, with strap and catch</cell>
+<cell>1307</cell>
+<cell>1320</cell>
+<cell>1336</cell>
+</row>
+<row>
+<cell>Russia Wallet, lined Russia and silk, extra gilt and elastic band</cell>
+<cell>1357</cell>
+<cell>1358</cell>
+<cell>1359</cell>
+</row>
+</table>
+</p>
+<p>DESK DIARIES. RED LETTER DIARIES &amp; IMPROVED MEMORANDUM BOOKS; for the Desk and Counting House. Two Sizes:<lb/>D Size, 6&frac14; inches by 4&frac18; inches.<lb/>E Size, 7&frac34; inches by 4&frac34; inches.
+</p>
+<p>Half-bound French Morocco, Vegetable Parchment or Cloth sides.</p>
+<p>POCKET CALENDARS. RED LETTER CALENDAR AND ALMANACK in Two Sizes, for the Card Case or Pocket Book, beautifully printed in Red and Blue, in the following varieties:</p>
+<p>
+<table rows="6" cols="3">
+<row role="label">
+<cell>DESCRIPTION.</cell>
+<cell></cell>
+<cell>A SIZE. 3&frac18; by 2 in.</cell>
+<cell>B SIZE. 3&frac34; by 2&frac12; in.</cell>
+</row>
+<row>
+<cell></cell>
+<cell>No.</cell>
+<cell>No.</cell>
+</row>
+<row>
+<cell>In Paper Covers Gilt edges</cell>
+<cell>1345</cell>
+<cell>1346</cell>
+</row>
+<row>
+<cell>Interleaved Gilt edges</cell>
+<cell>1347</cell>
+<cell>1348</cell>
+</row>
+<row>
+<cell>In French Morocco Note Case and elastic band Gilt edges</cell>
+<cell>1343</cell>
+<cell>1344</cell>
+</row>
+<row>
+<cell>Russia Note Case and elastic band Gilt edges</cell>
+<cell>1341</cell>
+<cell>1342</cell>
+</row>
+</table>
+</p>
+<p>CARD CALENDAR. DE LA RUE'S ILLUMINATED CARD CALENDAR, designed by OWEN JONES, elegantly printed in Gold and Colours on the finest Enamel Card Board, for the Desk or Drawing Room. Size, 10&frac12; by 7 inches. Price 6<hi rend="italics">d.</hi></p>
+<p>TO BE HAD OF ALL BOOKSELLERS AND STATIONERS.</p>
+<div2 type="section">
+<pb n="2" id="p2a"/>
+<head>OPINIONS OF THE PRESS.</head>
+<div3 type="section">
+<head>&ldquo;ATHEN&AElig;UM,&rdquo; Nov. 20, 1858.</head>
+<p>&ldquo;Messrs. De La Rue publish their pretty and convenient Indelible Diaries and Pocket Books, one bound for a lady's use, one for a gentleman's.&rdquo;</p>
+</div3>
+<div3 type="section">
+<head>&ldquo;SPECTATOR,&rdquo; Nov. 27, 1858.</head>
+<p>* * * &ldquo;Messrs. De La Rue's &lsquo;Red Letter Diaries.&rsquo; There is nothing of the past about <hi rend="italics">them,</hi> unless in chronological tables of Royalty, Parliaments of Great Britain, or the long duration of the solar and planetary systems. But though to impart general information connected with the frequent demands of society, or the business of life, or to enable the reader by means of the Diary to hive self-knowledge, is the principal aim of the books, they follow the fashion of ornament as primarily set by the Annuals. As might be expected from the character of the Firm, a chaste elegance distinguishes the publications. Besides the common feature of excellent printing, red letters are intermixed, not arbitrarily, or with mere regard to the eye, but to mark the subject matters more distinctly. We believe these &lsquo;Red Letter Diaries&rsquo; are of various kinds, but the three before us are respectively intended for gentlemen, ladies, and desks. That for gentlemen is put into a brown Russia pocket-book, that for ladies is brighter in its case, and smaller in size, with less business information and fewer pockets; but in each they are lined with silk, soft as the notes they will, let us hope, contain. The Desk Diary is a half-bound octavo volume, chiefly differing from other diaries of a similar kind in the style of its appearance.&rdquo;</p>
+<p>&ldquo; &lsquo;Red Letter Almanack, 1859&mdash;Quarto Calendar (Card), 1859&mdash;Octavo Calendar (Card), 1859.&rsquo; The Almanacks are from De La Rue's, and are distinguished by the neatness of the business &lsquo;Red Letter,&rsquo; and the elegance of the other two; these last, however, are mere Calendars.&rdquo;</p>
+</div3>
+<div3 type="section">
+<head>&ldquo;MORNING POST,&rdquo; Dec. 8. 1858.</head>
+<p>&ldquo;Messrs. De La Rue's Diaries for the new year really deserve to be classed among the elegancies of highly civilised life. What between their lustrous and indelible paper, their blue and red typography, their rich gildings, their satin linings, and their bindings of Russia leather, which emit a delicate perfume, these beautiful manuals are quite gratifying to the senses. But they have other and higher recommendations than such as relate to their external comeliness, for they contain a great deal of valuable information&mdash;scientific, commercial, and general. Among the latter may be mentioned not only a table of cab fares, compiled from &lsquo;the Metropolitan Police List,&rsquo; by which the purchaser can save in a single day the amount invested, but also interesting Parliamentary statistics, abstracts of important statutes, having reference to social subjects, postage rates and regulations, in addition to a variety of useful matter not generally found in kindred publications. The Diaries for 1859 are carefully edited in the astronomical department by Mr. Norman Pogson, Director of the Hartwell Observatory, Aylesbury, and are not inferior either in accuracy and variety of intelligence, or in judicious selection and arrangement, to any publications of a similar class which have preceded them. The Almanacks published by the same gentlemen are in all respects admirably suited to the study and the counting-house. They are printed in the most convenient forms, from the tiny calendar two inches square, to fit into the note case, to the handsome illuminated broad sheet for the office or library. As specimens of polychromatic printing, they are superior to anything of the kind yet introduced, while the information they convey, and their general utility as indices to engagements either of business or pleasure, must make them acceptable to all classes of the community.&rdquo;</p>
+</div3>
+<div3 type="section">
+<head>&ldquo;GLOBE,&rdquo; Nov. 25, 1858.</head>
+<p>&ldquo; &lsquo;De La Rue's Red Letter Diary and Memorandum Book, 1859&rsquo;&mdash;&lsquo;De La Rue's Improved Indelible Diary and Memorandum Book, 1859,&rsquo; edited by Norman Pogson, Director of the Hartwell Observatory, Aylesbury. Among the minor heralds of the new year, which must ever be forthcoming and ever welcome on account of their utility, is the whole family of diaries and pocket-books. Combining with an indispensable convenience a considerable amount of elegance, and various improvements in arrangement of materials and the nature of these materials themselves, De La Rue's new publications above set down, according to their style and titles, are among the best, if not the very best, of their kind. The former is a very compact and yet sufficiently roomy volume, arranged as an almanack-diary. It contains a great deal of information for men of business&mdash;commercial, political, and scientific&mdash;set down in the clearest and most intelligible fashion. It is also a very fit diary for ladies who are methodical housekeepers. Travellers and foreigners will find both these books excellent <hi rend="italics">compagnons de voyage.</hi> The latter little work is in appearance a union of
+<pb n="3" id="p3a"/>
+the old-fashioned pocket Book and the Russian leather memorandum Book, and it is certainly an improvement on both. The telescopic view of the planet Saturn, which is put in as a frontispiece, is very interesting, and will excite many a man ignorant of astronomy to read with attention and certain pleasure the account of that planet which is inserted in the book, probably from the pen of the editor.&rdquo;</p>
+</div3>
+<div3 type="section">
+<head>&ldquo;NOTES AND QUERIES,&rdquo; Nov. 20, 1858.</head>
+<p>&ldquo;Messrs. De La Rue have issued their &lsquo;Improved Indelible Diary and Memorandum Book,&rsquo; edited by Norman Pogson, director of the Hartwell Observatory, Aylesbury, for the coming year, 1859. The useful information in this Diary is so extensive and complete, that it would not be easy to improve the Diary in this respect; but the taste and elegance with which it has been got up exceeds even the high standard for which all the productions of the firm of De La Rue and Co. are now distinguished.&rdquo;</p>
+<p>DEC. 4.&mdash;&ldquo;We recently called attention to De La Rue's elegant and useful pocket diaries. The same firm have issued their &lsquo;Red Letter Diary and Improved Memorandum Book&rsquo; for 1859, the arrangements of which are everything that can be desired to fit it for the desk of the man of business, or the writing table of the man of letters.</p>
+</div3>
+<div3 type="section">
+<head>&ldquo;MORNING STAR,&rdquo; Nov. 27, 1858.</head>
+<p>&ldquo;De La Rue's Publications for 1859. The Diaries, Almanacks, and Calendars of Messrs. De La Rue and Company are typographically unrivalled, as we judge from one or two samples of them that have come under our eye. By printing on what is called electro-metallic paper, and with the most beautiful type, and with inks of different colours, and made of superior material, the samples of the printing-office art even outdo the very finely printed specimen-books of the typefounders themselves. The almanack and calendar sheets would therefore be worthy of framing for the drawing-room, if we could suppose such things were wanted there, and the diaries and memorandum books would certainly look much better, if not so suitable, for the drawing-room table, than many flashy publications left to lie upon it. We ought also to observe, that the commercial, astronomical, legal and loyal information furnished in De La Rue's Almanacks is accurate and unique.&rdquo;</p>
+</div3>
+<div3 type="section">
+<head>&ldquo;GLASGOW HERALD,&rdquo; Nov. 29, 1858.</head>
+<p>&ldquo;De La Rue's Diary for 1859. We have received a copy of the &lsquo;Red Letter Diary and Improved Memorandum&rsquo; for 1859, published by Messrs. De La Rue and Co. London, and have no hesitation in saying that it is the prettiest got-up book of the kind we have ever seen. It contains a large amount of valuable information indispensable to men in business, in addition to many other items of useful intelligence not usually found in memorandum books.&rdquo;</p>
+</div3>
+<div3 type="section">
+<head>&ldquo;ECONOMIST,&rdquo; Nov. 27, 1858.</head>
+<p>&ldquo; &lsquo;De La Rue's Red Letter Diary and Improved Memorandum Book, 1859.&rsquo;&mdash;The printing and paper in De La Rue's Diary are very good, and the mixture of red and blue letters renders the divisions clear and distinct. The information in the beginning is all of a practical kind, and occupies thirty-five pages with tables, post-office regulations, lists of the administrations of Great Britain, &amp;c.&rdquo;</p>
+</div3>
+<div3 type="section">
+<head>&ldquo;PRESS,&rdquo; Dec. 4, 1858.</head>
+<p>&ldquo;A crowd of Gift-books, in bright-hued covers and brilliantly illustrated, come gaily dancing along the path of time, treading on the heels of the Old Year, and heralding the approach of Merry Christmas, of holiday-making and joyous children. * * * Messrs. De La Rue add to their force Pocket-books and Diaries full of fancy and replete with information.</p>
+<p>&ldquo;Pocket-books, Almanacks, and Diaries. In no department, probably, connected with literature has there been exhibited greater artistic progress than in that of almanacks and diaries; and whether you are a clergyman, or a solicitor, or a sportsman, or an idle man, or a husband looking for an <hi rend="italics">&eacute;trenne</hi> on New Year's Day for your wife, you will find what you want. There are &lsquo;The Improved Indelible Diaries;&rdquo; <hi rend="italics">London: De La Rue and Co.</hi> As fanciful as Owen Jones&rsquo; roof to the London Crystal Palace, and full of information. You cannot buy a prettier little present. And &lsquo;The Improved Red Letter Diary:&rsquo; <hi rend="italics">London: De La Rue and Co.</hi> Just the thing for a lady's writing-table.&rdquo;</p>
+</div3>
+<div3 type="section">
+<head>&ldquo;WITNESS,&rdquo; EDINBURGH, Dec. 4, 1858.</head>
+<p>&ldquo;In either of the Diaries is to be found an amount of &lsquo;useful and entertaining knowledge,&rsquo; sufficient to fit out a tolerably well-informed person. From things so abstract as the occultations visible at Greenwich, and the eclipses of Jupiter's satellites, to things so practical as the Post-office regulations and the London cab-fares, the intelligence contained in this neat and handy compendium extends. Besides a diary and a pocket-book, it is an excellent almanack.&rdquo;</p>
+</div3>
+</div2>
+<div2 type="advertisement">
+<pb n="4" id="p4a"/>
+<head>THOMAS DE LA RUE &amp; CO'S <lb/> VEGETABLE PARCHMENT</head>
+<p>ABSTRACT FROM A REPORT UPON VEGETABLE PARCHMENT BY PROFESSOR <lb/> A. W. HOFMANN, L.L.D. F.R.S.</p>
+<p>&ldquo;This new article greatly surpasses real Parchment in its resistance to the action of chemical agents, and especially Water. * * * * * * It is obvious that this substance unites in itself, in a most remarkable manner, the conditions of permanence and durability, * * * * * * and is capable of resisting the tooth of time for many centuries, and that, under various circumstances, it will last even longer than Animal Parchment.&rdquo;</p>
+<p>The following are a few of its applications:&mdash;</p>
+<p>FOR COMMERCIAL PURPOSES, where lightness, strength, and durability are required&mdash;as in Bills of Lading, Foreign Bills of Exchange, Policies of Insurance, Scrip Certificates, &amp;c. &amp;c.</p>
+<p>FOR LEGAL PURPOSES, it possesses advantages over Animal Parchment on account of the ease with which it can be written upon, and its resistance to the action of water, acids, or other chemical agents.</p>
+<p>FOR ENGINEERS AND ARCHITECTS.&mdash;In its application for Tracing and Multiplying Drawings, it effects a considerable saving in time and labour. It is prepared to combine the transparency of Tracing Paper with the strength required for working Drawings.</p>
+<p>FOR COVERING PRESERVES.&mdash;It is largely used for this purpose, for which it is peculiarly well adapted, by its resistance to the attacks of Insects, its cleanliness, and non-liability to putrefaction.</p>
+<p>FOR NEEDLEWORK, when perforated, it is preferable to card-board or canvas, being lighter and more flexible.</p>
+<p>BOOKBINDING.&mdash;It combines the cheapness of Forril with the strength and finish of Vellum. It is used for Ledgers, Day Books, and every other kind of Account and Memorandum Book.</p>
+<p>BOOKS AND PRINTING.&mdash;For books requiring indestructible leaves it takes the place of Linen Paper, and can be used with great advantage for Maps and Plans.</p>
+<p>MOUNTING.&mdash;For Mounting Documents, Plans, Drawings, &amp;c. requiring careful preservation, it is invaluable.</p>
+<p>THIS NEW MATERIAL IS MUCH LOWER IN PRICE THAN ANIMAL PARCHMENT.</p>
+<p>NOW READY, <lb/> PATENT PLAYING CARDS.&mdash;Floral, Tartan and Gold Backs, in every variety, for the Present Season.</p>
+<p>FINE ART DRAWING PENCILS.&mdash;Manufactured on a new principle; firm in point, rich in colour and easy of erasure. A good Pencil at a moderate Price.</p>
+<p>THOMAS DE LA RUE AND CO. LONDON.</p>
+</div2>
+</div1>
+<div1 type="advertisement">
+<pb id="p5a" n="5"/>
+<head>FENDERS, FIRE-IRONS, AND FURNISHING <lb/> IRONMONGERY.</head>
+<p>Families Furnishing will find it advantageous to inspect the Stock and compare Prices, which will be found lower than other Houses where quality is considered.</p>
+<p>SLACK LONDON</p><p>
+<table rows="32" cols="3">
+<row>
+<cell>Iron Fenders</cell>
+<cell>3</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Bronzed Fenders 3s. 6d. to</cell>
+<cell>18</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Bright Steel</cell>
+<cell>65</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>Fire Irons 2s. 6d. to</cell>
+<cell>5</cell>
+<cell>9</cell>
+</row>
+<row>
+<cell>Parlour Irons 6s. 6d. to</cell>
+<cell>8</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Drawing-room 9s. 6d. to</cell>
+<cell>18</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Coal Boxes</cell>
+<cell>4</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Coal Scoops 2s. 6d. to</cell>
+<cell>3</cell>
+<cell>9</cell>
+</row>
+<row>
+<cell>Tea Trays 3s. 0d. to</cell>
+<cell>5</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>Set of 3 Trays</cell>
+<cell>9</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Papier Mach&eacute; Trays</cell>
+<cell>25</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>Dish Covers, set</cell>
+<cell>18</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>Queen's pattern</cell>
+<cell>23</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>Meat Screen</cell>
+<cell>12</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Roasting Jack</cell>
+<cell>7</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Fish Kettle</cell>
+<cell>5</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Ivory Knives, per doz</cell>
+<cell>10</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Ivory, full size</cell>
+<cell>18</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Dessert full size</cell>
+<cell>12</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>White Bone full size</cell>
+<cell>9</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>Black pinned full size</cell>
+<cell>8</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>Black Horn, to balance</cell>
+<cell>14</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Teapots 5s. 6d. to</cell>
+<cell>8</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Water Cans 3s. 6d. to</cell>
+<cell>5</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Foot Tubs 4s. 6d. to</cell>
+<cell>6</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>1 Quart Saucepan</cell>
+<cell>1</cell>
+<cell>2</cell>
+</row>
+<row>
+<cell>2 Quart Saucepan</cell>
+<cell>1</cell>
+<cell>8</cell>
+</row>
+<row>
+<cell>3 Quart Saucepan</cell>
+<cell>2</cell>
+<cell>0</cell>
+</row>
+<row>
+<cell>3 Gallon iron pot</cell>
+<cell>4</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Saucepan and steamer</cell>
+<cell>4</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Moderator Lamps from</cell>
+<cell>7</cell>
+<cell>6</cell>
+</row>
+<row>
+<cell>Copper Teakettles 7s. 0d. to</cell>
+<cell>10</cell>
+<cell>6</cell>
+</row>
+</table>
+</p>
+<p>THE GREATEST VARIETY OF DISH COVERS IN LONDON</p>
+<p><hi rend="italics">Every article in Furnishing Ironmongery at equally low prices. All marked in plain Figure</hi>
+<lb/>
+<hi rend="italics">and Warranted. The money returned for any article not approved of.</hi></p>
+<p><hi rend="italics">Orders above</hi> 2<hi rend="italics">l., carriage free, per rail.</hi></p>
+<p>ESTABLISHED FIFTY YEARS.</p>
+<p>Slack's Catalogue with 350 Engravings Gratis, or Post Free</p>
+<p>RICHARD &amp; JOHN SLACK <lb/> 336, STRAND, <lb/> OPPOSITE SOMERSET HOUSE.</p>
+</div1>
+<div1 type="advertisement">
+<pb id="p6a" n="6"/>
+<head>Lord Brougham and the <lb/> Working Classes.</head>
+<p>This truly energetic octogenarian, though he lives much abroad, preserves a thoroughly British heart, and even when his bodily frame is in his ch&acirc;teau at Cannes, in the south of France, his spirit is still at home in some &ldquo;dear familiar&rdquo; town or province of Great Britain. His active and powerful mind has a strong consciousness of the dignity of honest labour, and he cherishes accordingly a most hearty and generous sympathy with the working classes. The other day, at the Social Science Congress at Bradford, he reminded his 3500 respectful and admiring listeners that he himself had been a working man all his life, and had indeed lived upon his wages. But he had been provident, and had laid by something for his old age. He told them that their highest worldly interest and duty was to follow their regular callings and secure themselves an independence. It is not enough for the honest labourer or mechanic to earn money. He should know how to keep it and how to spend it. He should save what he can of it, and spend the rest wisely. With respect especially to all articles of clothing, as indeed for every other purchasable necessary, he should go, not to the <hi rend="italics">cheapest</hi> mart only, but to the <hi rend="italics">best.</hi> E. MOSES and SON undertake to supply every description of wearing apparel for all classes, not only at rates unprecedently low, but of materials unprecedently durable, and of such make and finish as no other house could afford to supply at the same prices.</p>
+<p>E. MOSES and SON wish it to be particularly observed, that if any article be not approved of, it will be exchanged, or the money returned without hesitation.</p>
+<p>Their Book, containing <hi rend="italics">an authentic history of the various changes in British costume from the earliest period to the present time,</hi> to which is added their rules for self-measurement and lists of prices, gratis on application, or post-free.</p>
+<p>E MOSES and SON'S Establishments are as follow:&mdash;</p>
+<p>LONDON.</p>
+<p>Aldgate and Minories, opposite Aldgate Church.</p>
+<p>New Oxford-street, corner of Hart-street.</p>
+<p>COUNTRY BRANCHES.</p>
+<p>Sheffield and Bradford, Yorkshire.</p>
+<div2>
+<head>The &ldquo;Indispensable&rdquo; Suit,</head><p>Made of various materials, in all colours and shades, and particularly adapted for WALKING, <lb/> RIDING, TRAVELLING, and BUSINESS.</p>
+<p>This is universally acknowledged to be the most comfortable and serviceable suit ever introduced.</p>
+<p>Price from 35s. To be obtained only of <lb/> E. MOSES AND SON, <lb/> CORNER OF MINORIES AND ALDGATE; AND NEW OXFORD <lb/> STREET, CORNER OF HART STREET.</p>
+<p>C. WHITING BEAUFORT HOUSE, STRAND.</p>
+</div2>
+</div1>
+</back>
+</text>
+</TEI.2>

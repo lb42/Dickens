@@ -1,0 +1,934 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI U5-1995//DTD TEI Lite//EN" "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+
+
+]>
+<TEI.2>
+<teiHeader type="3D">
+<fileDesc>
+<titleStmt>
+<title><emph>The Readings of Mr. Charles Dickens, as Condensed by Himself. A Christmas Carol and The Trial from Pickwick.:</emph>
+Electronic Edition.
+</title><author>Dickens, Charles, 1812-1870</author>
+
+<respStmt>
+<resp>Illustrated by </resp><name>Eytinge, Solomon, 1833-1905</name>
+</respStmt>
+
+<funder>Funding from the  E. S. P. Das Educational Foundation supported the electronic publication of this title.</funder><respStmt>
+<resp>Text transcribed  by</resp>
+<name>Apex Data Services, Inc.</name>
+</respStmt>
+<respStmt><resp>Images scanned by</resp>
+<name>M. Brooke Phillips</name></respStmt><respStmt><resp>Text encoded by </resp>
+<name>Jill Kuhn Sexton</name></respStmt></titleStmt>
+<editionStmt><edition>First edition, <date>2002</date></edition></editionStmt>
+<extent>ca. 120K</extent>
+<publicationStmt>
+<publisher>Academic Affairs Library, UNC-CH</publisher>
+<pubPlace>University of North Carolina at Chapel Hill, </pubPlace><date>2002.</date>
+
+<availability>
+<p>&copy; This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+</availability>
+</publicationStmt>
+
+
+<sourceDesc>
+
+<biblFull>
+<titleStmt>
+<title type="title page">The Readings of Mr. Charles Dickens, as Condensed by Himself. A Christmas Carol and The Trial from Pickwick.</title>
+
+
+<author>Charles Dickens</author>
+
+<respStmt><resp>Illustrations by</resp>
+<name>S. Eytinge, Jr.</name></respStmt>
+
+</titleStmt>
+
+<extent> 82 p., ill.</extent>
+
+<publicationStmt>
+<pubPlace>Boston</pubPlace>
+<publisher>Ticknor and Fields</publisher>
+<date>1868</date>
+<authority></authority>
+</publicationStmt>
+<notesStmt><note>Call number Dickens 74 1868 (Rare Book Collection, University of North Carolina at Chapel Hill)</note></notesStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+<editorialDecl>
+
+<p>The text has been entered using double-keying and verified against the original. 
+The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+
+<p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+
+<p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+
+<p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+<p>All double right and left quotation marks are encoded as &rdquo; and &ldquo;
+respectively.</p>
+<p>All single right and left quotation marks are encoded as &rsquo; and &lsquo; respectively.</p>
+<p>All em dashes are encoded as &mdash;</p><p>Indentation in lines has not been preserved.</p>
+<p>Running titles have not been preserved.</p>
+<p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+</editorialDecl>
+
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+
+<language id="eng">English</language>
+
+</langUsage>
+
+</profileDesc>
+<revisionDesc>
+
+<change>
+<date>2002-10-20, </date><respStmt><name> Jill Kuhn Sexton </name><resp></resp>
+</respStmt><item>finished TEI-conformant encoding and final proofing.</item>
+</change>
+<change>
+<date>2002-09-17, </date><respStmt><name>Matthew Kern</name>
+<resp></resp></respStmt><item> finished TEI/SGML encoding</item></change>
+<change><date>2002-08-01, </date>
+<respStmt><name>Apex Data Services, Inc.</name><resp></resp></respStmt>
+<item> finished transcribing the text.</item></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<titlePage>
+<docTitle><titlePart>THE READINGS<lb/>OF<lb/>MR. CHARLES DICKENS,<lb/><hi
+rend="italics">AS CONDENSED BY HIMSELF.</hi></titlePart><titlePart>A CHRISTMAS CAROL<lb/>AND<lb/>THE TRIAL FROM PICKWICK.</titlePart></docTitle>
+<docImprint><hi rend="italics">ILLUSTRATED COPYRIGHT EDITION.</hi>
+<pubPlace>BOSTON AND NEW YORK:</pubPlace><publisher>TICKNOR AND FIELDS.</publisher>
+<docDate>1868.</docDate>
+Price, 25 cents.
+</docImprint>
+</titlePage>
+<div1 type="section">
+<pb id="pi" n="i"/><opener>By a special arrangement made with me and my English Publishers, (partners with me in the copyright of my works,) Messrs. TICKNOR &amp; FIELDS, of Boston, have become the only authorized representatives in America of the whole series of my books.
+<signed>CHARLES DICKENS.</signed>
+</opener><head><hi rend="italics">THE DIAMOND EDITION</hi>
+<lb/> OF THE COMPLETE WORKS OF <lb/> CHARLES DICKENS.</head>
+<p>THIS compact and elegant Edition has, from the issue of the first number, been a general favorite with all admirers of DICKENS. Its distinct type, tinted paper, striking illustrations, tasteful binding, and low price, have commended it to all classes of readers.</p>
+<p>The Illustrations, by S. EYTINGE, JR., are a prominent feature of this Edition, and the Publishers are happy to confirm the general testimony to their excellence, by the following expression of opinion from MR. DICKENS himself:&mdash;</p>
+<p>&ldquo;They are remarkable for a delicate perception of beauty, a lively eye for character, a most agreeable absence of exaggeration, and a general modesty and propriety, which I greatly like.&rdquo;</p>
+<p>This Edition of DICKENS is more complete than any other now published, containing, in addition to the writings included in any previous Edition called complete. The Uncommercial Traveller, and the later Christmas Stories, specially collected for this Edition by MR. DICKENS himself. It also contains a feature entirely new in Editions of Dickens's Works, &mdash; a full and complete Index of all the characters and principal incidents of all the Novels. These important additions make the Diamond Edition the completest, as it is the cheapest, elegant Edition of Dickens's Works now published.</p>
+<p>This Edition is now complete in Fourteen Volumes, as follows:&mdash;</p>
+<list>
+<item>The Pickwick Papers.</item>
+<item>Our Mutual Friend.</item>
+<item>David Copperfield.</item>
+<item>Nicholas Nickleby.</item>
+<item>Martin Chuzzlewit.</item>
+<item>Dombey and Son.</item>
+<item>Old Curiosity Shop, and Reprinted Pieces.</item>
+<item>Little Dorrit.</item>
+<item>Bleak House.</item>
+<item>Barnaby Rudge, and Hard Times.</item>
+<item>Oliver Twist, Pictures from Italy, and American Notes.</item>
+<item>A Tale of Two Cities, and Great Expectations.</item>
+<item>Christmas Stories, and Sketches by Boz.</item>
+<item>The Uncommercial Traveller, and Additional Christmas Stories.</item>
+</list><p>These Volumes are sold separately or in Sets.</p>
+<p>Illustrated Edition, each volume containing Sixteen Full-page Illustrations, made expressly for this Edition, elegantly bound in Green Morocco Cloth, &dollar;1.50 a volume; Half Calf, &dollar;3.00. Plain Edition, tastefully bound in Crimson Morocco Cloth, &dollar;1.25 a volume.</p>
+<p><hi rend="italics">For Sale by all Booksellers. Sent, post-paid, on receipt of price, by <lb/> the Publishers,</hi></p>
+<p>TICKNOR AND FIELDS, Boston; <lb/>
+<hi rend="italics">and</hi> 63 <hi rend="italics">Bleecker Street, New York.</hi></p>
+</div1>
+</front>
+<!--
+<group>
+-->
+<text>
+<front>
+<div1 type="frontispiece">
+<pb id="pii" n="ii"/>
+<p><figure id="frontis"><p>BOB CRATCHIT AND TINY TIM.</p></figure></p>
+</div1>
+<pb id="p1" n="1"/>
+<titlePage>
+<docTitle><titlePart>A <lb/> CHRISTMAS CAROL.</titlePart></docTitle>
+<byline>BY</byline>
+<docAuthor>CHARLES DICKENS.</docAuthor>
+<docImprint>
+AS CONDENSED BY HIMSELF, FOR HIS <lb/>
+<hi rend="italics">READINGS.</hi>
+<lb/>WITH AN ILLUSTRATION BY S. EYTINGE, JR.
+<pubPlace>BOSTON:</pubPlace>
+<publisher>TICKNOR AND FIELDS.</publisher>
+<docDate>1868.</docDate>
+</docImprint>
+</titlePage>
+<pb id="p2" n="2"/>
+<div1 type="section">
+<opener>
+<dateline>GAD'S HILL, HIGHAM BY ROCHESTER, KENT, <lb/> Tenth October, 1867.</dateline>
+</opener>
+<p>The edition bearing the imprint of MESSRS. TICKNOR AND FIELDS is the only correct and authorized edition of my READINGS.</p>
+<closer>
+<signed>CHARLES DICKENS.</signed>
+</closer>
+</div1><div1>
+<p>Entered according to Act of Congress, in the year 1867, by <lb/> TICKNOR AND FIELDS, <lb/> in the Clerk's Office of the District Court of the District of Massachusetts.<lb/>
+UNIVERSITY PRESS: WELCH, BIGELOW, &amp; CO., <lb/> CAMBRIDGE.</p>
+</div1>
+</front>
+<body>
+<div1 type="section">
+<pb n="3" id="p3"/>
+<head>A CHRISTMAS CAROL.</head>
+<head>IN FOUR STAVES.</head>
+<div2 type="section">
+<head>STAVE ONE. <lb/> MARLEY'S GHOST.</head>
+<p>MARLEY was dead, to begin with. There is no doubt whatever about that. The register of his burial was signed by the clergyman, the clerk, the undertaker, and the chief mourner. Scrooge signed it. And Scrooge's name was good upon 'Change for anything he chose to put his hand to.</p>
+<p>Old Marley was as dead as a door-nail.</p>
+<p>Scrooge knew he was dead? Of course he did. How could it be otherwise? Scrooge and he were partners for I don't know how many years. Scrooge was his sole executor, his sole administrator, his sole assign, his sole residuary legatee, his sole friend, his sole mourner.</p>
+<p>Scrooge never painted out old Marley's name, however. There it yet stood, years afterwards, above the warehouse door, &mdash; Scrooge and Marley. The firm was known as Scrooge and Marley. Sometimes people new to the business called
+<pb n="4" id="p4"/>
+Scrooge Scrooge, and sometimes Marley. He answered to both names. It was all the same to him.</p>
+<p>Oh! But he was a tight-fisted hand at the grindstone, was Scrooge! a squeezing, wrenching, grasping, scraping, clutching, covetous old sinner! External heat and cold had little influence on him. No warmth could warm, no cold could chill him. No wind that blew was bitterer than he, no falling snow was more intent upon its purpose, no pelting rain less open to entreaty. Foul weather did n't know where to have him. The heaviest rain and snow and hail and sleet could boast of the advantage over him in only one respect, &mdash; they often &ldquo;came down&rdquo; handsomely, and Scrooge never did.</p>
+<p>Nobody ever stopped him in the street to say, with gladsome looks, &ldquo;My dear Scrooge, how are you? When will you come to see me?&rdquo; No beggars implored him to bestow a trifle, no children asked him what it was o'clock, no man or woman ever once in all his life inquired the way to such and such a place, of Scrooge. Even the blindmen's dogs appeared to know him; and when they saw him coming on, would tug their owners into doorways and up courts; and then would wag their tails as though they said, &ldquo;No eye at all is better than an evil eye, dark master!&rdquo;</p>
+<p>But what did Scrooge care! It was the very thing he liked. To edge his way along the
+<pb n="5" id="p5"/>
+crowded paths of life, warning all human sympathy to keep its distance, was what the knowing ones call &ldquo;nuts&rdquo; to Scrooge.</p>
+<p>Once upon a time &mdash; of all the good days in the year, upon a Christmas eve &mdash; old Scrooge sat busy in his counting-house. It was cold, bleak, biting, foggy weather; and the city clocks had only just gone three, but it was quite dark already.</p>
+<p>The door of Scrooge's counting-house was open, that he might keep his eye upon his clerk, who, in a dismal little cell beyond, a sort of tank, was copying letters. Scrooge had a very small fire, but the clerk's fire was so very much smaller that it looked like one coal. But he could n't replenish it, for Scrooge kept the coal-box in his own room; and so surely as the clerk came in with the shovel the master predicted that it would be necessary for them to part. Wherefore the clerk put on his white comforter, and tried to warm himself at the candle; in which effort, not being a man of a strong imagination, he failed.</p>
+<p>&ldquo;A merry Christmas, uncle! God save you!&rdquo; cried a cheerful voice. It was the voice of Scrooge's nephew, who came upon him so quickly that this was the first intimation Scrooge had of his approach.</p>
+<p>&ldquo;Bah!&rdquo; said Scrooge; &ldquo;humbug!&rdquo;</p>
+<p>&ldquo;Christmas a humbug, uncle! You don't mean that, I am sure?&rdquo;</p>
+<pb n="6" id="p6"/>
+<p>&ldquo;I do. Out upon merry Christmas! What's Christmas time to you but a time for paying bills without money; a time for finding yourself a year older, and not an hour richer; a time for balancing your books and having every item in 'em through a round dozen of months presented dead against you? If I had my will, every idiot who goes about with &lsquo;Merry Christmas&rsquo; on his lips should be boiled with his own pudding, and buried with a stake of holly through his heart. He should!&rdquo;</p>
+<p>&ldquo;Uncle!&rdquo;</p>
+<p>&ldquo;Nephew, keep Christmas in your own way, and let me keep it in mine.&rdquo;</p>
+<p>&ldquo;Keep it! But you don't keep it.&rdquo;</p>
+<p>&ldquo;Let me leave it alone, then. Much good may it do you! Much good it has ever done you!&rdquo;</p>
+<p>&ldquo;There are many things from which I might have derived good, by which I have not profited, I dare say, Christmas among the rest. But I am sure I have always thought of Christmas time, when it has come round, &mdash; apart from the veneration due to its sacred origin, if anything belonging to it <hi
+rend="italics">can</hi> be apart from that, &mdash; as a good time; a kind, forgiving, charitable, pleasant time; the only time I know of, in the long calendar of the year, when men and women seem by one consent to open their shut-up hearts freely, and to think of people below them as if they really were fellow-travellers to the grave, and not another race of creatures bound on other journeys. And therefore,
+<pb n="7" id="p7"/>
+uncle, though it has never put a scrap of gold or silver in my pocket, I believe that it <hi
+rend="italics">has</hi> done me good, and <hi rend="italics">will</hi> do me good; and I say, God bless it!&rdquo;</p>
+<p>The clerk in the tank involuntarily applauded.</p>
+<p>&ldquo;Let me hear another sound from <hi rend="italics">you,</hi>&rdquo; said Scrooge, &ldquo;and you 'll keep your Christmas by losing your situation! You 're quite a powerful speaker, sir,&rdquo; he added, turning to his nephew. &ldquo;I wonder you don't go into Parliament.&rdquo;</p>
+<p>&ldquo;Don't be angry, uncle. Come! Dine with us to-morrow.&rdquo;</p>
+<p>Scrooge said that he would see him &mdash; yes, indeed he did. He went the whole length of the expression, and said that he would see him in that extremity first.</p>
+<p>&ldquo;But why?&rdquo; cried Scrooge's nephew. &ldquo;Why?&rdquo;</p>
+<p>&ldquo;Why did you get married?&rdquo;</p>
+<p>&ldquo;Because I fell in love.&rdquo;</p>
+<p>&ldquo;Because you fell in love!&rdquo; growled Scrooge, as if that were the only one thing in the world more ridiculous than a merry Christmas. &ldquo;Good afternoon!&rdquo;</p>
+<p>&ldquo;Nay, uncle, but you never came to see me before that happened. Why give it as a reason for not coming now?&rdquo;</p>
+<p>&ldquo;Good afternoon&rdquo;</p>
+<p>&ldquo;I want nothing from you; I ask nothing of you; why cannot we be friends?&rdquo;</p>
+<p>&ldquo;Good afternoon.&rdquo;</p>
+<pb n="8" id="p8"/>
+<p>&ldquo;I am sorry, with all my heart, to find you so resolute. We have never had any quarrel, to which I have been a party. But I have made the trial in homage to Christmas, and I 'll keep my Christmas humor to the last. So A Merry Christmas, uncle!&rdquo;</p>
+<p>&ldquo;Good afternoon!&rdquo;</p>
+<p>&ldquo;And A Happy New-Year!&rdquo;</p>
+<p>&ldquo;Good afternoon!&rdquo;</p>
+<p>His nephew left the room without an angry word, notwithstanding. The clerk, in letting Scrooge's nephew out, had let two other people in. They were portly gentlemen, pleasant to behold, and now stood, with their hats off, in Scrooge's office. They had books and papers in their hands, and bowed to him.</p>
+<p>&ldquo;Scrooge and Marley's, I believe,&rdquo; said one of the gentlemen, referring to his list. &ldquo;Have I the pleasure of addressing Mr. Scrooge, or Mr. Marley?&rdquo;</p>
+<p>&ldquo;Mr. Marley has been dead these seven years. He died seven years ago, this very night.&rdquo;</p>
+<p>&ldquo;At this festive season of the year, Mr. Scrooge,&rdquo; said the gentleman, taking up a pen, &ldquo;it is more than usually desirable that we should make some slight provision for the poor and destitute, who suffer greatly at the present time. Many thousands are in want of common necessaries; hundreds of thousands are in want of common comforts, sir.&rdquo;</p>
+<p>&ldquo;Are there no prisons?&rdquo;</p>
+<pb n="9" id="p9"/>
+<p>&ldquo;Plenty of prisons. But under the impression that they scarcely furnish Christian cheer of mind or body to the unoffending multitude, a few of us are endeavoring to raise a fund to buy the poor some meat and drink, and means of warmth. We choose this time, because it is a time, of all others, when Want is keenly felt, and Abundance rejoices. What shall I put you down for?&rdquo;</p>
+<p>&ldquo;Nothing!&rdquo;</p>
+<p>&ldquo;You wish to be anonymous?&rdquo;</p>
+<p>&ldquo;I wish to be left alone. Since you ask me what I wish, gentlemen, that is my answer. I don't make merry myself at Christmas, and I can't afford to make idle people merry. I help to support the prisons and the workhouses, &mdash; they cost enough, &mdash; and those who are badly off must go there.&rdquo;</p>
+<p>&ldquo;Many can't go there; and many would rather die.&rdquo;</p>
+<p>&ldquo;If they would rather die, they had better do it, and decrease the surplus population.&rdquo;</p>
+<p>At length the hour of shutting up the counting-house arrived. With an ill-will Scrooge, dismounting from his stool, tacitly admitted the fact to the expectant clerk in the Tank, who instantly snuffed his candle out, and put on his hat.</p>
+<p>&ldquo;You 'll want all day to-morrow, I suppose?&rdquo;</p>
+<p>&ldquo;If quite convenient, sir.&rdquo;</p>
+<p>&ldquo;It 's not convenient, and it 's not fair. If I was to stop half a crown for it, you 'd think yourself mightily ill-used, I 'll be bound?&rdquo;</p>
+<pb n="10" id="p10"/>
+<p>&ldquo;Yes, sir.&rdquo;</p>
+<p>&ldquo;And yet you don't think <hi rend="italics">me</hi> ill-used, when I pay a day's wages for no work.&rdquo;</p>
+<p>&ldquo;It 's only once a year, sir.&rdquo;</p>
+<p>&ldquo;A poor excuse for picking a man's pocket every twenty-fifth of December! But I suppose you must have the whole day. Be here all the earlier <hi
+rend="italics">next</hi> morning.&rdquo;</p>
+<p>The clerk promised that he would; and Scrooge walked out with a growl. The office was closed in a twinkling, and the clerk, with the long ends of his white comforter dangling below his waist (for he boasted no great-coat), went down a slide, at the end of a lane of boys, twenty times, in honor of its being Christmas eve, and then ran home as hard as he could pelt, to play at blindman's-buff.</p>
+<p>Scrooge took his melancholy dinner in his usual melancholy tavern; and having read all the newspapers, and beguiled the rest of the evening with his banker's book, went home to bed. He lived in chambers which had once belonged to his deceased partner. They were a gloomy suite of rooms, in a lowering pile of building up a yard. The building was old enough now, and dreary enough; for nobody lived in it but Scrooge, the other rooms being all let out as offices.</p>
+<p>Now it is a fact, that there was nothing at all particular about the knocker on the door of this house, except that it was very large; also, that Scrooge had seen it, night and morning, during his
+<pb n="11" id="p11"/>
+whole residence in that place; also, that Scrooge had as little of what is called fancy about him as any man in the city of London. And yet Scrooge, having his key in the lock of the door, saw in the knocker, without its undergoing any intermediate process of change, not a knocker, but Marley's face.</p>
+<p>Marley's face, with a dismal light about it, like a bad lobster in a dark cellar. It was not angry or ferocious, but it looked at Scrooge as Marley used to look, &mdash; with ghostly spectacles turned up upon its ghostly forehead.</p>
+<p>As Scrooge looked fixedly at this phenomenon, it was a knocker again. He said, &ldquo;Pooh, pooh!&rdquo; and closed the door with a bang.</p>
+<p>The sound resounded through the house like thunder. Every room above, and every cask in the wine-merchant's cellars below, appeared to have a separate peal of echoes of its own. Scrooge was not a man to be frightened by echoes. He fastened the door, and walked across the hall, and up the stairs. Slowly too, trimming his candle as he went.</p>
+<p>Up Scrooge went, not caring a button for its being very dark. Darkness is cheap, and Scrooge liked it. But before he shut his heavy door, he walked through his rooms to see that all was right. He had just enough recollection of the face to desire to do that.</p>
+<p>Sitting-room, bedroom, lumber-room, all as they
+<pb n="12" id="p12"/>
+should be. Nobody under the table, nobody under the sofa; a small fire in the grate; spoon and basin ready; and the little saucepan of gruel (Scrooge had a cold in his head) upon the hob. Nobody under the bed; nobody in the closet; nobody in his dressing-gown, which was hanging up in a suspicious attitude  against the wall. Lumber-room as usual. Old fire-guard, old shoes, two fish-baskets, washing-stand on three legs, and a poker.</p>
+<p>Quite satisfied, he closed his door, and locked himself in; double-locked himself in, which was not his custom. Thus secured against surprise, he took off his cravat, put on his dressing-gown and slippers and his nightcap, and sat down before the very low fire to take his gruel.</p>
+<p>As he threw his head back in the chair, his glance happened to rest upon a bell, a disused bell, that hung in the room, and communicated, for some purpose now forgotten, with a chamber in the highest story of the building. It was with great astonishment, and with a strange, inexplicable dread, that, as he looked, he saw this bell begin to swing. Soon it rang out loudly, and so did every bell in the house.</p>
+<p>This was succeeded by a clanking noise, deep down below, as if some person were dragging a heavy chain over the casks in the wine-merchant's cellar.</p>
+<p>Then he heard the noise much louder, on the
+<pb n="13" id="p13"/>
+floors below; then coming up the stairs; then coming straight towards his door.</p>
+<p>It came on through the heavy door, and a spectre passed into the room before his eyes. And upon its coming in, the dying flame leaped up, as though it cried, &ldquo;I know him! Marley's ghost!&rdquo;</p>
+<p>The same face, the very same. Marley in his pigtail, usual waistcoat, tights, and boots. His body was transparent; so that Scrooge, observing him, and looking through his waistcoat, could see the two buttons on his coat behind.</p>
+<p>Scrooge had often heard it said that Marley had no bowels, but he had never believed it until now.</p>
+<p>No, nor did he believe it even now. Though he looked the phantom through and through, and saw it standing before him, &mdash; though he felt the chilling influence of its death-cold eyes, and noticed the very texture of the folded kerchief bound about its head and chin, &mdash; he was still incredulous.</p>
+<p>&ldquo;How now!&rdquo; said Scrooge, caustic and cold as ever. &ldquo;What do you want with me?&rdquo;</p>
+<p>&ldquo;Much!&rdquo; &mdash; Marley's voice, no doubt about it</p>
+<p>&ldquo;Who are you?&rdquo;</p>
+<p>&ldquo;Ask me who I <hi rend="italics">was.</hi>&rdquo;</p>
+<p>&ldquo;Who <hi rend="italics">were</hi> you then?&rdquo;</p>
+<p>&ldquo;In life I was your partner, Jacob Marley.&rdquo;</p>
+<p>&ldquo;Can you &mdash; can you sit down?&rdquo;</p>
+<p>&ldquo;I can.&rdquo;</p>
+<p>&ldquo;Do it, then.&rdquo;</p>
+<p>Scrooge asked the question, because he did n't
+<pb n="14" id="p14"/>
+know whether a ghost so transparent might find himself in a condition to take a chair; and felt that, in the event of its being impossible, it might involve the necessity of an embarrassing explanation. But the ghost sat down on the opposite side of the fireplace, as if he were quite used to it.</p>
+<p>&ldquo;You don't believe in me.&rdquo;</p>
+<p>&ldquo;I don't.&rdquo;</p>
+<p>&ldquo;What evidence would you have of my reality beyond that of your senses?&rdquo;</p>
+<p>&ldquo;I don't know.&rdquo;</p>
+<p>&ldquo;Why do you doubt your senses?&rdquo;</p>
+<p>&ldquo;Because a little thing affects them. A slight disorder of the stomach makes them cheats. You may be an undigested bit of beef, a blot of mustard, a crumb of cheese, a fragment of an underdone potato. There 's more of gravy than of grave about you, whatever you are!&rdquo;</p>
+<p>Scrooge was not much in the habit of cracking jokes, nor did he feel in his heart by any means waggish then. The truth is, that he tried to be smart, as a means of distracting his own attention, and keeping down his horror.</p>
+<p>But how much greater was his horror when, the phantom taking off the bandage round its head, as if it were too warm to wear in-doors, its lower jaw dropped down upon its breast!</p>
+<p>&ldquo;Mercy! Dreadful apparition, why do you trouble me? Why do  spirits walk the earth, and why do they come to me?&rdquo;</p>
+<pb n="15" id="p15"/>
+<p>&ldquo;It is required of every man, that the spirit within him should walk abroad among his fellowmen, and travel far and wide; and if that spirit goes not forth in life, it is condemned to do so after death. I cannot tell you all I would. A very little more is permitted to me. I cannot rest, I cannot stay, I cannot linger anywhere. My spirit never walked beyond our counting-house &mdash; mark me! &mdash; in life my spirit never roved  beyond the narrow limits of our money-changing hole; and weary journeys lie before me!&rdquo;</p>
+<p>&ldquo;Seven years dead. And travelling all the time? You travel fast?&rdquo;</p>
+<p>&ldquo;On the wings of the wind.&rdquo;</p>
+<p>&ldquo;You might have got over a great quantity of ground in seven years.&rdquo;</p>
+<p>&ldquo;O blind man, blind man! not to know that ages of incessant labor  by immortal creatures for this earth must pass into eternity before the good of which it is susceptible is all developed. Not to know that any Christian spirit working kindly in its little sphere, whatever it may be, will find its mortal life too short for its vast means of usefulness. Not to know that no space of regret can make amends for one life's opportunities misused! Yet I was like this man; I once was like this man!&rdquo;</p>
+<p>&ldquo;But you were always a good man of business, Jacob,&rdquo; faltered Scrooge, who now began to apply this to himself.</p>
+<pb n="16" id="p16"/>
+<p>&ldquo;Business!&rdquo; cried the Ghost, wringing its hands again. &ldquo;Mankind was my business. The common welfare was my business; charity, mercy, forbearance, benevolence, were all my business. The dealings of my trade were but a drop of water in the comprehensive ocean of my business!&rdquo;</p>
+<p>Scrooge was very much dismayed to hear the spectre going on at this rate, and began to quake exceedingly.</p>
+<p>&ldquo;Hear me! My time is nearly gone.&rdquo;</p>
+<p>&ldquo;I will. But don't be hard upon me! Don't be flowery, Jacob! Pray!&rdquo;</p>
+<p>&ldquo;I am here to-night to warn you that you have yet a chance and hope of escaping my fate. A chance and hope of my procuring, Ebenezer.&rdquo;</p>
+<p>&ldquo;You were always a good friend to me. Thank'ee!&rdquo;</p>
+<p>&ldquo;You will be haunted by Three Spirits.&rdquo;</p>
+<p>&ldquo;Is that the chance and hope you mentioned, Jacob? I &mdash; I think I'd rather not.&rdquo;</p>
+<p>&ldquo;Without their visits, you cannot hope to shun the path I tread. Expect the first to-morrow night, when the bell tolls One. Expect the second on the next night at the same hour. The third, upon the next night, when the last stroke of Twelve has ceased to vibrate. Look to see me no more; and look that, for your own sake, you remember what has passed between us!&rdquo;</p>
+<p>It walked backward from him; and at every
+<pb n="17" id="p17"/>
+step it took, the window raised itself a little, so that, when the apparition reached it, it was wide open.</p>
+<p>Scrooge closed the window, and examined the door by which the Ghost had entered. It was double-locked, as he had locked it with his own hands, and the bolts were undisturbed. Scrooge tried to say, &ldquo;Humbug!&rdquo; but stopped at the first syllable. And being, from the emotion he had undergone, or the fatigues of the day, or his glimpse of the invisible world, or the dull conversation of the Ghost, or the lateness of the hour, much in need of repose, he went straight to bed, without undressing, and fell asleep on the instant.</p>
+</div2>
+<div2 type="section">
+<pb n="18" id="p18"/>
+<head>STAVE TWO. <lb/> THE FIRST OF THE THREE SPIRITS.</head>
+<p>WHEN Scrooge awoke, it was so dark, that, looking out of bed, he could scarcely distinguish the transparent window from the opaque walls of his chamber, until suddenly the church clock tolled a deep, dull, hollow, melancholy ONE.</p>
+<p>Light flashed up in the room upon the instant, and the curtains of his bed were drawn aside by a strange figure, &mdash; like a child: yet not so like a child as like an old man, viewed through some supernatural medium, which gave him the appearance of having receded from the view, and being diminished to a child's proportions. Its hair, which hung about its neck and down its back, was white as if with age; and yet the face had not a wrinkle in it, and the tenderest bloom was on the skin. It held a branch of fresh green holly in its hand; and, in singular contradiction of that wintry emblem, had its dress trimmed with summer flowers. But the strangest thing about it was, that from the crown of its head there sprung a bright clear jet of light, by which all this was visible; and which was doubtless the occasion of its using, in its duller moments, a great extinguisher for a cap, which it now held under its arm.</p>
+<pb n="19" id="p19"/>
+<p>&ldquo;Are you the Spirit, sir, whose coming was foretold to me?&rdquo;</p>
+<p>&ldquo;I am!&rdquo;</p>
+<p>&ldquo;Who and what are you?&rdquo;</p>
+<p>&ldquo;I am the Ghost of Christmas Past.&rdquo;</p>
+<p>&ldquo;Long past?&rdquo;</p>
+<p>&ldquo;No. Your past. The things that you will see with me are shadows of the things that have been; they will have no consciousness of us.&rdquo;</p>
+<p>Scrooge then made bold to inquire what business brought him there.</p>
+<p>&ldquo;Your welfare. Rise, and walk with me!&rdquo;</p>
+<p>It would have been in vain for Scrooge to plead that the weather and the hour were not adapted to pedestrian purposes; that bed was warm, and the thermometer a long way below freezing; that he was clad but lightly in his slippers, dressing-gown, and nightcap; and that he had a cold upon him at that time. The grasp, though gentle as a woman's hand, was not to be resisted. He rose; but finding that the Spirit made towards the window, clasped its robe in supplication.</p>
+<p>&ldquo;I am a mortal, and liable to fall.&rdquo;</p>
+<p>&ldquo;Bear but a touch of my hand <hi rend="italics">there,</hi>&rdquo; said the Spirit, laying it upon his heart, &ldquo;and you shall be upheld in more than this!&rdquo;</p>
+<p>As the words were spoken, they passed through the wall, and stood in the busy thoroughfares of a city. It was made plain enough by the dressing of the shops that here, too, it was Christmas time.</p>
+<pb n="20" id="p20"/>
+<p>The Ghost stopped at a certain warehouse door, and asked Scrooge if he knew it.</p>
+<p>&ldquo;Know it! Was I apprenticed here!&rdquo;</p>
+<p>They went in. At sight of an old gentleman in a Welsh wig, sitting behind such a high desk that, if he had been two inches taller, he must have knocked his head against the ceiling, Scrooge cried in great excitement: &ldquo;Why, it 's old Fezziwig! Bless his heart, it 's Fezziwig, alive again!&rdquo;</p>
+<p>Old Fezziwig laid down his pen, and looked up at the clock, which pointed to the hour of seven. He rubbed his hands; adjusted his capacious waistcoat; laughed all over himself, from his shoes to his organ of benevolence; and called out in a comfortable, oily, rich, fat, jovial voice: &ldquo;Yo ho, there! Ebenezer! Dick!&rdquo;</p>
+<p>A living and moving picture of Scrooge's former self, a young man, came briskly in, accompanied by his fellow-prentice.</p>
+<p>&ldquo;Dick Wilkins, to be sure!&rdquo; said Scrooge to the Ghost. &ldquo;My old fellow-prentice, bless me, yes. There he is. He was very much attached to me, was Dick. Poor Dick! Dear, dear!&rdquo;</p>
+<p>&ldquo;Yo ho, my boys!&rdquo; said Fezziwig. &ldquo;No more work to-night. Christmas eve, Dick. Christmas, Ebenezer! Let 's have the shutters up, before a man can say Jack Robinson! Clear away, my lads, and let 's have lots of room here!&rdquo;</p>
+<p>Clear away! There was nothing they would n't
+<pb n="21" id="p21"/>
+have cleared away, or could n't have cleared away, with old Fezziwig looking on. It was done in a minute. Every movable was packed off, as if it were dismissed from public life forevermore; the floor was swept and watered, the lamps were trimmed, fuel was heaped upon the fire; and the warehouse was as snug and warm and dry and bright a ball-room as you would desire to see upon a winter's night.</p>
+<p>In came a fiddler with a music-book, and went up to the lofty desk, and made an orchestra of it, and tuned like fifty stomach-aches. In came Mrs. Fezziwig, one vast substantial smile. In came the three Miss Fezziwigs, beaming and lovable. In came the six young followers whose hearts they broke. In came all the young men and women employed in the business. In came the housemaid, with her cousin the baker. In came the cook, with her brother's particular friend the milkman. In they all came one after another; some shyly, some boldly, some gracefully, some awkwardly, some pushing, some pulling; in they all came, anyhow and everyhow. Away they all went, twenty couple at once; hands half round and back again the other way; down the middle and up again; round and round in various stages of affectionate grouping; old top couple always turning up in the wrong place; new top couple starting off again, as soon as they got there; all top couples at last, and not a bottom one to help them. When this result was
+<pb n="22" id="p22"/>
+brought about, old Fezziwig, clapping his hands to stop the dance, cried out, &ldquo;Well done!&rdquo; and the fiddler plunged his hot face into a pot of porter especially provided for that purpose.</p>
+<p>There were more dances, and there were forfeits, and more dances, and there was cake, and there was negus, and there was a great piece of Cold Roast, and there was a great piece of Cold Boiled, and there were mince-pies, and plenty of beer. But the great effect of the evening came after the Roast and Boiled, when the fiddler struck up &ldquo;Sir Roger de Coverley.&rdquo; Then old Fezziwig stood out to dance with Mrs. Fezziwig. Top couple, too; with a good stiff piece of work cut out for them; three or four and twenty pair of partners; people who were not to be trifled with; people who <hi
+rend="italics">would</hi> dance, and had no notion of walking.</p>
+<p>But if they had been twice as many, &mdash; four times, &mdash; old Fezziwig would have been a match for them and so would Mrs. Fezziwig. As to <hi
+rend="italics">her,</hi> she was worthy to be his partner in every sense of the term A positive light appeared to issue from Fezziwig's calves. They shone in every part of the dance You could n't have predicted, at any given time, what would become of 'em next. And when old Fezziwig and Mrs. Fezziwig had gone all through the dance, &mdash; advance and retire, turn your partner, bow and courtesy, corkscrew, thread the needle, and back again to your place, &mdash; Fezziwig &ldquo;cut,&rdquo; &mdash; cut so deftly, that he appeared to wink with his legs.</p>
+<pb n="23" id="p23"/>
+<p>When the clock struck eleven this domestic ball broke up. Mr. and Mrs. Fezziwig took their stations, one on either side the door, and, shaking hands with every person individually as he or she went out, wished him or her a Merry Christmas. When everybody had retired but the two 'prentices, they did the same to them; and thus the cheerful voices died away, and the lads were left to their beds, which were under a counter in the back shop.</p>
+<p>&ldquo;A small matter,&rdquo; said the Ghost, &ldquo;to make these silly folks so full of gratitude. He has spent but a few pounds of your mortal money, &mdash; three or four perhaps. Is that so much that he deserves this praise?&rdquo;</p>
+<p>&ldquo;It is n't that,&rdquo; said Scrooge, heated by the remark, and speaking unconsciously like his former, not his latter self, &mdash; &ldquo;it is n't that, Spirit. He has the power to render us happy or unhappy; to make our service light or burdensome; a pleasure or a toil. Say that his power lies in words and looks; in things so slight and insignificant that it is impossible to add and count 'em up: what then? The happiness he gives is quite as great as if it cost a fortune.&rdquo;</p>
+<p>He felt the Spirit's glance, and stopped.</p>
+<p>&ldquo;What is the matter?&rdquo;</p>
+<p>&ldquo;Nothing particular.&rdquo;</p>
+<p>&ldquo;Something, I think?&rdquo;</p>
+<p>&ldquo;No, no. I should like to be able to say a word or two to my clerk just now. That 's all.&rdquo;</p>
+<pb n="24" id="p24"/>
+<p>&ldquo;My time grows short,&rdquo; observed the Spirit. &ldquo;Quick!&rdquo;</p>
+<p>This was not addressed to Scrooge, or to any one whom he could see, but it produced an immediate effect. For again he saw himself. He was older now; a man in the prime of life.</p>
+<p>He was not alone, but sat by the side of a fair young girl in a black dress, in whose eyes there were tears.</p>
+<p>&ldquo;It matters little,&rdquo; she said softly to Scrooge's former self. &ldquo;To you, very little. Another idol has displaced me; and if it can comfort you in time to come, as I would have tried to do, I have no just cause to grieve.&rdquo;</p>
+<p>&ldquo;What Idol has displaced you?&rdquo;</p>
+<p>&ldquo;A golden one. You fear the world too much. I have seen your nobler aspirations fall off one by one, until the master-passion, Gain, engrosses you. Have I not?&rdquo;</p>
+<p>&ldquo;What then? Even if I have grown so much wiser, what then? I am not changed towards you. Have I ever sought release from our engagement?&rdquo;</p>
+<p>&ldquo;In words, no. Never.&rdquo;</p>
+<p>&ldquo;In what, then?&rdquo;</p>
+<p>&ldquo;In a changed nature; in an altered spirit; in another atmosphere of life; another Hope as its great end. If you were free to-day, to-morrow yesterday, can even I believe that you would choose a dowerless girl; or, choosing her, do I not know
+<pb n="25" id="p25"/>
+that your repentance and regret would surely follow? I do; and I release you. With a full heart, for the love of him you once were.&rdquo;</p>
+<p>&ldquo;Spirit! remove me from this place.&rdquo;</p>
+<p>&ldquo;I told you these were shadows of the things that have been,&rdquo; said the Ghost. &ldquo;That they are what they are, do not blame me!&rdquo;</p>
+<p>&ldquo;Remove me!&rdquo; Scrooge exclaimed. &ldquo;I cannot bear it! Leave me! Take me back. Haunt me no longer!&rdquo;</p>
+<p>As he struggled with the Spirit he was conscious of being exhausted, and overcome by an irresistible drowsiness; and, further, of being in his own bedroom. He had barely time to reel to bed before he sank into a heavy sleep.</p>
+</div2>
+<div2 type="section">
+<pb n="26" id="p26"/>
+<head>STAVE THREE. <lb/> THE SECOND OF THE THREE SPIRITS.</head>
+<p>SCROOGE awoke in his own bedroom. There was no doubt about that. But it and his own adjoining sitting-room, into which he shuffled in his slippers, attracted by a great light there, had undergone a surprising transformation. The walls and ceiling were so hung with living green, that it looked a perfect grove. The leaves of holly, mistletoe, and ivy reflected back the light, as if so many little mirrors had been scattered there; and such a mighty blaze went roaring up the chimney, as that petrifaction of a hearth had never known in Scrooge's time, or Marley's, or for many and many a winter season gone. Heaped upon the floor, to form a kind of throne, were turkeys, geese, game, brawn, great joints of meat, sucking pigs, long wreaths of sausages, mince-pies, plum-puddings, barrels of oysters, red-hot chestnuts, cherry-cheeked apples, juicy oranges, luscious pears, immense twelfth-cakes, and great bowls of punch. In easy state upon this couch there sat a Giant glorious to see; who bore a glowing torch, in shape not unlike Plenty's horn, and who raised it high to shed its light on Scrooge, as he came peeping round the door.</p>
+<pb n="27" id="p27"/>
+<p>&ldquo;Come in, &mdash; come in! and know me better, man! I am the Ghost of Christmas Present. Look upon me! You have never seen the like of me before!&rdquo;</p>
+<p>&ldquo;Never.&rdquo;</p>
+<p>&ldquo;Have never walked forth with the younger members of my family; meaning (for I am very young) my elder brothers born in these later years?&rdquo; pursued the Phantom.</p>
+<p>&ldquo;I don't think I have, I am afraid I have not Have you had many brothers, Spirit?&rdquo;</p>
+<p>&ldquo;More than eighteen hundred.&rdquo;</p>
+<p>&ldquo;A tremendous family to provide for! Spirit, conduct me where you will. I went forth last night on compulsion, and I learnt a lesson which is working now. To-night, if you have aught to teach me, let me profit by it.&rdquo;</p>
+<p>&ldquo;Touch my robe!&rdquo;</p>
+<p>Scrooge did as he was told, and held it fast.</p>
+<p>The room and its contents all vanished instantly, and they stood in the city streets upon a snowy Christmas morning.</p>
+<p>Scrooge and the Ghost passed on, invisible, straight to Scrooge's clerk's; and on the threshold of the door the Spirit smiled, and stopped to bless Bob Cratchit's dwelling with the sprinklings of his torch. Think of that! Bob had but fifteen &ldquo;Bob&rdquo; a week himself; he pocketed on Saturdays but fifteen copies of his Christian name; and yet the Ghost of Christmas Present blessed his four-roomed house!</p>
+<pb n="28" id="p28"/>
+<p>Then up rose Mrs. Cratchit, Cratchit's wife, dressed out but poorly in a twice-turned gown, but brave in ribbons, which are cheap and make a goodly show for sixpence; and she laid the cloth, assisted by Belinda Cratchit, second of her daughters, also brave in ribbons; while Master Peter Cratchit plunged a fork into the saucepan of potatoes, and, getting the corners of his monstrous shirt-collar (Bob's private property, conferred upon his son and heir in honor of the day) into his mouth, rejoiced to find himself so gallantly attired, and yearned to show his linen in the fashionable Parks. And now two smaller Cratchits, boy and girl came tearing in, screaming that outside the baker's they had smelt the goose, and known it for their own; and, basking in luxurious thoughts of sage and onion, these young Cratchits danced about the table, and exalted Master Peter Cratchit to the skies, while he (not proud, although his collars nearly choked him) blew the fire, until the slow potatoes, bubbling up, knocked loudly at the saucepan-lid to be let out and peeled.</p>
+<p>&ldquo;What has ever got your precious father then?&rdquo; said Mrs. Cratchit. &ldquo;And your brother Tiny Tim! And Martha warn't as late last Christmas day by half an hour!&rdquo;</p>
+<p>&ldquo;Here 's Martha, mother!&rdquo; said a girl, appearing as she spoke.</p>
+<p>&ldquo;Here 's Martha, mother!&rdquo; cried the two young Cratchits. &ldquo;Hurrah! There 's <hi
+rend="italics">such</hi> a goose, Martha!&rdquo;</p>
+<pb n="29" id="p29"/>
+<p>&ldquo;Why, bless your heart alive, my dear, how late you are!&rdquo; said Mrs. Cratchit, kissing her a dozen times, and taking off her shawl and bonnet for her.</p>
+<p>&ldquo;We 'd a deal of work to finish up last night,&rdquo; replied the girl, &ldquo;and had to clear away this morning, mother!&rdquo;</p>
+<p>&ldquo;Well! Never mind so long as you are come,&rdquo; said Mrs. Cratchit. &ldquo;Sit ye down before the fire, my dear, and have a warm, Lord bless ye!&rdquo;</p>
+<p>&ldquo;No, no! There 's father coming,&rdquo; cried the two young Cratchits, who were everywhere at once. &ldquo;Hide, Martha, hide!&rdquo;</p>
+<p>So Martha hid herself, and in came little Bob, the father, with at least three feet of comforter, exclusive of the fringe, hanging down before him; and his threadbare clothes darned up and brushed, to look seasonable; and Tiny Tim upon his shoulder. Alas for Tiny Tim, he bore a little crutch, and had his limbs supported by an iron frame!</p>
+<p>&ldquo;Why, where 's our Martha?&rdquo; cried Bob Cratchit, looking round.</p>
+<p>&ldquo;Not coming,&rdquo; said Mrs. Cratchit.</p>
+<p>&ldquo;Not coming!&rdquo; said Bob, with a sudden declension in his high spirits; for he had been Tim's blood-horse all the way from church, and had come home rampant, &mdash; &ldquo;not coming upon Christmas day!&rdquo;</p>
+<p>Martha did n't like to see him disappointed, if it were only in joke; so she came out prematurely
+<pb n="30" id="p30"/>
+from behind the closet door, and ran into his arms, while the two young Cratchits hustled Tiny Tim, and bore him off into the wash-house, that he might hear the pudding singing in the copper.</p>
+<p>&ldquo;And how did little Tim behave?&rdquo; asked Mrs. Cratchit, when she had rallied Bob on his credulity, and Bob had hugged his daughter to his heart's content.</p>
+<p>&ldquo;As good as gold,&rdquo; said Bob, &ldquo;and better. Somehow he gets thoughtful, sitting by himself so much, and thinks the strangest things you ever heard. He told me, coming home, that he hoped the people saw him in the church, because he was a cripple, and it might be pleasant to them to remember, upon Christmas day, who made lame beggars walk and blind men see.&rdquo;</p>
+<p>Bob's voice was tremulous when he told them this, and trembled more when he said that Tiny Tim was growing strong and hearty.</p>
+<p>His active little crutch was heard upon the floor, and back came Tiny Tim before another word was spoken, escorted by his brother and sister to his stool beside the fire; and while Bob, turning up his cuffs, &mdash; as if, poor fellow, they were capable of being made more shabby, &mdash; compounded some hot mixture in a jug with gin and lemons, and stirred it round and round and put it on the hob to simmer, Master Peter and the two ubiquitous young Cratchits went to fetch the goose, with which they soon returned in high procession.</p>
+<pb n="31" id="p31"/>
+<p>Mrs. Cratchit made the gravy (ready before-hand in a little saucepan) hissing hot; Master Peter mashed the potatoes with incredible vigor; Miss Belinda sweetened up the apple-sauce; Martha dusted the hot plates; Bob took Tiny Tim beside him in a tiny corner at the table; the two young Cratchits set chairs for everybody, not forgetting themselves, and mounting guard upon their posts, crammed spoons into their mouths, lest they should shriek for goose before their turn came to be helped. At last the dishes were set on, and grace was said. It was succeeded by a breathless pause, as Mrs. Cratchit, looking slowly all along the carving-knife, prepared to plunge it in the breast; but when she did, and when the long-expected gush of stuffing issued forth, one murmur of delight arose all round the board, and even Tiny Tim, excited by the two young Cratchits, beat on the table with the handle of his knife, and feebly cried, Hurrah!</p>
+<p>There never was such a goose. Bob said he did n't believe there ever was such a goose cooked. Its tenderness and flavor, size and cheapness, were the themes of universal admiration. Eked out by apple-sauce and mashed potatoes, it was a sufficient dinner for the whole family; indeed, as Mrs. Cratchit said with great delight (surveying one small atom of a bone upon the dish), they had n't ate it all at last! Yet every one had had enough, and the youngest Cratchits in particular
+<pb n="32" id="p32"/>
+were steeped in sage and onion to the eyebrows! But now, the plates being changed by Miss Belinda, Mrs. Cratchit left the room alone, &mdash; too nervous to bear witnesses, &mdash; to take the pudding up, and bring it in.</p>
+<p>Suppose it should not be done enough! Suppose it should break in turning out! Suppose somebody should have got over the wall of the back yard, and stolen it, while they were merry with the goose, &mdash; a supposition at which the two young Cratchits became livid! All sorts of horrors were supposed.</p>
+<p>Hallo! A great deal of steam! The pudding was out of the copper. A smell like a washing-day! That was the cloth. A smell like an eating-house and a pastry-cook's next door to each other, with a laundress's next door to that! That was the pudding! In half a minute Mrs. Cratchit entered, &mdash; flushed but smiling proudly, &mdash; with the pudding, like a speckled cannon-ball, so hard and firm, blazing in half of half a quartern of ignited brandy, and bedight with Christmas holly stuck into the top.</p>
+<p>O, a wonderful pudding! Bob Cratchit said, and calmly too, that he regarded it as the greatest success achieved by Mrs. Cratchit since their marriage. Mrs. Cratchit said that now the weight was off her mind, she would confess she had had her doubts about the quantity of flour. Everybody had something to say about it, but nobody said or<pb
+n="33" id="p33"/>
+thought it was at all a small pudding for a large family. Any Cratchit would have blushed to hint at such a thing.</p>
+<p>At last the dinner was all done, the cloth was cleared, the hearth swept, and the fire made up. The compound in the jug being tasted, and considered perfect, apples and oranges were put upon the table, and a shovelful of chestnuts on the fire.</p>
+<p>Then all the Cratchit family drew round the hearth, in what Bob Cratchit called a circle, and at Bob Cratchit's elbow stood the family display of glass, &mdash; two tumblers, and a custard-cup without a handle.</p>
+<p>These held the hot stuff  from the jug, however, as well as golden goblets would have done; and Bob served it out with beaming looks, while the chestnuts on the fire sputtered and crackled noisily. Then Bob proposed: &mdash;</p>
+<p>&ldquo;A Merry Christmas to us all, my dears. God bless us!&rdquo;</p>
+<p>Which all the family re-echoed.</p>
+<p>&ldquo;God bless us every one!&rdquo; said Tiny Tim, the last of  all.</p>
+<p>He sat very close to his father's side, upon his little stool. Bob held his withered little hand in his, as if he loved the child, and wished to keep him by his side, and dreaded that he might be taken from him.</p>
+<p>Scrooge raised his head speedily, on hearing his own name.</p>
+<pb n="34" id="p34"/>
+<p>&ldquo;Mr. Scrooge!&rdquo; said Bob; &ldquo;I 'll give you Mr. Scrooge, the Founder  of the Feast!&rdquo;</p>
+<p>&ldquo;The Founder of the Feast indeed!&rdquo; cried Mrs. Cratchit, reddening. &ldquo;I wish I had him here. I 'd give him a piece of my mind to feast upon, and I hope he 'd have a good appetite for it.&rdquo;</p>
+<p>&ldquo;My dear,&rdquo;  said Bob, &ldquo;the children! Christmas day.&rdquo;</p>
+<p>&ldquo;It should be Christmas day, I am sure,&rdquo; said she, &ldquo;on which one drinks the health of such an odious, stingy, hard, unfeeling man as Mr. Scrooge. You know he is, Robert! Nobody knows it better than you do, poor fellow!&rdquo;</p>
+<p>&ldquo;My dear,&rdquo; was Bob's mild answer, &ldquo;Christmas day.&rdquo;</p>
+<p>&ldquo;I 'll drink his health for your sake and the day's,&rdquo; said Mrs. Cratchit, &ldquo;not for his. Long life to him! A merry Christmas and a happy New Year! He 'll be very merry and very happy, I have no doubt!&rdquo;</p>
+<p>The children drank the toast after her. It was the first of their proceedings which had no heartiness in it. Tiny Tim drank it last of all, but he did n't care twopence for it. Scrooge was the Ogre of the family. The mention of his name cast a dark shadow on the party, which was not dispelled for full five minutes.</p>
+<p>After it had passed away, they were ten times merrier than before, from the mere relief of Scrooge the Baleful being done with. Bob Cratchit told
+<pb n="35" id="p35"/>
+them how he had a situation in his eye for Master Peter, which would bring in, if obtained, full five and sixpence weekly. The two young Cratchits laughed tremendously at the idea of Peter's being a man of business; and Peter himself looked thoughtfully at the fire from between his collars, as if he were deliberating what particular investments he should favor when he came into the receipt of that bewildering income. Martha, who was a poor apprentice at a milliner's, then told them what kind of work she had to do, and how many hours she worked at a stretch, and how she meant to lie abed to-morrow morning for a good long rest; to-morrow being a holiday she passed at home. Also how she had seen a countess and a lord some days before, and how the lord &ldquo;was much about as tall as Peter&rdquo;; at which Peter pulled up his collars so high that you could n't have seen his head if you had been there. All this time the chestnuts and the jug went round and round; and by and by they had a song, about a lost child travelling in the snow, from Tiny Tim, who had a plaintive little voice, and sang it very well indeed.</p>
+<p>There was nothing of high mark in this. They were not a handsome family; they were not well dressed their shoes were far from being waterproof; their clothes were scanty; and Peter might have known, and very likely did, the inside of a pawnbroker's.
+<pb n="36" id="p36"/>
+But they were happy, grateful, pleased with one another, and contented with the time; and when they faded, and looked happier yet in the bright sprinklings of the Spirit's torch at parting, Scrooge had his eye upon them, and especially on Tiny Tim, until the last.</p>
+<p>It was a great surprise to Scrooge, as this scene vanished, to hear a hearty laugh. It was a much greater surprise to Scrooge to recognize it as his own nephew's, and to find himself in a bright, dry, gleaming room, with the Spirit standing smiling by his side, and looking at that same nephew.</p>
+<p>It is a fair, even-handed, noble adjustment of things, that while there is infection in disease and sorrow, there is nothing in the world so irresistibly contagious as laughter and good-humor. When Scrooge's nephew laughed, Scrooge's niece by marriage laughed as heartily as he. And their assembled friends, being not a bit behindhand, laughed out lustily.</p>
+<p>&ldquo;He said that Christmas was a humbug, as I live!&rdquo; cried Scrooge's nephew. &ldquo;He believed it too!&rdquo;</p>
+<p>&ldquo;More shame for him, Fred!&rdquo; said Scrooge's niece, indignantly. Bless those women! they never do anything by halves. They are always in earnest.</p>
+<p>She was very pretty; exceedingly pretty. With a dimpled surprised-looking, capital face; a ripe little mouth that seemed made to be kissed, &mdash; as
+<pb n="37" id="p37"/>
+no doubt it was; all kinds of good little dots about her chin, that melted into one another when she laughed; and the sunniest pair of eyes you ever saw in any little creature's head. Altogether she was what you would have called provoking, but satisfactory, too. O, perfectly satisfactory.</p>
+<p>&ldquo;He 's a comical old fellow,&rdquo; said Scrooge's nephew, &ldquo;that 's the truth; and not so pleasant as he might be. However, his offences carry their own punishment, and I have nothing to say against him. Who suffers by his ill whims? Himself, always. Here he takes it into his head to dislike us, and he won't come and dine with us. What 's the consequence? He don't lose much of a dinner.&rdquo;</p>
+<p>&ldquo;Indeed, I think he loses a very good dinner,&rdquo; interrupted Scrooge's niece. Everybody else said the same, and they must be allowed to have been competent judges, because they had just had dinner; and, with the dessert upon the table, were clustered round the fire, by lamplight.</p>
+<p>&ldquo;Well, I am very glad to hear it,&rdquo; said Scrooge's nephew, &ldquo;because I have n't any great faith in these young housekeepers. What do <hi
+rend="italics">you</hi> say, Topper?&rdquo;</p>
+<p>Topper clearly had his eye on one of Scrooge's niece's sisters, for he answered that a bachelor was a wretched outcast, who had no right to express an opinion on the subject. Whereat
+<pb n="38" id="p38"/>
+Scrooge's niece's sister &mdash; the plump one with the lace tucker; not the one with the roses &mdash; blushed.</p>
+<p>After tea they had some music. For they were a musical family, and knew what they were about, when they sung a Glee or Catch, I can assure you, &mdash; especially Topper, who could growl away in the bass like a good one, and never swell the large veins in his forehead, or get red in the face over it.</p>
+<p>But they did n't devote the whole evening to music. After a while they played at forfeits; for it is good to be children sometimes, and never better than at Christmas, when its mighty Founder was a child himself. There was first a game at blind-man's-buff though. And I no more believe Topper was really blinded than I believe he had eyes in his boots. Because the way in which he went after that plump sister in the lace tucker was an outrage on the credulity of human nature. Knocking down the fire-irons, tumbling over the chairs, bumping up against the piano, smothering himself among the curtains, wherever she went there went he! He always knew where the plump sister was. He would n't catch anybody else. If you had fallen up against him, as some of them did, and stood there, he would have made a feint of endeavoring to seize you, which would have been an affront to your understanding, and would instantly have sidled off in the direction of the plump sister.</p>
+<pb n="39" id="p39"/>
+<p>&ldquo;Here is a new game,&rdquo; said Scrooge. &ldquo;One half-hour, Spirit, only one!&rdquo;</p>
+<p>It was a Game called Yes and No, where Scrooge's nephew had to think of something, and the rest must find out what; he only answering to their questions yes or no, as the case was. The fire of questioning to which he was exposed elicited from him that he was thinking of an animal, a live animal, rather a disagreeable animal, a savage animal, an animal that growled and grunted sometimes, and talked sometimes, and lived in London, and walked about the streets, and was n't made a show of, and was n't led by anybody, and did n't live in a menagerie, and was never killed in a market, and was not a horse, or an ass, or a cow, or a bull, or a tiger, or a dog, or a pig, or a cat, or a bear. At every new question put to him, this nephew burst into a fresh roar of laughter; and was so inexpressibly tickled, that he was obliged to get up off the sofa and stamp. At last the plump sister cried out: &mdash;</p>
+<p>&ldquo;I have found it out! I know what it is, Fred! I know what it is!&rdquo;</p>
+<p>&ldquo;What is it?&rdquo; cried Fred.</p>
+<p>&ldquo;It 's your uncle Scro-o-o-o-oge!&rdquo;</p>
+<p>Which it certainly was. Admiration was the universal sentiment, though some objected that the reply to &ldquo;Is it a bear?&rdquo; ought to have been &ldquo;Yes.&rdquo;</p>
+<p>Uncle Scrooge had imperceptibly become so gay
+<pb n="40" id="p40"/>
+and light of heart, that he would have drank to the unconscious company in an inaudible speech But the whole scene passed off in the breath of the last word spoken by his nephew; and he and the Spirit were again upon their travels.</p>
+<p>Much they saw, and far they went, and many homes they visited, but always with a happy end. The Spirit stood beside sick-beds, and they were cheerful; on foreign lands, and they were close at home; by struggling men, and they were patient in their greater hope; by poverty, and it was rich. In almshouse, hospital, and jail, in misery's every refuge, where vain man in his little brief authority had not made fast the door, and barred the Spirit out, he left his blessing, and taught Scrooge his precepts. Suddenly, as they stood together in an open place, the bell struck twelve.</p>
+<p>Scrooge looked about him for the Ghost, and saw it no more. As the last stroke ceased to vibrate, he remembered the prediction of old Jacob Marley, and, lifting up his eyes, beheld a solemn Phantom, draped and hooded, coming like a mist along the ground towards him.</p>
+</div2>
+<div2 type="section">
+<pb n="41" id="p41"/>
+<head>STAVE FOUR. <lb/> THE LAST OF THE SPIRITS.</head>
+<p>THE Phantom slowly, gravely, silently approached. When it came near him, Scrooge bent down upon his knee; for in the air through which this Spirit moved it seemed to scatter gloom and mystery.</p>
+<p>It was shrouded in a deep black garment, which concealed its head, its face, its form, and left nothing of it visible save one outstretched hand. He knew no more, for the Spirit neither spoke nor moved.</p>
+<p>&ldquo;I am in the presence of the Ghost of Christmas Yet To Come? Ghost of the Future! I fear you more than any spectre I have seen. But as I know your purpose is to do me good, and as I hope to live to be another man from what I was, I am prepared to bear you company, and do it with a thankful heart. Will you not speak to me?&rdquo;</p>
+<p>It gave him no reply. The hand was pointed straight before them.</p>
+<p>&ldquo;Lead on! Lead on! The night is waning fast, and it is precious time to me, I know. Lead on, Spirit!&rdquo;</p>
+<p>They scarcely seemed to enter the city; for the city rather seemed to spring up about them. But
+<pb n="42" id="p42"/>
+there they were in the heart of it; on 'Change, amongst the merchants.</p>
+<p>The Spirit stopped beside one little knot of business men. Observing that the hand was pointed to them, Scrooge advanced to listen to their talk.</p>
+<p>&ldquo;No,&rdquo; said a great fat man with a monstrous chin, &ldquo;I don't know much about it either way. I only know he 's dead.&rdquo;</p>
+<p>&ldquo;When did he die?&rdquo; inquired another.</p>
+<p>&ldquo;Last night, I believe.&rdquo;</p>
+<p>&ldquo;Why, what was the matter with him? I thought he 'd never die.&rdquo;</p>
+<p>&ldquo;God knows,&rdquo; said the first, with a yawn.</p>
+<p>&ldquo;What has he done with his money?&rdquo; asked a red-faced gentleman.</p>
+<p>&ldquo;I have n't heard,&rdquo; said the man with the large chin. &ldquo;Company, perhaps. He has n't left it to me. That 's all I know. By, by!&rdquo;</p>
+<p>Scrooge was at first inclined to be surprised that the Spirit should attach importance to conversation apparently so trivial; but feeling assured that it must have some hidden purpose, he set himself to consider what it was likely to be. It could scarcely be supposed to have any bearing on the death of Jacob, his old partner, for that was Past, and this Ghost's province was the Future.</p>
+<p>He looked about in that very place for his own image; but another man stood in his accustomed corner, and though the clock pointed to his usual time of day for being there, he saw no likeness of
+<pb n="43" id="p43"/>
+himself among the multitudes that poured in through the Porch. It gave him little surprise, however; for he had been revolving in his mind a change of life, and he thought and hoped he saw his new-born resolutions carried out in this.</p>
+<p>They left this busy scene, and went into an obscure part of the town, to a low shop where iron, old rags, bottles, bones, and greasy offal were bought. A gray-haired rascal, of great age, sat smoking his pipe.</p>
+<p>Scrooge and the Phantom came into the presence of this man, just as a woman with a heavy bundle  slunk into the shop. But she had scarcely entered, when another woman, similarly laden, came in too; and she was closely followed by a man in faded black. After a short period of blank astonishment, in which the old man with the pipe had joined them, they all three burst into a laugh.</p>
+<p>&ldquo;Let the charwoman alone to be the first!&rdquo; cried she who had entered first. &ldquo;Let the laundress alone to be the second; and let the undertaker's man alone to be the third. Look here, old Joe, here 's a chance! If we have n't all three met here without meaning it!&rdquo;</p>
+<p>&ldquo;You could n't have met in a better place. You were made free of it long ago, you know; and the other two ain't strangers. What have you got to sell? What have you got to sell?&rdquo;</p>
+<p>&ldquo;Half a minute's patience, Joe, and you shall see.&rdquo;</p>
+<pb n="44" id="p44"/>
+<p>&ldquo;What odds then! What odds, Mrs. Dilber?&rdquo; said the woman. &ldquo;Every person has a right to take care of themselves. <hi
+rend="italics">He</hi> always did! Who 's the worse for the loss of a few things like these? Not a dead man, I suppose.&rdquo;</p>
+<p>Mrs. Dilber, whose manner was remarkable for general propitiation, said, &ldquo;No, indeed, ma'am.&rdquo;</p>
+<p>&ldquo;If he wanted to keep 'em after he was dead, a wicked old screw, why was n't he natural in his lifetime? If he had been, he 'd have had somebody to look after him when he was struck with Death, instead of lying gasping out his last there, alone by himself.&rdquo;</p>
+<p>&ldquo;It 's the truest word that ever was spoke, it 's a judgment on him.&rdquo;</p>
+<p>&ldquo;I wish it was a little heavier judgment, and it should have been, you may depend upon it, if I could have laid my hands on anything else. Open that bundle, old Joe, and let me know the value of it. Speak out plain. I 'm not afraid to be the first, nor afraid for them to see it.&rdquo;</p>
+<p>Joe went down on his knees for the greater convenience of opening the bundle, and dragged out a large and heavy roll of some dark stuff.</p>
+<p>&ldquo;What do you call this? Bed-curtains!&rdquo;</p>
+<p>&ldquo;Ah! Bed-curtains! Don't drop that oil upon the blankets, now.&rdquo;</p>
+<p>&ldquo;<hi rend="italics">His</hi> blankets?&rdquo;</p>
+<p>&ldquo;Whose else's do you think? He is n't likely to take cold without 'em, I dare say. Ah! You
+<pb n="45" id="p45"/>
+may look through that shirt till your eyes ache; but you won't find a hole in it, nor a threadbare place. It 's the best he had, and a fine one too. They 'd have wasted it by dressing him up in it, if it had n't been for me.&rdquo;</p>
+<p>Scrooge listened to this dialogue in horror</p>
+<p>&ldquo;Spirit! I see, I see. The case of this unhappy man might be my own. My life tends that way, now. Merciful Heaven, what is this!&rdquo;</p>
+<p>The scene had changed, and now he almost touched a bare, uncurtained bed. A pale light, rising in the outer air, fell straight upon this bed; and on it, unwatched, unwept, uncared for, was the body of this plundered unknown man.</p>
+<p>&ldquo;Spirit, let me see some tenderness connected with a death, or this dark chamber, Spirit, will be forever present to me.&rdquo;</p>
+<p>The Ghost conducted him to poor Bob Cratchit's house, &mdash; the dwelling he had visited before, &mdash; and found the mother and the children seated round the fire.</p>
+<p>Quiet. Very quiet. The noisy little Cratchits were as still as statues in one corner, and sat looking up at Peter, who had a book before him. The mother and her daughters were engaged in needlework. But surely they were very quiet!</p>
+<p>&ldquo; &lsquo;And he took a child, and set him in the midst of them.&rsquo; &rdquo;</p>
+<p>Where had  Scrooge heard those words? He had not dreamed them. The boy must have read them
+<pb n="46" id="p46"/>
+out, as he and the Spirit crossed the threshold. Why did he not go on?</p>
+<p>The mother laid her work upon the table, and put her hand up to her face.</p>
+<p>&ldquo;The color hurts my eyes,&rdquo; she said.</p>
+<p>The color? Ah, poor Tiny Tim!</p>
+<p>&ldquo;They 're better now again. It makes them weak by candle-light; and I would n't show weak eyes to your father when he comes home, for the world. It must be near his time.&rdquo;</p>
+<p>&ldquo;Past it rather,&rdquo; Peter answered, shutting up his book. &ldquo;But I think he has walked a little slower than he used, these few last evenings, mother.&rdquo;</p>
+<p>&ldquo;I have known him walk with &mdash; I have known him walk with Tiny Tim upon his shoulder, very fast indeed.&rdquo;</p>
+<p>&ldquo;And so have I,&rdquo; cried Peter. &ldquo;Often.&rdquo;</p>
+<p>&ldquo;And so have I,&rdquo; exclaimed another. So had all.</p>
+<p>&ldquo;But he was very light to carry, and his father loved him so, that it was no trouble, &mdash; no trouble. And there is your father at the door!&rdquo;</p>
+<p>She <sic corr="hurried">huried</sic> out to meet him; and little Bob in his comforter &mdash; he had need of it, poor fellow &mdash; came in. His tea was ready for him on the hob, and they all tried who should help him to it most. Then the two young Cratchits got upon his knees and laid, each child, a little cheek against his face, as if they said, &ldquo;Don't mind it, father Don't be grieved!&rdquo;</p>
+<pb n="47" id="p47"/>
+<p>Bob was very cheerful with them, and spoke pleasantly to all the family. He looked at the work upon the table, and praised the industry and speed of Mrs. Cratchit and the girls. They would be done long before Sunday, he said.</p>
+<p>&ldquo;Sunday! You went to-day, then, Robert?&rdquo;</p>
+<p>&ldquo;Yes, my dear,&rdquo; returned Bob. &ldquo;I wish you could have gone. It would have done you good to see how green a place it is. But you 'll see it often. I promised him that I would walk there on a Sunday. My little, little child! My little child!&rdquo;</p>
+<p>He broke down all at once. He could n't help it. If he could have helped it, he and his child would have been farther apart, perhaps, than they were.</p>
+<p>&ldquo;Spectre,&rdquo; said Scrooge, &ldquo;something informs me that our parting moment is at hand. I know it, but I know not how. Tell me what man that was, with the covered face, whom we saw lying dead?&rdquo;</p>
+<p>The Ghost of Christmas Yet To Come conveyed him to a dismal, wretched, ruinous churchyard.</p>
+<p>The Spirit stood among the graves, and pointed down to One.</p>
+<p>&ldquo;Before I draw nearer to that stone to which you point, answer me one question. Are these the shadows of the things that Will be, or are they shadows of the things that May be only?&rdquo;</p>
+<p>Still the Ghost pointed downward to the grave by which it stood.</p>
+<pb n="48" id="p48"/>
+<p>&ldquo;Men's courses will foreshadow certain ends, to which, if persevered in, they must lead. But if the courses be departed from, the ends will change. Say it is thus with what you show me!&rdquo;</p>
+<p>The Spirit was immovable as ever.</p>
+<p>Scrooge crept towards it, trembling as he went; and, following the finger, read upon the stone of the neglected grave his own name, &mdash; EBENEZER SCROOGE.</p>
+<p>&ldquo;Am <hi rend="italics">I</hi> that man who lay upon the bed? No, Spirit! O no, no! Spirit! hear me! I am not the man I was. I will not be the man I must have been but for this intercourse. Why show me this, if I am past all hope? Assure me that I yet may change these shadows you have shown me by an altered life.&rdquo;</p>
+<p>For the first time the kind hand faltered.</p>
+<p>&ldquo;I will honor Christmas in my heart, and try to keep it all the year. I will live in the Past, the Present, and the Future. The Spirits of all three shall strive within me. I will not shut out the lessons that they teach. O, tell me I may sponge away the writing on this stone!&rdquo;</p>
+<p>Holding up his hands in one last prayer to have his fate reversed, he saw an alteration in the Phantom's hood and dress. It shrunk, collapsed, and dwindled down into a bedpost.</p>
+<p>Yes, and the bedpost was his own. The bed was his own, the room was his own. Best and happiest of all, the Time before him was his own, to make amends in!</p>
+<pb n="49" id="p49"/>
+<p>He was checked in his transports by the churches ringing out the lustiest peals he had ever heard.</p>
+<p>Running to the window, he opened it, and put out his head. No fog, no mist, no night; clear, bright, stirring, golden day.</p>
+<p>&ldquo;What 's to-day?&rdquo; cried Scrooge, calling downward to a boy in Sunday clothes, who perhaps had loitered in to look about him.</p>
+<p>&ldquo;EH?&rdquo;</p>
+<p>&ldquo;What 's to-day, my fine fellow?&rdquo;</p>
+<p>&ldquo;To-day! Why, CHRISTMAS DAY.&rdquo;</p>
+<p>&ldquo;It 's Christmas day! I have n't missed it. Hallo, my fine fellow!&rdquo;</p>
+<p>&ldquo;Hallo!&rdquo;</p>
+<p>&ldquo;Do you know the Poulterer's, in the next street but one, at the corner?&rdquo;</p>
+<p>&ldquo;I should hope I did.&rdquo;</p>
+<p>&ldquo;An intelligent boy! A remarkable boy! Do you know whether they 've sold the prize Turkey that was hanging up there? Not the little prize Turkey, &mdash; the big one?&rdquo;</p>
+<p>&ldquo;What, the one as big as me?&rdquo;</p>
+<p>&ldquo;What a delightful boy! It's a pleasure to talk to him. Yes, my buck!&rdquo;</p>
+<p>&ldquo;It 's hanging there now.&rdquo;</p>
+<p>&ldquo;Is it? Go and buy it.&rdquo;</p>
+<p>&ldquo;Walk-ER!&rdquo; exclaimed the boy.</p>
+<p>&ldquo;No, no, I am in earnest. Go and buy it, and tell 'em to bring it here, that I may give them the
+<pb n="50" id="p50"/>
+direction where to take it. Come back with the man, and I 'll give you a shilling. Come back with him in less than five minutes, and I 'll give you half a crown!&rdquo;</p>
+<p>The boy was off like a shot.</p>
+<p>&ldquo;I 'll send it to Bob Cratchit's! He sha'n't know who sends it. It's twice the size of Tiny Tim. Joe Miller never made such a joke as sending it to Bob's will be!&rdquo;</p>
+<p>The hand in which he wrote the address was not a steady one; but write it he did, somehow, and went down stairs to open the street door, ready for the coming of the poulterer's man.</p>
+<p>It <hi rend="italics">was</hi> a Turkey! He never could have stood upon his legs, that bird. He would have snapped 'em short off in a minute, like sticks of sealingwax.</p>
+<p>Scrooge dressed himself &ldquo;all in his best,&rdquo; and at last got out into the streets. The people were by this time pouring forth, as he had seen them with the Ghost of Christmas Present; and, walking with his hands behind him, Scrooge regarded every one with a delighted smile. He looked so irresistibly pleasant, in a word, that three or four good-humored fellows said, &ldquo;Good morning, sir! A merry Christmas to you!&rdquo; And Scrooge said often afterwards, that, of all the blithe sounds he had ever heard, those were the blithest in his ears.</p>
+<p>In the afternoon, he turned his steps towards his nephew's house.</p>
+<pb n="51" id="p51"/>
+<p>He passed the door a dozen times, before he had the courage to go up and knock. But he made a dash, and did it.</p>
+<p>&ldquo;Is your master at home, my dear?&rdquo; said Scrooge to the girl. Nice girl! Very.</p>
+<p>&ldquo;Yes, sir.&rdquo;</p>
+<p>&ldquo;Where is he, my love?&rdquo;</p>
+<p>&ldquo;He 's in the dining-room, sir, along with mistress.&rdquo;</p>
+<p>&ldquo;He knows me,&rdquo; said Scrooge, with his hand already on the dining-room lock. &ldquo;I 'll go in here, my dear.&rdquo;</p>
+<p>&ldquo;Fred!&rdquo;</p>
+<p>&ldquo;Why, bless my soul!&rdquo; cried Fred, &ldquo;who 's that?&rdquo;</p>
+<p>&ldquo;It 's I. Your uncle Scrooge. I have come to dinner. Will you let me in, Fred?&rdquo;</p>
+<p>Let him in! It is a mercy he did n't shake his arm off. He was at home in five minutes. Nothing could be heartier. His niece looked just the same. So did Topper when <hi
+rend="italics">he</hi> came. So did the plump sister, when <hi rend="italics">she</hi> came. So did every one when <hi
+rend="italics">they</hi> came. Wonderful party, wonderful games, wonderful unanimity, won-der-ful happiness!</p>
+<p>But he was early at the office next morning. O, he was early there. If he could only be there first, and catch Bob Cratchit coming late! That was the thing he had set his heart upon.</p>
+<p>And he did it. The clock struck nine. No Bob.
+<pb n="52" id="p52"/>
+A quarter past. No Bob. Bob was full eighteen minutes and a half behind his time. Scrooge sat with his door wide open, that he might see him come into the Tank.</p>
+<p>Bob's hat was off, before he opened the door; his comforter too. He was on his stool in a jiffy; driving away with his pen, as if he were trying to overtake nine o'clock.</p>
+<p>&ldquo;Hallo!&rdquo; growled Scrooge, in his accustomed voice, as near as he could feign it. &ldquo;What do you mean by coming here at this time of day?&rdquo;</p>
+<p>&ldquo;I am very sorry, sir. I <hi rend="italics">am</hi> behind my time.&rdquo;</p>
+<p>&ldquo;You are? Yes. I think you are. Step this way, if you please.&rdquo;</p>
+<p>&ldquo;It 's only once a year, sir. It shall not be repeated. I was making rather merry yesterday, sir.&rdquo;</p>
+<p>&ldquo;Now, I 'll tell you what, my friend. I am not going to stand this sort of thing any longer. And therefore,&rdquo; Scrooge continued, leaping from his stool, and giving Bob such a dig in the waistcoat that he staggered back into the Tank again, &mdash; &ldquo;and therefore I am about to raise your salary!&rdquo;</p>
+<p>Bob trembled, and got a little nearer to the ruler.</p>
+<p>&ldquo;A merry Christmas, Bob!&rdquo; said Scrooge, with an earnestness that could not be mistaken, as he clapped him on the back. &ldquo;A merrier Christmas, Bob, my good fellow, than I have given you for many a year! I 'll raise your salary, and endeavor
+<pb n="53" id="p53"/>
+to assist your struggling family, and we will discuss your affairs this very afternoon, over a Christmas bowl of smoking bishop, Bob! Make up the fires, and buy a second coal-scuttle before you dot another i, Bob Cratchit!&rdquo;</p>
+<p>Scrooge was better than his word. He did it all, and infinitely more; and to Tiny Tim, who did NOT die, he was a second father. He became as good a friend, as good a master, and as good a man as the good old city knew, or any other good old city, town, or borough in the good old world. Some people laughed to see the alteration in him; but his own heart laughed, and that was quite enough for him.</p>
+<p>He had no further intercourse with Spirits, but lived in that respect upon the Total-Abstinence Principle ever afterwards; and it was always said of him, that he knew how to keep Christmas well, if any man alive possessed the knowledge. May that be truly said of us, and all of us! And so, as Tiny Tim observed, God Bless Us, Every One!</p>
+</div2>
+</div1>
+</body>
+</text>
+<text>
+<front>
+<div1 type="title page">
+<pb id="pia" n="i"/>
+<p><figure id="frontis2"><p>MESSRS. DODSON AND FOGG.</p></figure></p>
+</div1>
+<pb id="p1a" n="1"/><titlePage>
+<docTitle><titlePart>BARDELL AND PICKWICK.</titlePart></docTitle>
+<byline>BY</byline>
+<docAuthor>CHARLES DICKENS.</docAuthor>
+<docImprint>
+AS CONDENSED BY HIMSELF, FOR HIS <lb/>
+<hi rend="italics">READINGS.</hi>
+<lb/>WITH AN ILLUSTRATION BY S. EYTINGE, JR.
+<pubPlace>BOSTON:</pubPlace>
+<publisher>TICKNOR AND FIELDS.</publisher>
+<docDate>1868.</docDate>
+</docImprint>
+</titlePage><pb id="p2a" n="2"/>
+<div1 type="section">
+<opener>
+<dateline>GAD'S HILL, HIGHAM BY ROCHESTER, KENT, <lb/> Tenth October, 1867.</dateline>
+</opener>
+<p>The edition bearing the imprint of MESSRS. TICKNOR AND FIELDS is e only correct and authorized edition of my READINGS.</p>
+<closer>
+<signed>CHARLES DICKENS.</signed>
+</closer>
+</div1><div1>
+<p>Entered according to Act of Congress, in the year 1867, by <lb/> TICKNOR AND FIELDS, <lb/> in the Clerk's Office of the District Court of the District of Massachusetts.</p>
+<p>UNIVERSITY PRESS: WELCH, BIGELOW, &amp; CO., <lb/> CAMBRIDGE.
+</p>
+</div1>
+</front>
+<body>
+<div1 type="section">
+<pb n="3" id="p3a"/>
+<head>BARDELL AND PICKWICK.</head>
+<p>ON the morning of the trial of the great action for breach of promise of marriage, &mdash; Bardell against Pickwick, &mdash; the defendant, Mr. Pickwick, being escorted into court, stood up in a state of agitation, and took a glance around him. There were already a pretty large sprinkling of spectators in the gallery, and a numerous muster of gentlemen in wigs in the barristers' seat; who presented, as a body, all that pleasing and extensive variety of nose and whisker for which the bar of England is justly celebrated. Such of the gentlemen as had a brief to carry carried it in as conspicuous a manner as possible, and occasionally scratched their noses with it, to impress it more strongly on the observation of the spectators; other gentlemen, who had no briefs, carried under their arms goodly octavos, with a red label behind, and that under-done-piecrust-colored cover which is technically known as &ldquo;law-calf.&rdquo; Others, who had neither briefs nor books, thrust their hands into their pockets, and looked as wise as they could. The whole, to the
+<pb n="4" id="p4a"/>
+great wonderment of Mr. Pickwick, were divided into little groups, who were chatting and discussing the news of the day in the most unfeeling manner possible, just as if no trial at all were coming on.</p>
+<p>A loud cry of &ldquo;Silence!&rdquo; announced the entrance of the judge, who was most particularly short, and so fat that he seemed all face and waistcoat. He rolled in upon two little turned legs; and, having bobbed to the bar, who bobbed to him, put his little legs underneath his table, and his little three-cornered hat upon it; a sensation was then perceptible in the body of the court; and immediately afterwards Mrs. Bardell, the plaintiff, supported by Mrs. Cluppins, her bosom friend number one, was led in, in a drooping state. An extrasized umbrella was then handed in by Mr. Dodson, and a pair of pattens by Mr. Fogg (Dodson and Fogg being the plaintiff's attorneys), each of whom had prepared a sympathizing and melancholy face for the occasion. Mrs. Sanders, bosom friend number two, then appeared, leading in Master Bardell, whom she placed on the floor of the court in front of his hysterical mother, &mdash; a commanding position, in which he could not fail to awaken the sympathy of both judge and jury. This was not done without considerable opposition on the part of the young gentleman himself, who had misgivings that his being placed in the full glare of the judge's eye was only a formal prelude to his being immediately ordered away for instant execution.</p>
+<pb n="5" id="p5a"/>
+<p>&ldquo;I am for the plaintiff, my Lord,&rdquo; said Mr. Sergeant Buzfuz.</p>
+<p>COURT. &mdash; &ldquo;Who is with you, brother Buzfuz?&rdquo;</p>
+<p>Mr. Skimpin bowed, to intimate that he was.</p>
+<p>&ldquo;I appear for the defendant, my Lord,&rdquo; said Mr. Sergeant Snubbin.</p>
+<p>COURT. &mdash; &ldquo;Anybody with you, brother Snubbin?&rdquo;</p>
+<p>&ldquo;Mr. Phunky, my Lord.&rdquo;</p>
+<p>COURT. &mdash; &ldquo;Go on.&rdquo;</p>
+<p>Mr. Skimpin proceeded to &ldquo;open the case&rdquo;; and the case appeared to have very little inside it when he had opened it, for he kept such particulars as he knew completely to himself.</p>
+<p>Sergeant Buzfuz then rose with all the majesty and dignity which the grave nature of the proceedings demanded, and having whispered to Dodson, and conferred briefly with Fogg, pulled his gown over his shoulders, settled his wig, and addressed the jury.</p>
+<p>Sergeant Buzfuz began by saying that never, in the whole course of his professional experience, &mdash; never, from the very first moment of his applying himself to the study and practice of the law, had he approached a case with such a heavy sense of the responsibility imposed upon him, &mdash; a responsibility he could never have supported, were he not buoyed up and sustained by a conviction, so strong that it amounted to positive certainty, that the cause of truth and justice, or, in
+<pb n="6" id="p6a"/>
+other words, the cause of his much-injured and most oppressed client, <hi
+rend="italics">must</hi> prevail with the highminded and intelligent dozen of men whom he now saw in that box before him.</p>
+<p>Counsel always begin in this way, because it puts the jury on the best terms with themselves, and makes them think what sharp fellows they must be. A visible effect was produced immediately; several jurymen beginning to take voluminous notes.</p>
+<p>&ldquo;You have heard from my learned friend, gentlemen,&rdquo; continued Sergeant Buzfuz, well knowing that from the learned friend alluded to the gentlemen of the jury had heard nothing at all, &mdash; &ldquo;you have heard from my learned friend, gentlemen, that this is an action for a breach of promise of marriage, in which the damages are laid at &pound;1,500. But you have not heard from my learned friend, inasmuch as it did not come within my learned friend's province to tell you, what are the facts and circumstances of this case. Those facts and circumstances, gentlemen, you shall hear detailed by me, and proved by the unimpeachable female whom I will place in that box before you.</p>
+<p>&ldquo;The plaintiff is a widow; yes, gentlemen, a widow. The late Mr. Bardell, after enjoying, for many years, the esteem and confidence of his sovereign, as one of the guardians of his royal revenues, glided almost imperceptibly from the
+<pb n="7" id="p7a"/>
+world, to seek elsewhere for that repose and peace which a custom-house can never afford.&rdquo;</p>
+<p>This was a pathetic description of the decease of   Mr. Bardell, who had been knocked on the head with a quart-pot in a public-house cellar.</p>
+<p>&ldquo;Some time before Mr. Bardell's death, he had stamped his likeness upon a little boy. With this little boy, the only pledge of her departed exciseman, Mrs. Bardell shrunk from the world, and courted the retirement and tranquillity of Goswell Street; and here she placed in her front parlor window a written placard, bearing this inscription: &lsquo;Apartments furnished for a single gentleman. Inquire within.&rsquo;&rdquo; Here Sergeant Buzfuz paused, while several gentlemen of the jury took a note of the document.</p>
+<p>&ldquo;There is no date to that, is there, sir?&rdquo; inquired a juror.</p>
+<p>&ldquo;There is no date, gentlemen; but I am instructed to say that it was put in the plaintiff's parlor window just this time three years. Now I entreat the attention of the jury to the wording of this document, &mdash; &lsquo;Apartments furnished for a single gentleman&rsquo;! &lsquo;Mr. Bardell,&rsquo; said the widow, &mdash; &lsquo;Mr. Bardell was a man of honor, Mr. Bardell was a man of his word, Mr. Bardell was no deceiver, Mr. Bardell was once a single gentleman himself; <hi
+rend="italics">in</hi> single gentlemen I shall perpetually see something to remind me of what Mr. Bardell was when he first won my young and untried affections;
+<pb n="8" id="p8a"/>
+to a single gentleman shall my lodgings be let.&rsquo; Actuated by this beautiful and touching impulse, (among the best impulses of our imperfect nature, gentlemen,) the desolate widow dried her tears, furnished her first floor, caught her innocent boy to her maternal bosom, and put the bill up in her parlor window. Did it remain there long? No. Before the bill had been in the parlor window three days &mdash; three days, gentlemen &mdash; a Being, erect upon two legs, and bearing all the outward semblance of a man, and not of a monster, knocked at Mrs. Bardell's door. He inquired within; he took the lodgings; and on the very next day he entered into possession of them. This man was Pickwick, &mdash; Pickwick, the defendant.&rdquo;</p>
+<p>Sergeant Buzfuz here paused for breath. The silence awoke Mr. Justice Stareleigh, who immediately wrote down something with a pen without any ink in it, and looked unusually profound, to impress the jury with the belief that he always thought most deeply with his eyes shut.</p>
+<p>&ldquo;Of this man Pickwick I will say little; the subject presents but few attractions; and I, gentlemen, am not the man, nor are you, gentlemen, the men, to delight in the contemplation of revolting heartlessness and of systematic villany.&rdquo;</p>
+<p>Here Mr. Pickwick, who had been writhing in silence, gave a violent start, as if some vague idea of assaulting Sergeant Buzfuz, in the august
+<pb n="9" id="p9a"/>
+presence of justice and law, suggested itself to his mind.</p>
+<p>&ldquo;I say systematic villany, gentlemen,&rdquo; said Sergeant Buzfuz, looking through Mr. Pickwick, and talking <hi
+rend="italics">at</hi> him; &ldquo;and when I say systematic villany, let me tell the defendant, Pickwick, &mdash; if he be in court, as I am informed he is, &mdash; that it would have been more decent in him, more becoming, in better judgment, and in better taste, if he had stopped away.</p>
+<p>&ldquo;I shall show you, gentlemen, that for two years Pickwick continued to reside without interruption or intermission at Mrs Bardell's house. I shall show you that, on many occasions, he gave halfpence, and on some occasions even sixpences, to her little boy; and I shall prove to you, by a witness whose testimony it will be impossible for my learned friend to weaken or controvert, that on one occasion he patted the boy on the head, and, after inquiring whether he had won any <hi
+rend="italics">alley tors</hi> or <hi rend="italics">commoneys</hi> lately (both of which I understand to be a particular species of marbles much prized by the youth of this town), made use of this remarkable expression: &lsquo;How should you like to have another father?&rsquo; I shall prove to you, gentlemen, on the testimony of three of his own friends, &mdash; most unwilling witnesses, gentlemen, &mdash; most unwilling witnesses, &mdash; that on that morning he was discovered by them holding the plaintiff in his arms, and soothing her agitation by his caresses and endearments.</p>
+<pb n="10" id="p10a"/>
+<p>&ldquo;And now, gentlemen, but one word more. Two letters have passed between these parties, &mdash; letters which are admitted to be in the handwriting of the defendant. Let me read the first: &mdash; &lsquo;Garraway's, twelve o'clock. Dear Mrs. B. &mdash; Chops and Tomato sauce. Yours, PICKWICK.&rsquo; Gentlemen, what does this mean? Chops! Gracious heavens! and Tomato sauce! Gentlemen, is the happiness of a sensitive and confiding female to be trifled away by such shallow artifices as these? The next has no date whatever, which is in itself suspicious. &lsquo;Dear Mrs. B., I shall not be at home till to-morrow. Slow coach.&rsquo; And then follows this very remarkable expression. &lsquo;Don't trouble yourself about the warming-pan.&rsquo; Why, gentlemen, who <hi
+rend="italics">does</hi> trouble himself about a warming-pan? Why is Mrs. Bardell so earnestly entreated not to agitate herself about this warming-pan, unless it is, as I assert it  to be, a mere cover for hidden fire, &mdash; a mere substitute for some endearing word or promise, agreeably to a preconcerted system of correspondence, artfully contrived by Pickwick with a view to his contemplated desertion, and which I am not in a condition to explain?</p>
+<p>&ldquo;Enough of this. My client's hopes and prospects are ruined. But Pickwick, gentlemen, &mdash; Pickwick, the ruthless destroyer of this domestic oasis in the desert of Goswell Street, &mdash; Pickwick,  who has choked up the well, and thrown ashes on the
+<pb n="11" id="p11a"/>
+sward, &mdash;  Pickwick, who comes before you to-day with his heartless Tomato sauce and warmingpans, &mdash; Pickwick still rears his head with unblushing effrontery, and gazes without a sigh on the ruin he has made. Damages, gentlemen, heavy damages, are the only punishment with which you can visit him, the only recompense you can award to my client. And for those damages she now appeals to an enlightened, a high-minded, a right-feeling, a conscientious, a dispassionate, a sympathizing, a contemplative jury of her civilized countrymen.&rdquo;</p>
+<p>With this beautiful peroration, Mr. Sergeant Buzfuz sat down, and Mr. Justice Stareleigh woke up.</p>
+<p>&ldquo;Call Elizabeth Cluppins,&rdquo; said Sergeant Buzfuz, rising a minute afterwards, with renewed vigor.</p>
+<p>&ldquo;Do you recollect, Mrs. Cluppins, &mdash; do you recollect being in Mrs. Bardell's back one pair of stairs, on one particular morning in July last, when she was  dusting Pickwick's apartment?&rdquo;</p>
+<p>&ldquo;Yes, my Lord and jury, I do.&rdquo;</p>
+<p>&ldquo;Mr. Pickwick's sitting-room was the first floor front, I believe?&rdquo;</p>
+<p>&ldquo;Yes, it were, sir.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;What were you doing in the back room, ma'am?&rdquo;</p>
+<p>&ldquo;My Lord and jury, I will not deceive you.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;You had better not, ma'am.&rdquo;</p>
+<p>&ldquo;I was there, unbeknown to Mrs. Bardell; I had been out with a little basket, gentlemen, to
+<pb n="12" id="p12a"/>
+buy three pound of red kidney purtaties, which was three pound tuppense ha'penny, when I see Mrs. Bardell's street door on the jar.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;On the what?&rdquo;</p>
+<p>&ldquo;Partly open, my Lord.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;She <hi rend="italics">said</hi> on the jar.&rdquo;</p>
+<p>&ldquo;It 's all the same, my Lord.&rdquo;</p>
+<p>The little judge looked doubtful, and said he 'd make a note of it.</p>
+<p>&ldquo;I walked in, gentlemen, just to say good mornin', and went, in a permiscuous manner, up stairs, and into the back room. Gentlemen, there was the sound of voices in the front room, and &mdash; &rdquo;</p>
+<p>&ldquo;And you listened, I believe, Mrs. Cluppins?&rdquo;</p>
+<p>&ldquo;Beggin' your pardon, sir, I would scorn the haction. The voices was very loud, sir, and forced themselves upon my ear.&rdquo;</p>
+<p>&ldquo;Well, Mrs. Cluppins, you were not listening, but you heard the voices. Was one of those voices Pickwick's?&rdquo;</p>
+<p>&ldquo;Yes, it were, sir.&rdquo;</p>
+<p>And Mrs. Cluppins, after distinctly stating that Mr. Pickwick addressed himself to Mrs. Bardell, repeated, by slow degrees, and by dint of many questions, the conversation she had heard. Which, like many other conversations repeated under such circumstances, or, indeed, like many other conversations repeated under any circumstances, was of the smallest possible importance in itself, but looked big now.</p>
+<pb n="13" id="p13a"/>
+<p>Mrs. Cluppins, having broken the ice, thought it a favorable opportunity for entering into a short dissertation on her own domestic affairs; so she straightway proceeded to inform the court that she was the mother of eight children at that present speaking, and that she entertained confident expectations of presenting Mr. Cluppins with a ninth somewhere about that day six months. At this interesting point, the little judge interposed most irascibly; and the worthy lady was taken out of court.</p>
+<p>&ldquo;Nathaniel Winkle!&rdquo; said Mr. Skimpin.</p>
+<p>&ldquo;Here!&rdquo; Mr. Winkle entered the witness-box, and, having been duly sworn, bowed to the judge, who acknowledged the compliment by saying: &mdash;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;Don't look at me, sir; look at the jury.&rdquo;</p>
+<p>Mr. Winkle obeyed the mandate, and looked at the place where he thought the jury might be.</p>
+<p>Mr. Winkle was then examined by Mr. Skimpin.</p>
+<p>&ldquo;Now, sir, have the goodness to let his Lordship and the jury know what your name is, will you?&rdquo; Mr. Skimpin inclined his head on one side, and listened with great sharpness for the answer, as if to imply that he rather thought Mr. Winkle's natural taste for perjury would induce him to give some name which did not belong to him.</p>
+<p>&ldquo;Winkle.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;Have you any Christian name, sir?&rsquo;</p>
+<pb n="14" id="p14a"/>
+<p>&ldquo;Nathaniel, sir.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;Daniel, &mdash; any other name?&rdquo;</p>
+<p>&ldquo;Nathaniel, sir, &mdash; my Lord, I mean.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;Nathaniel Daniel, or Daniel Nathaniel?&rdquo;</p>
+<p>&ldquo;No, my Lord, only Nathaniel; not Daniel at all.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;What did you tell me it was Daniel for, then, sir?&rdquo;</p>
+<p>&ldquo;I did n't, my Lord.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;You did, sir. How could I have got Daniel on my notes, unless you told me so, sir?&rdquo;</p>
+<p>&ldquo;Mr. Winkle has rather a short memory, my Lord; we shall find means to refresh it before we have quite done with him, I dare say. Now, Mr. Winkle, attend to me, if you please, sir; and let me recommend you be careful. I believe you are a particular friend of Pickwick, the defendant, are you not?&rdquo;</p>
+<p>&ldquo;I have known Mr. Pickwick now, as well as I recollect at this moment, nearly &mdash;&rdquo;</p>
+<p>&ldquo;Pray, Mr. Winkle, do not evade the question. Are you, or are you not, a particular friend of the defendant's?&rdquo;</p>
+<p>&ldquo;I was just about to say, that &mdash;&rdquo;</p>
+<p>&ldquo;Will you, or will you not, answer my question, sir?&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;If you don't answer the question, you 'll be committed to prison, sir.&rdquo;</p>
+<p>&ldquo;Yes, I am.&rdquo;</p>
+<pb n="15" id="p15a"/>
+<p>&ldquo;Yes, you are. And could n't you say that at once, sir? Perhaps you know the plaintiff, too? Eh, Mr. Winkle?&rdquo;</p>
+<p>&ldquo;I don't know her; but I 've seen her.&rdquo;</p>
+<p>&ldquo;O, you don't know her, but you 've seen her? Now have the goodness to tell the gentlemen of the jury what you mean by <hi
+rend="italics">that,</hi> Mr. Winkle.&rdquo;</p>
+<p>&ldquo;I mean that I am not intimate with her, but that I have seen her when I went to call on Mr. Pickwick in Goswell Street.&rdquo;</p>
+<p>&ldquo;How often have you seen her, sir?&rdquo;</p>
+<p>&ldquo;How often?&rdquo;</p>
+<p>&ldquo;Yes, Mr. Winkle, how often? I 'll repeat the question for you a dozen times, if you require it, sir.&rdquo;</p>
+<p>On this question there arose the edifying brow-beating customary on such points. First of all, Mr. Winkle said it was quite impossible for him to say how many times he had seen Mrs. Bardell. Then he was asked if he had seen her twenty times, to which he replied, &ldquo;Certainly, &mdash; more than that.&rdquo; Then he was asked whether he had n't seen her a hundred times, &mdash; whether he could n't swear that he had seen her more than fifty times, &mdash; whether he did n't know that he had seen her at least seventyfive times, &mdash; and so forth.</p>
+<p>&ldquo;Pray, Mr. Winkle, do you remember calling on the defendant, Pickwick, at these apartments in the plaintiff's house in Goswell Street, on one particular morning in the month of July last?&rdquo;</p>
+<p>&ldquo;Yes, I do.&rdquo;</p>
+<pb n="16" id="p16a"/>
+<p>&ldquo;Were you accompanied on that occasion by a friend of the name of Tupman, and another of the name of Snodgrass?&rdquo;</p>
+<p>&ldquo;Yes, I was.&rdquo;</p>
+<p>&ldquo;Are they here?&rdquo;</p>
+<p>&ldquo;Yes, they are,&rdquo; looking very earnestly towards the spot where his friends were stationed.</p>
+<p>&ldquo;Pray attend to me, Mr. Winkle, and never mind your friends,&rdquo; with an expressive look at the jury. &ldquo;They must tell their stories without any previous consultation with you, if none has yet taken place&rdquo; (another look at the jury). &ldquo;Now, sir, tell the gentlemen of the jury what you saw on entering the defendant's room, on this particular morning. Come; out with it, sir; we must have it, sooner or later.&rdquo;</p>
+<p>&ldquo;The defendant, Mr. Pickwick, was holding the plaintiff in his arms, with his hands clasping her waist, and the plaintiff appeared to have fainted away.&rdquo;</p>
+<p>&ldquo;Did you hear the defendant say anything?&rdquo;</p>
+<p>&ldquo;I heard him call Mrs. Bardell a good creature, and I heard him ask her to compose herself, for what a situation it was, if anybody should come, or words to that effect.&rdquo;</p>
+<p>&ldquo;Now, Mr. Winkle, I have only one more question to ask you. Will you undertake to swear that Pickwick, the defendant, did not say, on the occasion in question, &lsquo;My dear Mrs Bardell, you 're a good creature; compose yourself to this situation,
+<pb n="17" id="p17a"/>
+for to this situation you must come,&rsquo; or words to <hi rend="italics">that</hi> effect?&rdquo;</p>
+<p>&ldquo;I &mdash; I did n't understand him so, certainly. I was on the staircase, and could n't hear distinctly; the impression on my mind is &mdash;&rdquo;</p>
+<p>&ldquo;The gentlemen of the jury want none of the impressions on your mind, Mr. Winkle, which I fear would be of little service to honest, straightforward men. You were on the staircase, and did n't distinctly hear; but you will not swear that Pickwick did not make use of the expressions I have quoted? So I understand that?&rdquo;</p>
+<p>&ldquo;No, I will not.&rdquo;</p>
+<p>&ldquo;You may leave the box, sir.&rdquo;</p>
+<p>Tracy Tupman and Augustus Snodgrass were severally called into the box; both corroborated the testimony of their unhappy friend; and each was driven to the verge of desperation by excessive badgering.</p>
+<p>Susannah Sanders was then called, and examined by Sergeant Buzfuz, and cross-examined by Sergeant Snubbin. Had always said and believed that Pickwick would marry Mrs. Bardell; knew that Mrs. Bardell's being engaged to Pickwick was the current topic of conversation in the neighborhood after the fainting in July. Had heard Pickwick ask the little boy how he should like to have another father. Did not know that Mrs. Bardell was at that time keeping company with the baker, but did know that the baker was
+<pb n="18" id="p18a"/>
+then a single man and is now married. Thought Mrs. Bardell fainted away on the morning in July, because Pickwick asked her to name the day; knew that she (witness) fainted away stone dead when Mr. Sanders asked <hi
+rend="italics">her</hi> to name the day, and believed that anybody as called herself a lady would do the same, under similar circumstances. During the period of her keeping company with Mr. Sanders, she had received love-letters, like other ladies. In the course of their correspondence Mr. Sanders had often called her a &ldquo;duck,&rdquo; but he had never called her &ldquo;chops,&rdquo; nor yet &ldquo;tomato sauce.&rdquo;</p>
+<p>Sergeant Buzfuz now rose with more importance than he had yet exhibited, if that were possible, and said: &ldquo;Call Samuel Weller.&rdquo;</p>
+<p>It was quite unnecessary to call Samuel Weller; for Samuel Weller stepped into the box the instant his name was pronounced; and placing his hat on the floor, and his arms on the rail, took a bird's-eye view of the bar, and a comprehensive survey of the bench, with a remarkably cheerful and lively aspect.</p>
+<p><hi rend="italics">Court.</hi> &ldquo;What 's your name, sir?&rdquo;</p>
+<p>&ldquo;Sam Weller, my Lord.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;Do you spell it with a &lsquo;V&rsquo; or with a &lsquo;W&rsquo;?&rdquo;</p>
+<p>&ldquo;That depends upon the taste and fancy of the speller, my Lord. I never had occasion to spell it more than once or twice in my life, but I spells it with a &lsquo;V.&rsquo;&rdquo;</p>
+<pb n="19" id="p19a"/>
+<p>Here a voice in the gallery exclaimed, &ldquo;Quite right too, Samivel, quite right. Put it down a we, my Lord, put it down a we.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;Who is that, who dares to address the court? Usher.&rdquo;</p>
+<p>&ldquo;Yes, my Lord.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;Bring that person here instantly.&rdquo;</p>
+<p>&ldquo;Yes, my Lord.&rdquo;</p>
+<p>But as the usher did n't find the person, he did n't bring him; and, after a great commotion, all the people who had got up to look for the culprit sat down again. The little judge turned to the witness as soon as his indignation would allow him to speak, and said: &mdash;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;Do you know who that was, sir?&rdquo;</p>
+<p>&ldquo;I rayther suspect it was my father, my Lord.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;Do you see him here now?&rdquo;</p>
+<p>Sam stared up into the lantern in the roof of the court, and said: &ldquo;Wy, no, my Lord, I can't say that I <hi
+rend="italics">do</hi> see him at the present moment.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;If you could have pointed him out, I would have sent him to jail instantly.&rdquo;</p>
+<p>Sam bowed his acknowledgments.</p>
+<p>&ldquo;Now, Mr. Weller,&rdquo; said Sergeant Buzfuz.</p>
+<p>&ldquo;Now, sir.&rdquo;</p>
+<p>&ldquo;I believe you are in the service of Mr. Pickwick, the defendant in this case. Speak up, if you please, Mr. Weller.&rdquo;</p>
+<p>&ldquo;I mean to speak up, sir; I am in the service o' that 'ere gen'l'man, and a wery good service it is.&rdquo;</p>
+<pb n="20" id="p20a"/>
+<p>&ldquo;Little to do, and plenty to get, I suppose?&rdquo;</p>
+<p>&ldquo;O, quite enough to get, sir, as the soldier said ven they ordered him three hundred and fifty lashes.&rdquo;</p>
+<p><hi rend="italics">Court.</hi> &ldquo;You must not tell us what the soldier said, unless the soldier is in court, and is examined in the usual way; it 's not evidence.&rdquo;</p>
+<p>&ldquo;Wery good, my Lord.&rdquo;</p>
+<p>&ldquo;Do you recollect anything particular happening on the morning when you were first engaged by the defendant; eh, Mr. Weller?&rdquo;</p>
+<p>&ldquo;Yes, I do, sir.&rdquo;</p>
+<p>&ldquo;Have the goodness to tell the jury what it was.&rdquo;</p>
+<p>&ldquo;I had a reg'lar new fit-out o' clothes that mornin', gen'l'men of the jury, and that was a wery partickler and uncommon circumstance vith me in those days.&rdquo;</p>
+<p>The judge looked sternly at Sam, but Sam's features were so perfectly serene that the judge said nothing.</p>
+<p>&ldquo;Do you mean to tell me, Mr. Weller, that you saw nothing of this fainting on the part of the plaintiff in the arms of the defendant, which you have heard described by the witnesses?&rdquo;</p>
+<p>&ldquo;Certainly not, sir. I was in the passage till they called me up, and then the old lady as you call the plaintiff, she warn't there, sir.&rdquo;</p>
+<p>&ldquo;You were in the passage, and yet saw nothing of what was going forward. Have you a pair of eyes, Mr. Weller?&rdquo;</p>
+<pb n="21" id="p21a"/>
+<p>&ldquo;Yes, I have a pair of eyes, and that 's just it. If they wos a pair o' patent double million magnifyin' gas microscopes of hextra power, p'r'aps I might be able to see through two flights o' stairs and a deal door; but bein' only eyes, you see, my wision 's limited.&rdquo;</p>
+<p>&ldquo;Now, Mr. Weller, I 'll ask you a question on another point, if you please.&rdquo;</p>
+<p>&ldquo;If you please, sir.&rdquo;</p>
+<p>&ldquo;Do you remember going up to Mrs. Bardell's house, one night in November?&rdquo;</p>
+<p>&ldquo;O yes, wery well.&rdquo;</p>
+<p>&ldquo;O, you <hi rend="italics">do</hi> remember that, Mr. Weller. I thought we should get at something at last.&rdquo;</p>
+<p>&ldquo;I rayther thought that, too, sir.&rdquo;</p>
+<p>&ldquo;Well; I suppose you went up to have a little talk about the trial, &mdash; eh, Mr. Weller?&rdquo;</p>
+<p>&ldquo;I went up to pay the rent; but we <hi rend="italics">did</hi> get a talkin' about the trial.&rdquo;</p>
+<p>&ldquo;O, you did get a talking about the trial. Now what passed about the trial? will you have the goodness to tell us, Mr. Weller?&rdquo;</p>
+<p>&ldquo;Vith all the pleasure in life, sir. Arter a few unimportant obserwations from the two wirtuous females as has been examined here to-day, the ladies gets into a very great state o' admiration at the honorable conduct of Mr. Dodson and Mr. Fogg, &mdash; them two gen'l'men as is settin' near you now.&rdquo;</p>
+<p>&ldquo;The attorneys for the plaintiff. Well! They
+<pb n="22" id="p22a"/>
+spoke in high praise of the honorable conduct of Messrs. Dodson and Fogg, the attorneys for the plaintiff, did they?&rdquo;</p>
+<p>&ldquo;Yes; they said what a wery gen'rous thing it was o' them to have taken up the case on spec, and not to charge nothin' at all for costs, unless they got' om out of Mr. Pickwick.&rdquo;</p>
+<p>&ldquo;It 's perfectly useless, my Lord, attempting to get at any evidence through the impenetrable stupidity of this witness. I will not trouble the court by asking him any more questions. Stand down, sir. That 's my case, my Lord.&rdquo;</p>
+<p>Sergeant Snubbin then addressed the jury on behalf of the defendant; and did the best he could for Mr. Pickwick; and the best, as everybody knows, could do no more.</p>
+<p>Mr. Justice Stareleigh summed up, in the old-established form. He read as much of his notes to the jury as he could decipher on so short a notice; he did n't read as much of them as he could n't make out; and he made running comments on the evidence as he went along. If Mrs. Bardell were right, it was perfectly clear Mr. Pickwick was wrong, and if they thought the evidence of Mrs. Cluppins worthy of credence they would believe it; and if they did n't, why, they would n't.</p>
+<p>The jury then retired to their private room to talk the matter over, and the judge retired to <hi
+rend="italics">his</hi> private room, to refresh himself with a mutton-chop and a glass of sherry.</p>
+<pb n="23" id="p23a"/>
+<p>An anxious quarter of an hour elapsed; the jury came back; and the judge was fetched in. Mr. Pickwick put on his spectacles, and gazed at the foreman.</p>
+<p>&ldquo;Gentlemen, are you all agreed upon your verdict?&rdquo;</p>
+<p>&ldquo;We are.&rdquo;</p>
+<p>&ldquo;Do you find for the plaintiff, gentlemen, or for the defendant?&rdquo;</p>
+<p>&ldquo;For the plaintiff.&rdquo;</p>
+<p>&ldquo;With what damages, gentlemen?&rdquo;</p>
+<p>&ldquo;Seven hundred and fifty pounds.&rdquo;</p>
+<p>Mr. Pickwick, having drawn on his gloves with great nicety, and stared at the foreman all the while, allowed himself to be assisted into a hackney-coach, which had been fetched for the purpose by the ever-watchful Sam Weller.</p>
+<p>Sam had put up the steps, and was preparing to jump on the box, when he felt himself gently touched on the shoulder; and his father stood before him.</p>
+<p>&ldquo;Samivel! the gov'nor ought to have been got off with a alleybi. Ve got Tom Vildspark off o' that 'ere manslaughter (that come of hard driving), vith a alleybi, ven all the big vigs to a man said as nothing could n't save him. I know'd what 'ud come o' this here way o' doin' bisniss. O Sammy, Sammy, vy worn't there a alleybi!&rdquo;</p>
+</div1>
+</body>
+
+</text>
+<!--
+</group>
+-->
+
+<back>
+<div1 type="advertisement">
+<pb id="p24a" n="24"/>
+<opener><hi rend="italics">THE ILLUSTRATED LIBRARY EDITION</hi>
+<lb/> OF THE COMPLETE WORKS OF</opener><head>CHARLES DICKENS.</head>
+<p>THIS Edition is unquestionably the best and most desirable of all the editions of Mr. DICKENS'S Works now published, in the following respects:&mdash;</p>
+<p>LARGE TYPE. &mdash; This Edition is printed from larger, better-faced type than any other, and the page presents an open, attractive appearance.</p>
+<p>ILLUSTRATIONS. &mdash; This Edition contains (as no other does) all the <hi
+rend="italics">original illustrations</hi> by eminent English artists, &mdash; CRUIKSHANK, PHIZ, JOHN LEECH, SEYMOUR, CATTERMOLE, and others, &mdash; printed from the original plates, in which the spirit and delicacy of the early etchings are preserved.</p>
+<p>FINE SHAPE. &mdash; It is convenient and altogether comely in shape; the volumes are as handsome in form and external appearance as they are desirable on account of their beauty of type and illustration.</p>
+<p>CONTINUOUS PAGING. &mdash; Each volume is paged continuously, instead of having two or more series of pages, as in books made up of two or more separate volumes.</p>
+<p>CHEAPNESS. &mdash; This Edition is much cheaper than any other edition for the Library. It is published at the exceedingly low price of Two Dollars a volume.</p>
+<p>AUTHORIZED EDITION. &mdash; This Edition, which MR. DICKENS characterizes as &ldquo;The Best Edition of my Works,&rdquo; &mdash; together with the <hi
+rend="italics">Charles Dickens</hi> and <hi rend="italics">Diamond Editions,</hi> &mdash; is issued under the special authorization of MR. DICKENS, and <hi
+rend="italics">these are the only American Editions</hi> authorized by him, and in which he is pecuniarily interested.</p>
+<p>This Edition is complete in twenty-six volumes, as follows:&mdash; </p>
+<list>
+<item>The Pickwick Papers, 2 vols.</item>
+<item>Nicholas Nickleby, 2 vols.</item>
+<item>Our Mutual Friend, 2 vols.</item>
+<item>Great Expectations, 1 vol.</item>
+<item>Old Curiosity Shop, 2 vols.</item>
+<item>Barnaby Rudge, 2 vols.</item>
+<item>Oliver Twist, 1 vol.</item>
+<item>Sketches by &ldquo;Boz,&rdquo; 1 vol.</item>
+<item>David Copperfield, 2 vols.</item>
+<item>Martin Chuzzlewit, 2 vols.</item>
+<item>Little Dorrit, 2 vols.</item>
+<item>Dombey and Son, 2 vols.</item>
+<item>Bleak House, 2 vols.</item>
+<item>Christmas Books, 1 vol.</item>
+<item>Tale of Two Cities, 1 vol.</item>
+<item>Pictures from Italy, and American Notes, 1 vol.</item>
+</list><p>These volumes, elegantly bound in Green Morocco Cloth, are sold separately or in sets, at &dollar; 2.00 a volume: bound in Half Calf, &dollar; 96.00 a set.</p>
+<p><hi rend="italics">For sale by the Booksellers. Sent, free of cost, on receipt of price, by the Publishers,</hi></p>
+<p>TICKNOR AND FIELDS, Boston: <lb/>
+<hi rend="italics">and</hi> 63 <hi rend="italics">Bleecker Street, New York.</hi></p>
+</div1>
+<div1 type="section">
+<pb id="p25a" n="25"/>
+<head>THE <lb/>Charles Dickens<lb/> EDITION.</head>
+<p>OF THE COMPLETE WORKS OF <lb/> CHARLES DICKENS.</p>
+<p>THIS is an entirely New Edition, published simultaneously in London and Boston. It is produced with especial care, and combines, in a remarkable <sic
+corr="degree">degreee</sic>, LEGIBILITY, DURABILITY, BEAUTY, and CHEAPNESS. A distinguishing feature of this Edition &mdash; one that adds greatly to its convenience &mdash; is the attaching of a descriptive head-line by Mr. Dickens to every right-hand page. Each Novel is completed in a single volume.</p>
+<p>This Edition is printed in clear type, on fine toned paper, and is strongly bound in purple cloth. Every volume contains eight of the original Illustrations, selected as the best.</p>
+<p>The Edition bears a distinguishing fac-simile title, as represented above. It will be comprised in Thirteen or Fourteen Volumes, of which the following are <lb/> ALREADY ISSUED:</p>
+<list>
+<item>The Pickwick Papers.</item>
+<item>Nicholas Nickleby.</item>
+<item>Martin Chuzzlewit.</item>
+<item>Dombey and Son.</item>
+<item>David Copperfield.</item>
+</list><p>The remaining volumes will be issued at the rate of one or more 2 month until the set is completed.</p>
+<p>Price, One Dollar and Fifty Cents a Volume.</p>
+<p>For Sale by all the Booksellers. Sent postpaid on receipt of the price by the Publishers,</p>
+<p>TICKNOR AND FIELDS, Boston; <lb/>
+<hi rend="italics">and</hi> 63 <hi rend="italics">Bleecker Street, New York.</hi></p>
+</div1>
+</back>
+</text>
+</TEI.2>

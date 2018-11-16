@@ -1,0 +1,847 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI U5-1995//DTD TEI Lite//EN" "teixlite.dtd" [
+
+]>
+<TEI.2>
+<teiHeader type="3D">
+<fileDesc>
+<titleStmt>
+<title><emph>The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. XII:</emph>
+Electronic Edition.
+</title><author>Dickens, Charles, 1812-1870</author>
+
+<respStmt>
+<resp>Illustrated by </resp>
+<name>Pailthorpe, F. W. (Frederic W.)</name>
+<name>Seymour, Robert, 1798-1836.</name>
+<name>Buss, Robert William, 1804-1875.</name>
+<name>Browne, Hablot Knight, 1815-1882.</name>
+</respStmt>
+
+<funder>Funding from the  E. S. P. Das Educational Foundation supported the electronic publication of this title.</funder><respStmt>
+<resp>Text transcribed  by</resp>
+<name>Apex Data Services, Inc.</name>
+</respStmt>
+<respStmt><resp>Images scanned by</resp>
+<name>M. Brooke Phillips</name></respStmt><respStmt><resp>Text encoded by </resp>
+<name>Apex Data Services, Inc., Harris Henderson, and Jill Kuhn Sexton</name></respStmt></titleStmt>
+<editionStmt><edition>First edition, <date>2002</date></edition></editionStmt>
+<extent>ca.  125K</extent>
+<publicationStmt>
+<publisher>Academic Affairs Library, UNC-CH</publisher>
+<pubPlace>University of North Carolina at Chapel Hill, </pubPlace><date>2002.</date>
+
+<availability>
+<p>&copy; This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+</availability>
+</publicationStmt>
+
+
+<sourceDesc>
+
+<biblFull>
+<titleStmt>
+<title type="title page">The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. XII</title>
+<title type="cover"></title>
+
+<author>Boz</author>
+
+<respStmt><resp>Illustrations by</resp>
+<name>Phiz</name></respStmt>
+
+</titleStmt>
+
+<extent> 38 p., ill.</extent>
+
+<publicationStmt>
+<pubPlace>LONDON:</pubPlace>
+<publisher>CHAPMAN &amp; HALL, 186, STRAND.</publisher>
+<date>MDCCCXXXVI</date>
+<authority></authority>
+</publicationStmt>
+<notesStmt><note>Call number Dickens 13 pt. 12 (Rare Book Collection, University of North Carolina at Chapel Hill)</note></notesStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+<editorialDecl>
+
+<p>The text has been entered using double-keying and verified against the original. 
+The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+
+<p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+<p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+
+<p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+<p>All double right and left quotation marks are encoded as &rdquo; and &ldquo;
+respectively.</p>
+<p>All single right and left quotation marks are encoded as &rsquo; and &lsquo; respectively.</p>
+<p>All em dashes are encoded as &mdash;</p><p>Indentation in lines has not been preserved.</p>
+<p>Running titles have not been preserved.</p>
+<p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+</editorialDecl>
+
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+
+<language id="eng">English</language>
+
+<language id="fre">French</language>
+
+
+</langUsage>
+
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2002-12-04, </date><respStmt><name> Jill Kuhn Sexton, </name><resp></resp>
+</respStmt><item>finished TEI-conformant encoding and final proofing.</item>
+</change>
+<change>
+<date>2002-09-30, </date><respStmt><name>Harris Henderson</name>
+<resp></resp></respStmt><item> finished TEI/SGML encoding</item></change>
+<change><date>2002-08-01, </date>
+<respStmt><name>Apex Data Services, Inc.</name><resp></resp></respStmt>
+<item> finished transcribing the text.</item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<titlePage>
+<titlePart> No. XII.]</titlePart>
+
+<docEdition>[PRICE  1<hi rend="italics">s.</hi></docEdition>
+
+
+<docTitle><titlePart>THE <lb/> POSTHUMOUS PAPERS <lb/> OF THE <lb/> PICKWICK CLUB <lb/> CONTAINING A FAITHFUL RECORD OF THE <lb/> PERAMBULATIONS, PERILS, TRAVELS, ADVENTURES <lb/> AND <lb/> Sporting Transactions <lb/> OF THE CORRESPONDING MEMBERS. 
+</titlePart></docTitle>
+
+<docAuthor>
+EDITED BY &ldquo;BOZ.&rdquo;
+</docAuthor>
+
+<docEdition>WITH ILLUSTRATIONS.</docEdition>
+
+
+<docImprint>
+
+<pubPlace>LONDON:</pubPlace>
+<publisher>CHAPMAN &amp; HALL, 186, STRAND.</publisher>
+<docDate>MDCCCXXXVI</docDate>
+</docImprint>
+</titlePage>
+<div1 type="advertisement">
+<pb id="pii" n="ii"/>
+<head>SPLENDIDLY ILLUSTRATED VOLUME.</head>
+<p>In quarto, bound in a peculiarly elegant and novel manner, price 28<hi
+rend="italics">s.,</hi><lb/> THE PICTORIAL ALBUM, <lb/> OR <lb/> CABINET OF PAINTINGS, <lb/> FOR THE YEAR 1837.</p>
+<p>Containing Eleven Designs, executed in Oil-colours by G. BAXTER, and forming perfect Fac-similes of the original Pictures. With Letter-press Illustrations. The Poetry by MISS LONDON. The Prose by JAMES OLLIER, Esq.</p>
+<p>&ldquo;Of all the novelties of the season, this is <hi rend="italics">the</hi> novelty&mdash;a decided original, and, what is still better, as beautiful as it is new.&rdquo;&mdash;<hi
+rend="italics">Court Journal.</hi></p>
+<p>&ldquo;Unique, among the annual tribe, as regards its embellishments, which are the grand attraction. They have the appearance of highly-elaborated miniatures, executed with body colours, and mounted on tinted paper. The subjects are various, including landscapes, interiors, and figures, and the different style of each artist is imitated completely. The binding of the book is correspondingly novel and striking.&rdquo;&mdash;<hi
+rend="italics">Spectator.</hi></p>
+<p>&ldquo;The literature of the Pictorial Album is of high pretension, and of an elevated order; the tales are written with spirit, and the poetry is considerably superior to the average verse which we find in the Annuals.&rdquo;&mdash;<hi
+rend="italics">Atlas.</hi></p>
+</div1>
+<div1 type="advertisement">
+<p>Price 8<hi rend="italics">s.,</hi> containing Four Hundred pages of Letter-press, and Fourteen Illustrations, the First Volume of <lb/> THE LIBRARY OF FICTION, <lb/> OR <lb/> FAMILY STORY-TELLER.</p>
+<p>This cheap and entertaining volume, admirably adapted for fireside reading, contains Sketches and Tales written expressly for the work, by</p>
+<list>
+<item>&ldquo;BOZ.&rdquo;</item>
+<item>THE COUNTESS OF BLESSINGTON.</item>
+<item>SHERIDAN KNOWLES.</item>
+<item>E. MAYHEW, Author of &ldquo;Make your Wills.&rdquo;</item>
+<item>CHARLES OLLIER, Author of &ldquo;Inesilla.&rdquo;</item>
+<item>G. P. R. JAMES.</item>
+<item>MISS MITFORD.</item>
+<item>DOUGLAS JERROLD.</item>
+<item>C. WHITEHEAD, Author of the &ldquo;Cavalier.&rdquo;</item>
+<item>T. K. HERVEY.</item>
+<item>THE GENTLEMAN IN BLACK.</item>
+<item>AUTHOR OF RATTLIN THE REEFER.</item>
+</list>
+<p>&ldquo;This periodical has taken a more lofty, a more discursive, and consequently a much improved flight, and the latter numbers have contained some tales of a very high order.</p>
+<p>&ldquo;We should be doing an injustice to the publishers did we not remark, that in all the novelties that have yet appeared in the Library of Fiction, there is not one that has contained aught that might shock the purity of the most rigid moralist, or wound the feelings of the most serious Christian. It may safely be admitted into families.&rdquo;&mdash;<hi
+rend="italics">Metropolitan.</hi></p>
+</div1>
+<div1 type="advertisement">
+<opener>In two vols., small 8vo, with Frontispieces, price 9<hi rend="italics">s.</hi></opener>
+<head>EDWARD, THE CRUSADER'S SON.</head>
+<p>A Tale, illustrating the History, Manners, and Customs of England in the Eleventh Century <lb/> By MRS. BARWELL.</p>
+<p>&ldquo;The intelligent and accomplished lady who has written these volumes was urged to the undertaking by an idea that a tal founded on, and illustrating the manners, customs, architecture, and costume of the eleventh century, would be valuable, not only to the young, but to that class of instructors who disapprove of the too-stimulating pages of historical romance, and yet desire something more than dull details for their pupils. The task was difficult, but it has been fully conquered. Mrs. Barwell has proved herself worthy to take place amongst the most able of those who write for the benefit of the rising generation, and we most cordially recommend the volumes.&rdquo;&mdash;<hi
+rend="italics">New Monthly Magazine.</hi></p>
+<p>LONDON: CHAPMAN AND HALL, 186, STRAND.</p>
+</div1>
+</front>
+<body>
+<div1 type="section">
+<pb id="piii" n="iii"/>
+<p>
+<figure id="ill1">
+<p><hi rend="italics">Page 343</hi></p>
+</figure>
+</p>
+</div1>
+<div1 type="section">
+<pb id="piv" n="iv"/>
+<p>
+<figure id="ill2">
+<p><hi rend="italics">Page 358</hi></p>
+</figure>
+</p>
+</div1>
+<div1 type="text">
+<pb id="p339" n="339"/>
+
+<head>[POSTHUMOUS PAPERS OF THE PICKWICK CLUB]</head>
+
+<div2 type="chapter">
+
+<head>CHAPTER XXXII.</head>
+<head>
+MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS RESPECTING LITERARY COMPOSITION; AND, ASSISTED BY HIS SON SAMUEL, PAYS A SMALL INSTALMENT OF RETALIATION TO THE ACCOUNT OF THE REVEREND GENTLEMAN WITH THE RED NOSE.
+</head>
+<p>THE morning of the thirteenth of February, which the readers of this authentic narrative know, as well as we do, to have been the day immediately preceding that which was appointed for the trial of Mrs. Bardell's action, was a busy time for Mr. Samuel Weller, who was perpetually engaged in travelling from the George and Vulture to Mr. Perker's chambers and back again, from and between the hours of nine o'clock in the morning and two in the afternoon, both inclusive. Not that there was anything whatever to be done, for the consultation had taken place, and the course of proceeding to be adopted, had been finally determined on, but Mr. Pickwick being in a most extreme state of excitement, persevered in constantly sending small notes to his attorney, merely containing the enquiry, &ldquo;Dear Perker&mdash;Is all going on well?&rdquo; to which Mr. Perker invariably forwarded the reply, &ldquo;Dear Pickwick&mdash;As well as possible;&rdquo; the fact being as we have already hinted that there was nothing whatever to go on, either well or ill, until the sitting of the court on the following morning.</p>
+<p>But people who go voluntarily to law, or are taken forcibly there, for the first time, may be allowed to labour under some temporary irritation and anxiety: and Sam, with a due allowance for the frailties of human nature, obeyed all his master's behests with that imperturbable good humour and unruffable composure, which formed one of his most striking and amiable characteristics.</p>
+<p>Sam had solaced himself with a most agreeable little dinner, and was waiting at the bar for the glass of warm mixture in which Mr. Pickwick had requested him to drown the fatigues of his morning's walks, when a young boy of about three feet high, or thereabouts, in a hairy cap and fustian overalls, whose garb bespoke a laudable ambition to attain in time the elevation of an hostler, entered the passage of the George and Vulture, and looked first up the stairs, and then along the passage, and then into the bar, as if in search of somebody to whom he bore a commission; whereupon the barmaid, conceiving it not improbable that the said commission might be directed to the tea or table spoons of the establishment, accosted the boy with</p>
+<p>&ldquo;Now, young man, what do <hi rend="italics">you</hi> want?&rdquo;</p>
+<p>&ldquo;Is there anybody here, named Sam?&rdquo; inquired the youth, in a loud voice of treble quality.</p>
+<pb n="340" id="p340"/>
+<p>&ldquo;What's the t'other name?&rdquo; said Sam Weller, looking round.</p>
+<p>&ldquo;How should I know?&rdquo; briskly replied the young gentleman below the hairy cap.</p>
+<p>&ldquo;You're a sharp boy, you are,&rdquo; said Mr. Weller; &ldquo;only I wouldn't show that wery fine edge too much, if I was you, in case anybody took it off. What do you mean by comin' to a hot-el, and asking arter Sam, vith as much politeness as a vild Indian?&rdquo;</p>
+<p>&ldquo;'Cos an old gen'lm'n told me to,&rdquo; replied the boy.</p>
+<p>&ldquo;What old gen'lm'n?&rdquo; inquired Sam, with deep disdain.</p>
+<p>&ldquo;Him as drives a Ipswich coach, and uses our parlour&rdquo;&mdash;rejoined the boy. He told me yesterday mornin' to come to the George in Wultur this arternoon, and ask for Sam.&rdquo;</p>
+<p>&ldquo;It's my father, my dear&rdquo;&mdash;said Mr. Weller, turning with an explanatory air to the young lady in the bar; &ldquo;blessed if I think he hardly knows wot my other name is. Vell, young brockiley sprout, wot then?&rdquo;</p>
+<p>&ldquo;Why then,&rdquo; said the boy, &ldquo;you wos to come to him at six o'clock to our 'ouse 'cos he wants to see you&mdash;Blue Boar, Leaden'all Markit. Shall I say you're comin'?&rdquo;</p>
+<p>&ldquo;You <hi rend="italics">may</hi> wenture on that 'ere statement, Sir,&rdquo; replied Sam. And thus empowered, the young gentleman walked away, awakening all the echoes in George Yard as he did so, with several chaste and extremely correct imitations of a drover's whistle, delivered in a tone of peculiar richness and volume.</p>
+<p>Mr. Weller having obtained leave of absence from Mr. Pickwick, who, in his then state of excitement and worry was by no means displeased at being left alone, set forth long before the appointed hour; and having plenty of time at his disposal, sauntered down as far as the Mansion House, where he paused and contemplated, with a face of great calmness and philosophy, the numerous cads and drivers of short stages who assemble near that famous place of resort, to the great terror and confusion of the old-lady population of these realms. Having loitered here, for half an hour or so, Mr. Weller turned, and began wending his way towards Leadenhall Market, through a variety of bye streets and courts. As he was sauntering away his spare time, and stopped to look at almost every object that met his gaze, it is by no means surprising that Mr. Weller should have paused before a small stationer's and print-seller's window; but without further explanation it does appear surprising that his eyes should have no sooner rested on certain pictures which were exposed for sale therein, than he gave a sudden start, smote his right leg with great vehemence, and exclaimed with energy, &ldquo;If it hadn't been for this, I should ha' forgot all about it, till it was too late!&rdquo;</p>
+<p>The particular picture on which Sam Weller's eyes were fixed, as he said this, was a highly coloured representation of a couple of human hearts skewered together with an arrow, cooking before a cheerful fire, while a male and female cannibal in modern attire, the gentleman being clad in a blue coat and white trousers, and the lady in a deep red pelisse with a parasol of the same, were approaching the meal with hungry
+<pb n="341" id="p341"/>
+eyes, up a serpentine gravel path leading thereunto. A decidedly <sic corr="indelicate">inbelicate</sic> young gentleman, in a pair of wings and nothing else, was depicted as superintending the cooking; a representation of the spire of the church in Langham Place, appeared in the distance; and the whole formed a &ldquo;valentine,&rdquo; of which, as a written <sic
+corr="inscription">inscriptino</sic> in the window testified, there was a large assortment within, which the shopkeeper pledged himself to dispose of to his countrymen generally, at the reduced rate of one and sixpence each.</p>
+<p>&ldquo;I should ha' forgot it; I should certainly ha' forgot it!&rdquo; said Sam; and so saying, he at once stepped into the stationer's shop, and requested to be served with a sheet of the best gilt-edged letter-paper, and a hard-nibbed pen which could be warranted not to splutter. These articles having been promptly supplied, he walked on direct towards Leadenhall Market at a good round pace, very different from his recent lingering one. Looking round him, he there beheld a sign-board on which the painter's art had delineated something remotely resembling a cerulean elephant with an aquiline nose in lieu of trunk. Rightly conjecturing that this was the Blue Boar himself, he stepped into the house, and inquired concerning his parent.</p>
+<p>&ldquo;He won't be here this three quarters of an hour or more,&rdquo; said the young lady who superintended the domestic arrangements of the Blue Boar.</p>
+<p>&ldquo;Wery good, my dear,&rdquo; replied Sam. &ldquo;Let me have nine penn'orth o' brandy and water luke, and the inkstand, will you, miss?&rdquo;</p>
+<p>The brandy and water luke and the inkstand having been carried into the little parlour, and the young lady having carefully flattened down the coals to prevent their blazing, and carried away the poker to preclude the possibility of the fire being stirred, without the full privity and concurrence of the Blue Boar being first had and obtained, Sam Weller sat himself down in a box near the stove, and pulled out the sheet of gilt-edged letter-paper, and the hard-nibbed pen. Then, looking carefully at the pen to see that there were no hairs in it, and dusting down the table, so that there might be no crumbs of bread under the paper, Sam tucked up the cuffs of his coat, squared his elbows, and composed himself to write.</p>
+<p>To ladies and gentlemen who are not in the habit of devoting themselves practically to the science of penmanship, writing a letter is no very easy task, it being always considered necessary in such cases for the writer to recline his head on his left arm so as to place his eyes as nearly as possible on a level with the paper, and while glancing sideways at the letters he is constructing, to form with his tongue imaginary characters to correspond. These motions, although unquestionably of the greatest assistance to original composition, retard in some degree the progress of the writer, and Sam had unconsciously been a full hour and a half writing words in small text, smearing out wrong letters with his little finger, and putting in new ones which required going over very often to render them visible through the old blots, when he was roused by the opening of the door and the entrance of his parent.</p>
+<pb n="342" id="p342"/>
+<p>&ldquo;Vell, Sammy,&rdquo; said the father.</p>
+<p>&ldquo;Vell, my Prooshan Blue,&rdquo; responded the son, laying down his pen. &ldquo;What's the last bulletin about mother-in-law?&rdquo;</p>
+<p>&ldquo;Mrs. Veller passed a wery good night, but is uncommon perwerse, and unpleasant this mornin'&mdash;signed upon oath&mdash;S. Veller, Esquire, Senior. That's the last vun as was issued, Sammy,&rdquo; replied Mr. Weller, untying his shawl.</p>
+<p>&ldquo;No better yet?&rdquo; inquired Sam.</p>
+<p>&ldquo;All the symptoms aggerawated,&rdquo; replied Mr. Weller, shaking his head. &ldquo;But wot's that, you're a doin' of&mdash;pursuit of knowledge under difficulties&mdash;eh Sammy?&rdquo;</p>
+<p>&ldquo;I've done now,&rdquo; said Sam with slight embarrassment; &ldquo;I've been a writin'.&rdquo;</p>
+<p>&ldquo;So I see,&rdquo; replied Mr. Weller. &ldquo;Not to any young 'ooman, I hope, Sammy.&rdquo;</p>
+<p>&ldquo;Why it's no use a sayin' it ain't,&rdquo; replied Sam, &ldquo;It's a walentine.&rdquo;</p>
+<p>&ldquo;A what!&rdquo; exclaimed Mr. Weller, apparently horror-stricken by the word.</p>
+<p>&ldquo;A walentine,&rdquo; replied Sam.</p>
+<p>&ldquo;Samivel, Samivel,&rdquo; said Mr. Weller, in reproachful accents, &ldquo;I didn't think you'd ha' done it. Arter the warnin' you're had o' your father's wicious perpensities, arter all I've said to you upon this here wery subject; arter actiwally seein' and bein' in the company o' your own mother-in-law, vich I should ha' thought wos a moral lesson as no man could ever ha' forgotten to his dyin' day! I didn't think you'd ha' done it, Sammy, I didn't think you'd ha' done it.&rdquo; These reflections were too much for the good old man. He raised Sam's tumbler to his lips and drank off its contents.</p>
+<p>&ldquo;Wot's the matter now!&rdquo; said Sam.</p>
+<p>&ldquo;Nev'r mind, Sammy,&rdquo; replied Mr. Weller, &ldquo;it'll be a wery agonizin' trial to me at my time of life, but I'm pretty tough, that's vun consolation, as the wery old turkey remarked ven the farmer said he wos afeerd he should be obliged to kill him, for the London market.&rdquo;</p>
+<p>&ldquo;Wot'll be a trial?&rdquo; inquired Sam.</p>
+<p>&ldquo;To see you married, Sammy&mdash;to see you a dilluded wictim, and thinkin' in your innocence that it's all wery capital,&rdquo; replied Mr. Weller. &ldquo;It's a dreadful trial to a father's feelin's, that 'ere, Sammy.&rdquo;</p>
+<p>&ldquo;Nonsense,&rdquo; said Sam. &ldquo;I ain't a goin' to get married, don't you fret yourself about that; I know you're a judge o' these things. Order in your pipe, and I'll read you the letter&mdash;there.&rdquo;</p>
+<p>We cannot distinctly say whether it was the prospect of the pipe, or the consolatory reflection that a fatal disposition to get married ran in the family and couldn't be helped, which calmed Mr. Weller's feelings, and caused his grief to subside. We should be rather disposed to say that the result was attained by combining the two sources of consolation, for he repeated the second in a low tone, very frequently; ringing the bell meanwhile, to order in the first. He then divested himself of his upper coat; and lighting the pipe and placing himself in front of the fire with his back towards it, so that he could feel its full heat, and
+<pb n="343" id="p343"/>
+recline against the mantel-piece at the same time, turned towards Sam, and, with a countenance greatly mollified by the softening influence of tobacco, requested him to &ldquo;fire away.&rdquo;</p>
+<p>Sam dipped his pen into the ink to be ready for any corrections, and began with a very theatrical air&mdash;</p>
+<p>&ldquo;&lsquo;Lovely&mdash;.&rsquo;&rdquo;</p>
+<p>&ldquo;Stop,&rdquo; said Mr. Weller, ringing the bell. &ldquo;A double glass o' the inwariable, my dear.&rdquo;</p>
+<p>&ldquo;Very well, Sir,&rdquo; replied the girl; who with great quickness appeared, vanished, returned, and disappeared.</p>
+<p>&ldquo;They seem to know your ways here,&rdquo; observed Sam.</p>
+<p>&ldquo;Yes,&rdquo; replied his father, &ldquo;I've been here before, in my time. Go on, Sammy.&rdquo;</p>
+<p>&ldquo;&lsquo;Lovely creetur,&rsquo;&rdquo; repeated Sam.</p>
+<p>&ldquo;'Tain't in poetry, is it?&rdquo; interposed the father.</p>
+<p>&ldquo;No no,&rdquo; replied Sam.</p>
+<p>&ldquo;Werry glad to hear it,&rdquo; said Mr. Weller. &ldquo;Poetry's unnat'ral; no man ever talked in poetry 'cept a beadle on boxin' day, or Warren's blackin' or Rowland's oil, or some o' them low fellows; never you let yourself down to talk poetry, my boy. Begin again, Sammy.&rdquo;</p>
+<p>Mr. Weller resumed his pipe with critical solemnity, and Sam once more commenced, and read as follows.</p>
+<p>&ldquo;&lsquo;Lovely creetur i feel myself a dammed&rsquo;&mdash;.&rdquo;</p>
+<p>&ldquo;That ain't proper,&rdquo; said Mr. Weller, taking his pipe from his mouth.</p>
+<p>&ldquo;No; it aint dammed,&rdquo; observed Sam, holding the letter up to the light, &ldquo;it's &lsquo;shamed,&rsquo; there's a blot there&mdash;&lsquo;I feel myself ashamed.&rdquo;</p>
+<p>&ldquo;Wery good,&rdquo; said Mr. Weller. &ldquo;Go on.&rdquo;</p>
+<p>&ldquo;&lsquo;Feel myself ashamed, and completely cir&mdash;&rsquo; I forget wot this here word is,&rdquo; said Sam, scratching his head with the pen, in vain attempts to remember.</p>
+<p>&ldquo;Why don't you look at it, then?&rdquo; inquired Mr. Weller.</p>
+<p>&ldquo;So I <hi rend="italics">am</hi> a lookin' at it,&rdquo; replied Sam, &ldquo;but there's another blot: here's a &lsquo;c,&rsquo; and a &lsquo;i,&rsquo; and a &lsquo;d.&rsquo;&rdquo;</p>
+<p>&ldquo;Circumwented, p'raps,&rdquo; suggested Mr. Weller.</p>
+<p>&ldquo;No it ain't that,&rdquo; said Sam, &ldquo;circumscribed, that's it.&rdquo;</p>
+<p>&ldquo;That ain't as good a word as circumwented, Sammy,&rdquo; said Mr. Weller gravely.</p>
+<p>&ldquo;Think not?&rdquo; said Sam.</p>
+<p>&ldquo;Nothin' like it,&rdquo; replied his father.</p>
+<p>&ldquo;But don't you think it means more?&rdquo; inquired Sam.</p>
+<p>&ldquo;Vell p'raps it is a more tenderer word,&rdquo; said Mr. Weller, after a few moments' reflection. &ldquo;Go on, Sammy.&rdquo;</p>
+<p>&ldquo;&lsquo;Feel myself ashamed and completely circumscribed in a dressin' of you, for you <hi
+rend="italics">are</hi> a nice gal and nothin' but it.&rsquo;&rdquo;</p>
+<p>&ldquo;That's a wery pretty sentiment,&rdquo; said the elder Mr. Weller, removing his pipe to make way for the remark.</p>
+<p>&ldquo;Yes, I think it is rayther good,&rdquo; observed Sam, highly flattered.</p>
+<p>&ldquo;Wot I like in that 'ere style of writin',&rdquo; said the elder Mr
+<pb id="p344" n="344"/>
+Weller, &ldquo;is, that there ain't no callin' names in it,&mdash;no Wenuses, nor nothin' o' that kind; wot's the good o' callin' a young 'ooman a Wenus  or a angel, Sammy?&rdquo;</p>
+<p>&ldquo;Ah! what, indeed?&rdquo; replied Sam.</p>
+<p>&ldquo;You might jist as vell call her a griffin, or a unicorn, or a king's arms at once, which is wery vell known to be a col-lection o' fabulous animals,&rdquo; added Mr. Weller.</p>
+<p>&ldquo;Just as well,&rdquo; replied Sam.</p>
+<p>&ldquo;Drive on, Sammy,&rdquo; said Mr. Weller.</p>
+<p>Sam complied with the request, and proceeded as follows; his father continuing to smoke, with a mixed expression of wisdom and complacency, which was particularly edifying.</p>
+<p>&ldquo;&lsquo;Afore I see you I thought all women was alike.&rsquo;&rdquo;</p>
+<p>&ldquo;So they are,&rdquo; observed the elder Mr. Weller, parenthetically.</p>
+<p>&ldquo;&lsquo;But now,&rsquo; continued Sam, &lsquo;now I find what a reg'lar soft-headed, ink-red'lous turnip I must ha' been for there ain't nobody like you though <hi
+rend="italics">I</hi> like you better than nothin' at all.&rsquo; I thought it best to make that rayther strong,&rdquo; said Sam, looking up.</p>
+<p>Mr. Weller nodded approvingly, and Sam resumed.</p>
+<p>&ldquo;&lsquo;So I take the privilidge of the day, Mary, my dear&mdash;as the gen'lem'n in difficulties did, ven he valked out of a Sunday,&mdash;to tell you that the first and only time I see you your likeness was took on my hart in much quicker time and brighter colours than ever a likeness was took by the profeel macheen (wich p'r'aps you may have heerd on Mary my dear) altho it <hi
+rend="italics">does</hi> finish a portrait and put the frame and glass on complete with a hook at the end to hang it up by and all in two minutes and a quarter.&rsquo;&rdquo;</p>
+<p>&ldquo;I am afeerd that werges on the poetical, Sammy,&rdquo; said Mr. Weller, dubiously.</p>
+<p>&ldquo;No it don't,&rdquo; replied Sam, reading on very quickly, to avoid contesting the point.</p>
+<p>&ldquo;&lsquo;Except of me Mary my dear as your walentine and think over what I've said.&mdash;My dear Mary I will now conclude.&rsquo; That's all,&rdquo; said Sam.</p>
+<p>&ldquo;That's rayther a sudden pull up, ain't it, Sammy?&rdquo; inquired Mr. Weller.</p>
+<p>&ldquo;Not a bit on it,&rdquo; said Sam; &ldquo;she'll vish there wos more, and that's the great art o' letter writin'.&rdquo;</p>
+<p>&ldquo;Well,&rdquo; said Mr. Weller, &ldquo;there's somethin' in that; and I wish your mother-in-law 'ud only conduct her conwersation on the same gen-teel principle. Ain't you a goin' to sign it?&rdquo;</p>
+<p>&ldquo;That's the difficulty,&rdquo; said Sam; &ldquo;I don't know what <hi
+rend="italics">to</hi> sign it.&rdquo;</p>
+<p>&ldquo;Sign it&mdash;Veller,&rdquo; said the oldest surviving proprietor of that name.</p>
+<p>&ldquo;Won't do,&rdquo; said Sam. &ldquo;Never sign a walentine with your own name.&rdquo;</p>
+<p>&ldquo;Sign it &lsquo;Pickvick,&rsquo; then,&rdquo; said Mr. Weller; &ldquo;it's a wery good name, and a easy one to spell.&rdquo;</p>
+<pb n="345" id="p345"/>
+<p>&ldquo;The wery thing,&rdquo; said Sam. &ldquo;I <hi rend="italics">could</hi> end with a werse; what do you think?&rdquo;</p>
+<p>&ldquo;I don't like it, Sam,&rdquo; rejoined Mr. Weller. &ldquo;I never know'd a respectable coachman as wrote poetry, 'cept one, as made an affectin' copy o' werses the night afore he wos hung for a highway robbery; and <hi
+rend="italics">he</hi> wos only a Cambervell man, so even that's no rule.&rdquo;</p>
+<p>But Sam was not to be dissuaded from the poetical idea that had occurred to him, so he signed the letter&mdash;</p>
+<q>
+<p>&ldquo;Your love-sick</p><p>Pickwick.&rdquo;</p></q>
+<p>And having folded it, in a very intricate manner, squeezed a down-hill direction in one corner: &ldquo;To Mary, Housemaid, at Mr. Nupkins's Mayor's, Ipswich, Suffolk&rdquo;; and put it into his pocket, wafered, and ready for the General Post. This important business having been transacted, Mr. Weller the elder proceeded to open that, on which he had summoned his son.</p>
+<p>&ldquo;The first matter relates to your governor, Sammy,&rdquo; said Mr. Weller. &ldquo;He's a goin' to be tried to-morrow, ain't he?&rdquo;</p>
+<p>&ldquo;The trials a comin' on,&rdquo; replied Sam.</p>
+<p>&ldquo;Vell,&rdquo; said Mr. Weller, &ldquo;Now I s'pose he'll want to call some witnesses to speak to his character, or p'raps to prove a alleybi. I've been a turnin the bus'ness over in my mind, and he may make his-self easy, Sammy. I've got some friends as'll do either for him, but my adwice 'ud be this here&mdash;never mind the character, and stick to the alleybi. Nothing like a alleybi, Sammy, nothing.&rdquo; Mr. Weller looked very profound as he delivered this legal opinion; and burying his nose in his tumbler, winked over the top thereof, at his astonished son.</p>
+<p>&ldquo;Why, what do you mean?&rdquo; said Sam; &ldquo;you don't think he's a goin' to be tried at the Old Bailey, do you?&rdquo;</p>
+<p>&ldquo;That ain't no part of the present con-sideration, Sammy,&rdquo; replied Mr. Weller. &ldquo;Verever he's a goin' to be tried, my boy, a alleybi's the thing to get him off. Ve got Tom Vildspark off that 'ere manslaughter, with a alleybi, ven all the big vigs to a man said as nothing couldn't save him. And my 'pinion is, Sammy, that if your governor don't prove a alleybi, he'll be what the Italians call reg'larly flummoxed, and that's all about it.&rdquo;</p>
+<p>As the elder Mr. Weller entertained a firm and unalterable conviction that the Old Barley was the supreme court of judicature in this country, and that its rules and forms of proceeding regulated and controlled the practice of all other courts of justice whatsoever, he totally disregarded the assurances and arguments of his son, tending to show that the alibi was inadmissible; and vehemently protested that Mr. Pickwick was being &ldquo;wictimised.&rdquo; Finding that it was of no use to discuss the matter further, Sam changed the subject, and inquired what the second topic was, on which his revered parent wished to consult him.</p>
+<p>&ldquo;That's a pint o' domestic policy, Sammy,&rdquo; said Mr. Weller.</p>
+<p>&ldquo;This here Stiggins&mdash;&rdquo;</p>
+<p>&ldquo;Red-nosed man?&rdquo; inquired Sam.</p>
+<pb id="p346" n="346"/>
+<p>&ldquo;The wery same,&rdquo; replied Mr. Weller. &ldquo;This here red-nosed man, Sammy, wisits your mother-in-law vith a kindness and constancy as I never see equalled. He's sitch a friend o' the family, Sammy, that ven he's avay from us, he can't be comfortable unless he has somethin' to remember us by.&rdquo;</p>
+<p>&ldquo;And I'd give him somethin' as 'ud turpentine and bees'-vax his memory for the next ten years or so, if I wos you,&rdquo; interposed Sam.</p>
+<p>&ldquo;Stop a minute,&rdquo; said Mr. Weller; &ldquo;I wos a goin to say, he always brings now, a flat bottle as holds about a pint and ahalf, and fills it vith the pine-apple rum afore he goes avay.&rdquo;</p>
+<p>&ldquo;And empties it afore he comes back, I s'pose,&rdquo; said Sam.</p>
+<p>&ldquo;Clean!&rdquo; replied Mr. Weller; &ldquo;never leaves nothin' in it but the cork and the smell: trust him for that, Sammy. Now these here fellows, my boy, are a goin', to-night, to get up the monthly meetin' o' the Brick Lane Branch o' the United Grand Junction Ebenezer Temperance Association. Your mother-in-law <hi
+rend="italics">wos</hi> a goin', Sammy, but she's got the rheumatics, and can't; and I, Sammy,&mdash;I've got the two tickets as wos sent her.&rdquo; Mr. Weller communicated this secret with great glee, and winked so indefatigably after doing so, that Sam began to think he must have got the <foreign
+lang="fre"><hi rend="italics">tic doloureux</hi></foreign> in his right eye-lid.</p>
+<p>&ldquo;Well?&rdquo; said that young gentleman.</p>
+<p>&ldquo;Well,&rdquo; continued his progenitor, looking round him very cautiously, &ldquo;you and I'll go, punctiwal to the time. The deputy shepherd won't, Sammy; the deputy shepherd won't.&rdquo; Here Mr. Weller was seized with a paroxysm of chuckles, which gradually terminated in as near an approach to a choke, as an elderly gentleman can, with safety, sustain.</p>
+<p>&ldquo;Well, I never see sitch an old ghost in all my born days,&rdquo; exclaimed Sam, rubbing the old gentleman's back, hard enough to set him on fire with the friction. &ldquo;What are you a laughin' at, corpilence?&rdquo;</p>
+<p>&ldquo;Hush! Sammy,&rdquo; said Mr. Weller, looking round him with increased caution, and speaking in a whisper: &ldquo;Two friends o' mine, as works on the Oxford Road, and is up to all kinds o' games, has got the deputy shepherd safe in tow, Sammy; and ven he does come to the Ebenezer Junction, (vich he's sure to do: for they'll see him to the door, and shove him in if necessary) he'll be as far gone in rum and water, as ever he wos at the Markis o' Granby, Dorkin', and that's not sayin' a little either.&rdquo; And with this, Mr. Weller once more laughed immoderately, and once more relapsed into a state of partial suffocation, in consequence.</p>
+<p>Nothing could have been more in accordance with Sam Weller's feelings, than the projected exposure of the real propensities and qualities of the red-nosed man; and it being very near the appointed hour of meeting, the father and son took the way at once to Brick Lane: Sam not forgetting to drop his letter into a general post-office as they walked along.</p>
+<p>The monthly meetings of the Brick Lane Branch of the United Grand Junction Ebenezer Temperance Association, were held in a large room, pleasantly and airily situated at the top of a safe and commodious ladder. The president was the straight-walking Mr. Anthony
+<pb n="347" id="p347"/>
+Humm, a converted fireman, now a schoolmaster, and occasionally an itinerant preacher; and the secretary was Mr. Jonas Mudge, chandler's shop-keeper, an enthusiastic and disinterested vessel, who sold tea to the members. Previous to the commencement of business, the ladies sat upon forms, and drank tea, till such time as they considered it expedient to leave off; and a large wooden money-box was conspicuously placed upon the green baize cloth of the business table, behind which the secretary stood, and acknowledged, with a gracious smile, every addition to the rich vein of copper which lay concealed within.</p>
+<p>On this particular occasion the women drank tea to a most alarming extent; greatly to the horror of Mr. Weller senior, who, utterly regardless of all Sam's admonitory nudgings, stared about him in every direction with the most undisguised astonishment.</p>
+<p>&ldquo;Sammy,&rdquo; whispered Mr. Weller, &ldquo;if some o' these here people don't want tappin' to-morrow mornin', I ain't your father, and that's wot it is. Why, this here old lady next me is a drownin' herself in tea.&rdquo;</p>
+<p>&ldquo;Be quiet, can't you?&rdquo; murmured Sam.</p>
+<p>&ldquo;Sam,&rdquo; whispered Mr. Weller, a moment afterwards, in a tone of deep agitation, &ldquo;mark my vords, my boy: if that 'ere secretary feller keeps on for only five minutes more, he'll blow himself up with toast and water.&rdquo;</p>
+<p>&ldquo;Well, let him, if he likes,&rdquo; replied Sam; &ldquo;it ain't no bis'ness o' yourn.&rdquo;</p>
+<p>&ldquo;If this here lasts much longer, Sammy,&rdquo; said Mr. Weller, in the same low voice, &ldquo;I shall feel it my duty, as a human bein', to rise and address the cheer. There's a young 'oman on the next form but two, as has drank nine breakfast cups and a half; and she's a swellin' wisibly before my wery eyes.&rdquo;</p>
+<p>There is little doubt that Mr. Weller would have carried his benevolent intention into immediate execution, if a great noise, occasioned by putting up the cups and saucers, had not very fortunately announced that the tea-drinking was over. The crockery having been removed, the table with the green baize cover was carried out into the centre of the room, and the business of the evening was commenced by a little emphatic man, with a bald head, and drab shorts, who suddenly rushed up the ladder, at the imminent peril of snapping the two little legs encased in the drab shorts, and said:</p>
+<p>&ldquo;Ladies and gentlemen, I move our excellent brother, Mr. Anthony Humm, into the chair.&rdquo;</p>
+<p>The ladies waved a choice collection of pocket-handkerchiefs at this proposition; and the impetuous little man literally moved Mr. Humm into the chair, by taking him by the shoulders and thrusting him into a mahogany frame which had once represented that article of furniture. The waving of handkerchiefs was renewed; and Mr. Humm, who was a sleek, white-faced man, in a perpetual perspiration, bowed meekly, to the great admiration of the females, and formally took his seat. Silence was then proclaimed by the little man in the drab shorts, and Mr. Humm rose and said&mdash;That, with the permission of his Brick
+<pb n="348" id="p348"/>
+Lane Branch brothers and sisters, then and there present, the secretary would read the report of the Brick Lane Branch committee;&mdash;a proposition which was again received with a demonstration of pocket-handkerchiefs.</p>
+<p>The secretary having sneezed in a very impressive manner, and the cough which always seizes an assembly, when anything particular is going to be done, having been duly performed, the following document was read:</p>
+<q>
+<text>
+<body>
+<div1 type="quote">
+<head>&ldquo;REPORT OF THE COMMITTEE OF THE BRICK LANE BRANCH OF THE UNITED GRAND JUNCTION EBENEZER TEMPERANCE ASSOCIATION.</head>
+<p>&ldquo;Your committee have pursued their grateful labours during the past month, and have the unspeakable pleasure of reporting the following additional cases of converts to Temperance.</p>
+<p>&ldquo;H. Walker, tailor, wife, and two children. When in better circumstances, owns to having been in the constant habit of drinking ale and beer; says he is not certain whether he did not twice a week, for twenty years, taste &lsquo;dog's nose,&rsquo; which your committee find upon inquiry, to be compounded of warm porter, moist sugar, gin, and nutmeg (a groan, and &lsquo;So it is!&rsquo; from an elderly female). Is now out of work and pennyless; thinks it must be the porter (cheers) or the loss of the use of his right hand; is not certain which, but thinks it very likely that, if he had drank nothing but water all his life, his fellow workman would never have stuck a rusty needle in him, and thereby occasioned his accident (tremendous cheering). Has nothing but cold water to drink, and never feels thirsty (great applause).</p>
+<p>&ldquo;Betsy Martin, widow, one child, and one eye. Goes out charing and washing, by the day; never had more than one eye, but knows her mother drank bottled stout, and shouldn't wonder if that caused it (immense cheering). Thinks it not impossible that if she had always abstained from spirits, she might have had two eyes by this time (tremendous applause). Used, at every place she went to, to have eighteen pence a day, a pint of porter, and a glass of spirits; but since she became a member of the Brick Lane Branch, has always demanded three and sixpence instead (the announcement of this most interesting fact was received with deafening enthusiasm).</p>
+<p>&ldquo;Henry Beller was for many years toast-master at various corporation dinners, during which time he drank a great deal of foreign wine; may sometimes have carried a bottle or two home with him; is not quite certain of that, but is sure if he did, that he drank the contents. Feels very low and melancholy, is very feverish, and has a constant thirst upon him; thinks it must be the wine he used to drink (cheers). Is out of employ now; and never touches a drop of foreign wine by any chance (tremendous plaudits).</p>
+<p>&ldquo;Thomas Burton is purveyor of cat's-meat to the Lord Mayor and Sheriffs, and several members of the Common Council (the announcement of this gentleman's name was received with breathless interest). Has a wooden leg; finds a wooden leg expensive going over the stones; used to wear second-hand wooden legs, and drink a glass of hot gin and
+<pb id="p349" n="349"/>
+water regularly every night&mdash;sometimes two (deep sighs). Found the second-hand wooden legs split and rot very quickly; is firmly persuaded that their constitution was undermined by the gin and water (prolonged cheering). Buys new wooden legs now, and drinks nothing but water and weak tea. The new legs last twice as long as the others used to do, and he attributes this solely to his temperate habits (triumphant cheers).&rdquo;</p>
+</div1>
+</body>
+</text>
+</q>
+<p>Anthony Humm now moved that the assembly do regale itself with a song. With a view to their rational and moral enjoyment, brother Mordlin had adapted the beautiful words of &ldquo;Who hasn't heard of a Jolly Young Waterman?&rdquo; to the tune of the Old Hundredth, which he would request them to join  him in singing (great applause). He might take that opportunity of expressing his firm persuasion that the late Mr. Dibdin, seeing the errors of his former life, had written that song to show the advantages of abstinence. It was a Temperance song (whirlwinds of cheers). The neatness of the interesting young man's attire, the dexterity of his feathering, the enviable state of mind which enabled him, in the beautiful words of the poet, to</p>
+<q><p>&ldquo;Row along, thinking of nothing at all,&rdquo;</p></q>
+<p>all combined to prove that he must have been a water-drinker (cheers). Oh, what a state of virtuous jollity! (rapturous cheering.) And what was the young man's reward? Let all young men present mark this:</p>
+<q><p>&ldquo;The maidens all flock'd to his boat so readily.&rdquo;</p></q>
+<p>(Loud cheers, in which the ladies joined.) What a bright example! The sisterhood, the maidens, flocking round the young waterman, and urging him along the path of duty and of temperance. But, was it the maidens of humble life only, who soothed, consoled, and supported him? No!</p>
+<q><p>&ldquo;He was always first oars with the fine city ladies.&rdquo;</p></q>
+<p>(Immense cheering). The soft sex to a man&mdash;he begged pardon, to a female&mdash;rallied round the young waterman, and turned with disgust from the drinker of spirits (cheers). The Brick Lane Branch brothers were watermen (cheers and laughter). That room was their boat; that audience were the maidens; and he (Mr. Anthony Humm), however <sic
+corr="unworthily">unworthiiy</sic>, was &ldquo;firstoars&rdquo; (unbounded applause).</p>
+<p>&ldquo;Wot does he mean by the soft sex, Sammy?&rdquo; inquired Mr. Weller, in a whisper.</p>
+<p>&ldquo;The womin,&rdquo; said Sam, in the same tone.</p>
+<p>&ldquo;He ain't far out there, Sammy,&rdquo; replied Mr. Weller; &ldquo;they <hi
+rend="italics">must</hi> be a soft sex,&mdash;a wery soft sex, indeed, if they let themselves be gammoned by such fellers as him.&rdquo;</p>
+<p>Any further observations from the indignant old gentleman were cut short by the commencement of the song, which Mr. Anthony Humm gave out, two lines at a time, for the information of such of his hearers
+<pb n="350" id="p350"/>
+as were unacquainted with the legend. While it was being sung, the little man with the drab shorts disappeared; he returned immediately on its conclusion, and whispered Mr. Anthony Humm, with a face of the deepest importance.</p>
+<p>&ldquo;My friends,&rdquo; said Mr. Humm, holding up his hand in a deprecatory manner, to bespeak the silence of such of the stout old ladies as were yet a line or two behind; &ldquo;my friends, a delegate from the Dorking branch of our society, Brother Stiggins, attends below.&rdquo;</p>
+<p>Out came the pocket-handkerchiefs again, in greater force than ever, for Mr. Stiggins was excessively popular among the female constituency of Brick Lane.</p>
+<p>&ldquo;He may approach, I think,&rdquo; said Mr. Humm, looking round him, with a fat smile. &ldquo;Brother Tadger, let him come forth and greet us.&rdquo;</p>
+<p>The little man in the drab shorts who answered to the name of Brother Tadger, bustled down the ladder with great speed, and was immediately afterwards heard tumbling up with the reverend Mr. Stiggins.</p>
+<p>&ldquo;He's a comin', Sammy,&rdquo; whispered Mr. Weller, purple in the countenance with suppressed laughter.</p>
+<p>&ldquo;Don't say nothin' to me,&rdquo; replied Sam, &ldquo;for I can't bear it. He's close to the door. I hear him a-knockin' his head again the lath and plaster now.&rdquo;</p>
+<p>As Sam Weller spoke, the little door flew open, and brother Tadger appeared, closely followed by the reverend Mr. Stiggins, who no sooner entered, then there was a great clapping of hands, and stamping of feet, and flourishing of handkerchiefs; to all of which manifestations of delight, Brother Stiggins returned no other acknowledgment than staring with a wild eye and a fixed smile, at the extreme top of the wick of the candle on the table: swaying his body to and fro, meanwhile, in a very unsteady and uncertain manner.</p>
+<p>&ldquo;Are you unwell, brother Stiggins?&rdquo; whispered Mr. Anthony Humm.</p>
+<p>&ldquo;I am all right, Sir,&rdquo; replied Mr. Stiggins, in a tone in which ferocity was blended with an extreme thickness of utterance; &ldquo;I am all right, Sir.&rdquo;</p>
+<p>&ldquo;Oh, very well,&rdquo; rejoined Mr. Anthony Humm, retreating a few paces.</p>
+<p>&ldquo;I believe no man here, has ventured to say that I am <hi
+rend="italics">not</hi> all right, Sir,&rdquo; said Mr. Stiggins.</p>
+<p>&ldquo;Oh, certainly not,&rdquo; said Mr. Humm.</p>
+<p>&ldquo;I should advise him not to, Sir; I should advise him not,&rdquo; said Mr. Stiggins.</p>
+<p>By this time the audience were perfectly silent, and waited with some anxiety for the resumption of business.</p>
+<p>&ldquo;Will you address the meeting, brother?&rdquo; said Mr. Humm, with a smile of invitation.</p>
+<p>&ldquo;No, Sir,&rdquo; rejoined Mr. Stiggins; &ldquo;No Sir. I will not, Sir.&rdquo;</p>
+<p>The meeting looked at each other with raised eye-lids, and a murmur of astonishment ran through the room.</p>
+<pb n="351" id="p351"/>
+<p>&ldquo;It's my opinion, Sir,&rdquo; said Mr. Stiggins, unbuttoning his coat, and speaking very loudly; &ldquo;it's my opinion, Sir, that this meeting is drunk, Sir. Brother Tadger, Sir,&rdquo; said Mr. Stiggins, suddenly increasing in ferocity, and turning sharp round on the little man in the drab shorts, &ldquo;<hi
+rend="italics">you</hi> are drunk, Sir.&rdquo; With this, Mr. Stiggins, entertaining a praiseworthy desire to promote the sobriety of the meeting, and to exclude therefrom all improper characters, hit brother Tadger on the summit of the nose with such unerring aim, that the drab shorts disappeared like a flash of lightning. Brother Tadger had been knocked, head first, down the ladder.</p>
+<p>Upon this, the women set up a loud and dismal screaming; and rushing in small parties before their favourite brothers, flung their arms round them to preserve them from danger. An instance of affection, which had nearly proved fatal to Humm, who, being extremely popular, was all but suffocated by the crowd of female devotees that hung about his neck, and heaped caresses upon him; the greater part of the lights were quickly put out, and nothing but noise and confusion resounded on all sides.</p>
+<p>&ldquo;Now Sammy,&rdquo; said Mr. Weller, taking off his great coat with much deliberation, &ldquo;just you step out, and fetch in a watchman.&rdquo;</p>
+<p>&ldquo;And wot are you a goin' to do, the while?&rdquo; inquired Sam.</p>
+<p>&ldquo;Never you mind me, Sammy,&rdquo; replied the old gentleman; &ldquo;I shall ockipy myself in havin' a small settlement with that 'ere Stiggins.&rdquo; And before Sam could interfere to prevent it, his heroic parent had penetrated into a remote corner of the room, and attacked the reverend Mr. Stiggins with manual dexterity.</p>
+<p>&ldquo;Come off,&rdquo; said Sam.</p>
+<p>&ldquo;Come on,&rdquo; cried Mr. Weller; and without further invitation he gave the reverend Mr. Stiggins a preliminary tap on the head, and began dancing round him in a buoyant and cork-like manner, which in a gentleman at his time of life was a perfect marvel to behold.</p>
+<p>Finding all remonstrances unavailing, Sam pulled his hat firmly on, threw his father's coat over his arm, and taking the old man round the waist, forcibly dragged him down the ladder, and into the street; never releasing his hold, or permitting him to stop, until they reached the corner. As they gained it, they could hear the shouts of the populace, who were witnessing the removal of the reverend Mr. Stiggins to strong lodgings for the night, and hear the noise occasioned by the dispersion in various directions of the Members of the Brick Lane Branch of the United Grand Junction Ebenezer Temperance Association.</p>
+</div2>
+<div2 type="chapter">
+<pb n="352" id="p352"/>
+<head>CHAPTER XXXIII.</head>
+<head>
+IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE MEMORABLE TRIAL OF BARDELL AGAINST PICKWICK.
+</head>
+<p>&ldquo;I wonder what the foreman of the jury, whoever he'll be, has got for breakfast,&rdquo; said Mr. Snodgrass, by way of keeping up a conversation on the eventful morning of the fourteenth of February.</p>
+<p>&ldquo;Ah!&rdquo; said Perker, &ldquo;I hope he's got a good one.&rdquo;</p>
+<p>&ldquo;Why so?&rdquo; inquired Mr. Pickwick.</p>
+<p>&ldquo;Highly important&mdash;very important, my dear Sir,&rdquo; replied Perker. &ldquo;A good, contented, well-breakfasted juryman, is a capital thing to get hold of. Discontented or hungry jurymen, my dear Sir, always find for the plaintiff.&rdquo;</p>
+<p>&ldquo;Bless my heart,&rdquo; said Mr. Pickwick, looking very blank; &ldquo;what do they do that for?&rsquo;</p>
+<p>&ldquo;Why, I don't know,&rdquo; replied the little man, coolly; &ldquo;saves time, I suppose. If it's near dinner-time, the foreman takes out his watch when the jury have retired, and says, &lsquo;Dear me, gentlemen, ten minutes to five, I declare! I dine at five, gentlemen.&rsquo; &lsquo;So do I,&rsquo; says every body else, except two men who ought to have dined at three, and seem more than half disposed to stand out in consequence. The foreman smiles, and puts up his watch:&mdash;&lsquo;Well, gentlemen, what do we say?&mdash;plaintiff or defendant, gentlemen? I rather think so far as I am concerned, gentlemen,&mdash;I say, I rather think,&mdash;but don't let that influence you&mdash;I <hi
+rend="italics">rather</hi> think the plaintiff's the man.&rsquo; Upon this, two or three other men are sure to say that they think so too&mdash;as of course they do; and then they get on very unanimously and comfortably. Ten minutes past nine!&rdquo; said the little man, looking at his watch. &ldquo;Time we were off, my dear Sir; breach of promise trial&mdash;court is generally full in such cases. You had better ring for a coach, my dear Sir, or we shall be rather late.&rdquo;</p>
+<p>Mr. Pickwick immediately rang the bell, and a coach having been procured, the four Pickwickians and Mr. Perker ensconced themselves therein, and drove to Guildhall; Sam Weller, Mr. Lowten, and the blue bag, following in a cab.</p>
+<p>&ldquo;Lowten,&rdquo; said Perker, when they reached the outer hall of the court, &ldquo;put Mr. Pickwick's friends in the students' box; Mr. Pickwick himself had better sit by me. This way, my dear Sir,&mdash;this way;&rdquo; and taking Mr. Pickwick by the coat-sleeve, the little man led him to the low seat just beneath the desks of the King's Counsel, which is constructed for the convenience of attorneys, who from that spot can whisper into the ear of the leading counsel in the case, any instructions that may be necessary during the progress of the trial. The occupants of this seat are invisible to the great body of spectators, inasmuch as they sit on a much lower level than either the barristers or the audience, whose seats are raised above the floor. Of course they have their backs to both, and their faces towards the judge.</p>
+<pb id="p353" n="353"/>
+<p>&ldquo;That's the witness-box, I suppose?&rdquo; said Mr. Pickwick, pointing to a kind of pulpit, with a brass rail, on his left hand.</p>
+<p>&ldquo;That's the witness-box, my dear Sir,&rdquo; replied Perker, disinterring a quantity of papers from the blue bag, which Lowten had just deposited at his feet.</p>
+<p>&ldquo;And that,&rdquo; said Mr. Pickwick, pointing to a couple of enclosed seats on his right, &ldquo;that's where the jurymen sit, is it not?&rdquo;</p>
+<p>&ldquo;The identical place, my dear Sir,&rdquo; replied Perker, tapping the lid of his snuff-box.</p>
+<p>Mr. Pickwick stood up in a state of great agitation, and took a glance at the court. There were already a pretty large sprinkling of spectators in the gallery, and a numerous muster of gentlemen in wigs in the barristers' seats, who presented, as a body, all that pleasing and extensive variety of nose and whisker for which the bar of England is so justly celebrated. Such of the gentlemen as had got a brief to carry, carried it in as conspicuous a manner as possible, and occasionally scratched their noses therewith, to impress the fact more strongly on the observation of the spectators. Other gentlemen, who had no briefs to show, carried under their arms goodly octavos, with a red label behind, and that under-done-pie-crust-coloured cover, which is technically known as &ldquo;law calf.&rdquo; Others, who had neither briefs nor books, thrust their hands into their pockets, and looked as wise as they conveniently could; while others, again, moved here and there with great restlessness and earnestness of manner, content to awaken thereby, the admiration and astonishment of the uninitiated strangers. The whole, to the great wonderment of Mr. Pickwick, were divided into little groups, who were chatting and discussing the news of the day in the most unfeeling manner possible,&mdash;just as if no trial at all were coming on.</p>
+<p>A bow from Mr. Phunky, as he entered, and took his seat behind the row appropriated to the King's Counsel, attracted Mr. Pickwick's attention; and he had scarcely returned it, when Mr. Sergeant Snubbin appeared, followed by Mr. Mallard, who half hid the Sergeant behind a large crimson bag, which he placed on his table, and, after shaking hands with Perker, withdrew. Then there entered two or three more Sergeants, and among them, one with a fat body and a red face, who nodded in a friendly manner to Mr.&rsquo; Sergeant Snubbin, and said it was a fine morning.</p>
+<p>&ldquo;Who's that red-faced man, who said it was a fine morning, and nodded to our counsel?&rdquo; whispered Mr. Pickwick.</p>
+<p>&ldquo;Mr. Sergeant Buzfuz,&rdquo; replied Perker. &ldquo;He's opposed to us; he leads on the other side. That gentleman behind him, is Mr. Skimpin, his junior.&rdquo;</p>
+<p>Mr. Pickwick was just on the point of inquiring, with great abhorrence of the man's cold-blooded villainy, how Mr. Sergeant Buzfuz, who was counsel for the opposite party, dared to presume to tell Mr. Sergeant Snubbin, who was counsel for him, that it was a fine morning,&mdash;when he was interrupted by a general rising of the barristers, and a loud cry of. &ldquo;Silence!&rdquo; from the officers of the court. Looking round, he found that this was caused by the entrance of the judge.</p>
+<pb n="354" id="p354"/>
+<p>Mr. Justice Stareleigh (who sat in the absence of the Chief Justice, occasioned by indisposition,) was a most particularly short man, and so fat, that he seemed all face and waistcoat. He rolled in, upon two little turned legs, and having bobbed gravely to the bar, who bobbed gravely to him, put his little legs underneath his table, and his little three-cornered hat upon it; and when Mr. Justice Stareleigh had done this, all you could see of him was two queer little eyes, one broad pink face, and somewhere about half of a big and very comical-looking wig.</p>
+<p>The judge had no sooner taken his seat, than the officer on the floor of the court called out &ldquo;Silence!&rdquo; in a commanding tone, upon which another officer in the gallery cried &ldquo;Silence!&rdquo; in an angry manner, whereupon three or four more ushers shouted &ldquo;Silence!&rdquo; in a voice of indignant remonstrance. This being done, a gentleman in black, who sat below the judge, proceeded to call over the names of the jury; and after a great deal of bawling, it was discovered that only ten special jurymen were present. Upon this, Mr. Sergeant Buzfuz prayed a <hi
+rend="italics">tales;</hi> the gentleman in black then proceeded to press into the special jury two of the common jurymen; and a green-grocer and a chemist were caught directly.</p>
+<p>&ldquo;Answer to your names, gentlemen, that you may be sworn,&rdquo; said the gentleman in black. &ldquo;Richard Upwitch.&rdquo;</p>
+<p>&ldquo;Here,&rdquo; said the green-grocer.</p>
+<p>&ldquo;Thomas Groffin.&rdquo;</p>
+<p>&ldquo;Here,&rdquo; said the chemist.</p>
+<p>&ldquo;Take the book, gentlemen. You shall well and truly try&mdash;&rdquo;</p>
+<p>&ldquo;I beg this court's pardon,&rdquo; said the chemist, who was a tall, thin, yellow-visaged man, &ldquo;but I hope this court will excuse my attendance.&rsquo;</p>
+<p>&ldquo;On what grounds, Sir?&rdquo; said Mr. Justice Stareleigh.</p>
+<p>&ldquo;I have no assistant, my Lord,&rdquo; said the chemist.</p>
+<p>&ldquo;I can't help that, Sir,&rdquo; replied Mr. Justice Stareleigh. &ldquo;You should hire one.&rdquo;</p>
+<p>&ldquo;I can't afford it, my Lord,&rdquo; rejoined the chemist.</p>
+<p>&ldquo;Then you ought to be able to afford it, Sir,&rdquo; said the Judge, reddening; for Mr. Justice Stareleigh's temper bordered on the irritable, and brooked not contradiction.</p>
+<p>&ldquo;I know I <hi rend="italics">ought</hi> to do, if I got on as well as I deserved, but I don't, my Lord,&rdquo; answered the chemist.</p>
+<p>&ldquo;Swear the gentleman,&rdquo; said the Judge, peremptorily.</p>
+<p>The officer had got no further than the &ldquo;You shall well and truly try,&rdquo; when he was again interrupted by the chemist.</p>
+<p>&ldquo;I am to be sworn, my Lord, am I?&rdquo; said the chemist.</p>
+<p>&ldquo;Certainly, Sir,&rdquo; replied the testy little Judge.</p>
+<p>&ldquo;Very well, my Lord,&rdquo; replied the chemist in a resigned manner. &ldquo;Then there'll be murder before this trial's over; that's all. Swear me if you please, Sir;&rdquo; and sworn the chemist was, before the Judge could find words to utter.</p>
+<p>&ldquo;I merely wanted to observe, my Lord,&rdquo; said the chemist, taking his seat with great deliberation, &ldquo;that I've left nobody but an errand-boy in my shop. He is a very nice boy, my Lord, but he is not much acquainted with drugs; and I know that the prevailing impression on his
+<pb n="355" id="p355"/>
+mind is, that Epsom salts means oxalic acid; and syrup of senna, laudanum. That's all, my Lord.&rdquo; With this, the tall chemist composed himself into a comfortable attitude, and, assuming a pleasant expression of countenance, appeared to have prepared himself for the worst.</p>
+<p>Mr. Pickwick was regarding the chemist with feelings of the deepest horror, when a slight sensation was perceptible in the body of the court; and immediately afterwards Mrs. Bardell, supported by Mrs. Cluppins, was led in, and placed, in a drooping state, at the other end of the seat on which Mr. Pickwick sat. An extra sized umbrella was then handed in by Mr. Dodson, and a pair of pattens by Mr. Fogg, each of whom had prepared a most sympathising and melancholy face for the occasion. Mrs. Sanders then appeared, leading in Master Bardell. At sight of her child, Mrs. Bardell started; suddenly recollecting herself, she kissed him in a frantic manner; and then relapsing into a state of hysterical imbecility, the good lady requested to be informed where she was. In reply to this, Mrs. Cluppins and Mrs. Sanders turned their heads away and wept, while Messrs. Dodson and Fogg intreated the plaintiff to compose herself. Sergeant Buzfuz rubbed his eyes very hard with a large white handkerchief, and gave an appealing look towards the jury, while the Judge was visibly affected, and several of the beholders tried to cough down their emotions.</p>
+<p>&ldquo;Very good notion that, indeed,&rdquo; whispered Perker to Mr. Pickwick. &ldquo;Capital fellows those Dodson and Fogg; excellent ideas of effect, my dear Sir, excellent.&rdquo;</p>
+<p>As Perker spoke, Mrs. Bardell began to recover by slow degrees, while Mrs. Cluppins, after a careful survey of Master Bardell's buttons and the button-holes to which they severally belonged, placed him on the floor of the court in front of his mother,&mdash;a commanding position in which he could not fail to awaken the full commiseration and sympathy of both Judge and jury. This was not done without considerable opposition, and many tears on the part of the young gentleman himself, who had certain inward misgivings that the placing him within the full glare of the Judge's eye was only a formal prelude to his being immediately ordered away for instant execution, or for transportation beyond the seas during the whole term of his natural life, at the very least.</p>
+<p>&ldquo;Bardell and Pickwick,&rdquo; cried the gentleman in black, calling on the case, which stood first on the list.</p>
+<p>&ldquo;I am for the plaintiff, my Lord,&rdquo; said Mr. Sergeant Buzfuz.</p>
+<p>&ldquo;Who is with you, brother Buzfuz?&rdquo; said the Judge. Mr. Skimpin bowed, to intimate that he was.</p>
+<p>&ldquo;I appear for the defendant, my Lord,&rdquo; said Mr. Sergeant Snubbin.</p>
+<p>&ldquo;Anybody with you, brother Snubbin?&rdquo; inquired the court.</p>
+<p>&ldquo;Mr. Phunky, my Lord,&rdquo; replied Sergeant Snubbin.</p>
+<p>&ldquo;Sergeant Buzfuz and Mr. Skimpin for the plaintiff,&rdquo; said the Judge, writing down the names in his note-book, and reading as he wrote; &ldquo;for the defendant, Sergeant Snubbin and Mr. Monkey.&rdquo;</p>
+<p>&ldquo;Beg your Lordship's pardon, Phunky.&rdquo;</p>
+<p>&ldquo;Oh, very good,&rdquo; said the Judge; &ldquo;I never had the pleasure of hearing the gentleman's name before.&rdquo; Here Mr. Phunky bowed and
+<pb n="356" id="p356"/>
+smiled, and the Judge bowed and smiled too, and then Mr. Phunky, blushing into the very whites of his eyes, tried to look as if he didn't know that everybody was gazing at him, a thing which no man ever succeeded in doing yet, and in all reasonable probability, never will.</p>
+<p>&ldquo;Go on,&rdquo; said the judge.</p>
+<p>The ushers again called silence, and Mr. Skimpin proceeded to &ldquo;open the case;&rdquo; and the case appeared to have very little inside it when he had opened it, for he kept such particulars as he knew, completely to himself, and sat down, after a lapse of three minutes, leaving the jury in precisely the same advanced stage of wisdom as they were in before.</p>
+<p>Sergeant Buzfuz then rose with all the majesty and dignity which the grave nature of the proceedings demanded, and having whispered to Dodson, and conferred briefly with Fogg, pulled his gown over his shoulders, settled his wig, and addressed the jury.</p>
+<p>Sergeant Buzfuz began by saying, that never, in the whole course of his professional experience&mdash;never, from the very first moment of his applying himself to the study and practice of the law&mdash;had he approached a case with feelings of such deep emotion, or with such a heavy sense of the responsibility imposed upon him&mdash;a responsibility, he would say, which he could never have supported, were he not buoyed up and sustained by a conviction so strong, that it amounted to positive certainty that the cause of truth and justice, or, in other words, the cause of his much-injured and most oppressed client, must prevail with the high-minded and intelligent dozen of men whom he now saw in that box before him.</p>
+<p>Counsel always begin in this way, because it puts the jury on the very best terms with themselves, and makes them think what sharp fellows they must be. A visible effect was produced immediately, several jurymen beginning to take voluminous notes with the utmost eagerness.</p>
+<p>&ldquo;You have heard from my learned friend, gentlemen&rdquo;&mdash;continued Sergeant Buzfuz, well knowing that, from the learned friend alluded to, the gentlemen of the jury had heard just nothing at all&mdash;&ldquo;you have heard from my learned friend, gentlemen, that this is an action for a breach of promise of marriage, in which the damages are laid at 1500<hi
+rend="italics">l.</hi> But you have not heard from my learned friend, inasmuch as it did not come within my learned friend's province to tell you, what are the facts and circumstances of the case. Those facts and circumstances, gentlemen, you shall hear detailed by me, and proved by the unimpeachable female whom I will place in that box before you.&rdquo;</p>
+<p>Here Mr. Sergeant Buzfuz, with a tremendous emphasis on the word &ldquo;box,&rdquo; smote his table with a mighty sound, and glanced at Dodson and Fogg, who nodded admiration of the sergeant, and indignant defiance of the defendant.</p>
+<p>&ldquo;The plaintiff, gentlemen,&rdquo; continued Sergeant Buzfuz, in a soft and melancholy voice, &ldquo;the plaintiff is a widow; yes, gentlemen, a widow. The late Mr. Bardell, after enjoying, for many years, the esteem and confidence of his sovereign, as one of the guardians of his royal revenues, glided almost imperceptibly from the world, to seek
+<pb n="357" id="p357"/>
+elsewhere for that repose and peace which a custom-house can never afford.&rdquo;</p>
+<p>At this pathetic description of the decease of Mr. Bardell, who had been knocked on the head with a quart-pot in a public-house cellar, the learned sergeant's voice faltered, and he proceeded with great emotion&mdash;</p>
+<p>&ldquo;Some time before his death, he had stamped his likeness upon a little boy. With this little boy, the only pledge of her departed exciseman, Mrs. Bardell shrunk from the world, and courted the retirement and tranquillity of Goswell-street; and here she placed in her front parlour-window a written placard, bearing this inscription&mdash;&lsquo;Apartments furnished for a single gentleman. Enquire within.&rsquo; &rdquo; Here Sergeant Buzfuz paused, while several gentlemen of the jury took a note of the document.</p>
+<p>&ldquo;There is no date to that, is there, Sir?&rdquo; enquired a juror.</p>
+<p>&ldquo;There is no date, gentlemen,&rdquo; replied Sergeant Buzfuz; &ldquo;but I am instructed to say that it was put in the plaintiff's parlour-window just this time three years. I entreat the attention of the jury to the wording of this document&mdash;&lsquo;Apartments furnished for a single gentleman!&rsquo; Mrs. Bardell's opinions of the opposite sex, gentlemen, were derived from a long contemplation of the inestimable qualities of her lost husband. She had no fear&mdash;she had no distrust&mdash;she had no suspicion&mdash;all was confidence and reliance. &lsquo;Mr. Bardell,&rsquo; said the widow; &lsquo;Mr. Bardell was a man of honour&mdash;Mr. Bardell was a man of his word&mdash;Mr. Bardell was no deceiver&mdash;Mr. Bardell was once a single gentleman himself; to single gentlemen I look for protection, for assistance, for comfort, and for consolation&mdash;in single gentlemen I shall perpetually see something to remind me of what Mr. Bardell was, when he first won my young and untried affections; to a single gentleman, then, shall my lodging be let.&rsquo; Actuated by this beautiful and touching impulse, (among the best impulses of our imperfect nature, gentlemen,) the lonely and desolate widow dried her tears, furnished her first floor, caught her innocent boy to her maternal bosom, and put the bill up in her parlour window. Did it remain there long? No. The serpent was on the watch, the train was laid, the mine was preparing, the sapper and miner was at work. Before the bill had been in the parlour-window three days&mdash;three days, gentlemen&mdash;a being, erect upon two legs, and bearing all the outward semblance of a man, and not of a monster, knocked at the door of Mrs. Bardell's house. He enquired within; he took the lodgings; and on the very next day he entered into possession of them. This man was Pickwick&mdash;Pickwick, the defendant.&rdquo;</p>
+<p>Sergeant Buzfuz, who had proceeded with such volubility that his face was perfectly crimson, here paused for breath. The silence awoke Mr. Justice Stareleigh, who immediately wrote down something with a pen without any ink in it, and looked unusually profound, to impress the jury with the belief that he always thought most deeply with his eyes shut. Sergeant Buzfuz proceeded.</p>
+<p>&ldquo;Of this man Pickwick I will say little; the subject presents but
+<pb id="p358" n="358"/>
+few attractions; and I, gentlemen, am not the man, nor are you, gentlemen, the men, to delight in the contemplation of revolting heartlessness, and of systematic villany.&rdquo;</p>
+<p>Here Mr. Pickwick, who had been writhing in silence for some time, gave a violent start, as if some vague idea of assaulting Sergeant Buzfuz, in the august presence of justice and law, suggested itself to his mind. An admonitory gesture from Perker restrained him, and he listened to the learned gentleman's continuation with a look of indignation, which contrasted forcibly with the admiring faces of Mrs. Cluppins and Mrs. Sanders.</p>
+<p>&ldquo;I say systematic villany, gentlemen,&rdquo; said Sergeant Buzfuz, looking through Mr. Pickwick, and talking <hi
+rend="italics">at</hi> him; &ldquo;and when I say systematic villany, let me tell the defendant, Pickwick, if he be in court, as I am informed he is, that it would have been more decent in him, more becoming, in better judgment and in better taste, if he had stopped away. Let me tell him, gentlemen, that any gestures of dissent or disapprobation in which he may indulge in this court will not go down with you; that you will know how to value and how to appreciate them; and let me tell him further, as my lord will tell you, gentlemen, that a counsel, in the discharge of his duty to his client, is neither to be intimidated nor bullied, nor put down; and that any attempt to do either the one or the other, or the first, or the last, will recoil on the head of the attempter, be he plaintiff or be he defendant, be his name Pickwick, or Noakes, or Stoakes, or Stiles, or Brown, or Thompson.&rdquo;</p>
+<p>This little divergence from the subject in hand, had of course the intended effect of turning all eyes to Mr. Pickwick. Sergeant Buzfuz, having partially recovered from the state of moral elevation into which he had lashed himself, resumed&mdash;</p>
+<p>&ldquo;I shall show you, gentlemen, that for two years Pickwick continued to reside constantly, and without interruption or intermission, at Mrs. Bardell's house. I shall show you that Mrs. Bardell, during the whole of that time, waited on him, attended to his comforts, cooked his meals, looked out his linen for the washerwoman when it went abroad, darned, aired, and prepared it for wear, when it came home, and, in short, enjoyed his fullest trust and confidence. I shall show you that, on many occasions, he gave halfpence, and on some occasions even six-pences, to her little boy; and I shall prove to you, by a witness whose testimony it will be impossible for my learned friend to weaken or controvert, that on one occasion he patted the boy on the head, and, after enquiring whether he had won any <hi
+rend="italics">alley tors or commoneys</hi> lately (both of which I understand to be a particular species of marbles much prized by the youth of this town), made use of this remarkable expression&mdash;&lsquo;How should you like to have another father?&rsquo; I shall prove to you farther, gentlemen, that about a year ago, Pickwick suddenly began to absent himself from home, during long intervals, as if with the intention of gradually breaking off from my client; but I shall show you also, that his resolution was not at that time sufficiently strong, or that his better feelings conquered, if better feelings he has&mdash;or that the charms and accomplishments of my client prevailed
+<pb n="359" id="p359"/>
+over his unmanly intentions, by proving to you, that on one occasion, when he returned from the country, he distinctly and in terms, offered her marriage: previously however, taking special care that there should be no witnesses to their solemn contract; and I am in a situation to prove to you, on the testimony of three of his own friends,&mdash;most unwilling witnesses, gentlemen&mdash;most unwilling witnesses&mdash;that on that morning he was discovered by them holding the plaintiff in his arms, and soothing her agitation by his caresses and endearments.&rdquo;</p>
+<p>A visible impression was produced upon the auditors by this part of the learned sergeant's address. Drawing forth two very small scraps of paper, he proceeded&mdash;</p>
+<p>&ldquo;And now, gentlemen, but one word more. Two letters have passed between these parties, letters which are admitted to be in the handwriting of the defendant, and which speak volumes indeed. These letters, too, bespeak the character of the man. They are not open, fervent, eloquent epistles, breathing nothing but the language of affectionate attachment. They are covert, sly, underhanded communications, but, fortunately, far more conclusive than if couched in the most glowing language and the most poetic imagery&mdash;letters that must be viewed with a cautious and suspicious eye&mdash;letters that were evidently intended at the time, by Pickwick, to mislead and delude any third parties into whose hands they might fall. Let me read the first:&mdash;&lsquo;Garraway's, twelve o'clock.&mdash;Dear Mrs. B.&mdash;Chops and Tomata sauce. Yours, PICKWICK.&rsquo; Gentlemen, what does this mean? Chops and Tomata sauce. Yours, Pickwick! Chops! Gracious heavens! and Tomata sauce! Gentlemen, is the happiness of a sensitive and confiding female to be trifled away, by such shallow artifices as these? The next has no date whatever, which is in itself suspicious.&mdash;&lsquo;Dear Mrs. B., I shall not be at home till to-morrow. Slow coach.&rsquo; And then follows this very remarkable expression&mdash;&lsquo;Dont trouble yourself about the warming-pan.&rsquo; The warming-pan! Why, gentlemen, who <hi
+rend="italics">does</hi> trouble himself about a warming-pan? When was the peace of mind of man or woman broken or disturbed by a warming-pan, which is in itself a harmless, a useful, and I will add, gentlemen, a comforting article of domestic furniture? Why is Mrs. Bardell so earnestly entreated not to agitate herself about this warming-pan, unless (as is no doubt the case) it is a mere cover for hidden fire&mdash;a mere substitute for some endearing word or promise, agreably to a preconcerted system of correspondence, artfully contrived by Pickwick with a view to his <sic
+corr="contemplated">comtemplated</sic> desertion, and which I am not in a condition to explain? And what does this allusion to the slow coach mean? For aught I know, it may be a reference to Pickwick himself, who has most unquestionably been a criminally slow coach during the whole of this transaction, but whose speed will now be very unexpectedly accelerated, and whose wheels, gentlemen, as he will find to his cost, will very soon be greased by you!&rdquo;</p>
+<p>Mr. Sergeant Buzfuz paused in this place, to see whether the jury smiled at his joke; but as nobody took it but the green grocer, whose sensitiveness on the subject was very probably occasioned by his having
+<pb id="p360" n="360"/>
+subjected a chaise-cart to the process in question on that identical morning, the learned sergeant considered it advisable to undergo a slight relapse into the dismals before he concluded.</p>
+<p>&ldquo;But enough of this, gentlemen,&rdquo; said Mr. Sergeant Buzfuz, &ldquo;it is difficult to smile with an aching heart; it is ill jesting when our deepest sympathies are awakened. My client's hopes and prospects are ruined, and it is no figure of speech to say that her occupation is gone indeed. The bill is down&mdash;but there is no tenant. Eligible single gentlemen pass and repass&mdash;but there is no invitation for them to enquire within, or without. All is gloom and silence in the house; even the voice of the child is hushed; his infant sports are disregarded when his mother weeps; his &lsquo;<foreign
+lang="fre">alley tors</foreign>&rsquo; and his &lsquo;commoneys&rsquo; are alike neglected; he forgets the long familiar cry of &lsquo;knuckle down,&rsquo; and at tip-cheese, or odd and even, his hand is out. But Pickwick, gentlemen, Pickwick, the ruthless destroyer of this domestic oasis in the desert of Goswell-street&mdash;Pickwick, who has choaked up the well, and thrown ashes on the sward&mdash;Pickwick, who comes before you today with his heartless tomata sauce and warming pans &mdash; Pickwick still rears his head with unblushing effrontery, and gazes without a sigh on the ruin he has made. Damages, gentlemen&mdash;heavy damages is the only punishment with which you can visit him; the only recompence you can award to my client. And for those damages she now appeals to an enlightened, a high-minded, a right-feeling, a conscientious, a dispassionate, a sympathising, a contemplative jury of her civilized countrymen.&rdquo; With this beautiful peroration, Mr. Serjeant Buzfuz sat down, and Mr. Justice Stareleigh woke up.</p>
+<p>&ldquo;Call Elizabeth Cluppins,&rdquo; said Sergeant Buzfuz, rising a minute afterwards, with renewed vigour.</p>
+<p>The nearest usher called for Elizabeth Tuppins; another one, at a little distance off, demanded Elizabeth Jupkins; and a third rushed in a breathless state into King-street, and screamed for Elizabeth Muffins till he was hoarse.</p>
+<p>Meanwhile Mrs. Cluppins, with the combined assistance of Mrs. Bardell, Mrs. Sanders, Mr. Dodson, and Mr. Fogg, was hoisted into the witness-box; and when she was safely perched on the top step, Mrs. Bardell stood on the bottom one, with the pocket-handkerchief and pattens in one hand, and a glass bottle that might hold about a quarter of a pint of smelling salts in the other, ready for any emergency. Mrs. Sanders, whose eyes were intently fixed on the judge's face, planted herself close by, with the large umbrella: keeping her right thumb pressed on the spring with an earnest countenance, as if she were fully prepared to put it up at a moment's notice.</p>
+<p>&ldquo;Mrs. Cluppins,&rdquo; said Sergeant Buzfuz, &ldquo;pray compose yourself, ma'am;&rdquo; and, of course, directly Mrs. Cluppins was desired to compose herself she sobbed with increased vehemence, and gave divers alarming manifestations of an approaching fainting fit, or, as she afterwards said, of her feelings being too many for her.</p>
+<p>&ldquo;Do you recollect, Mrs. Cluppins?&rdquo; said Sergeant Buzfuz, after a few unimportant questions&mdash;&ldquo;do you recollect being in Mrs. Bardell's
+<pb n="361" id="p361"/>
+back one pair of stairs, on one particular morning in July last, when she was dusting Mr. Pickwick's apartment?&rdquo;</p>
+<p>&ldquo;Yes, my Lord and Jury, I do,&rdquo; replied Mrs. Cluppins.</p>
+<p>&ldquo;Mr. Pickwick's sitting-room was the first-floor front, I believe?</p>
+<p>&ldquo;Yes, it were, Sir,&rdquo; replied Mrs. Cluppins.</p>
+<p>&ldquo;What were you doing in the back room, ma'am?&rdquo; inquired the little Judge.</p>
+<p>&ldquo;My Lord and Jury,&rdquo; said Mrs. Cluppins, with interesting agitation, &ldquo;I will not deceive you.&rdquo;</p>
+<p>&ldquo;You had better not, ma'am,&rdquo; said the little Judge.</p>
+<p>&ldquo;I was there,&rdquo; resumed Mrs. Cluppins, &ldquo;unbeknown to Mrs. Bardell; I had been out with a little basket, gentlemen, to buy three pound of red kidney pertaties, which was three pound tuppense ha'penny, when I see Mrs. Bardell's street door on the jar.&rdquo;</p>
+<p>&ldquo;On the what? exclaimed the little Judge.</p>
+<p>&ldquo;Partly open, my lord,&rdquo; said Sergeant Snubbin.</p>
+<p>&ldquo;She <hi rend="italics">said</hi> on the jar,&rdquo; said the little Judge, with a cunning look.</p>
+<p>&ldquo;It's all the same, my lord,&rdquo; said Sergeant Snubbin. The little Judge looked doubtful, and said he'd make a note of it. Mrs. Cluppins then resumed&mdash;</p>
+<p>&ldquo;I walked in, gentlemen, just to say good mornin', and went in a permiscuous manner up stairs, and into the back room. Gentlemen, there was the sound of voices in the front room, and&mdash;&rdquo;</p>
+<p>&ldquo;And you listened, I believe, Mrs. Cluppins,&rdquo; said Sergeant Buzfuz.</p>
+<p>&ldquo;Beggin' your pardon, sir,&rdquo; replied Mrs. Cluppins, in a majestic manner, &ldquo;I would scorn the haction. The voices was very loud, sir, and forced themselves upon my ear.&rdquo;</p>
+<p>&ldquo;Well, Mrs. Cluppins, you were not listening, but you heard the voices. Was one of those voices Mr. Pickwick's?</p>
+<p>&ldquo;Yes, it were, sir.&rdquo;</p>
+<p>And Mrs. Cluppins, after distinctly stating that Mr. Pickwick addressed himself to Mrs. Bardell, repeated by slow degrees, and by dint of many questions, the conversation with which our readers are already acquainted.</p>
+<p>The Jury looked suspicious, and Mr. Sergeant Buzfuz smiled and sat down. They looked positively awful when Sergeant Snubbin intimated that he should not cross-examine the witness, for Mr. Pickwick wished it to be distinctly stated that it was due to her to say, that her account was in substance correct.</p>
+<p>Mrs. Cluppins having once broken the ice, thought it a very favourable opportunity of entering into a short dissertation on her own domestic affairs; so she straightway proceeded to inform the court that she was the mother of eight children at that present speaking, and that she entertained confident expectations of presenting Mr. Cluppins with a ninth, somewhere about that day six months. At this interesting point, the little judge interposed most irascibly; and the effect of the interposition was, that both the worthy lady and Mrs. Sanders were politely taken out of court, under the escort of Mr. Jackson, without further parley.</p>
+<pb n="362" id="p362"/>
+<p>&ldquo;Nathaniel Winkle,&rdquo; said Mr. Skimpin.</p>
+<p>&ldquo;Here!&rdquo; replied a feeble voice. And Mr. Winkle entered the witness-box, and having been duly sworn, bowed to the judge with considerable deference.</p>
+<p>&ldquo;Don't look at me, Sir,&rdquo; said the judge, sharply, in acknowledgment of the salute; &ldquo;look at the jury.&rdquo;</p>
+<p>Mr. Winkle obeyed the mandate, and looked at the place where he thought it most probable the jury might be; for seeing anything in his then state of intellectual complication was wholly out of the question.</p>
+<p>Mr. Winkle was then examined by Mr. Skimpin, who, being a promising young man of two or three and forty, was of course anxious to confuse a witness who was notoriously predisposed in favour of the other side, as much as he could.</p>
+<p>&ldquo;Now, Sir,&rdquo; said Mr. Skimpin, &ldquo;have the goodness to let his Lordship and the jury know what your name is, will you?&rdquo; And Mr. Skimpin inclined his head on one side to listen with great sharpness to the answer, and glanced at the jury meanwhile, as if to imply that he rather expected Mr. Winkle's natural taste for perjury would induce him to give some name which did not belong to him.</p>
+<p>&ldquo;Winkle,&rdquo; replied the witness.</p>
+<p>&ldquo;What's your Christian name, Sir?&rdquo; angrily inquired the little judge.</p>
+<p>&ldquo;Nathaniel, Sir.&rdquo;</p>
+<p>&ldquo;Daniel,&mdash;any other name?&rdquo;</p>
+<p>&ldquo;Nathaniel, Sir&mdash;my Lord, I mean.&rdquo;</p>
+<p>&ldquo;Nathaniel Daniel, or Daniel Nathaniel?&rdquo;</p>
+<p>&ldquo;No, my Lord, only Nathaniel&mdash;not Daniel at all.&rdquo;</p>
+<p>&ldquo;What did you tell me it was Daniel for, then, Sir?&rdquo; inquired the judge.</p>
+<p>&ldquo;I didn't, my Lord,&rdquo; replied Mr. Winkle.</p>
+<p>&ldquo;You did, Sir,&rdquo; replied the judge, with a severe frown. &ldquo;How could I have got Daniel on my notes, unless you told me so, Sir?&rdquo;</p>
+<p>This argument was, of course, unanswerable.</p>
+<p>&ldquo;Mr. Winkle has rather a short memory, my Lord,&rdquo; interposed Mr. Skimpin, with another glance at the jury. &ldquo;We shall find means to refresh it before we have quite done with him, I dare say.&rdquo;</p>
+<p>&ldquo;You had better be careful, Sir,&rdquo; said the little judge, with a sinister look at the witness.</p>
+<p>Poor Mr. Winkle bowed, and endeavoured to feign an easiness of manner, which, in his then state of confusion, gave him rather the air of a disconcerted pickpocket.</p>
+<p>&ldquo;Now, Mr. Winkle,&rdquo; said Mr. Skimpin, &ldquo;attend to me, if you please, Sir; and let me recommend you, for your own sake, to bear in mind his  Lordship's injunctions to be careful. I believe you are a particular friend of Mr. Pickwick, the defendant, are you not?&rdquo;</p>
+<p>&ldquo;I have known Mr. Pickwick now, as well as I recollect at this moment, nearly&mdash;&rdquo;</p>
+<p>&ldquo;Pray, Mr. Winkle, do not evade the question. Are you, or are you not, a particular friend of the defendant's?&rdquo;</p>
+<pb n="363" id="p363"/>
+<p>&ldquo;I was just about to say, that&mdash;&rdquo;</p>
+<p>&ldquo;Will you, or will you not, answer my question, Sir?&rdquo;</p>
+<p>&ldquo;If you don't answer the question, you'll be committed, Sir,&rdquo; interposed the little judge, looking over his note-book.</p>
+<p>&ldquo;Come, Sir,&rdquo; said Mr. Skimpin, &ldquo;yes or no, if you please.&rdquo;</p>
+<p>&ldquo;Yes, I am,&rdquo; replied Mr. Winkle.</p>
+<p>&ldquo;Yes, you are. And why couldn't you say that at once, Sir? Perhaps you know the plaintiff too&mdash;eh, Mr. Winkle?&rdquo;</p>
+<p>&ldquo;I don't know her; I've seen her.&rdquo;</p>
+<p>&ldquo;Oh, you don't know her, but you've seen her? Now, have the goodness to tell the gentlemen of the jury what you mean by <hi
+rend="italics">that,</hi> Mr. Winkle.&rdquo;</p>
+<p>&ldquo;I mean that I am not intimate with her, but that I have seen her when I went to call on Mr. Pickwick, in Goswell-street.&rdquo;</p>
+<p>&ldquo;How often have you seen her, Sir?&rdquo;</p>
+<p>&ldquo;How often?&rdquo;</p>
+<p>&ldquo;Yes, Mr. Winkle, how often? I'll repeat the question for you a dozen times, if you require it, Sir.&rdquo; And the learned gentleman, with a firm and steady frown, placed his hands on his hips, and smiled suspiciously to the jury.</p>
+<p>On this question there arose the edifying brow-beating, customary on such points. First of all, Mr. Winkle said it was quite impossible for him to say how many times he had seen Mrs. Bardell. Then he was asked if he had seen her twenty times, to which he replied, &ldquo;Certainly,&mdash;more than that.&rdquo; And then he was asked whether he hadn't seen her a hundred times&mdash;whether he couldn't swear that he had seen her more than fifty times&mdash;whether he didn't know that he had seen her at least seventy-five times, and so forth; the satisfactory conclusion which was arrived at, at last, being&mdash;that he had better take care of himself, and mind what he was about. The witness having been by these means reduced to the requisite ebb of nervous perplexity, the examination was continued as follows&mdash;</p>
+<p>&ldquo;Pray, Mr. Winkle, do you remember calling on the defendant Pickwick at these apartments in the plaintiff's house in Goswell-street, on one particular morning, in the month of July last?&rdquo;</p>
+<p>&ldquo;Yes, I do.&rdquo;</p>
+<p>&ldquo;Were you accompanied on that occasion by a friend of the name of Tupman, and another of the name of Snodgrass?&rdquo;</p>
+<p>&ldquo;Yes, I was?&rdquo;</p>
+<p>&ldquo;Are they here?&rdquo;</p>
+<p>&ldquo;Yes, they are&rdquo;&mdash;replied Mr. Winkle, looking very earnestly towards the spot where his friends were stationed.</p>
+<p>&ldquo;Pray attend to me, Mr. Winkle, and never mind your friends&rdquo;&mdash;said Mr. Skimpkin, with another expressive look at the jury. &ldquo;They must tell their stories without any previous consultation with you, if none has yet taken place (another look at the jury). Now, Sir, tell the gentlemen of the jury what you saw on entering the defendant's room, on this particular morning. Come; out with it, Sir; we must have it, sooner or later.&rdquo;</p>
+<pb n="364" id="p364"/>
+<p>&ldquo;The defendant, Mr. Pickwick, was holding the plaintiff in his arms, with his hands clasping her waist,&rdquo; replied Mr. Winkle with natural hesitation, &ldquo;and the plaintiff appeared to have fainted away.&rdquo;</p>
+<p>&ldquo;Did you hear the defendant say anything?&rdquo;</p>
+<p>&ldquo;I heard him call Mrs. Bardell a good creature, and I heard him ask her to compose herself, for what a situation it was, if any body should come, or words to that effect.&rdquo;</p>
+<p>&ldquo;Now, Mr. Winkle, I have only one more question to ask you, and I beg you to bear in mind his lordship's caution. Will you undertake to swear that Pickwick, the defendant, did not say on the occasion in question&mdash;&lsquo;My dear Mrs. Bardell, you're a good creature; compose yourself to this situation, for to this situation you must come, or words to <hi
+rend="italics">that</hi> effect?&rsquo; &rdquo;</p>
+<p>&ldquo;I&mdash;I didn't understand him so, certainly,&rdquo; said Mr. Winkle, astounded at this ingenious dove-tailing of the few words he had heard. &ldquo;I was on the staircase, and couldn't hear distinctly; the impression on my mind is&mdash;&rdquo;</p>
+<p>&ldquo;The gentlemen of the jury want none of the impressions on your mind, Mr. Winkle, which I fear would be of little service to honest, straight-forward men,&rdquo; interposed Mr. Skimpin. &ldquo;You were on the staircase, and didn't distinctly hear; but you will not swear that Pickwick did not make use of the expressions I have quoted? Do I understand that?&rdquo;</p>
+<p>&ldquo;No I will not,&rdquo; replied Mr. Winkle; and down sat Mr. Skimpin with a triumphant countenance.</p>
+<p>Mr. Pickwick's case had not gone off in so particularly happy a mannor, up to this point, that it could very well afford to have any additional suspicion cast upon it. But as it could afford to be placed in a rather better light, if possible, Mr. Phunky rose for the purpose of getting something important out of Mr. Winkle in cross-examination. Whether he did get anything important out of him, will immediately appear.</p>
+<p>&ldquo;I believe, Mr. Winkle,&rdquo; said Mr. Phunky, &ldquo;that Mr. Pickwick is not a young man?&rdquo;</p>
+<p>&ldquo;Oh no,&rdquo; replied Mr. Winkle; &ldquo;old enough to be my father?&rdquo;</p>
+<p>&ldquo;You have told my learned friend that you have known Mr. Pickwick a long time. Had you ever any reason to suppose or believe that he was about to be married?&rdquo;</p>
+<p>&ldquo;Oh no; certainly not;&rdquo; replied Mr. Winkle with so much eagerness, that Mr. Phunky ought to have got him out of the box with all possible dispatch. Lawyers hold that there are two kinds of particularly bad witnesses, a reluctant witness, and a too-willing witness; it was Mr. Winkle's fate to figure in both characters.</p>
+<p>&ldquo;I will even go further than this, Mr. Winkle,&rdquo; continued Mr. Phunky in a most smooth and complacent manner. &ldquo;Did you ever see any thing in Mr. Pickwick's manner and conduct towards the opposite sex to induce you to believe that he ever contemplated matrimony of late years, in any case?&rdquo;</p>
+<p>&ldquo;Oh no; certainly not,&rdquo; replied Mr. Winkle.</p>
+<pb n="365" id="p365"/>
+<p>&ldquo;Has his behaviour, when females have been in the case, always been that of a man, who, having attained a pretty advanced period of life, content with his own occupations and amusements, treats them only as a father might his daughters?&rdquo;</p>
+<p>&ldquo;Not the least doubt of it,&rdquo; replied Mr. Winkle, in the fulness of his heart. &ldquo;That is&mdash;yes&mdash;oh yes&mdash;certainly.&rdquo;</p>
+<p>&ldquo;You have never known any thing in his behaviour towards Mrs. Bardell, or any other female, in the least degree suspicious?&rdquo; said Mr. Phunky, preparing to sit down, for Sergeant Snubbin was winking at him.</p>
+<p>&ldquo;N&mdash;n&mdash;no,&rdquo; replied Mr. Winkle, &ldquo;except on one trifling occasion, which, I have no doubt, might be easily explained.&rdquo;</p>
+<p>Now, if the unfortunate Mr. Phunky had sat down when Sergeant Snubbin winked at him, or if Sergeant Buzfuz had stopped this irregular cross-examination at the outset (which he knew better than to do; observing Mr. Winkle's anxiety, and well knowing it would, in all probability, lead to something serviceable to him), this unfortunate admission would not have been elicited. The moment the words fell from Mr. Winkle's lips, Mr. Phunky sat down, and Sergeant Snubbin rather hastily told him he might leave the box, which Mr. Winkle prepared to do with great readiness, when Sergeant Buzfuz stopped him.</p>
+<p>&ldquo;Stay, Mr. Winkle&mdash;stay,&rdquo; said Sergeant Buzfuz, &ldquo;will your lordship have the goodness to ask him, what this one instance of suspicious behaviour towards females on the part of this gentleman, who is old enough to be his father, was?&rdquo;</p>
+<p>&ldquo;You hear what the learned counsel says, Sir,&rdquo; observed the judge, turning to the miserable and agonized Mr. Winkle. &ldquo;Describe the occasion to which you refer.&rdquo;</p>
+<p>&ldquo;My lord,&rdquo; said Mr. Winkle, trembling with anxiety, &ldquo;I&mdash;I'd rather not.&rdquo;</p>
+<p>&ldquo;Perhaps so,&rdquo; said the little judge; &ldquo;but you must.&rdquo;</p>
+<p>Amid the profound silence of the whole court, Mr. Winkle faltered out, that the trifling circumstance of suspicion was Mr. Pickwick's being found in a lady's sleeping apartment at midnight, which had terminated, he believed, in the breaking off of the projected marriage of the lady in question, and led, he knew, to the whole party being forcibly carried before George Nupkins, Esq., magistrate and justice of the peace, for the borough of Ipswich?&rdquo;</p>
+<p>&ldquo;You may leave the box, Sir,&rdquo; said Sergeant Snubbin. Mr. Winkle <hi
+rend="italics">did</hi> leave the box, and rushed with delirious haste to the George and Vulture, where he was discovered some hours after, by the waiter, groaning in a hollow and dismal manner, with his head buried beneath the sofa cushions.</p>
+<p>Tracy Tupman, and Augustus Snodgrass, were severally called into the box; both corroborated the testimony of their unhappy friend; and each was driven to the verge of desperation by excessive badgering.</p>
+<pb n="366" id="p366"/>
+<p>Susannah Sanders was then called, and examined by Sergeant Buzfuz, and cross-examined by Sergeant Snubbin. Had always said and believed that Mr. Pickwick would marry Mrs. Bardell; knew that Mrs. Bardell's being engaged to Mr. Pickwick was the current topic of conversation in the neighbourhood, after the fainting in July; had been told it herself by Mrs. Mudberry which kept a mangle, and Mrs. Bunkin which clear-starched, but did not see either Mrs. Mudberry or Mrs. Bunkin in court. Had heard Mr. Pickwick ask the little boy how he should like to have another father. Did not know that Mrs. Bardell was at that time keeping company with the baker, but did know that the baker was then a single man and is now married. Couldn't swear that Mrs. Bardell was not very fond of the baker, but should think that the baker was not very fond of Mrs. Bardell, or he wouldn't have married somebody else. Thought Mrs. Bardell fainted away on the morning in July, because Mr. Pickwick asked her to name the day; knew that she (witness) fainted away stone dead when Mr. Sanders asked <hi
+rend="italics">her</hi> to name the day, and believed that every body as called herself a lady would do the same, under similar circumstances. Heard Mr. Pickwick ask the boy the question about the marbles, but upon her oath did not know the difference between an alley tor and a commoney.</p>
+<p>By the COURT&mdash;During the period of her keeping company with Mr. Sanders had received love letters, like other ladies. In the course of their correspondence Mr. Sanders had often called her a &ldquo;duck&rdquo; but never &ldquo;chops&rdquo; or &ldquo;tomata sauce.&rdquo; He was particularly fond of ducks. Perhaps if he had been as fond of chops and tomata sauce, he might have called her that, as a term of affection.</p>
+<p>Sergeant Buzfuz now rose with more importance than he had yet exhibited, if that were possible, and vociferated &ldquo;Call Samuel Weller.&rdquo;</p>
+<p>It was quite unnecessary to call Samuel Weller, for Samuel Weller stepped briskly into the box the instant his name was pronounced; and placing his hat on the floor, and his arms on the rail, took a bird's-eye view of the bar, and a comprehensive survey of the bench with a remarkably cheerful and lively aspect.</p>
+<p>&ldquo;What's your name, Sir?&rdquo; enquired the Judge.</p>
+<p>&ldquo;Sam Weller, my Lord,&rdquo; replied that gentleman.</p>
+<p>&ldquo;Do you spell it with a &lsquo;V&rsquo; or a &lsquo;W?&rsquo; &rdquo; enquired the Judge.</p>
+<p>&ldquo;That depends upon the taste and fancy of the speller, my Lord,&rdquo; replied Sam, &ldquo;I never had occasion to spell it more than once or twice in my life, but I spells it with a &lsquo;V.&rsquo; &rdquo;</p>
+<p>Here a voice in the gallery exclaimed aloud, &ldquo;Quite right too, Samivel; quite right. Put it down a we, my Lord, put it down a we.&rdquo;</p>
+<p>&ldquo;Who is that, that dares to address the Court?&rdquo; said the little Judge, looking up, &ldquo;Usher.&rdquo;</p>
+<p>&ldquo;Yes, my Lord.&rdquo;</p>
+<p>&ldquo;Bring that person here instantly.&rdquo;</p>
+<p>&ldquo;Yes, my Lord.&rdquo;</p>
+<p>But as the usher didn't find the person, he didn't bring him; and,
+<pb n="367" id="p367"/>
+after a great commotion, all the people who had got up to look for the culprit, sat down again. The little Judge turned to the witness as soon as his indignation would allow him to speak, and said&mdash;</p>
+<p>&ldquo;Do you know who that was, Sir?&rdquo;</p>
+<p>&ldquo;I rayther suspect it was my father, my Lord,&rdquo; replied Sam.</p>
+<p>&ldquo;Do you see him here now?&rdquo; said the Judge.</p>
+<p>&ldquo;No, I don't, my Lord,&rdquo; replied Sam, staring right up into the lantern in the roof of the Court.</p>
+<p>&ldquo;If you could have pointed him out, I would have committed him instantly,&rdquo; said the Judge. [Sam bowed his acknowledgments and turned, with unimpaired cheerfulness of countenance, towards Sergeant Buzfuz.</p>
+<p>&ldquo;Now, Mr. Weller,&rdquo; said Sergeant Buzfuz</p>
+<p>&ldquo;Now, Sir,&rdquo; replied Sam.</p>
+<p>&ldquo;I believe you are in the service of Mr. Pickwick, the defendant in this case. Speak up, if you please, Mr. Weller.&rdquo;</p>
+<p>&ldquo;I mean to speak up, Sir,&rdquo; replied Sam, &ldquo;I am in the service o' that 'ere gen'l'man, and a wery good service it is.&rdquo;</p>
+<p>&ldquo;Little to do, and plenty to get, I suppose?&rdquo; said Sergeant Buzfuz, with jocularity.</p>
+<p>&ldquo;Oh, quite enough to get, Sir, as the soldier said ven they ordered him three hundred and fifty lashes,&rdquo; replied Sam.</p>
+<p>&ldquo;You must not tell us what the soldier, or any other man, said, Sir,&rdquo; interposed the Judge, &ldquo;it's not evidence.&rdquo;</p>
+<p>&ldquo;Wery good, my Lord,&rdquo; replied Sam.</p>
+<p>&ldquo;Do you recollect anything particular happening on the morning when you were first engaged by the defendant, eh, Mr. Weller?&rdquo; said Sergeant Buzfuz.</p>
+<p>&ldquo;Yes I do, Sir,&rdquo; replied Sam.</p>
+<p>&ldquo;Have the goodness to tell the Jury what it was.&rdquo;</p>
+<p>&ldquo;I had a reg'lar new fit out o' clothes that mornin', gen'l'men of the jury,&rdquo; said Sam, &ldquo;and that was a wery partickler and uncommon circumstance vith me in those days.&rdquo;</p>
+<p>Hereupon there was a general laugh; and the little Judge, looking with an angry countenance over his desk, said, &ldquo;You had better be careful, Sir.&rdquo;</p>
+<p>&ldquo;So Mr. Pickwick said at the time, my Lord,&rdquo; replied Sam, &ldquo;and I was wery careful o' that 'ere suit o' clothes; wery careful indeed, my Lord.&rdquo;</p>
+<p>The Judge looked sternly at Sam for full two minutes, but Sam's features were so perfectly calm and serene that he said nothing, and motioned Sergeant Buzfuz to proceed.</p>
+<p>&ldquo;Do you mean to tell me, Mr. Weller,&rdquo; said Sergeant Buzfuz, folding his arms emphatically, and turning half round to the Jury, as if in mute assurance that he would bother the witness yet&mdash;&ldquo;Do you mean to tell me, Mr. Weller, that you saw nothing of this fainting on the part of the plaintiff in the arms of the defendant, which you have heard described by the witnesses?&rdquo;</p>
+<pb n="368" id="p368"/>
+<p>&ldquo;Certainly not,&rdquo; replied Sam, &ldquo;I was in the passage 'till they called me up, and then the old lady was not there.&rdquo;</p>
+<p>&ldquo;Now, attend, Mr. Weller,&rdquo; said Sergeant Buzfuz, dipping a large pen into the inkstand before him, for the purpose of frightening Sam with a show of taking down his answer. &ldquo;You were in the passage and yet saw nothing of what was going forward. Have you a pair of eyes, Mr. Weller?&rdquo;</p>
+<p>&ldquo;Yes, I have a pair of eyes,&rdquo; replied Sam, &ldquo;and that's just it. If they wos a pair o' patent double million magnifyin' gas miscroscopes of hextra power, p'raps I might be able to see through a flight o' stairs and a deal door; but bein' only eyes you see, my wision's limited.&rdquo;</p>
+<p>At this answer, which was delivered without the slightest appearance of irritation, and with the most complete simplicity and equanimity of manner, the spectators tittered, the little Judge smiled, and Sergeant Buzfuz looked particularly foolish. After a short consultation with Dodson and Fogg, the learned Sergeant again turned towards Sam, and said, with a painful effort to conceal his vexation, &ldquo;Now, Mr. Weller, I'll ask you a question on another point, if you please.&rdquo;</p>
+<p>&ldquo;If you please, Sir,&rdquo; rejoined Sam, with the utmost good-humour.</p>
+<p>&ldquo;Do you remember going up to Mrs. Bardell's house, one night in November last?&rdquo;</p>
+<p>&ldquo;Oh yes, wery well.&rdquo;</p>
+<p>&ldquo;Oh, you <hi rend="italics">do</hi> remember that, Mr. Weller,&rdquo; said Sergeant Buzfuz, recovering his spirits, &ldquo;I thought we should get at something at last.&rdquo;</p>
+<p>&ldquo;I rayther thought that, too, Sir,&rdquo; replied Sam; and at this the spectators tittered again.</p>
+<p>&ldquo;Well; I suppose you went up to have a little talk about this trial&mdash;eh, Mr. Weller?&rdquo; said Sergeant Buzfuz, looking knowingly at the jury.</p>
+<p>&ldquo;I went up to pay the rent; but we <hi rend="italics">did</hi> get a talkin' about the trial,&rdquo; replied Sam.</p>
+<p>&ldquo;Oh you did get a talking about the trial,&rdquo; said Sergeant Buzfuz, brightening up with the anticipation of some important discovery. &ldquo;Now what passed about the trial; will you have the goodness to tell us, Mr. Weller?&rdquo;</p>
+<p>&ldquo;Vith all the pleasure in life, Sir,&rdquo; replied Sam. &ldquo;Arter a few unimportant obserwations from the two wirtuous females as has been examined here to-day, the ladies gets into a very great state o' admiration at the honorable conduct of Mr. Dodson and Fogg&mdash;them two gen'l'men as is settin' near you now.&rdquo; This, of course, drew general attention to Dodson and Fogg, who looked as virtuous as possible.</p>
+<p>&ldquo;The attornies for the plaintiff,&rdquo; said Mr. Sergeant Buzfuz, &ldquo;well they spoke in high praise of the honorable conduct of Messrs. Dodson and Fogg, the attornies for the plaintiff, did they?&rdquo;</p>
+<p>&ldquo;Yes,&rdquo; said Sam &ldquo;they said what a wery gen'rous thing it was o' them to have taken up the case on spec, and to charge nothin' at all for costs, unless they got 'em out of Mr. Pickwick.&rdquo;</p>
+<p>At this very unexpected reply, the spectators tittered again, and Dodson and Fogg, turning very red, leant over to Sergeant Buzfuz, and in a hurried manner whispered something in his ear.</p>
+<pb n="369" id="p369"/>
+<p>&ldquo;You are quite right,&rdquo; said Sergeant Buzfuz aloud, with affected composure. &ldquo;It's perfectly useless, my Lord, attempting to get at any evidence through the impenetrable stupidity of this witness. I will not trouble the court by asking him any more questions. Stand down, Sir.&rdquo;</p>
+<p>&ldquo;Would any other gen'l'man like to ask me anythin'?&rdquo; inquired Sam, taking up his hat, and looking round most deliberately.</p>
+<p>&ldquo;Not I, Mr. Weller, thank you,&rdquo; said Sergeant Snubbin, laughing.</p>
+<p>&ldquo;You may go down, Sir,&rdquo; said Sergeant Buzfuz, waving his hand impatiently. Sam went down accordingly, after doing Messrs. Dodson and Fogg's case as much harm as he conveniently could, and saying just as little respecting Mr. Pickwick as might be, which was precisely the object he had had in view all along.</p>
+<p>&ldquo;I have no objection to admit, my Lord,&rdquo; said Sergeant Snubbin, &ldquo;if it will save the examination of another witness, that Mr. Pickwick has retired from business, and is a gentleman of considerable independent property.&rdquo;</p>
+<p>&ldquo;Very well,&rdquo; said Sergeant Buzfuz, putting in the two letters for the clerk to read, &ldquo;Then that's my case, my Lord.&rdquo;</p>
+<p>Sergeant Snubbin then addressed the jury on behalf of the defendant; and a very long and a very emphatic address he delivered, in which he bestowed the highest possible eulogiums on the conduct and character of Mr. Pickwick, but inasmuch as our readers are far better able to form a correct estimate of that gentleman's merits and deserts, than Sergeant Snubbin could possibly be, we do not feel called upon to enter at any length into the learned gentleman's observations. He attempted to shew that the letters which had been exhibited, merely related to Mr. Pickwick's dinner, or to the preparations for receiving him in his apartments on his return from some country excursion. It is sufficient to add in general terms, that he did the best he could for Mr. Pickwick; and the best, as every body knows, on the infallible authority of the old adage, could do no more.</p>
+<p>Mr. Justice Stareleigh summed up, in the old-established and most approved form. He read as much of his notes to the jury as he could decipher on so short a notice, and made running comments on the evidence as he went along. If Mrs. Bardell was right, it was perfectly clear Mr. Pickwick was wrong, and if they thought the evidence of Mrs. Cluppins worthy of credence they would believe it, and, if they didn't, why they wouldn't. If they were satisfied that a breach of promise of marriage had been committed, they would find for the plaintiff with such damages as they thought proper; and if, on the other hand, it appears to them that no promise of marriage had ever been given, they would find for the defendant with no damages at all. The jury then retired to their private room to talk the matter over, and the Judge retired to <hi
+rend="italics">his</hi> private room, to refresh himself with a mutton chop and a glass of sherry.</p>
+<p>An anxious quarter of an hour elapsed; the jury came back, and the judge was fetched in. Mr. Pickwick put on his spectacles, and gazed
+<pb n="370" id="p370"/>
+at the foreman with an agitated countenance and a quickly beating heart.</p>
+<p>&ldquo;Gentlemen,&rdquo; said the individual in black, &ldquo;are you all agreed upon your verdict?&rdquo;</p>
+<p>&ldquo;We are,&rdquo; replied the foreman.</p>
+<p>&ldquo;Do you find for the plaintiff, gentlemen, or for the defendant?&rdquo;</p>
+<p>&ldquo;For the plaintiff.&rdquo;</p>
+<p>&ldquo;With what damages, gentlemen?&rdquo;</p>
+<p>&ldquo;Seven hundred and fifty pounds.&rdquo;</p>
+<p>Mr. Pickwick took off his spectacles, carefully wiped the glasses, folded them into the case, and put them in his pocket; then having drawn on his gloves with great nicety, and stared at the foreman all the while, he mechanically followed Mr. Perker and the blue bag out of court.</p>
+<p>They stopped in a side room while Perker paid the court fees; and here Mr. Pickwick was joined by his friends. Here, too, he encountered Messrs. Dodson and Fogg, rubbing their hands with every token of outward satisfaction.</p>
+<p>&ldquo;Well, gentlemen,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Well, sir,&rdquo; said Dodson, for self and partner.</p>
+<p>&ldquo;You imagine you'll get your costs, don't you, gentlemen?&rdquo; said Mr. Pickwick.</p>
+<p>Fogg said they thought it rather probable; and Dodson smiled, and said they'd try.</p>
+<p>&ldquo;You may try, and try, and try again, Messrs. Dodson and Fogg,&rdquo; said Mr. Pickwick vehemently, &ldquo;but not one farthing of costs or damages do you ever get from me, if I spend the rest of my existence in a debtor's prison.&rdquo;</p>
+<p>&ldquo;Ha, ha!&rdquo; said Dodson, &ldquo;You'll think better of that, before next term, Mr. Pickwick.&rdquo;</p>
+<p>&ldquo;He, he, he! we'll soon see about that, Mr. Pickwick,&rdquo; grinned Fogg.</p>
+<p>Speechless with indignation, Mr. Pickwick allowed himself to be led by his solicitor and friends to the door, and there assisted into a hackney-coach, which had been fetched for the purpose, by the ever watchful Sam Weller.</p>
+<p>Sam had put up the steps, and was preparing to jump upon the box, when he felt himself gently touched on the shoulder; and, looking round, his father stood before him. The old gentleman's countenance wore a mournful expression, as he shook his head gravely and said, in warning accents&mdash;</p>
+<p>&ldquo;I know'd what 'ud come o' this here mode o' doin bisness. Oh Sammy, Sammy, vy worn't there a alleybi!&rdquo;</p>
+</div2>
+</div1></body>
+<back>
+<div1 type="advertisement">
+<pb n="v" id="pv"/>
+<head>TRAVELLING AND HUNTING MAPS.</head>
+<p><hi rend="italics">Mounted in cases adapted to the waistcoat pocket,</hi> 1<hi
+rend="italics">s.</hi> 6<hi rend="italics">d. each,</hi>
+<lb/> MAPS OF THE ENGLISH COUNTIES, <lb/> ENGRAVED BY SIDNEY HALL, <lb/> WITH THE MAIL AND COACH ROADS CORRECTLY COLOURED.</p>
+<list>
+<item>BEDFORDSHIRE</item>
+<item>BERKSHIRE</item>
+<item>BUCKINHAMSHIRE</item>
+<item>CAMBRIDGESHIRE</item>
+<item>CHESHIRE</item>
+<item>CORNWALL</item>
+<item>CUMBERLAND</item>
+<item>DERBYSHIRE</item>
+<item>DEVONSHIRE</item>
+<item>DORSETSHIRE</item>
+<item>DURHAM</item>
+<item>ENGLAND</item>
+<item>ESSEX</item>
+<item>GLOUCESTERSHIRE</item>
+<item>HAMPSHIRE</item>
+<item>HEREFORDSHIRE</item>
+<item>HERTFORDSHIRE</item>
+<item>HUNTINGDONSHIRE</item>
+<item>ISLE OF WIGHT</item>
+<item>ISLES OF MAN, <lb/> JERSEY, AND QUERNSEY</item>
+<item>KENT</item>
+<item>LANCASHIRE</item>
+<item>LEICESTERSHIRE</item>
+<item>LINCOLNSHIRE</item>
+<item>MIDDLESEX</item>
+<item>MONMOUTHSHIRE</item>
+<item>NORFOLK</item>
+<item>NORTHAMPTONSHIRE</item>
+<item>NORTHUMBERLAND</item>
+<item>NOTTINGHAMSHIRE</item>
+<item>OXFORDSHIRE</item>
+<item>RUTLANDSHIRE</item>
+<item>SHROPSHIRE</item>
+<item>SOMERSETSHIRE</item>
+<item>STAFFORDSHIRE</item>
+<item>SUFFOLK</item>
+<item>SURREY</item>
+<item>SUSSEX</item>
+<item>WARWICKSHIRE</item>
+<item>WESTMORELAND</item>
+<item>WILTSHIRE</item>
+<item>WORCESTERSHIRE</item></list>
+<div2 type="section">
+<opener><hi rend="italics">Price</hi> 2<hi rend="italics">s. double the size of the above,</hi></opener>
+<head>YORKSHIRE, IRELAND, SCOTLAND, AND WALES.</head>
+<p>Complete Sets of the above, uniformly mounted and lettered, in a neat Case, may be had, price Four <lb/> Guineas.</p>
+</div2>
+</div1>
+<div1 type="advertisement">
+<opener>One volume, small 8vo, elegantly bound, gilt leaves, price 6<hi
+rend="italics">s.,</hi> or in silk 7<hi rend="italics">s.</hi></opener>
+<head>A GARLAND OF LOVE,</head><p> Wreathed of Choice Flowers, gathered in the Field of English Poetry. With a beautiful Frontispiece, from a design by HARVEY, printed in Sepia by BAXTER.</p>
+<p>&ldquo;A charming little volume, selected with much taste, and elegantly put together. We have to bestow unqualified praise on the judgment which has avoided the slightest approach to what might bring a blush upon the modest cheek.&rdquo;&mdash;<hi
+rend="italics">Literary Gazette.</hi></p>
+</div1>
+<div1 type="advertisement">
+<opener>In one volume, small 8vo, bound, gilt leaves, price 7<hi rend="italics">s.</hi></opener>
+<head>THE POETIC WREATH.</head>
+<p>Consisting of Select Passages from the works of English Poets, from Chaucer to Wordsworth. Alphabetically arranged, with twenty-six, Vignette Letters, beautifully engraved on wood, from designs by S. W. ARNALD.</p>
+<p>&ldquo;This volume chancing to fall into our hands, has charmed us by the taste with which it has been prepared, both with respect to the literary materials, and the paper, print, embellishment, and binding. The pieces are arranged alphabetically under their titles, and at the beginning of each of the twenty-four letters is a beautiful device, in wood engraving, representing that letter by a combination of cherubs. Being satisfied, upon inspection, that the volume does not contain one trashy piece, we earnestly recommend it to general notice.&rdquo;&mdash;<hi
+rend="italics">Chambers' Journal.</hi></p>
+</div1>
+<div1 type="advertisement">
+<opener>One volume, foolscap, handsomely bound in embossed cloth, gilt edges, price 12<hi
+rend="italics">s.,</hi> or in morocco, 16<hi rend="italics">s.</hi></opener>
+<head>THE ARTIST;</head><p>  OR <lb/> YOUNG LADIES' INSTRUCTOR IN ORNAMENTAL PAINTING, <lb/> DRAWING, &amp;c.</p><p>Consisting of Lessons in Grecian Painting, Japan Painting, Oriental Tinting, Mezzotinting, Transferring, Inlaying, and Manufacturing Articles for Fancy Fairs, &amp;c. By B. F. GANDEE, Teacher. Embellished with a beautiful Frontispiece and Title Page, printed in Oil Colours by Baxter, and seventeen other illustrative Engravings.</p>
+<p>LONDON: CHAPMAN AND HALL, 186, STRAND.</p>
+</div1>
+<div1 type="advertisement">
+<pb id="pvi" n="vi"/>
+<head>POPULAR JUVENILE BOOKS, <lb/> ELEGANTLY EMBELLISHED.</head>
+<div2 type="section">
+<opener><hi rend="italics">Neatly bound in Cloth, price</hi> 2<hi
+rend="italics">s.</hi> 6<hi rend="italics">d.</hi></opener>
+<head>REMEMBER;</head><p> OR, <lb/> MAMMA'S BIRTHDAY.</p>
+<p>BY MRS. BARWELL.</p>
+<p>WITH ILLUSTRATIONS.</p></div2>
+<div2 type="section"><opener><hi rend="italics">Neatly bound, price</hi> 3<hi
+rend="italics">s.</hi> 6<hi rend="italics">d.</hi></opener>
+<head>THE JUVENILE PIANIST;</head><p>OR, A MIRROR OF <lb/> MUSIC FOR INFANT MINDS.</p>
+<p>BY ANN RODWELL, <lb/> TEACHER OF THE PIANOFORTH.</p>
+<p>Illustrated by upwards of One Hundred Musical Diagrams, and embellished with Engravings printed in Colours.</p>
+<p>&ldquo;This instructive little work, which is illustrated with numerous engravings and diagrams explanatory of its interesting art, is truly what it professes to be, a Mirror of Music for Infant Minds, constructed with such simplicity and clearness, that it would be impossible, even for a very young child, to read without deriving the wished for instruction. It is admirably calculated to render the early practice of the piano easy and attractive.&rdquo;&mdash;<hi
+rend="italics">Morning Post.</hi></p>
+</div2>
+<div2 type="section">
+<opener><hi rend="italics">Square</hi> 16<hi rend="italics">mo, neatly bound, price</hi> 2<hi
+rend="italics">s.</hi> 6<hi rend="italics">d.</hi></opener>
+<head>POETRY FOR CHILDREN.</head>
+<p>Selected by the late WM. BURDON.</p>
+<p>A New Edition.</p>
+<p>WITH ILLUSTRATIONS PRINTED IN COLOURS.</p></div2>
+<div2 type="section"><opener><hi rend="italics">Neatly bound in cloth, price</hi> 2<hi
+rend="italics">s.</hi> 6<hi rend="italics">d.</hi></opener>
+<head>THE TWO COUSINS, <lb/> AND OTHER TALES.</head>
+<p>By the Authoress of &ldquo;POETIC SKETCHES.&rdquo;</p>
+<p>WITH ILLUSTRATIONS.</p>
+</div2><div2 type="section"><opener><hi rend="italics">Neatly bound in cloth, price</hi> 2<hi
+rend="italics">s.</hi> 6<hi rend="italics">d.</hi></opener>
+<head>CAROLINE;</head><p> OR, THE <lb/> PLEASURES OF A BIRTHDAY.</p>
+<p>BY M. M. RODWELL, <lb/> Author of &ldquo;GEOGRAPHY OF THE BRITISH ISLES.&rdquo;</p>
+<p>WITH SIX ILLUSTRATIONS.</p></div2>
+<div2 type="section">
+<opener><hi rend="italics">Neatly bound in cloth, price</hi> 2<hi
+rend="italics">s.</hi> 6<hi rend="italics">d.</hi></opener>
+<head>THE SPOILED CHILD <lb/> RECLAIMED.</head>
+<p>BY M. M. RODWELL, <lb/> WITH SIX ILLUSTRATIONS.</p>
+<p>&ldquo;Two works brought out with great taste and neatness, for the amusement of children. The stories are well told, the moral lessons they inculcate, precisely those which it is of most importance to impress on the youthful mind.&rdquo;&mdash;<hi
+rend="italics">Athen&oelig;um.</hi></p>
+</div2><div2 type="section">
+<opener><hi rend="italics">Square</hi> 16<hi rend="italics">mo, neatly bound, price</hi> 1<hi
+rend="italics">s.</hi> 6<hi rend="italics">d.</hi></opener>
+<head>ROSE AND ANNE.</head>
+<p>A FIRST BOOK, IN MONOSYLLABLES.</p>
+<p>WITH SIX ILLUSTRATIONS.</p>
+</div2><div2 type="section">
+<opener>One volume, 12mo, neatly bound in cloth, gilt edges, price 4<hi
+rend="italics">s.</hi></opener>
+<head>FLEURS DE POESIE MODERNE,</head><p> Containing the Beauties of A. De Lamartine, Victor Hugo, De Beranger, C. Delavigne.</p>
+<p>&ldquo;A selection made in the spirit of the day. Instead of a collection from other and old collections, the compiler has chosen the best of modern French writers, and presented us with the very best of their thoughts.&rdquo;&mdash;<hi
+rend="italics">Spectator.</hi></p>
+</div2><div2 type="section">
+<opener>SECOND EDITION, <hi rend="italics">Price One Shilling,</hi></opener><head>NURSERY GOVERNMENT;</head><p> OR, <lb/> HINTS ADDRESSED TO MOTHERS AND NURSERYMAIDS, <lb/> ON THE <lb/> MANAGEMENT OF YOUNG CHILDREN.</p>
+<p>BY MRS. BARWELL.</p>
+<p>&ldquo;This little pamphlet is one of the most sensibly-written productions on this interesting subject that we ever remember to have perused. We have gone through it with a feeling of real pleasure, and we earnestly recommend it to the notice of mothers, and all who have the care of young children confided to them.&rdquo;&mdash;<hi
+rend="italics">Salisbury Journal.</hi></p>
+<closer>LONDON: CHAPMAN AND HALL, 186, STRAND.</closer>
+</div2>
+</div1>
+</back>
+</text>
+</TEI.2>

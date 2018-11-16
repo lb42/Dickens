@@ -1,0 +1,736 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI U5-1995//DTD TEI Lite//EN" "teixlite.dtd" [
+
+]>
+<TEI.2>
+<teiHeader type="3D">
+<fileDesc>
+<titleStmt>
+<title><emph>The Frozen Deep. A Drama. In Three Acts:</emph>
+Electronic Edition.
+</title><author>Collins, Wilkie, 1824-1889</author>
+
+
+<funder>Funding from the  E. S. P. Das Educational Foundation supported the electronic publication of this title.</funder><respStmt>
+<resp>Text transcribed  by</resp>
+<name>Apex Data Services, Inc.</name>
+</respStmt>
+<respStmt><resp>Images scanned by</resp>
+<name>Patricia Schefcick</name></respStmt><respStmt><resp>Text encoded by </resp>
+<name>Apex Data Services, Inc., Harris Henderson  and Natalia Smith</name></respStmt></titleStmt>
+<editionStmt><edition>First edition, <date>2002</date></edition></editionStmt>
+<extent>ca.   120 K</extent>
+<publicationStmt>
+<publisher>Academic Affairs Library, UNC-CH</publisher>
+<pubPlace>University of North Carolina at Chapel Hill, </pubPlace><date>2002.</date>
+
+<availability>
+<p>&copy; This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+</availability>
+</publicationStmt>
+
+
+<sourceDesc>
+
+<biblFull>
+<titleStmt>
+<title type="title page"> The Frozen Deep. A Drama. In Three Acts.</title>
+
+<author>Wilkie Collins</author>
+
+</titleStmt>
+
+<extent>     46 p.</extent>
+
+<publicationStmt>
+<pubPlace> S. l</pubPlace>
+<publisher> s. n</publisher>
+<date>1866.</date>
+<authority></authority>
+</publicationStmt>
+<notesStmt><note>Call number Dickens 52 1866. (Rare Book Collection, University of North Carolina at Chapel Hill)</note><note>"Not published."</note>
+<note>(London: C. Whiting) </note></notesStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p></p>
+</projectDesc>
+
+<editorialDecl>
+
+<p>The text has been entered using double-keying and verified against the original. 
+</p><p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+
+<p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+
+<p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+
+<p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+<p>All double right and left quotation marks are encoded as &rdquo; and &ldquo;
+respectively.</p>
+<p>All single right and left quotation marks are encoded as &rsquo; and &lsquo; respectively.</p>
+<p>All em dashes are encoded as &mdash;</p><p>Indentation in lines has not been preserved.</p>
+<p>Running titles have not been preserved.</p>
+<p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+</editorialDecl>
+
+<classDecl><taxonomy id="LCSH">
+<bibl><title>Library of Congress Subject Headings</title>
+</bibl>
+</taxonomy></classDecl>
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+
+<language id="eng">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="LCSH">
+<list>
+<item><!-- LC headings go here --></item>
+</list>
+</keywords>
+
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2002-10-04, </date><respStmt><name> Natalia Smith, </name><resp>project manager, </resp>
+</respStmt><item>finished TEI-conformant encoding and final proofing.</item>
+</change>
+<change>
+<date>2002-09-20, </date><respStmt><name>Harris Henderson</name>
+<resp></resp></respStmt><item> finished TEI/SGML encoding</item></change>
+<change><date>2002-01-01, </date>
+<respStmt><name>Apex Data Services, Inc.</name><resp></resp></respStmt>
+<item> finished transcribing the text.</item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+
+<div1 type="cover image"><p><figure id="cover"><p>[Cover Image]</p></figure></p></div1>
+
+<div1 type="title page image"><p><figure id="title"><p>[Title Page Image]</p></figure></p></div1>
+
+<div1 type="verso image"><p><figure id="verso"><p>[Title Page Verso Image]</p></figure></p></div1>
+
+
+<titlePage>
+
+<docTitle><titlePart>THE FROZEN DEEP. <lb/> A Drama. <lb/> IN THREE ACTS.
+</titlePart></docTitle>
+<byline>BY</byline>
+<docAuthor>WILKIE COLLINS.</docAuthor>
+<docImprint>
+[NOT PUBLISHED.]
+<docDate>1866.</docDate>
+</docImprint>
+<pb id="pii" n="verso"/>
+<docImprint>
+<pubPlace>LONDON: </pubPlace><publisher> PRINTED BY C. WHITING, BEAUFORT HOUSE, STRAND.</publisher>
+</docImprint>
+</titlePage>
+
+<div1 type="section">
+<pb id="pxxx3" n="[3]"/>
+<head>PERSONS OF THE DRAMA.</head>
+<list>
+<item>CAPTAIN HELDING, of the Ship Wanderer.</item>
+<item>LIEUTENANT CRAYFORD, of the Ship Sea-Mew.</item>
+<item>FRANK ALDERSLEY.</item>
+<item>RICHARD WARDOUR.</item>
+<item>LIEUTENANT STEVENTON.</item>
+<item>JOHN WANT, Ship's Cook.</item>
+<item>BATESON, two of the Sea-Mew's People.</item>
+<item>DARKER, two of the Sea-Mew's People.</item>
+<item>Officers and Sailors.</item>
+<item>CLARA BURNHAM.</item>
+<item>LUCY CRAYFORD.</item>
+<item>ROSE EBSWORTH.</item>
+<item>MRS. STEVENTON.</item></list>
+
+<list>
+<item>Scene of the First Act&mdash;A Country-house in Devonshire.</item>
+<item>Scene of the Second Act&mdash;A Hut in the Arctic Regions.</item>
+<item>Scene of the Third Act&mdash;A Cavern on the Coast of Newfoundland.</item>
+<item>Period&mdash;The Present Time.</item></list>
+
+</div1>
+</front>
+
+<body>
+<div1 type="section">
+<pb id="p5" n="[5]"/>
+<head>THE FROZEN DEEP.</head>
+<div2 type="section">
+<head>ACT I.</head>
+<stage>SCENE.&mdash;<hi rend="italics">A handsomely furnished room in a country-house, with a bay-window at the back of the stage, looking out, over corn-fields, on a village church. Flowers are disposed about the room on stands. On one side, a tea-table, with tea-things on it. On the other, a round table, with work on it. Time, shortly before sunset. The entrance to the room is on the left-hand side of the actor.</hi></stage>
+<p>MRS. STEVENTON <hi rend="italics">and</hi> ROSE <hi rend="italics">are discovered at the tea-table. The maid-servant enters to them at the rise of the curtain, with the newspaper which has arrived by the post.</hi> MRS. S. <hi rend="italics">takes it.</hi></p>
+<p><hi rend="italics">Rose.</hi> Any news, Caroline?</p>
+<p><hi rend="italics">Mrs. S. (reading).</hi> &ldquo;Arrived, the Fortune, from Valparaiso; the Ariel, from Jamaica. Spoken, the Sisters, from Liverpool to California, eight days out. Reported drifting among ice at sea, waterlogged and abandoned, the Hope.&rdquo; (<hi rend="italics">Repressing a shudder.</hi>) No, Rose&mdash;no news to interest <hi rend="italics">us.</hi></p>
+<p><hi rend="italics">Rose.</hi> Shall I give you some more tea? (MRS. S. <hi rend="italics">declines.</hi>) Has the doctor gone yet?</p>
+<p><hi rend="italics">Mrs. S.</hi> Lucy is still talking to him about Clara; and Clara has retired to her own room. (<hi rend="italics">The maid enters with gardening-scissors and a basket, which she hands to</hi> MRS. S., <hi rend="italics">and goes out again.</hi> MRS. S. <hi rend="italics">rises, and attends to the flowers as the dialogue proceeds.</hi>) Rose, I have been doubting lately whether it was wise for us four women to shut ourselves up in this solitary house, while our natural protectors are away from us in the expedition to the Arctic Seas.</p>
+<p><hi rend="italics">Rose (taking her work).</hi> What could we do better than
+<pb id="p6" n="6"/>
+wait here till they come back? Have we any friends to go to, whom we should honestly like to live with? Would it have been pleasant for you to go home, after your husband had sailed with the expedition?</p>
+<p><hi rend="italics">Mrs. S.</hi> Home! where they have turned their backs on me for marrying a poor man! I go home, and hear my husband despised?</p>
+<p><hi rend="italics">Rose.</hi> And I, with no mother alive&mdash;with my father, like your husband, away with the Arctic ships&mdash;where could I have been happier than here, with my oldest and dearest friend, Lucy Crayford?</p>
+<p><hi rend="italics">Mrs. S.</hi> And Lucy certainly has no home to go to. Her only near relation is her brother, who is serving in the expedition.</p>
+<p><hi rend="italics">Rose.</hi> Well, you see there are three of us, at any rate, who could have done no better than come here and make one household of it. As for the fourth; as for Clara&mdash;</p>
+<p><hi rend="italics">Mrs. S.</hi> Clara's situation differs from yours, and Lucy's, and mine. It is not her father, or her brother, or her husband who is away&mdash;but her husband that is to be. Then, again, Clara has a mother alive&mdash;</p>
+<p><hi rend="italics">Rose.</hi> A mother who has gone abroad, and married again! A mother who has never forgiven Clara for objecting to a foreign stepfather!</p>
+<p><hi rend="italics">Mrs. S.</hi> I dare say you may be right, my dear. (<hi rend="italics">The maid enters, relieves</hi> Mrs. S. <hi rend="italics">of the scissors, &dollar;c., and goes out.</hi>) But now, when more than a year has passed, and no tidings from the Arctic expedition have reached us, I think we ought to see other sights from day to day besides the sight of our own sad faces. We are passing our lives, Rose, in unrelieved solitude and suspense; and we are all of us the worse for it&mdash;Clara especially.</p>
+<p><hi rend="italics">Rose.</hi> You may be right about Clara.</p>
+<p><hi rend="italics">Mrs. S.</hi> Right! Who can doubt it? When we first established ourselves here, Clara was nervous and excitable&mdash;but she neither said, or did, anything to alarm us. Time went on&mdash;the lonely, hopeless time in this house&mdash;and we began to hear of dreadful dreams that frightened her at night, and dreadful interpretations of them, which she brooded over all day. Next, came those long fainting-fits, so frightfully like death while they lasted. And now, what has followed the fainting-fits?</p>
+<pb n="7" id="p7"/>
+<p><hi rend="italics">Rose.</hi> The Trance that alarmed us all, three days since.</p>
+<p><hi rend="italics">Mrs. S.</hi> You say she was in a Trance. Lucy says it was a nervous seizure. Call it what you like, the plain truth is that the attack was serious enough to oblige us to send for a great physician from London, and that the great physician is now up-stairs giving Lucy his opinion on the case.</p>
+<p><hi rend="italics">Rose</hi> (<hi rend="italics">looking towards the open door on the left</hi>). The opinion is given, and the doctor has gone. Here comes Lucy to bring us the news.</p>
+<stage><hi rend="italics">Enter</hi> LUCY CRAYFORD.</stage>
+<p><hi rend="italics">Mrs. S.</hi> Well, what does the doctor from London say?</p>
+<p><hi rend="italics">Lucy.</hi> Very little that is encouraging. The sum and substance of his opinion is this&mdash;that Clara's case, which is a mystery to <hi rend="italics">us,</hi> is a mystery to <hi rend="italics">him.</hi></p>
+<p><hi rend="italics">Rose.</hi> Has he been all this time talking to you, and has it only ended in that?</p>
+<p><hi rend="italics">Lucy.</hi> He has been all this time making <hi rend="italics">me</hi> talk to <hi rend="italics">him.</hi> After he had seen Clara, and had sent her away to her own room, he asked me to tell him all I knew of her past life. I told him that her early years had been spent in a lonely old house in the Highlands, and that the ignorant people about her had filled her mind with the superstitions which are still respected as truths in the wild north&mdash;especially the superstition about the Second Sight. From that, I got on to the later time when Clara came southward to live in Kent. Then I touched on her marriage-engagement; and, lastly, I mentioned the circumstances under which we are all four living together in this house.</p>
+<p><hi rend="italics">Mrs. S.</hi> And what did the doctor think of it, so far?</p>
+<p><hi rend="italics">Lucy.</hi> He said I was helping him to understand Clara's case; and he begged me next to describe the strange attack that seized her in the garden three days since.</p>
+<p><hi rend="italics">Rose. I</hi> should have found it no easy matter to comply with his request. How did you describe it?</p>
+<p><hi rend="italics">Lucy.</hi> As nearly as I can remember, in these words. I said, &ldquo;She had been nervous and irritable all the morning; and we took her out into the garden to breathe the fresh air. Suddenly, without any reason for it, the colour left her face. She stood still in the midst of us, insensible to
+<pb id="p8" n="8"/>
+touch, insensible to sound; motionless as stone, and cold as death, in a moment. The first change we noticed, came after a lapse of some minutes. Her hands began to move slowly, as if she was groping in the dark. Words dropped one by one from her lips, in a lost, vacant tone, as if she was talking in her sleep. A momentary colour appeared in her face, and left it again. Her eyes closed&mdash;her feet failed her&mdash;and she sank insensible into our arms.&rdquo; That was what I told the doctor; and that, I think, was exactly what happened.</p>
+<p><hi rend="italics">Mrs. S.</hi> Did you go on, and tell him what she said when she came to her senses?</p>
+<p><hi rend="italics">Lucy.</hi> Yes. I said she firmly believed herself to have seen, in the Trance, the lost men in the expedition to the Polar Seas. (<hi rend="italics">To</hi> ROSE.) Your father; (<hi rend="italics">to</hi> MRS. S.) your husband; my brother; and the lover to whom she herself is betrothed. I was obliged to add&mdash;for no half-confidences are possible with a medical man&mdash;that she mixes up with this conviction the Highland superstition instilled into her in her early life, and that she persists in believing herself to be gifted with the Second Sight.</p>
+<p><hi rend="italics">Rose.</hi> I should hardly have had the courage to tell him that.</p>
+<p><hi rend="italics">Mrs. S.</hi> Nor I. People are so unmercifully superior to superstition in these enlightened times.</p>
+<p><hi rend="italics">Lucy.</hi> Yes! In these enlightened times, we only believe in dancing-tables, and in messages sent from the other world by spirits who can't spell!</p>
+<p><hi rend="italics">Rose.</hi> But how did it strike the doctor?</p>
+<p><hi rend="italics">Lucy.</hi> He told me that such cases as Clara's were by no means unfamiliar to medical practice. &ldquo;We know,&rdquo; he said, &ldquo;that certain disordered conditions of the brain and the nervous system produce results quite as extraordinary as any that you have described&mdash;and there our knowledge ends. Neither my science, nor any man's science, can clear up the mystery of what you have told me. I can give you instructions for preserving her general health; and I can recommend you to try some (change) in her life &mdash;provided you can first relieve her mind of any secret anxieties that may now be preying on it. I can give you this advice, and I can do no more.&rdquo; Those were the doctor's last words&mdash;the words, as I think, of a very honest and a very sensible man.</p>
+<pb n="9" id="p9"/>
+<p><hi rend="italics">Mrs. S.</hi> I entirely agree with him about the necessity for a change in Clara's life. (LUCY <hi rend="italics">shakes her head.</hi>) Why not? What objection can there be?</p>
+<p><hi rend="italics">Lucy.</hi> We have the doctor's word for it that no change will help her, if there is any secret trouble on her mind. I was persuaded she had some secret trouble when she first came among us&mdash;and I am persuaded of it still.</p>
+<p><hi rend="italics">Rose.</hi> Surely, you might induce her to confide it to <hi rend="italics">you?</hi> She will do things for you that she will do for neither of us.</p>
+<p><hi rend="italics">Lucy.</hi> I will try to win her confidence, if I can find the opportunity. Hush! we had better change the subject.</p>
+<p><hi rend="italics">Mrs. S.</hi> Why?</p>
+<p><hi rend="italics">Lucy (approaching the door).</hi> Because Clara is coming down-stairs. I hear her footstep.</p>
+<stage><hi rend="italics">Enter</hi> CLARA BURNHAM, <hi rend="italics">hurried and agitated.</hi></stage>
+<p><hi rend="italics">Clara.</hi> Where are you all? Why did you leave me, Lucy? I hate and dread being alone&mdash;and you all forsake me. You care for nobody! You forget everything! (<hi rend="italics">Seats herself, sullenly.</hi>)</p>
+<p><hi rend="italics">Mrs. S.</hi> We thought you were asleep in your own room.</p>
+<p><hi rend="italics">Clara.</hi> Was I to sleep there for ever?</p>
+<p><hi rend="italics">Rose.</hi> If you had only rung when you woke&mdash;</p>
+<p><hi rend="italics">Clara.</hi> The maid would have answered the bell, I suppose. And what then?</p>
+<p><hi rend="italics">Lucy</hi> (<hi rend="italics">aside to</hi> ROSE <hi rend="italics">and</hi> MRS. S., <hi rend="italics">after looking at</hi> CLARA). Leave her to me. The chance of my winning her confidence may be nearer than you think.</p>
+<p><hi rend="italics">Mrs. S.</hi> Come to the piano, Rose. A little music will quiet Clara, and will help you and me through the weary time. (<hi rend="italics">Exeunt</hi> MRS. S. <hi rend="italics">and</hi> ROSE.)</p>
+<p><hi rend="italics">Lucy</hi> (<hi rend="italics">seating herself by</hi> CLARA). I wish, my love, I knew how to make you happier than you are now.</p>
+<p><hi rend="italics">Clara.</hi> Neither you nor I have any reason to be happy.</p>
+<p><hi rend="italics">Lucy.</hi> We have no reason to despair.</p>
+<p><hi rend="italics">Clara.</hi> Not even yet?</p>
+<p><hi rend="italics">Lucy.</hi> Not even yet. The same uncertainty which hangs over the fate of your promised husband, hangs also over the fate of my only brother. And still I say, Not even yet!</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">abruptly</hi>). Lucy! have you ever known a great sorrow?</p>
+<pb n="10" id="p10"/>
+<p><hi rend="italics">Lucy.</hi> Examine your own heart, my dear, and you will hardly need to ask me that question.</p>
+<p><hi rend="italics">Clara.</hi> How?</p>
+<stage>(<hi rend="italics">The notes of the piano, playing the air of &ldquo;Home, sweet Home,&rdquo; are heard softly, as from a distant room. During the dialogue that follows, the melody continues to be heard below the voices of the speakers.</hi>)</stage>
+<p><hi rend="italics">Lucy.</hi> You have not known me longer than you have known Caroline and Rose; and yet you say (and I believe you) that you love me like a sister, while you only love them like friends. I am no kinder to you than they are. Why should you have preferred me from the first?</p>
+<p><hi rend="italics">Clara.</hi> Because&mdash;</p>
+<p><hi rend="italics">Lucy.</hi> Let me answer for you. Because you felt that some great sorrow had set its mark on me. You were drawn towards me by true instinct; and the secret of that instinct is, that you yourself&mdash;</p>
+<p><hi rend="italics">Clara.</hi> No! no!</p>
+<p><hi rend="italics">Lucy.</hi> That you yourself have a great sorrow. (CLARA <hi rend="italics">hides her face.</hi>) A sorrow which you have confessed to no one. I do not ask you for your confidence&mdash;I only ask if this is the truth?</p>
+<p><hi rend="italics">Clara.</hi> Oh, Lucy, you know it is the truth!</p>
+<p><hi rend="italics">Lucy.</hi> Perhaps my own experience might one day help me in guiding you. You have once or twice wondered why I was still a single woman. My dear, I shall always remain what I am now, because the man I loved with all my heart&mdash;the man to whom I was once engaged to be married, is&mdash;</p>
+<p><hi rend="italics">Clara.</hi> Dead?</p>
+<p><hi rend="italics">Lucy.</hi> Dead, to <hi rend="italics">me.</hi> Married. Don't be angry with him! He had not met her when he engaged himself to me. I don't think he knew his own mind then; I don't think he ever suspected how dearly I loved him. It is needless to dwell on it&mdash;the one event of my life is an event long past, now. You must not suppose mine to be a fine romantic story that is to have a fine romantic end. This (<hi rend="italics">touching her heart</hi>) is the commonplace end, my dear!</p>
+<p><hi rend="italics">Clara.</hi> Oh, Lucy, my poor selfish sorrow looks so base and mean beside yours!</p>
+<p><hi rend="italics">Lucy.</hi> Base and mean! (<hi rend="italics">Puts</hi> CLARA <hi rend="italics">back, and looks her steadily in the face.</hi>) I see no baseness or meanness here!</p>
+<pb n="11" id="p11"/>
+<p><hi rend="italics">Clara.</hi> Let me rest my head on your shoulder. I want to speak to you&mdash;and I can speak better so.</p>
+<stage>(<hi rend="italics">A pause. The stage begins to darken. The melody from the adjoining room stops for a moment&mdash;then changes to the symphony of &ldquo;Those Evening Bells.&rdquo; The voices of</hi> MRS. S. <hi rend="italics">and</hi> ROSE <hi rend="italics">are heard softly, singing a verse of the song, in duct. When the verse has been sung, the dialogue on the stage is resumed, and the notes of the piano alone are audible once more under the voices.</hi>)</stage>
+<p><hi rend="italics">Lucy.</hi> Clara! are you crying? Don't speak now if it distresses you.</p>
+<p><hi rend="italics">Clara.</hi> No! no! I am going to tell you about the time when my father was alive, and when we moved southward to settle in Kent. Our house was near a great park; and our nearest neighbour was a gentleman named Wardour, who owned the park. He was one of my father's old friends; and his only son, Richard&mdash;</p>
+<p><hi rend="italics">Lucy.</hi> His son, Richard, admired you?</p>
+<p><hi rend="italics">Clara.</hi> I hardly knew at first. He was&mdash;oh, so terribly headstrong and passionate! but generous and affectionate, in spite of his faults of temper. As time went on, I began to have some suspicion of the truth. He never spoke of the feeling with which he regarded me, but I could not help seeing it. I did all I could to show that I was willing to be like a sister to him, and that I could be nothing else. He did not understand me, or he would not&mdash;I can't say which. There was a strange rough bashfulness about him. What could I do? He never spoke out&mdash;he seemed to treat me as if our future lives had been provided for while we were children. My situation was a very trying one, was it not, Lucy?</p>
+<p><hi rend="italics">Lucy.</hi> Did you never ask your father to end the difficulty for you?</p>
+<p><hi rend="italics">Clara.</hi> He was suffering, at that time, under the illness which afterwards caused his death, and was very unfit to agitate himself by breaking off the intercourse between his daughter and his old friend's only son. Knowing this, I hesitated&mdash;unfortunately until it was too late.</p>
+<p><hi rend="italics">Lucy.</hi> How too late?</p>
+<p><hi rend="italics">Clara.</hi> Richard, I should have told you, was (like Frank) in the navy. One spring day he came to our house to take leave of us before he joined his ship. I thought he
+<pb n="12" id="p12"/>
+was gone, and went into the conservatory&mdash;when he suddenly returned, and said, in his quick rough way: &ldquo;Clara, I am going to the African coast. If I live, I shall come back promoted; and we both know what will happen then!&rdquo; He kissed me. I was half frightened, half angry&mdash;and before I could compose myself to say a word, he was gone. I ought to have spoken, I know. It was not honourable&mdash;not kind towards <hi rend="italics">him.</hi> You can't reproach me, Lucy, for my want of courage and frankness more bitterly than I reproach myself.</p>
+<p><hi rend="italics">Lucy.</hi> Could you not write to him?</p>
+<p><hi rend="italics">Clara.</hi> I did write to him. But his after-conduct showed that he had never received the letter. He was away more than two years. In that time, Frank Aldersley and I met; and&mdash;and you know what happened; you know that we were engaged. I was so happy! Months and months passed, and not a thought of Richard Wardour ever entered my head, till, one winter morning, I heard that he had come back. And, two days afterwards, his own lips told me that he had come back to make me his wife! (<hi rend="italics">The stage grows slowly darker.</hi>) Think of my terror and confusion and remorse. I shrank away from him, and stammered out a few words&mdash;very few, but they were enough to warn him that there was no hope. Lucy! I tremble when I think of his face. It comes across me in my dreams, and makes me as frightened in the darkness as a child. How dark it is now!</p>
+<p><hi rend="italics">Lucy.</hi> Not darker than usual, Clara, at this time.</p>
+<p><hi rend="italics">Clara.</hi> His awful, awful look of fury and despair! The deep heavy breaths that came from him in the silence, as he crushed down the passion within him! The parting words he spoke, the last I ever heard from his lips. &ldquo;The time may come when I shall forgive <hi rend="italics">you</hi>,&rdquo; he said; &ldquo;but the man who has robbed me of you shall rue the day when you and he first met!&rdquo; He stood looking at me for a moment&mdash;then turned away suddenly, and went out. From that time to this, I have never seen him again.</p>
+<p><hi rend="italics">Lucy.</hi> And never heard of him?</p>
+<p><hi rend="italics">Clara.</hi> The worst, the worst, is to come! I heard of him but once, and that was on the night of my parting with Frank. I was asking Frank about the ships of the Arctic expedition, and who was to sail in them. He told
+<pb n="13" id="p13"/>
+me about the officers of his own ship, the Sea Mew&mdash;and then he spoke of having visited the other ship, the Wanderer, and of making acquaintance with some of the officers on board. He said they were all pleasant men, with the exception of one moody, silent stranger, who had only that day joined as a volunteer. &ldquo;Did you find out who he was?&rdquo; I asked, carelessly. &ldquo;I only found out his name,&rdquo; said Frank. &ldquo;It was Richard Wardour!&rdquo;</p>
+<stage>(<hi rend="italics">The music in the next room stops, and the back of the stage becomes invisible in the darkness.</hi>)</stage>
+<p><hi rend="italics">Lucy</hi> (<hi rend="italics">eagerly</hi>). Is there any chance of your name being mentioned between them? Did you risk any personal reference to Frank at your last interview with Richard Wardour? (CLARA <hi rend="italics">impatiently makes a gesture in the negative.</hi>) Was your engagement with Frank known when the expedition sailed?</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">more and more impatiently</hi>). Nobody knew of it! Don't ask me questions! Don't take me back to the past! Your words go through me like a knife! (<hi rend="italics">Rising suddenly, and speaking in violent agitation.</hi>) No! no! no! All questions are useless&mdash;all comfort is vain! Lucy! they have sailed away together&mdash;away to the eternal ice and snow&mdash;the man who is to marry me, and the man whose heart I have broken!</p>
+<p><hi rend="italics">Lucy</hi> (<hi rend="italics">trying to quiet her</hi>). In separate ships&mdash;you said yourself in separate ships!</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">more and more vehemently</hi>). The ships are wrecked! the cruel ice has beaten them to pieces! The two men are together, lost in the frozen desert with the rest! The two men are together&mdash;and the fatal words which discover everything have been spoken between them! I saw them, Lucy! Three days since, I saw them in the spirit! I saw them by the Second Sight!</p>
+<p><hi rend="italics">Lucy.</hi> Hush! hush! Don't talk so.</p>
+<stage>(<hi rend="italics">A momentary pause.</hi> CLARA's <hi rend="italics">face slowly loses the expression of passionate earnestness with which she has spoken. She looks vacantly and fixedly straight before her. Her right hand, which has been raised in gesticulation as she uttered her last words, sinks slowly to her side. She stands erect and rigid, insensible to</hi> LUCY's <hi rend="italics">presence, and to all that passes in the room.</hi>)</stage>
+<pb n="14" id="p14"/>
+<p><hi rend="italics">Lucy</hi> (<hi rend="italics">after touching</hi> CLARA). Lights! lights! Rose! Caroline! The Trance has seized her again!</p>
+<stage>(ROSE <hi rend="italics">and</hi> MRS. STEVENTON <hi rend="italics">enter hurriedly, and group themselves, with</hi> LUCY, <hi rend="italics">round</hi> CLARA, <hi rend="italics">at one extremity of the stage. At the same moment, the darkness at the back changes to a dim grey light. The light strengthens coldly, and reveals the view of an iceberg floating on dark water, and seen against a dark sky. The figures of two men are represented on the lower slopes of the iceberg. One</hi> (FRANK ALDERSLEY) <hi rend="italics">in a recumbent posture. The other</hi> (RICHARD WARDOUR) <hi rend="italics">stands, gun in hand, behind</hi> FRANK, <hi rend="italics">looking down on him.</hi>)</stage>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">still standing motionless, and speaking in low, dreamy tones</hi>). I see them in the icy wilderness. I am following them over the frozen deep. Frank&mdash;Frank&mdash;Frank, rise on the iceberg and defend yourself. Richard Wardour knows the truth. Richard Wardour has sworn to have your life.</p>
+<stage>(<hi rend="italics">As the last words fall from her lips, long rays of red light shoot up from behind the iceberg over the dark sky, and, spreading themselves gradually, suffuse, first the sky, then the iceberg, then the two figures on it. As this effect of light, from the aurora borealis, gathers and overspreads the scene,</hi> CLARA <hi rend="italics">speaks again, still standing motionless, still in the same dreamy tones.</hi>)</stage>
+<p><hi rend="italics">Clara.</hi> The crimson stain. The crimson stain. It floods the dreary sky. It reddens the dreadful ice. Downward, downward till it reaches the two men. Downward, downward till it touches <hi rend="italics">me.</hi></p>
+<stage>(<hi rend="italics">As she speaks, a ray of the red light reaches her, and shows her immovable face and figure, leaving the women round her, and all the objects in the room in total darkness. After a moment, the light is seen to fade slowly downward over the scene of the iceberg, leaving the back of the stage once more in darkness. The light over</hi> CLARA <hi rend="italics">vanishes the next instant. At the moment when the whole stage is again obscured.</hi> CLARA'S <hi rend="italics">hands are seen to wave to and fro as if seeking mechanically for some support. A faint cry escapes her, and she sinks into</hi> LUCY'S <hi rend="italics">arms.</hi>)</stage>
+
+<trailer>THE END OF THE FIRST ACT.</trailer></div2>
+
+<div2 type="section">
+<pb n="15" id="p15"/>
+<head>ACT II.</head>
+<stage>SCENE.&mdash;<hi rend="italics">A Hut in the Arctic Regions. A door at the back, opening on the bleak Polar prospect, where the snow is seen to fall incessantly, as often as the door is opened. Through an aperture in the roof, the snow falls drearily, at intervals, on the floor throughout the Act. On one side of the Hut, two sleeping-berths and a rude fire. On the other side a doorway, with a piece of an old sail hanging across it, communicating with an inner Hut. Hanging from the roof, a hammock. Icicles have formed in the interstices of the walls. On the stage is placed an old cask, to serve for a table, with a pestle and mortar on it. Also a chest or two.</hi></stage>
+<stage>BATESON <hi rend="italics">discovered, dozing at the fire.</hi></stage>
+<p><hi rend="italics">Enter</hi> LIEUTENANT CRAYFORD, <hi rend="italics">from the inner Hut.</hi></p>
+<p><hi rend="italics">Cray.</hi> Jump up, Bateson! It's your turn to be relieved. Darker! (<hi rend="italics">A Sailor enters from the inner Hut.</hi>) It's your watch. Look lively, my man&mdash;look lively. Anything to report, Bateson? (<hi rend="italics">Walks about.</hi>)</p>
+<p><hi rend="italics">Bate.</hi> Nothing, your honour, except that it's pinching cold. (<hi rend="italics">Exit into inner Hut.</hi>)</p>
+<p><hi rend="italics">Cray.</hi> And that's no news in the Arctic regions, with the thermometer below zero in-doors. My poor dear sister Lucy! what would she say, with her horror of cold, if she knew what our temperature was here? Look out, Darker, and report what weather we have this morning.</p>
+<stage>(DARKER <hi rend="italics">opens the door. The snow is seen falling heavily.</hi>)</stage>
+<p><hi rend="italics">Darker.</hi> The usual weather, sir.</p>
+<stage>(<hi rend="italics">Shuts the door, and retires to the inner Hut.</hi>)</stage>
+<p><hi rend="italics">Cray.</hi> Ah! the usual weather! No change in these dreary regions! Well, well&mdash;duty, duty! Let me see. What have I to do? (<hi rend="italics">Looks round, and sees the pestle and mortar.</hi>) Oh, here are these wretched bones to be pounded for soup. I must rouse the cook (<hi rend="italics">calling</hi>), John Want! That fellow little thinks how useful he is in keeping up my spirits. No matter how the cold pinches, he always
+<pb n="16" id="p16"/>
+amuses me. John Want!&mdash;the most inveterate croaker and grumbler in the world, and yet, according to his own account, the only cheerful man in the whole ship's company. John Want! John Want!</p>
+<p><hi rend="italics">John Want</hi> (<hi rend="italics">speaking from the hammock</hi>). Give me some more sleep!</p>
+<p><hi rend="italics">Cray.</hi> Not a wink, you mutinous rascal! Rouse up!</p>
+<p><hi rend="italics">John Want</hi> (<hi rend="italics">peeping out</hi>). Lord! Lord! here's all my breath on my blanket. Icicles, if you please, sir, all round my mouth and all over my blanket. [Every time I've snored, I've frozen something. (<hi rend="italics">Gets out and goes to the fire.</hi>) When a man gets the cold into him to that extent that he ices his own bed, it can't last much longer. But <hi rend="italics">I</hi> don't grumble!</p>
+<p><hi rend="italics">Cray.</hi> Come here, sir, and set to work on this mortar. What are you doing there?</p>
+<p><hi rend="italics">John Want</hi> (<hi rend="italics">holding his chin over the fire</hi>). Thawing my beard, sir.</p>
+<p><hi rend="italics">Cray.</hi> Come here, I say! What the devil are you about now?</p>
+<p><hi rend="italics">John Want</hi> (<hi rend="italics">at the fire with a watch in his hand</hi>). Thawing my watch, sir. It's been under my pillow all night, and the cold has stopped it. Cheerful, wholesome, bracing sort of climate to live in, isn't it, sir? But <hi rend="italics">I</hi> don't grumble!</p>
+<p><hi rend="italics">Cray.</hi> No, we all know that. You are the only cheerful man of the ship's company. Look here. Are these bones pounded small enough.</p>
+<p><hi rend="italics">John Want</hi> (<hi rend="italics">taking the pestle and mortar</hi>). You'll excuse me, sir, but how very hollow your voice sounds this morning.</p>
+<p><hi rend="italics">Cray.</hi> Keep your remarks about my voice to yourself, and answer my question about the bones.</p>
+<p><hi rend="italics">John Want.</hi> Well, sir, they'll take a trifle more pounding. I'll do my best with them to-day, sir, for your sake.</p>
+<p><hi rend="italics">Cray.</hi> What do you mean?</p>
+<p><hi rend="italics">John Want</hi> I don't think I shall have the honour of making much more bone soup for you, sir. Do you think yourself you'll last long, sir? I don't, saving your presence. I think about another week or ten days will do for us all. (BATESON <hi rend="italics">approaches from the inner Hut.</hi>) This man looks bad, too, don't he, sir? He was half an hour
+<pb n="17" id="p17"/>
+cutting one log of wood yesterday. His legs are swelling (<hi rend="italics">touches</hi> BATESON'S <hi rend="italics">legs:</hi> BATESON <hi rend="italics">indignantly pushes him away</hi>), and he loses his temper at trifles. I give <hi rend="italics">him</hi> another day or two. I give the best of us a week. (<hi rend="italics">Looks up.</hi>) Here's the snow beginning to trickle through the roof now, and if we don't all die a natural death of frost, we shall be buried alive.</p>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">to</hi> BATESON). Now then, my man, what is it?</p>
+<p><hi rend="italics">Bate.</hi> A message from Captain Ebsworth, sir.</p>
+<p><hi rend="italics">Cray.</hi> Well?</p>
+<p><hi rend="italics">Bate.</hi> Captain Ebsworth is worse than ever with his freezing pains, sir, this morning. He wants to see you, and give you some important directions immediately.</p>
+<p><hi rend="italics">Cray.</hi> I will go at once. Rouse the Doctor. We shall want all the help he can give us.</p>
+<stage>(<hi rend="italics">Exit, followed by</hi> BATESON.)</stage>
+<p><hi rend="italics">John Want</hi> (<hi rend="italics">pounding the bones</hi>). Rouse the Doctor? Suppose the Doctor should be frozen? He hadn't a ha'porth of warmth in him last night, and his voice sounded like a whisper in a speaking-trumpet. (<hi rend="italics">Pours the bones into a saucepan.</hi>) In with you, and flavour the hot water, if you can! When I remember that I was once an apprentice at a pastrycook's&mdash;when I think of the gallons of turtle-soup that this hand has stirred up in a jolly hot kitchen, and when I find myself now mixing bones and hot water for soup, and turning into ice as fast as I can, if I wasn't of a cheerful disposition, I should feel inclined to grumble. John Want! John Want! whatever had you done with your natural senses, when you made up your mind to go to sea?</p>
+<p><hi rend="italics">Frank Aldersley</hi> (<hi rend="italics">speaking from his bed-place</hi>). Who's that croaking over the fire?</p>
+<p><hi rend="italics">John Want.</hi> Croaking? You don't find your own voice at all altered for the worse, do you, Mr. Frank? (<hi rend="italics">Aside.</hi>) I don't give <hi rend="italics">him</hi> more than another six hours. He's one of your grumblers.</p>
+<p><hi rend="italics">Frank.</hi> What are you doing there?</p>
+<p><hi rend="italics">John Want.</hi> Making bone soup, sir, and wondering why I ever went to sea.</p>
+<p><hi rend="italics">Frank.</hi> Oh! it's John Want. Well, and why did you go to sea?</p>
+<p><hi rend="italics">John Want.</hi> I'm not certain, sir. Sometimes I think it
+<pb n="18" id="p18"/>
+was natural perversity; sometimes I think it was false pride at getting over sea-sickness; sometimes I think it was reading &ldquo;Robinson Crusoe,&rdquo; and books warning of me <hi rend="italics">not</hi> to go to sea.</p>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">composing himself to sleep again</hi>). Everybody gets over sea-sickness.</p>
+<p><hi rend="italics">John Want</hi> (<hi rend="italics">stirring up the soup</hi>). Not as <hi rend="italics">I</hi> did, sir. <hi rend="italics">I</hi> got over sea-sickness by dint of hard eating. I was a passenger on board a packet-boat, sir, when first I saw blue water. A nasty lopp of a sea came on just at dinnertime, and I began to feel queer the moment the soup was put on table. &ldquo;Sick?&rdquo; says the captain. &ldquo;Rather, sir,&rdquo; says I. &ldquo;Will you try my cure?&rdquo; says the captain. &ldquo;Certainly, sir,&rdquo; says I. &ldquo;Is your heart in your mouth yet?&rdquo; says the captain. &ldquo;Not quite, sir,&rdquo; says I. &ldquo;Mock-turtle soup!&rdquo; says the captain, and helps me. I swallow a couple of spoonfuls, and turn as white as a sheet. The captain cocks his eye at me. &ldquo;Go on deck, sir,&rdquo; says he, &ldquo;get rid of the soup, and then come back to the cabin.&rdquo; I got rid of the soup, and came back to the cabin. &ldquo;Cod's head and shoulders,&rdquo; says the captain, and helps me. &ldquo;I can't stand it, sir,&rdquo; says I. &ldquo;You must,&rdquo; says the captain, &ldquo;because it's the cure.&rdquo; I crammed down a mouthful, and turned paler than ever. &ldquo;Go on deck,&rdquo; says the captain, &ldquo;get rid of the cod's head, and come back to the cabin.&rdquo; Off I go, and back I come. &ldquo;Boiled leg of mutton and trimmings,&rdquo; says the captain, and helps me. &ldquo;No fat, sir,&rdquo; says I. &ldquo;Fat's the cure,&rdquo; says the captain, and makes me eat it. &ldquo;Lean's the cure,&rdquo; says the captain, and makes me eat it. &ldquo;Steady?&rdquo; says the captain. &ldquo;Sick,&rdquo; says I. &ldquo;Go on deck,&rdquo; says the captain, &ldquo;get rid of the boiled leg of mutton and trimmings, and come back to the cabin.&rdquo; Off I go, staggering&mdash;back I come, more dead than alive. &ldquo;Devilled kidneys,&rdquo; says the captain. I shut my eyes, and got 'em down. &ldquo;Cure's beginning,&rdquo; says the captain. &ldquo;Mutton chop and pickles.&rdquo; I shut my eyes, and got <hi rend="italics">them</hi> down. &ldquo;Broiled ham and cayenne pepper,&rdquo; says the captain. &ldquo;Glass of stout and cranberry tart. Want to go on deck again?&rdquo; &ldquo;No, sir,&rdquo; says I. &ldquo;Cure's done,&rdquo; says the captain. &ldquo;Never you give in to your stomach, and your stomach will end in giving in to <hi rend="italics">you.</hi>&rdquo; (<hi rend="italics">Exit into inner Hut with the soup.</hi>)</p>
+<pb n="19" id="p19"/>
+<stage><hi rend="italics">Enter</hi> CRAYFORD.</stage>
+<p><hi rend="italics">Cray.</hi> Steventon!</p>
+<p><hi rend="italics">Stev.</hi> (<hi rend="italics">rising from his bed-place</hi>). Here! Anything wanted?</p>
+<p><hi rend="italics">Cray.</hi> The captain is too ill to get up. He has been giving me some very important and very unexpected directions. There is to be a change, at last, in our wretched lives here.</p>
+<p><hi rend="italics">Stev.</hi> A change! What change?</p>
+<p><hi rend="italics">Cray.</hi> The crew of the Sea-Mew here, and the crew of the Wanderer on the other side of the hillock yonder, are to be united to-day in this hut. Send a man with that message from our captain to Captain Helding, of the Wanderer.</p>
+<stage>(<hi rend="italics">Gives a paper to</hi> STEVENTON, <hi rend="italics">who retires to the back of the Hut, rouses a Sailor, and equips him for going out.</hi>)</stage>
+<p><hi rend="italics">Cray.</hi> Frank! Frank Aldersley!</p>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">rising from his bed-place</hi>). Yes!</p>
+<p><hi rend="italics">Cray.</hi> One of the officers' chests had a backgammonboard and dice in it, just before we abandoned the Sea-Mew?</p>
+<p><hi rend="italics">Frank.</hi> It was my chest. I have got them still in my berth here. Shall I get them?</p>
+<p><hi rend="italics">Cray.</hi> I only want the dice and the box for casting lots.</p>
+<stage>(FRANK <hi rend="italics">gets the dice, and</hi> STEVENTON, <hi rend="italics">having dismissed the Messenger, returns to the front.</hi>)</stage>
+<p><hi rend="italics">Stev.</hi> (<hi rend="italics">observing the dice-box, as</hi> FRANK <hi rend="italics">gives it to</hi> CRAYFORD). Dice! Are we going to gamble at the North Pole?</p>
+<p><hi rend="italics">Cray.</hi> No, no! (<hi rend="italics">To</hi> FRANK.) I am afraid, Frank, you are hardly strong enough, after your illness, to make one of an exploring party.</p>
+<p><hi rend="italics">Frank.</hi> I am ready to venture. Any risk is better than pining and perishing here. (<hi rend="italics">Exit into the inner Hut.</hi>)</p>
+<p><hi rend="italics">Stev.</hi> (<hi rend="italics">looking off, after</hi> FRANK). He doesn't think of danger; he thinks of nothing but getting back to his sweetheart. By the way, who does poor Denman's duty now in the Wanderer's hut?</p>
+<pb n="20" id="p20"/>
+<p><hi rend="italics">Cray.</hi> One of the best officers and one of the hardiest men in the Queen's navy&mdash;Richard Wardour.</p>
+<p><hi rend="italics">Stev.</hi> Your liking for that man amazes me, Crayford.</p>
+<p><hi rend="italics">Cray.</hi> Remember that I have had peculiar opportunities of knowing him. I sailed from England with him in the Wanderer, and was only transferred to the Sea-Mew long after we were locked up in the ice. I was Richard Wardour's companion on board ship for months, and I learnt there to do him justice.</p>
+<p><hi rend="italics">Stev.</hi> You can't deny the violence of his temper?</p>
+<p><hi rend="italics">Cray.</hi> I don't deny it.</p>
+<p><hi rend="italics">Stev.</hi> Or the sullenness of his disposition?</p>
+<p><hi rend="italics">Cray.</hi> Yes, I deny that. He is not naturally a sullen man. Under all his outward defects, there beats a great and generous heart. You are prejudiced against Richard Wardour, from not knowing enough of him.</p>
+<p><hi rend="italics">Stev.</hi> Then Frank is prejudiced too, for he agrees with me.</p>
+<p><hi rend="italics">Cray.</hi> And what opportunities has Frank had of judging? I have never seen him in Wardour's society for five minutes together.</p>
+<stage>(<hi rend="italics">A hail outside&mdash;&ldquo;Sea-Mew ahoy!&rdquo;</hi> FRANK <hi rend="italics">re-enters.</hi> CRAYFORD <hi rend="italics">and</hi> STEVENTON <hi rend="italics">rise. The door is opened, and the Men and Officers of the Wanderer enter, headed by</hi> CAPTAIN HELDING <hi rend="italics">and</hi> RICHARD WARDOUR. RICHARD WARDOUR <hi rend="italics">has a gun with him. These two come down to the front, and greet the Officers of the Sea-Mew,</hi> CAPTAIN HELDING <hi rend="italics">shaking hands cordially,</hi> WARDOUR <hi rend="italics">nodding gruffly to</hi> STEVENTON <hi rend="italics">and</hi> FRANK, <hi rend="italics">and only shaking hands with</hi> CRAYFORD. <hi rend="italics">The remainder of the Wanderer's Men group themselves at the back.</hi>)</stage>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">shaking hands with</hi> CAPTAIN HELDING). Captain Helding, I am heartily glad to see you! Now, my men, the cask in the middle, here. (<hi rend="italics">Goes up with the Captain.</hi>)</p>
+<p><hi rend="italics">Wark.</hi> (<hi rend="italics">standing between</hi> STEVENTON <hi rend="italics">and</hi> FRANK). What are we wanted here for?</p>
+<p><hi rend="italics">Stev.</hi> To consult, I suspect, on the best means of escaping from this horrible place.</p>
+<p><hi rend="italics">Ward. You</hi> may think it horrible&mdash;<hi rend="italics">I</hi> like it.</p>
+<p><hi rend="italics">Frank.</hi> Like it! Good Heavens! why?</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">seating himself in a corner</hi>). Because there are no women here.</p>
+<pb n="21" id="p21"/>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">seating himself on a bench with</hi> STEVENTON). Just as great a bear as ever!</p>
+<p><hi rend="italics">Cray.</hi> Brother-officers and men of the Wanderer and Sea-Mew,&mdash;The commander of this expedition, Captain Ebsworth, is, I grieve to say, too ill to rise from his bed and address you himself. He has, therefore, given me his directions, as his second in command, and I now have the honour of speaking to you in his place. Without recalling all the hardships we have suffered for the last three years&mdash;the loss first of one of our ships, then of the other, the death of some of our bravest and best companions, the vain battles we have been fighting with the ice and snow, and boundless desolation of these inhospitable regions&mdash;without dwelling on these things, it is my duty to remind you that this, the last place in which we have taken refuge, is far beyond the track of any previous expedition, and that consequently our chance of being discovered by any rescuing parties that may be sent to look for us is, to say the least of it, a chance of the most uncertain kind. You all agree with me, gentlemen, so far?</p>
+<p><hi rend="italics">The Officers</hi> (<hi rend="italics">with the exception of</hi> WARDOUR, <hi rend="italics">who remains silent throughout the scene</hi>). Yes! yes!</p>
+<p><hi rend="italics">Cray.</hi> It is, therefore, urgently necessary that we should make another, and probably a last, effort to extricate ourselves. The winter is coming on, game is getting scarcer and scarcer, our stock of provisions is running low, and the sick&mdash;especially, I am sorry to hear, the sick in the Wanderer's hut&mdash;are increasing in number day by day.</p>
+<p><hi rend="italics">Capt. H.</hi> Yes, I am sorry to say so.</p>
+<p><hi rend="italics">Cray.</hi> We must look to our own lives, and to the lives of those who are dependent on us, and we have no time to lose.</p>
+<p><hi rend="italics">The Officers.</hi> Right! right! No time to lose.</p>
+<p><hi rend="italics">Cray.</hi> The plan proposed is, that a detachment of the able-bodied officers and men among us should set forth this very day, and make another effort to reach the nearest Fur Settlements, from which help and provisions may be despatched to those who remain here. The new direction to be taken, and the various precautions to be adopted, are all drawn out ready; the only question now before us is, who is to stop here, and who is to undertake the journey?</p>
+<p><hi rend="italics">The Officers.</hi> Volunteers!</p>
+<pb n="22" id="p22"/>
+<p><hi rend="italics">The Men.</hi> Aye, aye, volunteers.</p>
+<p><hi rend="italics">Capt. H.</hi> (<hi rend="italics">at the same time</hi>). Not volunteers. No! no!</p>
+<p><hi rend="italics">Cray.</hi> Wardour, do you say nothing?</p>
+<p><hi rend="italics">Ward.</hi> Nothing. Go, or stay&mdash;it's all one to me.</p>
+<p><hi rend="italics">Cray.</hi> I am sorry to hear it. (<hi rend="italics">To the rest.</hi>) Well, suppose we say volunteers&mdash;who volunteers to stay?</p>
+<stage>(<hi rend="italics">Dead silence. The Officers and Men look at each other confusedly.</hi>)</stage>
+<p><hi rend="italics">Cray.</hi> You see, we can't settle it by volunteering. You all want to go. Every man among us, who has the use of his limbs, naturally wants to go. But what is to become of those who have <hi rend="italics">not</hi> got the use of their limbs? Some of us must stay and take care of the sick.</p>
+<p><hi rend="italics">The Officers.</hi> True! true!</p>
+<p><hi rend="italics">Cray.</hi> So we get back again to the old question, who among the able-bodied is to go, and who is to stay? Captain Ebsworth says, and I say, let chance decide it.</p>
+<p><hi rend="italics">Officers and Men.</hi> Hear! hear! hear! Hurray!</p>
+<p><hi rend="italics">Cray.</hi> Here are dice. The numbers run as high as twelve&mdash;double sixes. All who throw under six, stay; all who throw over six, go. Is that agreed?</p>
+<p><hi rend="italics">The Officers.</hi> Agreed! agreed!</p>
+<p><hi rend="italics">Cray.</hi> The people shall decide by throwing lots into a hat, if they prefer it. Here (<hi rend="italics">taking a packet from his pocket</hi>) are a certain number of folded pieces of paper. Half have &ldquo;Stay&rdquo; written inside, and half &ldquo;Go.&rdquo; Men of the Wanderer and Sea-Mew both, which will you have, the hat or the dice?</p>
+<p><hi rend="italics">The Men.</hi> The hat!</p>
+<p><hi rend="italics">Cray.</hi> Very well. A hat there!</p>
+<p><hi rend="italics">John Want</hi> (<hi rend="italics">comes forward from among the Men with a saucepan</hi>). What do you say to this, sir?</p>
+<p><hi rend="italics">Cray.</hi> Not a hat among us without a hole in it, I suppose. Well! we must put up with the saucepan, and the cook shall hand it round. (<hi rend="italics">Turns the papers into the saucepan</hi>). Shake it well!</p>
+<p><hi rend="italics">John Want.</hi> May I draw first, sir?</p>
+<p><hi rend="italics">Cray.</hi> The cook ought to stay by the kitchen.</p>
+<p><hi rend="italics">John Want.</hi> Not when he has nothing to put in his saucepan but paper, sir. (<hi rend="italics">A general laugh.</hi>)</p>
+<p><hi rend="italics">Cray.</hi> Well, well! I admit the plea. Draw, my men. The officers, in order of seniority, throw meanwhile. The
+<pb n="23" id="p23"/>
+captain of the Wanderer will throw first. Under six, &ldquo;Stay.&rdquo; Over six, &ldquo;Go.&rdquo; There is the box, Captain Helding. (<hi rend="italics">Hands the box to the Captain, and addresses one of the Officers.</hi>) Take the slate, and mark down those who go, and those who stay.</p>
+<stage>(<hi rend="italics">The Men draw lots. The Officers throw dice, exclaiming, at intervals, &ldquo;Go!&rdquo; and &ldquo;Stay!&rdquo;</hi></stage>
+<p><hi rend="italics">Capt. H.</hi> (<hi rend="italics">casting</hi>). Seven!</p>
+<p><hi rend="italics">Cray.</hi> Go! I congratulate you, sir. Now for my own chance. (<hi rend="italics">Casts.</hi>) Three! Stay! Ah, well! well, if I can do my duty, and be of use to others, what does it matter whether I go or stay? Wardour, you are next, in the absence of your first lieutenant. (WARDOUR <hi rend="italics">prepares to cast without shaking the dice.</hi>) Shake the box, man!&mdash;give yourself a chance of luck!</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">letting the dice fall out carelessly</hi>). Not I! I've done with luck.</p>
+<stage>(<hi rend="italics">Goes back to his place without looking at the dice.</hi>)</stage>
+<p><hi rend="italics">Cray.</hi> Six! There! you have a second chance, in spite of yourself. You are neither under nor over&mdash;you throw again.</p>
+<p><hi rend="italics">Ward.</hi> Bah! It's not worth the trouble of getting up for. Somebody else throw for me. (<hi rend="italics">Looking at</hi> FRANK.) You!&mdash;you have got what the women call a lucky face.</p>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">to</hi> CRAYFORD). Shall I?</p>
+<p><hi rend="italics">Cray.</hi> Yes, if he wishes it.</p>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">casting</hi>). Two! He stays! Wardour, I am sorry I have thrown against you.</p>
+<p><hi rend="italics">Ward.</hi> I tell you again&mdash;go or stay, it's all one to me. You will be luckier when you cast for yourself.</p>
+<p><hi rend="italics">Cray.</hi> It is his turn to throw for himself now.</p>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">casting</hi>). Eight! Hurray! I go!</p>
+<p><hi rend="italics">Ward.</hi> What did I tell you? The chance was yours&mdash;you have thriven on my ill luck.</p>
+<p><hi rend="italics">Cray.</hi> Steventon! it's your turn.</p>
+<p><hi rend="italics">Stev.</hi> (<hi rend="italics">casting</hi>). Five!</p>
+<p><hi rend="italics">Cray.</hi> Stay! We must comfort each other. Men who stay file into the inner hut. (<hi rend="italics">They do so.</hi>)</p>
+<p><hi rend="italics">Capt. H.</hi> Men who go, the rendezvous is at this hut, as soon as we can be ready for the journey. A couple of hands here, Lieutenant Crayford, to shovel away the drift. It chokes the door.</p>
+<pb n="24" id="p24"/>
+<p><hi rend="italics">Stev.</hi> (<hi rend="italics">calling off</hi>). A couple of hands there, with shovels, to clear the snow from the door!</p>
+<p><hi rend="italics">Cray.</hi> Here are the directions for the journey.</p>
+<stage><hi rend="italics">(Gives paper.</hi>)</stage>
+<stage>(<hi rend="italics">Exit</hi> CAPTAIN HELDING, <hi rend="italics">accompanied by his Officers.</hi> BATESON <hi rend="italics">and</hi> DARKER <hi rend="italics">shut the door.</hi>)</stage>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">going to his berth</hi>). I shall pack at once. It won't take me two minutes. (<hi rend="italics">Rolls up his blankets, &amp;c</hi>)</p>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">to</hi> WARDOUR, <hi rend="italics">who is about to go</hi>). Wardour, you are one of those who stay. You will not be wanted yet at the hut. Wait here a little. I wish to speak to you.</p>
+<p><hi rend="italics">Ward.</hi> Are you going to give me any more good advice?</p>
+<p><hi rend="italics">Cray.</hi> Don't look at me in that sour way. I am only going to ask you a question.</p>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">rolling up his bundle</hi>). There! I am all ready for the march. Stop! I have forgotten my snow-shoes.</p>
+<stage>(<hi rend="italics">Going out.</hi>)</stage>
+<p><hi rend="italics">Cray.</hi> Frank, have you taken everything that belongs to you out of your berth?</p>
+<p><hi rend="italics">Frank.</hi> Yes.</p>
+<p><hi rend="italics">Cray.</hi> We are almost as short of fuel as we are of provisions. Your berth, having no one to shelter now, will make good firing. If you see Bateson in the storehouse, send him here with his axe.</p>
+<p><hi rend="italics">Frank.</hi> Very well. (<hi rend="italics">Exit by the door at the back.</hi>)</p>
+<p><hi rend="italics">Cray.</hi> Wardour, we are alone at last.</p>
+<p><hi rend="italics">Ward.</hi> Well?</p>
+<p><hi rend="italics">Cray.</hi> You have both disappointed and surprised me today. Why did you say that it was all one to you, whether you went or stayed? Why are you the only man among us who seems indifferent whether we are rescued or not?</p>
+<p><hi rend="italics">Ward.</hi> Can a man always give a reason for what seems strange in his manner or his words?</p>
+<p><hi rend="italics">Cray.</hi> He can try&mdash;when his friend asks him.</p>
+<p><hi rend="italics">Ward.</hi> That's true. Do you remember the first night at sea, when we sailed from England in the Wanderer?</p>
+<p><hi rend="italics">Cray.</hi> As well as if it was yesterday.</p>
+<p><hi rend="italics">Ward.</hi> A calm, still night. No clouds, no stars. Nothing in the sky but the broad moon, and hardly a ripple to break the path of light she made in the quiet water. Mine was the middle watch that night. You came on deck, and found me alone.</p>
+<pb id="p25" n="25"/>
+<p><hi rend="italics">Cray.</hi> And in tears.</p>
+<p><hi rend="italics">Ward.</hi> The last I shall ever shed.</p>
+<p><hi rend="italics">Cray.</hi> Don't say that. There are times when a man is to be pitied indeed, if he can shed no tears.</p>
+<p><hi rend="italics">Ward.</hi> I should have quarrelled with any other man who had surprised me at that moment. There was something, I suppose, in your voice when you asked my pardon for disturbing me that softened my heart. I told you I had met with a disappointment which had broken me for life. There was no need to explain further. The only hopeless wretchedness in this world is the wretchedness that women cause.</p>
+<p><hi rend="italics">Cray.</hi> And the only unalloyed happiness, the happiness they bring.</p>
+<p><hi rend="italics">Ward.</hi> That may be your experience of them. Mine is different. All the devotion, the patience, the humility, the worship that there is in man I laid at the feet of a woman. She accepted the offering as women do&mdash;accepted it, easily, gracefully, unfeelingly&mdash;accepted it as a matter of course. I left England to win a high place in my profession, before I dared to win her. I braved danger, and faced death. I staked my life in the fever-swamps of Africa, to gain the promotion that I only desired for her sake&mdash;and gained it. I came back to give her all, and to ask nothing in return, but to rest my weary heart in the sunshine of her smile. And her own lips&mdash;the lips I had kissed at parting&mdash;told me that another man had robbed me of her. I spoke but few words when we parted that last time, and parted for ever. &ldquo;The time may come,&rdquo; I told her, &ldquo;when I shall forgive <hi rend="italics">you;</hi> but the man who has robbed me of you shall rue the day when you and he first met.&rdquo;</p>
+<p><hi rend="italics">Cray.</hi> Wardour! Wardour! I would rather see you in tears again than hear you say that.</p>
+<p><hi rend="italics">Ward.</hi> The treachery had been kept secret. Nobody could tell me where to find him; nobody could tell me who he was. What did it matter? When I had lived out the first agony, I could rely on myself&mdash;I could be patient, and bide my time.</p>
+<p><hi rend="italics">Cray.</hi> Your time! What time?</p>
+<p><hi rend="italics">Ward.</hi> The time when I and that man shall meet face to face. I knew it then, I know it now&mdash;it was written on
+<pb n="26" id="p26"/>
+my heart then, it is written on my heart now&mdash;that we two shall meet and know each other. With that conviction strong within me, I accepted this service, as I would have accepted anything that set work and hardship and danger, like ramparts, between my misery and me. With that conviction strong within me still, I tell you it is no matter whether I stay here with the sick or go hence with the strong. I shall live till I have met that man. There is a day of reckoning appointed between us. Here, in the freezing cold, or away in the deadly heat&mdash;in battle or in shipwreck&mdash;in the face of starvation, or under the shadow of pestilence&mdash;I, though hundreds are falling around me, I shall live!&mdash;live for the coming of one day&mdash;live for the meeting with one man!</p>
+<p><hi rend="italics">Cray.</hi> Wardour!</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">interrupting</hi>). Look at me! Look how I have lived and thriven with the heartache gnawing at me at home, with the winds of the icy north whistling round me here! I am the strongest man among you. Why? I have fought through hardships that have laid the best-seasoned men of all our party on their backs. Why? What have <hi rend="italics">I</hi> done, that my life should throb as bravely through every vein in my body at this minute, and in this deadly place, as ever it did in the wholesome breezes of home? What am I preserved for? I tell you again, for the coming of one day&mdash;for the meeting with one man.</p>
+<p><hi rend="italics">Cray.</hi> Wardour, since we first met, I have believed in your better nature, against all outward appearance. I have believed in you, firmly, truly, as your brother might. You are putting that belief to a hard test. If your enemy had told me that you had ever talked as you talk now&mdash;that you had ever looked as you look now&mdash;I would have turned my back on him as the utterer of a vile calumny against a just, a brave, an upright man. Oh! my friend, my friend, if ever I have deserved well of you, put away those thoughts from your heart! Face me again, with the stainless look of a man who has trampled under his feet the bloody superstitions of revenge, and knows them no more! Never, never, let the time come when I cannot offer you my hand as I offer it now to the man I can still admire&mdash;to the brother I can still love!</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">aside</hi>). Why did I speak? Why did I distress
+<pb n="27" id="p27"/>
+him? (<hi rend="italics">To</hi> CRAYFORD.) You are kinder to me than I deserve. Be kinder still, and forget what I have said. No, no, no more talk about me; I am not worth it. We'll change the subject, and never go back to it again. Let's do something. Is there no work in hand? No game to shoot, nothing to cut, nothing to carry? Hard work, Crayford, that's the true elixir of <hi rend="italics">our</hi> life! Hard work that stretches the muscles, and sets the blood a-glowing, that tires the body and rests the mind. (<hi rend="italics">Enter</hi> BATESON, <hi rend="italics">with an axe.</hi>) Here's a man with an axe. I'll do his work for him, whatever it is. (<hi rend="italics">Snatches the axe from</hi> BATESON, <hi rend="italics">and gives him the gun.</hi>)</p>
+<p><hi rend="italics">Bate.</hi> (<hi rend="italics">to</hi> CRAYFORD). Captain Ebsworth wishes to see you, sir.</p>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">looking at</hi> WARDOUR). Wardour, you won't leave the hut till I come back?</p>
+<p><hi rend="italics">Ward.</hi> No, no! (<hi rend="italics">Exit</hi> CRAYFORD.)</p>
+<p><hi rend="italics">Bate.</hi> (<hi rend="italics">holding out his hand for the axe, and offering the gun</hi>). I beg your pardon, sir&mdash;</p>
+<p><hi rend="italics">Ward.</hi> Nonsense! Why should you beg my pardon? Give me your work to do. My arm is stiff, and my hands are cold. Go you and look for the bear I have failed to find. Some other man always finds what I miss. What was this axe wanted for?</p>
+<p><hi rend="italics">Bate</hi> (<hi rend="italics">pointing</hi>). To cut up Lieutenant Aldersley's berth there into firewood, sir.</p>
+<p><hi rend="italics">Ward.</hi> I'll do it. I'll have it down in no time.</p>
+<p><hi rend="italics">Bate.</hi> (<hi rend="italics">aside</hi>). He looks as if he'd have the whole hut down in no time, if he only got the chance of chopping at it. (<hi rend="italics">Exit.</hi>)</p>
+<p><hi rend="italics">Ward.</hi> If I could only cut my thoughts out of me, as I am going to cut the billets out of this wood! (<hi rend="italics">Striking at the berth.</hi>) Down it comes! A good axe! O me, if I had been born a carpenter instead of a gentleman! Crash you go! Something like a grip on this handle! Poor Crayford! His words stick in my throat. Crash again! A fine fellow, a noble fellow! No use thinking, no use regretting; what is said is said. Another plank out! It doesn't take much, young Aldersley, to demolish <hi rend="italics">your</hi> nest. Have at the back now. One, two, and down it comes. (<hi rend="italics">Tears out a long strip of wood.</hi>) This must be cut in half. Stop! What's here? A name carved in the
+<pb n="28" id="p28"/>
+wood! C.L.A.&mdash;Clara. (<hi rend="italics">Throwing down the wood.</hi>) Damn the fellow and his sweetheart too; why must she have that name, of all the names in the world! The axe&mdash;where the devil is the axe? Work, work, work; nothing for it but work! (<hi rend="italics">Cuts out another plank.</hi>) More carving! That's the way these young idlers employ their long hours! F. A. Those are his initials. Frank Aldersley. And under them here? C. B.! His sweetheart's initials. Why, <hi rend="italics">her</hi> cypher is C. B.&mdash;C. B.! Clara Burnham! Nonsense! Why Burnham, because the letter is B.? Hundreds of names&mdash;thousands&mdash;begin with B. Where's the axe? Crayford, come here, and let's go hunting. I don't like my own thoughts. I am cold, cold all over. (<hi rend="italics">Goes to the fire, and holds his hands over it.</hi>) How they tremble! Steady, steady, steady! (<hi rend="italics">A pause. His voice drops to a whisper, and he looks all round him suspiciously.</hi>) <hi rend="italics">Has</hi> the day come, and the man? Here, at the end of the world? Here, at the last fight of all of us against starvation and death?</p>
+<stage><hi rend="italics">Enter</hi> CRAYFORD.</stage>
+<p><hi rend="italics">Cray.</hi> Did I hear you call me? Good Heaven, Wardour, how pale you are! Has anything happened?</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">hastily folding a handkerchief round his left hand</hi>). I hurt myself with the axe. It's nothing&mdash;never mind. Pain has always a curious effect on me. I tell you it's nothing&mdash;don't notice. Where's Aldersley? He's a good fellow, isn't he? You know him well&mdash;the sort of fellow the women take to&mdash;likely to get on with them? Man alive! how you stare at me! Where's Aldersley?</p>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">entering</hi>). Here! Who wants him? I wish he was in better marching order.</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">taking him abruptly by the arm</hi>). Not strong, eh? You don't look it. I didn't speak civilly to you when you were casting the dice. I apologise. Shake hands. Come on! Not strong, eh? The dice had better have sent me away, and kept you here. I never felt in better condition in my life. We men of Kent are made of tough material.</p>
+<p><hi rend="italics">Frank.</hi> You come from Kent?</p>
+<p><hi rend="italics">Ward.</hi> From East Kent. Do you know that part of the country?</p>
+<pb n="29" id="p29"/>
+<p><hi rend="italics">Frank.</hi> I ought to know something about East Kent. Some dear friends of mine once lived there.</p>
+<p><hi rend="italics">Ward.</hi> Ah? One of the county families, I suppose? (<hi rend="italics">Suddenly to</hi> CRAYFORD.) Why do you still stare at me so?</p>
+<p><hi rend="italics">Cray.</hi> Why are you still looking unlike yourself?</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">to</hi> FRANK). One of the county families, of course. The Witherbys of Yew Grange, I dare say?</p>
+<p><hi rend="italics">Frank.</hi> No; but friends of the Witherbys, very likely. The Burnhams.</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">turning aside suddenly, lets the handkerchief drop from his hand, which he presses convulsively over his heart</hi>). Quiet! quiet!</p>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">picking up the handkerchief, and offering it significantly to</hi> WARDOUR). Your have dropped your bandage. Strange&mdash;</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">fiercely</hi>). What's strange?</p>
+<p><hi rend="italics">Cray.</hi> That there should be no blood on it.</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">snatching it away</hi>). Next time you see it, there may be a stain or two. (<hi rend="italics">To</hi> FRANK.) So you know the Burnhams? What became of Clara when her mother married again?</p>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">haughtily</hi>). Clara! What authorises you to speak of the young lady in that familiar way?</p>
+<p><hi rend="italics">Ward.</hi> What right have you to ask me?</p>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">aside</hi>). Why should I mind mentioning it? (<hi rend="italics">To</hi> WARDOUR.) Right?</p>
+<p><hi rend="italics">Ward.</hi> Yes. Right?</p>
+<p><hi rend="italics">Frank.</hi> The right of being engaged to marry her.</p>
+<stage>(WARDOUR, <hi rend="italics">turning away again, his left hand slips down to a knife which he wears round his waist.</hi>)</stage>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">standing on that side, observes it</hi>). You forget (<hi rend="italics">seizing his hand</hi>) that your hand is hurt.</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">to</hi> FRANK, <hi rend="italics">with overstrained politeness</hi>). Impossible to dispute such a right as yours. Perhaps you will excuse me, when you know that I am one of Miss Burnham's old friends. My father and her father were neighbours. We have always met like brother and sister.</p>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">warmly</hi>). Say no more. I was in the wrong. Pray forgive me!</p>
+<p><hi rend="italics">Ward.</hi> Is she very fond of you?</p>
+<p><hi rend="italics">Frank.</hi> What a question! Make one at our wedding when we get back to England, and judge for yourself.</p>
+<pb n="30" id="p30"/>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">aside</hi>). Make one at your wedding? (<hi rend="italics">A knock at the door. It opens, and</hi> CAPTAIN HELDING <hi rend="italics">enters.</hi>) Yes!&mdash;if you can walk to it out of your grave.</p>
+<stage>(<hi rend="italics">The Men of the exploring party appear outside.</hi>)</stage>
+<p><hi rend="italics">Capt. II.</hi> We are ready.</p>
+<p><hi rend="italics">Frank.</hi> And I am ready. I go!</p>
+<stage>(<hi rend="italics">Throwing his snow-shoes over his shoulder.</hi>)</stage>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">aside</hi>). And I stay? Stay, when the day of reckoning is come? Stay, when I have him at last?</p>
+<p><hi rend="italics">Capt. H.</hi> (<hi rend="italics">to</hi> CRAYFORD). I have a casualty to report, which diminishes our numbers by one. (WARDOUR <hi rend="italics">starts, and listens anxiously.</hi>) My second lieutenant, who was to have joined the exploring party, has had a fall on the ice, and, I fear, has broken his leg.</p>
+<p><hi rend="italics">Ward.</hi> I will supply his place.</p>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">looking alternately at</hi> WARDOUR <hi rend="italics">and</hi> FRANK). No! Not you.</p>
+<p><hi rend="italics">Ward.</hi> Why not?</p>
+<p><hi rend="italics">Capt. H.</hi> Why not, indeed? Wardour is the very man to be useful on a long march. I was thinking of him myself. He is the healthiest of the party.</p>
+<p><hi rend="italics">Cray.</hi> He has no right to volunteer. We settled that chance should decide who was to go and who was to stay.</p>
+<p><hi rend="italics">Ward.</hi> And chance <hi rend="italics">has</hi> decided it. Do you think we are going to cast the dice again, and give an officer of the Sea-Mew a chance of replacing an officer of the Wanderer? There is a vacancy in our party, not in yours, and we claim the right of filling it as we please. I volunteer, and my captain backs me. Whose authority is to keep me here, after that? (<hi rend="italics">Calling.</hi>) Give me my gun there! Where is that man? Give me my gun!</p>
+<p><hi rend="italics">Capt. H.</hi> He is right, Crayford. The missing man belongs to my hut, and, in common justice, one of my officers ought to supply his place.</p>
+<stage>CAPTAIN HELDING <hi rend="italics">takes leave of the Officers.</hi> JOHN WANT <hi rend="italics">gives the &ldquo;Go&rdquo; party bottles, &amp;c., out of the box. The two parties of Men take leave of each other. The &ldquo;Stay&rdquo; party give three cheers. The &ldquo;Go&rdquo; party respond. Two Men at the sledge.</hi>).</stage>
+<p><hi rend="italics">Cray.</hi> No hope that way. (<hi rend="italics">Turns to</hi> FRANK.) Frank! Frank!</p>
+<pb n="31" id="p31"/>
+<p><hi rend="italics">Frank.</hi> Yes. What is it?</p>
+<p><hi rend="italics">Cray.</hi> Take the advice of an old friend, who wishes you well.</p>
+<p><hi rend="italics">Ward.</hi> Let him alone! Let him alone!</p>
+<p><hi rend="italics">Cray.</hi> Frank, don't risk hardships you are unfit to bear.</p>
+<p><hi rend="italics">Ward.</hi> Let him alone!</p>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">with great earnestness</hi>). Frank, you feel, yourself, how weak illness has left you, and how unfit you are to brave exposure to cold, and long marches over the snow.</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">suddenly taking</hi> CRAYFORD <hi rend="italics">by the throat</hi>). What do you mean? Leave him to his choice?</p>
+<stage>(CRAYFORD <hi rend="italics">catches</hi> WARDOUR'S <hi rend="italics">hand quietly in both of his.</hi> FRANK <hi rend="italics">interposes between them from behind.</hi> CRAYFORD, <hi rend="italics">releasing one of his hands, puts</hi> FRANK <hi rend="italics">away with the other, all the time looking steadily in</hi> WARDOUR'S <hi rend="italics">face.</hi>)</stage>
+<p><hi rend="italics">Cray.</hi> I said to you, Wardour, a little while ago, there are times when a man is to be pitied. I pity you now. Take your hand away.</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">releasing him</hi>). I beg your pardon.</p>
+<p><hi rend="italics">Frank.</hi> Spoken like a brave man! Come along!</p>
+<p><hi rend="italics">Ward.</hi> Bring me my gun there! (BATESON <hi rend="italics">brings it.</hi>) Come then! Come, over the snow and the ice! Come, over the road that no human footsteps have ever trodden, and where no human trace is ever left!</p>
+<stage>(<hi rend="italics">Loads his gun, and rams the charge home.</hi>)</stage>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">at the door</hi>). God bless you, Crayford!</p>
+<stage>(<hi rend="italics">The Men outside move off, leaving</hi> FRANK <hi rend="italics">alone in the snow.</hi>)</stage>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">going to him, and seizing his hand</hi>). Heaven preserve you, Frank! (<hi rend="italics">They shake hands, and</hi> FRANK <hi rend="italics">begins climbing the drift.</hi>) I would give all I have in the world to be with you. While you can stand, keep with the main body, Frank!</p>
+<p><hi rend="italics">Ward.</hi> While he can stand, he keeps with ME!</p>
+<stage>(WARDOUR <hi rend="italics">joins</hi> FRANK <hi rend="italics">outside.</hi> CRAYFORD <hi rend="italics">is left alone in the Hut, watching them as they disappear over the snow.</hi></stage>
+<trailer>THE END OF THE SECOND ACT.</trailer></div2>
+
+<div2 type="section">
+<pb n="32" id="p32"/>
+<head>ACT III.</head>
+<stage>SCENE.&mdash;<hi rend="italics">A Cavern on the coast of Newfoundland, opening, at the actor's left hand, into another cavern. At the back, a bright view of the sea-beach and sea, with a ship at anchor in the offing. A rude table, composed of planks laid across barrels, is placed near the mouth of the cave, on the left. A sea-chest is near it.</hi></stage>
+<p><hi rend="italics">At the rise of the curtain</hi> JOHN WANT <hi rend="italics">is discovered cording a box.</hi></p>
+<p><hi rend="italics">John Want.</hi> If I had only known, before I was rescued, that I was to be brought to this place, I think I should have preferred staying at the North Pole. I was very happy, keeping up everybody's spirits at the North Pole. I had a good deal of sleep at the North Pole. Taking one thing with another, I think I must have been very comfortable at the North Pole&mdash;if I had only known it. Another man in my place might be inclined to say that this Newfoundland cavern was rather a sloppy, slimy, drafty, sea-weedy sort of a habitation to stop in. Another man might object to perpetual Newfoundland fogs, perpetual Newfoundland codfish, and perpetual Newfoundland dogs. We had some very nice bears at the North Pole. But never mind&mdash;it's all one to me&mdash;<hi rend="italics">I</hi> don't grumble!</p>
+<stage><hi rend="italics">Enter</hi> BATESON, <hi rend="italics">from the beach.</hi></stage>
+<p><hi rend="italics">Bate.</hi> Look sharp with your work there, John Want&mdash;the ladies will be coming in here before long. Miss Crayford and Miss Burnham are within two minutes' walk of the cave; and Mrs. Steventon and Miss Ebsworth are not far behind them.</p>
+<p><hi rend="italics">John Want.</hi> Bateson, I consider you to be as sharp a man as myself, though not so cheerful. I want to know something about these ladies. It may have slipped my memory &mdash; but I can't for the life of me make out how they got here, on the coast of Newfoundland.</p>
+<p><hi rend="italics">Bate.</hi> Has it slipped your memory that we were all
+<pb n="33" id="p33"/>
+saved from starving to death by a searching expedition from England which discovered us in the hut? Oh! you remember that, do you? Well, the ladies are here, because they were anxious to get the earliest news of us&mdash;and their way of getting it was to come out in the storeship, which was timed to meet the expedition on its return from the miserable North Pole.</p>
+<p><hi rend="italics">John Want.</hi> Don't grumble! I won't hear any grumbling. Miserable North Pole, indeed! What do you call this place? There! there! Go on.</p>
+<p><hi rend="italics">Bate.</hi> Go on? There's nothing more to tell you, except that we have all come ashore here for a day or two, for the sake of the health of these ladies after the confinement they have undergone on board ship. If you're curious after more information, Master Want, I must leave you to your own devices to get it. Lieutenant Crayford will be here directly to receive his instructions from the ship&mdash;and I'd rather not give him the chance of finding me idling along with you.</p>
+<stage><hi rend="italics">Enter</hi> CRAYFORD <hi rend="italics">from the beach.</hi> BATESON <hi rend="italics">goes out, touching his hat as he passes his officer.</hi></stage>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">to</hi> JOHN WANT). Have you done cording that box?</p>
+<p><hi rend="italics">John Want.</hi> I've done it as well as I can, sir&mdash;but the damp of this place is beginning to tell upon our very ropes. I say nothing about our lungs&mdash;I only say, our ropes.</p>
+<p><hi rend="italics">Cray.</hi> Pooh! To look at your wry face, and to hear your croaking voice, one would think that our rescue from the Arctic regions was a dowuright misfortune. You deserve to be sent back.</p>
+<p><hi rend="italics">John Want.</hi> I could be just as cheerful as ever, sir, if I was. I hope I'm thankful&mdash;but I don't like to hear the North Pole run down in such a sloppy place as this. It was very clean and snowy at the North Pole&mdash;and it's very damp and sandy here. Do you never miss your bone soup now, sir? <hi rend="italics">I</hi> do. It mightn't have been strong; but it was very hot, and the cold seemed to give it a kind of a meaty flavour as it went down. (CRAYFORD <hi rend="italics">coughs.</hi>) Was it you that was a-coughing so long last night, sir? I
+<pb n="34" id="p34"/>
+don't presume to say anything against the air of this place&mdash;but I should be glad to know it wasn't you that was a-coughing so hollow. Would you be so obliging as just to feel the state of these ropes with the ends of your fingers, sir? You can dry them afterwards on the back of my jacket.</p>
+<p><hi rend="italics">Cray.</hi> You ought to have a stick laid across the back of your jacket. Take that box down to the boat directly. A croaking vagabond! He would have grumbled in the Garden of Eden.</p>
+<p><hi rend="italics">John Want.</hi> I could be cheerful anywhere, sir. But you mark my words&mdash;there must have been a deal of troublesome work with the flower-beds in the Garden of Eden. (<hi rend="italics">Exit, with the box.</hi>)</p>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">looking at his watch</hi>). Two o'clock! Steventon ought to be here directly with my instructions from the ship. They would be the most welcome instructions I ever received in my life, if they would only tell me how to keep Clara Burnham in ignorance of the truth. A chance word on the voyage home may ruin every precaution we have taken. A chance word may tell her, at any moment, that, of all the Arctic Expedition, Frank Aldersley and Richard Wardour are the only missing men!</p>
+<stage><hi rend="italics">Enter</hi> LUCY, <hi rend="italics">hurriedly, from the beach.</hi></stage>
+<p><hi rend="italics">Lucy.</hi> Clara is following me, William, to this place! She is not satisfied with what I have told her. She insists on hearing from your own lips of the circumstances under which Frank is missing. Pray, be careful! pray, prevent her from discovering the dreadful truth!</p>
+<p><hi rend="italics">Cray.</hi> One word, Lucy. So far as this unhappy young lady is concerned, are <hi rend="italics">you</hi> concealing any part of the truth from <hi rend="italics">me?</hi> When you told me of Clara Burnham's illness in England, I thought you spoke with a certain reserve.</p>
+<p><hi rend="italics">Lucy.</hi> I did speak with a certain reserve. I shrank from telling you the worst&mdash;and I was wrong. So much depends now upon your discretion, that I have no choice but to confide everything to you. Clara's illness in England was an illness of the mind, William, as well as of the body. She was more than once the subject of one of those mysterious nervous seizures, which, for want of a
+<pb n="35" id="p35"/>
+better word to describe it, I must call a Trance. While in that state she firmly believed that she saw you all, at the time when the expedition was lost at the North Pole.</p>
+<p><hi rend="italics">Cray.</hi> Saw us? Dreamed of us, you mean?</p>
+<p><hi rend="italics">Lucy.</hi> You will probably hear from herself what she saw&mdash;or dreamed&mdash;call it which you like. Let me get on, and warn you of the state of mind she is in now. We left Devonshire, and tried the effect on her of change of air and scene. The change did little towards making her stronger or happier&mdash;but it altered the state of her health very remarkably in one respect. After leaving our old house, the attacks I have mentioned vanished as mysteriously as they had come. And, from that day to this, they have never appeared again.</p>
+<p><hi rend="italics">Cray.</hi> So far then, at least, she is altered for the better?</p>
+<p><hi rend="italics">Lucy.</hi> In one respect, William, she is altered for the worse. She laments the change in her health, over which all the rest of us rejoice. She longs&mdash;she even prays&mdash;that the dreadful death-in-life, which used to strike her in the bygone time, may come again. In plainer words, she firmly believes, if the trances could be renewed, that the darkness in which Frank's fate is enveloped would be at an end, and that she would know for certain whether he is a dead or a living man.</p>
+<p><hi rend="italics">Cray.</hi> What death does she fear for him? Death by shipwreck? Death in the frozen desert?</p>
+<p><hi rend="italics">Lucy</hi> (<hi rend="italics">dropping her voice to a whisper</hi>). No. Death at the hands of Richard Wardour!</p>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">aside</hi>). <hi rend="italics">Can</hi> she have seen us? Her doubt of Wardour, and my doubt of Wardour, are one and the same!</p>
+<p><hi rend="italics">Lucy</hi> (<hi rend="italics">looking round towards the beach</hi>). Hush! she is coming. In Heaven's name, say nothing to encourage the frightful suspicion that possesses her, if she confides it to <hi rend="italics">you.</hi></p>
+<stage><hi rend="italics">Enter</hi> CLARA, <hi rend="italics">from the beach.</hi></stage>
+<p><hi rend="italics">Clara.</hi> Lucy, where is your brother? (<hi rend="italics">Sees, and approaches,</hi> CRAYFORD.) Ah, I have found you at last! I have been longing to see you all the morning.</p>
+<pb id="p36" n="36"/>
+<p><hi rend="italics">Cray.</hi> My dear young lady, I am entirely at your service.</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">placing herself on</hi> CRAYFORD'S <hi rend="italics">right hand, while</hi> LUCY <hi rend="italics">stands at his left</hi>). You are Lucy's brother&mdash;and you have an interest in me, for Lucy's sake. You are a brave man, <sic corr="and">aud</sic> you shrink from giving pain to a girl like me. Lieutenant Crayford, will you believe that I have courage enough to hear the worst? Will you promise not to deceive me about Frank?</p>
+<p><hi rend="italics">Lucy</hi> (<hi rend="italics">aside to</hi> CRAYFORD). Spare her, William&mdash;spare her!</p>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">uneasily</hi>). My dear Miss Burnham! what have I done, that you should suspect me of deceiving you?</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">aside</hi>). His colour changes! His answer is no answer at all! (<hi rend="italics">Walks apart thoughtfully.</hi>) If I could speak to one of his brother-officers, I might find out the truth.</p>
+<stage><hi rend="italics">Enter</hi> STEVENTON, <hi rend="italics">with</hi> MRS. STEVENTON <hi rend="italics">and</hi> ROSE, <hi rend="italics">from the beach. They are followed by two Sailors, carrying a basket, who arrange refreshments on the rude table at the left, and go out.</hi></stage>
+<p><hi rend="italics">Cray.</hi> A welcome interruption, Lucy! (MRS. S. <hi rend="italics">and</hi> ROSE <hi rend="italics">descend the stage on the left, and talk with</hi> LUCY. CRAYFORD <hi rend="italics">continues, addressing</hi> STEVENTON.) You bring me my instructions from the ship?</p>
+<p><hi rend="italics">Stev.</hi> Verbal instructions only. The ship will sail with the flood tide. We shall fire a gun to collect the people, and send a boat ashore. In the mean time, there are some refreshments for the ladies. The ship is in a state of confusion&mdash;they will eat their lunch more comfortably here.</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">who has roused herself on</hi> STEVENTON'S <hi rend="italics">entrance, and who has been looking at him while he speaks, addresses</hi> MRS. STEVENTON, <hi rend="italics">but without moving from her place</hi>). Caroline, can you spare your husband for a moment? I want to speak to him.</p>
+<p><hi rend="italics">Mrs. S.</hi> He is at your service, my dear. (CLARA <hi rend="italics">and</hi> STEVENSON <hi rend="italics">walk up the right-hand side of the cave together.</hi>) Lucy, Rose and I want to explore the inner cavern here. Will you join us? (LUCY, <hi rend="italics">who has been anxiously directing</hi> CRAYFORD'S <hi rend="italics">attention to</hi> CLARA <hi rend="italics">and</hi> STEVENTON,
+<pb n="37" id="p37"/>
+<hi rend="italics">shakes her head.</hi>) No? You have seen it already? Come, Rose! (<hi rend="italics">Exeunt</hi> MRS. S. <hi rend="italics">and</hi> ROSE, <hi rend="italics">left.</hi>)</p>
+<p><hi rend="italics">Lucy</hi> (<hi rend="italics">to</hi> CRAYFORD). Clara is going to put you to the test, William&mdash;in the presence of your brother-officer!</p>
+<p><hi rend="italics">Cray.</hi> Don't be alarmed. I have warned Steventon&mdash;he knows what to say.</p>
+<stage>(CLARA <hi rend="italics">and</hi> STEVENTON <hi rend="italics">descend the stage again on the right,</hi> CLARA <hi rend="italics">Placing herself between</hi> CRAYFORD <hi rend="italics">and</hi> STEVENTON.)</stage>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">after looking at them alternately, speaks in a troubled voice, but with resolute self-possession of manner</hi>). I will promise not to distress you, gentlemen. Young as I am, you shall find I am capable of self-control. (<hi rend="italics">To</hi> CRAYFORD.) Your dear sister has told me all about Frank that you told <hi rend="italics">her.</hi> But I want to hear it again from your lips, and (<hi rend="italics">indicating</hi> STEVENTON) from yours. I won't ask you to go far back into the story of your past sufferings. I will only refer you to the time when you had determined to send out an exploring party from the hut. Lucy tells me you cast lots among yourselves who was to go, and who was to stay. And Frank cast the lot to go. And (<hi rend="italics">pauses, shuddering</hi>)&mdash;and Richard Wardour cast the lot to stay. On your honour, as officers and gentlemen, is this the truth?</p>
+<p><hi rend="italics">Cray.</hi> On my honour, it is the truth.</p>
+<p><hi rend="italics">Stev.</hi> On my honour, it is the truth.</p>
+<p><hi rend="italics">Clara.</hi> After many weary days of marching, the exploring party stopped, and held a council, whether to continue the journey or to return to the hut. Some returned to the hut, and some bravely continued the journey. Frank was one among the bravest&mdash;one who went on. And those who went on are now, of all the expedition, the only missing men. On your honour again, yes? or no?</p>
+<p><hi rend="italics">Cray.</hi> On my honour, yes.</p>
+<p><hi rend="italics">Stev.</hi> On my honour, yes.</p>
+<p><hi rend="italics">Clara.</hi> A last question, and I have done. (<hi rend="italics">To</hi> CRAYFORD.) You drew the lot to stay in the hut&mdash;and you are here. He (<hi rend="italics">pointing to</hi> STEVENTON) drew the lot to stay&mdash;and he is here. Richard Wardour drew the lot to stay. Why is Richard Wardour not here?</p>
+<p><hi rend="italics">Cray.</hi> You forget that some members of the expedition
+<pb n="38" id="p38"/>
+died in the hut, before the rescuing-party from England found their way to us.</p>
+<p><hi rend="italics">Clara.</hi> Did Richard Wardour die in the hut?</p>
+<stage>(<hi rend="italics">A pause.</hi>)</stage>
+<p><hi rend="italics">Lucy</hi> (<hi rend="italics">aside to</hi> CRAYFORD). You must, William! you must!</p>
+<p><hi rend="italics">Clara.</hi> Did Richard Wardour die in the hut?</p>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">uneasily</hi>). Yes!</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">to</hi> STEVENTON). Do you say yes, too?</p>
+<p><hi rend="italics">Stev.</hi> (<hi rend="italics">uneasily</hi>). My brother-officer has answered you.</p>
+<p><hi rend="italics">Lucy</hi> (<hi rend="italics">eagerly interposing</hi>). You see, Clara, it is just as I said it was. There is hope that the missing men may have reached the fur settlements, and that we shall hear of them yet. Try to forget the rest, and to take comfort in that. And for the present, as a favour to <hi rend="italics">me,</hi> let us change the subject.</p>
+<p><hi rend="italics">Clara.</hi> Yes&mdash;let us change the subject. Lieutenant Crayford, Lieutenant Steventon, have you either of you ever been in the Highlands of Scotland?</p>
+<p><hi rend="italics">Stev.</hi> I have been in the Highlands.</p>
+<p><hi rend="italics">Clara.</hi> Did you hear anything, when you were there, of the Second Sight?</p>
+<p><hi rend="italics">Stev.</hi> Yes.</p>
+<p><hi rend="italics">Clara.</hi> Do you believe in the Second Sight?</p>
+<p><hi rend="italics">Stev.</hi> I hardly know what to say. I have never given the subject any serious thought.</p>
+<p><hi rend="italics">Clara.</hi> I won't put your credulity to the test. I won't ask you to believe anything more extraordinary than that I had a strange dream, in England, long since. The dream showed me your lost companions in the Arctic wilderness. And the tale it told of the missing men was not the tale that you and your brother-officer have told to <hi rend="italics">me.</hi></p>
+<p><hi rend="italics">Cray.</hi> My dear young lady! how can you believe in a dream?</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">still addressing</hi> STEVENTON, <hi rend="italics">without noticing the interruption</hi>). <hi rend="italics">You</hi> tell me Richard Wardour remained in the hut, and Frank went with the exploring party. My dream showed me Richard Wardour and Frank, together.</p>
+<stage>(<hi rend="italics">Looks fixedly at</hi> STEVENTON, <hi rend="italics">who attempts to reassure her by gestures in the negative.</hi>)</stage>
+<p><hi rend="italics">Cray</hi> (<hi rend="italics">aside to</hi> LUCY). Dream or vision, it showed her
+<pb n="39" id="p39"/>
+the truth! Accident made Wardour one of the exploring party, after all.</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">still addressing</hi> STEVENTON). <hi rend="italics">You</hi> tell me that many men of the party persisted in continuing the journey. My dream only showed me two men on the journey&mdash;Richard Wardour and Frank.</p>
+<stage>(STEVENTON <hi rend="italics">rejoins by the same gestures as before.</hi>)</stage>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">to</hi> LUCY). The truth once more! Frank alone supported Wardour's fierce resolution to push on. The whole exploring party came back to the hut, except those two</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">to</hi> STEVENTON). Was there a time, on the journey, when a crimson light appeared in the sky? Was there a time when the weary men committed themselves to the floating icebergs? (CRAYFORD <hi rend="italics">starts.</hi>) My dream showed me the crimson light. My dream showed me the floating iceberg. And, again, there were but two men on it. And, again, those two men were Richard Wardour and Frank.</p>
+<p><hi rend="italics">Stev.</hi> (<hi rend="italics">confusedly</hi>). I know nothing of what happened on the journey&mdash;I was left behind in the hut.</p>
+<stage>(<hi rend="italics">Turns, and retires up the stage.</hi> CLARA <hi rend="italics">follows, still speaking to him.</hi>)</stage>
+<p><hi rend="italics">Lucy</hi> (<hi rend="italics">to</hi> CRAYFORD). William! you started when she spoke of the iceberg.</p>
+<p><hi rend="italics">Cray.</hi> Any man alive must have started, knowing what I know. I myself questioned our comrades when they came back to us. The last they saw of Frank and Wardour, those two were afloat on a drifting iceberg&mdash;and the northern lights were aflame in the dreary sky. Call me weak, superstitious&mdash;what you will. I can't face her, after this. Let me go, Lucy&mdash;let me go!</p>
+<stage>(<hi rend="italics">Exit, hurriedly, into the inner cavern.</hi> STEVENTON, <hi rend="italics">from whom</hi> CLARA <hi rend="italics">has withdrawn while</hi> CRAYFORD <hi rend="italics">has been speaking his last words, descends the stage again to</hi> LUCY, <hi rend="italics">leaving</hi> CLARA <hi rend="italics">standing thoughtfully apart on the right-hand side of the cave.</hi>)</stage>
+<p><hi rend="italics">Stev.</hi> One word, Miss Crayford, before I leave you. Ask me anything else you like&mdash;but don't ask me to deceive her again.</p>
+<stage>(<hi rend="italics">Exit into the inner cavern.</hi> LUCY <hi rend="italics">crosses to</hi> CLARA.)</stage>
+<p><hi rend="italics">Lucy.</hi> Still thinking? Still not satisfied? They have
+<pb n="40" id="p40"/>
+answered all your questions. Surely you believe them now?</p>
+<p><hi rend="italics">Clara.</hi> I believe that Frank has died, a victim to Wardour's vengeance, in the solitudes of the frozen deep. And, in their heart of hearts, your brother and your brother's friend believe it too.</p>
+<p><hi rend="italics">Lucy.</hi> No, no, no. You have no reason&mdash;they have no reason&mdash;to think that horrible thought.</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">repeating the words, as if lost in thought</hi>). &ldquo;A time may come when I shall forgive <hi rend="italics">you.</hi> But the man who has robbed me of you shall rue the day when you and he first met.&rdquo;&mdash;Oh, Frank! Frank! does Richard Wardour live?&mdash;live, with your blood on his conscience, and my image in his heart?</p>
+<p><hi rend="italics">Lucy.</hi> Come! come out into the pleasant sunshine. For my sake, Clara&mdash;for my sake!</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">rousing herself</hi>). For your sake? Yes, yes&mdash;any wish of yours is the wish of my best friend.</p>
+<stage>(CLARA <hi rend="italics">puts her arm in</hi> LUCY'S <hi rend="italics">arm. They advance a step towards the mouth of the cavern.</hi> CLARA <hi rend="italics">suddenly stops.</hi>)</stage>
+<p><hi rend="italics">Lucy.</hi> Why do you stop?</p>
+<p><hi rend="italics">Clara.</hi> I can't pass the mouth of the cavern! Not a step, Lucy&mdash;not a step farther!</p>
+<p><hi rend="italics">Lucy.</hi> My love! we have the beach all to ourselves&mdash;there is not a creature in sight. You are looking, you are speaking, as if there was something dreadful in the bright air beyond us!</p>
+<p><hi rend="italics">Clara.</hi> There <hi rend="italics">is</hi> something dreadful! I feel it&mdash;though I see nothing. Nearer and nearer, in the empty air! darker and darker, in the sunny light! (<hi rend="italics">Crosses slowly towards the inner cavern, looking back over her shoulder as she speaks.</hi>) Come where the others have gone! In here, Lucy! in here!</p>
+<stage>(<hi rend="italics">Stops at the entrance to the inner cavern&mdash;turns, as if fascinated, and looks out fixedly at the solitary view over the beach.</hi> MRS. STEVENTON <hi rend="italics">appears at the inner cavern.</hi>)</stage>
+<p><hi rend="italics">Lucy</hi> (<hi rend="italics">to</hi> MRS. S.). She's faint and ill. Help me to lead her in here.</p>
+<p><hi rend="italics">Mrs. S.</hi> There's water on the table, there. Let me get
+<pb n="41" id="p41"/>
+her some water. (<hi rend="italics">Observes</hi> CLARA <hi rend="italics">attentively.</hi>) What is she looking at? I see nothing.</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">pointing to the mouth of the cave</hi>). It's coming! nearer and nearer! nearer and nearer! (<hi rend="italics">Turns to</hi> LUCY, <hi rend="italics">with a low wailing cry.</hi>) Hide me from it! Hide me from it!</p>
+<stage>(LUCY <hi rend="italics">and</hi> MRS. S. <hi rend="italics">lead her into the inner cavern. The stage remains vacant for a moment. Then the shadow of a man is projected, in the sunlight, across the mouth of the cavern. After another pause,</hi> RICHARD WARDOUR <hi rend="italics">appears, looking in vacantly. He is clothed in rags; his hair is tangled and grey; his looks and gestures are those of a man whose reason is shaken, and whose bodily powers are sinking from fatigue. As he advances a few steps into the cavern,</hi> MRS. STEVENTON <hi rend="italics">reappears, as if to fetch the water for</hi> CLARA <hi rend="italics">from the refreshment-table; sees</hi> WARDOUR; <hi rend="italics">and starts back with a cry of terror.</hi> LIEUTENANT STEVENTON <hi rend="italics">appears at the inner cavern, followed by</hi> ROSE. ROSE, <hi rend="italics">alarmed at</hi> WARDOUR, <hi rend="italics">stays by</hi> MRS. S. STEVENTON <hi rend="italics">advances to question the intruder.</hi>)</stage>
+<p><hi rend="italics">Stev.</hi> What a strange figure! Who are you?</p>
+<p><hi rend="italics">Ward.</hi> A starving man.</p>
+<stage>(BATESON, <hi rend="italics">Officers, and Sailors appear at the mouth of the cavern, all looking at</hi> WARDOUR.)</stage>
+<p><hi rend="italics">Rose</hi> (<hi rend="italics">to</hi> STEVENTON). Pray give him some food!</p>
+<p><hi rend="italics">Ward.</hi> Throw me some bones from the table. Give me my share along with the dogs.</p>
+<p><hi rend="italics">Stev.</hi> Bateson, give him some bread and meat. (BATESON <hi rend="italics">obeys.</hi>) Where do you come from?</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">pointing to the distant view</hi>). From the sea.</p>
+<p><hi rend="italics">Stev.</hi> Shipwrecked, I suppose? I heard something of a strange boat having been thrown on the beach, thirty or forty miles higher up the coast. When were you wrecked, my man?</p>
+<p><hi rend="italics">Ward.</hi> When? (<hi rend="italics">Pauses, and makes gestures, indicating an effort to collect his ideas.</hi>) When? (<hi rend="italics">Shakes his head.</hi>) I can't get the wash of the sea out of my ears. I can't get the shining stars all night, and the burning sun all day, out of my brain. When was I wrecked? When was I first
+<pb id="p42" n="42"/>
+adrift in the boat? When did I get the tiller in my hand, and fight against hunger and sleep? When did the gnawing here&mdash;(<hi rend="italics">touches his breast</hi>)&mdash;and the burning here&mdash;(<hi rend="italics">touching his head</hi>)&mdash;first begin? I can't tell you. I have lost all reckoning of it. I can't think, I can't sleep, I can't get the wash of the sea out of my ears. What are you baiting me with questions for? Let me eat!</p>
+<p><hi rend="italics">Stev.</hi> (<hi rend="italics">to</hi> MRS. S.). The poor wretch is out of his mind. Bateson, make a little weak grog in one of those empty bottles, and give it to him.</p>
+<p><hi rend="italics">Mrs. S.</hi> See! he is eating no more. What is he going to do with his bread and meat?</p>
+<stage>(WARDOUR <hi rend="italics">looks fixedly at the food in his hand, glances round towards the beach, smiles, and puts the bread and meat in an old bag, slung over his shoulder.</hi> BATESON <hi rend="italics">gives him the rum-and-water.</hi>)</stage>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">drinking from the bottle, and then holding it up to the light</hi>). May I keep what is left?</p>
+<p><hi rend="italics">Stev.</hi> To be sure you may.</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">again looks round, then puts the bottle in the bag, and notices</hi> MRS. S. <hi rend="italics">and</hi> ROSE). Women among you! Are they English? Are they young? Let me look closer at them. (MRS. STEVENTON <hi rend="italics">and</hi> ROSE <hi rend="italics">shrink back.</hi>) No! that's not her face! No! not found yet!</p>
+<p><hi rend="italics">Mrs. S.</hi> Do, pray, ask him something about the woman he is looking for.</p>
+<p><hi rend="italics">Stev.</hi> Who is it you want to find? Your wife? (WARDOUR <hi rend="italics">shakes his head.</hi>) Who, then? What is she like?</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">sorrowfully and gently</hi>). Young, with a fair sad face, with kind tender eyes, with a soft clear voice. Young and loving and merciful. I keep her face in my mind, though I can keep nothing else. I must wander, wander, wander&mdash;restless, sleepless, homeless&mdash;till I find her! Over the ice and over the snow&mdash;tossing on the sea, tramping over the land&mdash;awake all night, awake all day&mdash;wander, wander, wander, till I find <hi rend="italics">her!</hi></p>
+<stage><hi rend="italics">Enter</hi> CRAYFORD, <hi rend="italics">from the inner cavern.</hi></stage>
+<p><hi rend="italics">Cray.</hi> Who is that?</p>
+<p><hi rend="italics">Stev.</hi> A poor mad&mdash;</p>
+<p><hi rend="italics">Cray.</hi> Mad? (<hi rend="italics">Looks steadily at</hi> WARDOUR.) Mad?
+<pb n="43" id="p43"/>
+(<hi rend="italics">Recoils.</hi>) Steventon! Am <hi rend="italics">I</hi> in my right senses? It is&mdash;(<hi rend="italics">seizing him</hi>)&mdash;Richard Wardour! Alive! Alive to answer for Frank! (<hi rend="italics">All start.</hi>)</p>
+<p><hi rend="italics">Ward.</hi> Let me go!</p>
+<p><hi rend="italics">Cray.</hi> Why are you here alone? Where is Frank? You villain, where is Frank?</p>
+<p><hi rend="italics">War.</hi> (<hi rend="italics">vacantly</hi>). Villain?&mdash;and where is Frank? Ah! I think I know your meaning. I think I dimly understand.</p>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">to them all</hi>). Look at this conscience-stricken wretch! Confess, unhappy ruin of a man! Confess the horrid deed!</p>
+<stage>(CLARA <hi rend="italics">appears at the side-entrance, restrained by</hi> LUCY.)</stage>
+<p><hi rend="italics">Clara.</hi> I <hi rend="italics">will</hi> see for myself! I heard Richard's name&mdash;I heard Frank's name. (<hi rend="italics">She breaks away.</hi> LUCY <hi rend="italics">hides her face in her hands.</hi> CRAYFORD <hi rend="italics">tries to restrain</hi> CLARA.) Let me by! let me by!</p>
+<stage>(<hi rend="italics">Faces</hi> WARDOUR <hi rend="italics">standing alone, and stops petrified at the sight.</hi>)</stage>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">with a loud cry of recognition</hi>). Found!</p>
+<stage>(<hi rend="italics">Turns instantly, and breaks his way out of the cavern.</hi> LUCY <hi rend="italics">hurries to</hi> CLARA'S <hi rend="italics">side.</hi>)</stage>
+<p><hi rend="italics">Cray.</hi> Follow him! On your lives follow him!</p>
+<p>(<hi rend="italics">Exeunt several.</hi>)</p>
+<p><hi rend="italics">Clara.</hi> Frank, Frank, Frank!</p>
+<stage>(<hi rend="italics">A murmur without.</hi> WARDOUR <hi rend="italics">rushes in, breathless and staggering, bearing</hi> FRANK <hi rend="italics">in his arms. Cheering from the Men outside. Great sensation.</hi>)</stage>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">to</hi> CLARA). Saved, saved for <hi rend="italics">you!</hi> (<hi rend="italics">Releases</hi> FRANK. CLARA <hi rend="italics">falls on</hi> FRANK'S <hi rend="italics">bosom.</hi> WARDOUR, <hi rend="italics">standing on the right, looks at them, and speaks again, after a moment, in a faint altered voice.</hi>) He's footsore and weary, Clara. But I have saved him&mdash;I have saved him for <hi rend="italics">you!</hi> I may rest now&mdash;I may sleep at last&mdash;the task is done, the struggle is over.</p>
+<stage>(<hi rend="italics">He staggers, and is saved from falling by</hi> CRAYFORD, <hi rend="italics">who tenderly places him on the ground, and supports him, resting</hi> WARDOUR'S <hi rend="italics">head on his shoulder.</hi>)</stage>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">leading</hi> FRANK <hi rend="italics">towards the back of the stage, on the left</hi>). This way! Here&mdash;here, Frank, where you can rest!</p>
+<stage>(<hi rend="italics">Leads</hi> FRANK, <hi rend="italics">with the assistance of the others, except</hi></stage>
+<pb n="44" id="p44"/>
+<p>CRAYFORD, <hi rend="italics">to a chest at the back of the cave, where all close round him.</hi>)</p>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">making an opening</hi>). Where is Wardour? Help <hi rend="italics">him!</hi> Never mind <hi rend="italics">me!</hi> Help Wardour.</p>
+<stage>(CLARA <hi rend="italics">presses</hi> FRANK <hi rend="italics">back to his seat on the chest, and kneels at his feet, endeavouring to compose him.</hi>)</stage>
+<p><hi rend="italics">Cray.</hi> (<hi rend="italics">supporting</hi> WARDOUR). Wardour! dear Wardour! Old friend, whom I have wronged, remember and forgive me!</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">regardless of him, looking towards</hi> CLARA <hi rend="italics">and</hi> FRANK). I have made <hi rend="italics">her</hi> happy. I may lay down my weary head now on the mother earth that hushes all her children to rest at last. Sink, heart! sink, sink to rest! Oh, look at them! They have forgotten <hi rend="italics">me</hi> already.</p>
+<p><hi rend="italics">Cray.</hi> Wardour, look at me! Look at your old friend!</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">vacantly</hi>). My friend? Yes, yes, yes&mdash;he looks kindly at me&mdash;he looks like a friend. My eyes are dim, friend&mdash;my mind is dull&mdash;I have lost all memories, but the memory of <hi rend="italics">her.</hi> Dead thoughts&mdash;all dead thoughts but that one! And yet, he looks kindly? Why has his face gone down with the wreck of all the rest? Hark ye, friend! Never let Frank know it! There was a time when the fiend within me hungered for his life.</p>
+<p><hi rend="italics">Cray.</hi> Hush! hush!</p>
+<p><hi rend="italics">Ward.</hi> (<hi rend="italics">lifting his head, and speaking with a momentary recovery of strength</hi>). I took him away alone&mdash;away with me over the waste of snow&mdash;he on one side, and the Tempter on the other, and I between them&mdash;marching, marching, till the evening came, and the icebergs were in sight. I stood on the floating iceberg, looking down on him at my feet! And the Tempter crimsoned the sky with blood; the Tempter whispered me, &ldquo;Leave him when he sleeps!&rdquo; I set him his place to sleep in apart; but he crept between the devil and me, and nestled his head on my breast, and slept <hi rend="italics">here.</hi> &ldquo;Leave him! leave him!&rdquo; the voice whispered. &ldquo;Love him!&rdquo; the lad's voice answered, moaning and murmuring <hi rend="italics">here</hi> in his sleep. Love him, Clara, for helping <hi rend="italics">me!</hi> I heard the night-wind come up in the silence from the great deep. Far and near, far and near in the darkness, I heard the groaning of the floating ice; floating, floating to the clear water and the balmy air&mdash;and the wicked voice floated away with it&mdash;away, away, away for ever! Love him, love him, Clara, for
+<pb n="45" id="p45"/>
+helping <hi rend="italics">me!</hi> No wind could float that away! Love him, Clara&mdash;</p>
+<stage>(<hi rend="italics">His voice dies away, and his head sinks on</hi> CRAYFORD'S <hi rend="italics">breast.</hi>)</stage>
+<p><hi rend="italics">Frank.</hi> Help me up! I <hi rend="italics">must</hi> go to him! Clara, come with me. (<hi rend="italics">Advances, supported between</hi> CLARA <hi rend="italics">and</hi> STEVENTON.) Wardour! Oh! help Wardour! Clara, speak to him!</p>
+<p><hi rend="italics">Clara</hi> (<hi rend="italics">kneeling behind</hi> WARDOUR <hi rend="italics">as he lies, supported by</hi> CRAYFORD). Richard! (<hi rend="italics">No answer.</hi>)</p>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">kneeling by</hi> CLARA, <hi rend="italics">and placing his hand on</hi> WARDOUR'S <hi rend="italics">bosom</hi>). Richard!</p>
+<p><hi rend="italics">Ward.</hi> Ah! poor Frank. I didn't forget you, Frank, when I came here to beg. I remembered you, lying down outside in the shadow of the rocks. I saved you your share of food and drink. Too weak to get at it now! A little rest, Frank! I shall soon be strong enough to carry you down to the ship.</p>
+<p><hi rend="italics">Frank</hi> (<hi rend="italics">appealing to all present, still on his knees</hi>). Get something to strengthen him, for God's sake! Oh, men! men! I should never have been here, but for him! He has given all his strength to my weakness; and now, see how strong <hi rend="italics">I</hi> am, and how weak <hi rend="italics">he</hi> is! Clara! I held by his arm all over the ice and snow. <hi rend="italics">His</hi> hand dragged me from the drowning men, when we were wrecked. He kept watch, when I was senseless in the open boat. Speak to him, Clara&mdash;speak to him again!</p>
+<p><hi rend="italics">Clara.</hi> Richard, dear Richard! Have you forgotten me?</p>
+<p><hi rend="italics">Ward.</hi> Forgotten you? (<hi rend="italics">Lays his hand on</hi> FRANK'S <hi rend="italics">head.</hi>) Should I have been strong enough to save <hi rend="italics">him,</hi> if I could have forgotten <hi rend="italics">you?</hi> Stay! Some one was here, and spoke to me just now. Ah! Crayford! I recollect now. (<hi rend="italics">Embracing him.</hi>) Dear Crayford! Come nearer! My mind clears, but my eyes grow dim. You will remember me kindly, for Frank's sake? Poor Frank! why does he hide his face? Is he crying? Nearer, Clara&mdash;I want to look my last at <hi rend="italics">you.</hi> My sister, Clara!&mdash;Kiss me, sister, kiss me before I die!</p>
+<stage>(CLARA <hi rend="italics">stoops, and kisses him. His head falls forward, and</hi> CRAYFORD <hi rend="italics">lays him gently on the ground.</hi> FRANK <hi rend="italics">hides his face on</hi> WARDOUR'S <hi rend="italics">bosom, while</hi>
+<pb n="46" id="p46"/>
+CRAYFORD <hi rend="italics">turns aside, struggling vainly to compose himself. The muffled report of the gun for sailing is heard, and a flag is run up to the masthead of the ship in the offing. The boat is pushed ashore, and the crew appear outside on the beach.</hi> LUCY <hi rend="italics">crosses to</hi> CLARA (<hi rend="italics">who has remained near</hi> FRANK), <hi rend="italics">raises her, and points out to the ship. The curtain falls slowly.</hi>)</stage>
+<trailer>THE END.</trailer><trailer>LONDON: <lb/> PRINTED BY C. WHITING, BEAUFORT HOUSE, STRAND.</trailer>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

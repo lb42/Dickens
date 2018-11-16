@@ -1,0 +1,790 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI U5-1995//DTD TEI Lite//EN" "teixlite.dtd" [
+
+]>
+<TEI.2>
+<teiHeader type="3D">
+<fileDesc>
+<titleStmt>
+<title><emph>The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. IX:</emph>
+Electronic Edition.
+</title><author>Dickens, Charles, 1812-1870</author>
+
+<respStmt>
+<resp>Illustrated by </resp>
+<name>Pailthorpe, F. W. (Frederic W.)</name>
+<name>Seymour, Robert, 1798-1836.</name>
+<name>Buss, Robert William, 1804-1875.</name>
+<name>Browne, Hablot Knight, 1815-1882.</name>
+</respStmt>
+
+<funder>Funding from the  E. S. P. Das Educational Foundation supported the electronic publication of this title.</funder><respStmt>
+<resp>Text transcribed  by</resp>
+<name>Apex Data Services, Inc.</name>
+</respStmt>
+<respStmt><resp>Images scanned by</resp>
+<name>M. Brooke Phillips</name></respStmt><respStmt><resp>Text encoded by </resp>
+<name>Apex Data Services, Inc., Harris Henderson, and Jill Kuhn Sexton</name></respStmt></titleStmt>
+<editionStmt><edition>First edition, <date>2002</date></edition></editionStmt>
+<extent>ca. 110K</extent>
+<publicationStmt>
+<publisher>Academic Affairs Library, UNC-CH</publisher>
+<pubPlace>University of North Carolina at Chapel Hill, </pubPlace><date>2002.</date>
+
+<availability>
+<p>&copy; This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+</availability>
+</publicationStmt>
+
+
+<sourceDesc>
+
+<biblFull>
+<titleStmt>
+<title type="title page">The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. IX</title>
+
+
+
+<author>Boz</author>
+
+<respStmt><resp>Illustrations by</resp>
+<name>R. Seymour and Phiz</name></respStmt>
+
+</titleStmt>
+
+<extent>    38  p., ill.</extent>
+
+<publicationStmt>
+<pubPlace>London</pubPlace>
+<publisher>Chapman &amp; Hall, 186, Strand</publisher>
+<date>1836</date>
+<authority></authority>
+</publicationStmt>
+
+<notesStmt><note>Call number Dickens 13 pt. 9 (Rare Book Collection, University of North Carolina at Chapel Hill)</note></notesStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+
+<editorialDecl>
+
+<p>The text has been entered using double-keying and verified against the original. 
+The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+
+<p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+
+<p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+
+<p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+<p>All double right and left quotation marks are encoded as &rdquo; and &ldquo;
+respectively.</p>
+<p>All single right and left quotation marks are encoded as &rsquo; and &lsquo; respectively.</p>
+<p>All em dashes are encoded as &mdash;</p><p>Indentation in lines has not been preserved.</p>
+<p>Running titles have not been preserved.</p>
+<p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+</editorialDecl>
+
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+
+<language id="eng">English</language>
+
+</langUsage>
+
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2002-12-03, </date><respStmt><name> Jill Kuhn Sexton </name><resp></resp>
+</respStmt><item>finished TEI-conformant encoding and final proofing.</item>
+</change>
+<change>
+<date>2002-09-26, </date><respStmt><name>Harris Henderson</name>
+<resp></resp></respStmt><item> finished TEI/SGML encoding</item></change>
+<change><date>2002-08-01, </date>
+<respStmt><name>Apex Data Services, Inc.</name><resp></resp></respStmt>
+<item> finished transcribing the text.</item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<titlePage>
+
+
+<titlePart> No. IX.]</titlePart>
+
+<docEdition>[PRICE  1<hi rend="italics">s.</hi></docEdition>
+
+
+<docTitle><titlePart>THE <lb/> POSTHUMOUS PAPERS <lb/> OF THE <lb/> PICKWICK CLUB <lb/> CONTAINING A FAITHFUL RECORD OF THE <lb/> PERAMBULATIONS, PERILS, TRAVELS, ADVENTURES <lb/> AND <lb/> Sporting Transactions <lb/> OF THE CORRESPONDING MEMBERS. 
+</titlePart></docTitle>
+
+<docAuthor>
+EDITED BY &ldquo;BOZ.&rdquo;
+</docAuthor>
+
+<docEdition>WITH ILLUSTRATIONS.
+</docEdition>
+
+
+<docImprint><pubPlace>LONDON:</pubPlace>
+<publisher>CHAPMAN &amp; HALL, 186, STRAND.</publisher>
+<docDate>MDCCCXXXVI</docDate>
+</docImprint>
+</titlePage>
+</front>
+
+<body>
+<div1 type="section">
+<pb id="pii" n="ii"/>
+<p>
+<figure id="ill1">
+<p><hi rend="italics">page 251</hi></p>
+</figure>
+</p>
+</div1>
+<div1 type="section">
+<pb id="piii" n="iii"/>
+<p>
+<figure id="ill2">
+<p><hi rend="italics">page 265</hi></p>
+</figure>
+</p>
+</div1>
+
+
+<div1 type="text">
+<pb id="p243" n="243"/>
+
+<head>[POSTHUMOUS PAPERS OF THE PICKWICK CLUB]</head>
+
+<div2 type="chapter">
+
+<head>CHAPTER XXIV.</head>
+<head>
+WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE-AGED LADY APPREHENSIVE, WHICH BRINGS THE PICKWICKIANS WITHIN THE GRASP OF THE LAW.
+</head>
+<p>WHEN Mr. Pickwick descended to the room in which he and Mr. Peter Magnus had spent the preceding evening, he found that gentleman with the major part of the contents of the two bags, the leathern hat-box, and the brown-paper parcel, displayed to all possible advantage on his person, while he himself was pacing up and down the room in a state of the utmost excitement and agitation.</p>
+<p>&ldquo;Good morning, Sir,&rdquo; said Mr. Peter Magnus&mdash;&ldquo;What do you think of this, Sir?&rdquo;</p>
+<p>&ldquo;Very effective indeed,&rdquo; replied Mr. Pickwick, surveying the garments of Mr. Peter Magnus with a good-natured smile.</p>
+<p>&ldquo;Yes, I think it 'll do,&rdquo; said Mr. Magnus. &ldquo;Mr. Pickwick, Sir, I have sent up my card.&rdquo;</p>
+<p>&ldquo;Have you?&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Yes; and the waiter brought back word, that she would see me at eleven&mdash;at eleven, Sir; it only wants a quarter now.&rdquo;</p>
+<p>&ldquo;Very near the time,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Yes, it is rather near,&rdquo; replied Mr. Magnus, &ldquo;rather too near to be pleasant&mdash;eh! Mr. Pickwick, Sir?&rdquo;</p>
+<p>&ldquo;Confidence is a great thing in these cases,&rdquo; observed Mr. Pickwick.</p>
+<p>&ldquo;I believe it is, Sir,&rdquo; said Mr. Peter Magnus. &ldquo;I am very confident, Sir. Really, Mr. Pickwick, I do not see why a man should feel any fear in such a case as this, Sir. What is it, Sir? There's nothing to be ashamed of; it's a matter of mutual accommodation, nothing more. Husband on one side, wife on the other. That's my view of the matter, Mr. Pickwick.&rdquo;</p>
+<p>&ldquo;It is a very philosophical one,&rdquo; replied Mr. Pickwick. &ldquo;But breakfast is waiting, Mr. Magnus. Come.&rdquo;</p>
+<p>Down they sat to breakfast, but it was evident, notwithstanding the boasting of Mr. Peter Magnus, that he laboured under a very considerable degree of nervousness, of which loss of appetite, a propensity to upset the tea-things, a spectral attempt at drollery, and an irresistible inclination to look at the clock every other second, were among the principal symptoms.</p>
+<p>&ldquo;He&mdash;he&mdash;he,&rdquo; tittered Mr. Magnus, affecting cheerfulness, and gasping with agitation. &ldquo;It only wants two minutes, Mr. Pickwick. Am I pale, Sir?&rdquo;</p>
+<p>&ldquo;Not very,&rdquo; replied Mr. Pickwick.</p>
+<p>There was a brief pause.</p>
+<p>&ldquo;I beg your pardon, Mr. Pickwick; but have you ever done this sort of thing in your time?&rdquo; said Mr. Magnus.</p>
+<pb n="244" id="p244"/>
+<p>&ldquo;You mean proposing?&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Yes.&rdquo;</p>
+<p>&ldquo;Never,&rdquo; said Mr. Pickwick, with great energy, &ldquo;never.&rdquo;</p>
+<p>&ldquo;You have no idea, then, how it's best to begin?&rdquo; said Mr. Magnus.</p>
+<p>&ldquo;Why,&rdquo; said Mr. Pickwick, &ldquo;I may have formed some ideas upon the subject, but, as I have never submitted them to the test of experience, I should be sorry if you were induced to regulate your proceedings by them.&rdquo;</p>
+<p>&ldquo;I should feel very much obliged to you, for any advice, Sir,&rdquo; said Mr. Magnus, taking another look at the clock, the hand of which was verging on the five minutes past.</p>
+<p>&ldquo;Well, Sir,&rdquo; said Mr. Pickwick, with the profound solemnity with which that great man could, when he pleased, render his remarks so deeply impressive&mdash;&ldquo;I should commence, Sir, with a tribute to the lady's beauty and excellent qualities; from them, Sir, I should diverge to my own unworthiness.&rdquo;</p>
+<p>&ldquo;Very good,&rdquo; said Mr. Magnus.</p>
+<p>&ldquo;Unworthiness for <hi rend="italics">her</hi> only, mind, Sir,&rdquo; resumed Mr. Pickwick; &ldquo;for to shew that I was not wholly unworthy, Sir, I should take a brief review of my past life, and present condition. I should argue, by analogy, that to anybody else, I must be a very desirable object. I should then expatiate on the warmth of my love, and the depth of my devotion. Perhaps I might then be tempted to seize her hand.&rdquo;</p>
+<p>&ldquo;Yes, I see,&rdquo; said Mr. Magnus; &ldquo;that would be a very great point.&rdquo;</p>
+<p>&ldquo;I should then, Sir,&rdquo; continued Mr. Pickwick, growing warmer as the subject presented itself in more glowing colours before him&mdash;&ldquo;I should then, Sir, come to the plain and simple question, &lsquo;Will you have me?&rsquo; I think I am justified in assuming that upon this, she would turn away her head.&rdquo;</p>
+<p>&ldquo;You think that may be taken for granted?&rdquo; said Mr. Magnus; &ldquo;because, if she did not do that at the right place, it would be embarrassing.&rdquo;</p>
+<p>&ldquo;I think she would,&rdquo; said Mr. Pickwick. &ldquo;Upon this, Sir, I should squeeze her hand, and I think&mdash;I <hi
+rend="italics">think,</hi> Mr. Magnus&mdash;that after I had done that, supposing there was no refusal, I should gently draw away the handkerchief, which my slight knowledge of human nature leads me to suppose the lady would be applying to her eyes at the moment, and steal a respectful kiss. I think I should kiss her, Mr. Magnus; and at this particular point, I am decidedly of opinion that if the lady were going to take me at all, she would murmur into my ears a bashful acceptance.&rdquo;</p>
+<p>Mr. Magnus started: gazed on Mr. Pickwick's intelligent face, for a short time in silence, and then (the dial pointing to the ten minutes past) shook him warmly by the hand, and rushed desperately from the room.</p>
+<p>Mr. Pickwick had taken a few strides to and fro; and the small hand of the clock following the latter part of his example, had arrived at the figure which indicates the half hour, when the door suddenly opened. He turned round to greet Mr Peter Magnus, and encountered in his
+<pb n="245" id="p245"/>
+stead the joyous face of Mr. Tupman, the serene countenance of Mr. Winkle, and the intellectual lineaments of Mr. Snodgrass.</p>
+<p>As Mr. Pickwick greeted them, Mr. Peter Magnus tripped into the room.</p>
+<p>&ldquo;My friends, the gentleman I was speaking of, Mr. Magnus,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Your servant, gentlemen,&rdquo; said Mr. Magnus, evidently in a high state of excitement; &ldquo;Mr. Pickwick, allow me to speak to you, one moment, Sir.&rdquo;</p>
+<p>As he said this, Mr. Magnus harnessed his fore-finger to Mr. Pickwick's button-hole, and, drawing him into a window recess, said&mdash;</p>
+<p>&ldquo;Congratulate me, Mr. Pickwick; I followed your advice to the very letter.&rdquo;</p>
+<p>&ldquo;And it was all correct, was it?&rdquo; inquired Mr. Pickwick.</p>
+<p>&ldquo;It was, Sir&mdash;could not possibly have been better,&rdquo; replied Mr. Magnus; &ldquo;Mr. Pickwick, she is mine.&rdquo;</p>
+<p>&ldquo;I congratulate you, with all my heart,&rdquo; replied Mr. Pickwick, warmly shaking his new friend by the hand.</p>
+<p>&ldquo;You must see her, Sir,&rdquo; said Mr. Magnus; &ldquo;this way, if you please. Excuse us for one instant, gentlemen.&rdquo; And hurrying on in this way, Mr. Peter Magnus drew Mr. Pickwick from the room. He paused at the next door in the passage, and tapped gently thereat.</p>
+<p>&ldquo;Come in,&rdquo; said a female voice. And in they went.</p>
+<p>&ldquo;Miss Witherfield,&rdquo; said Mr. Magnus, &ldquo;Allow me to introduce my very particular friend, Mr. Pickwick. Mr. Pickwick, I beg to make you known to Miss Witherfield.&rdquo;</p>
+<p>The lady was at the upper end of the room, and as Mr. Pickwick bowed, he took his spectacles from his waistcoat pocket, and put them on, a process which he had no sooner gone through, than, uttering an exclamation of surprise, Mr. Pickwick retreated several paces, and the lady, with a half-suppressed scream, hid her face in her hands, and dropped into a chair, whereupon Mr. Peter Magnus was struck motionless on the spot, and gazed from one to the other, with a countenance expressive of the extremities of horror and surprise.</p>
+<p>This certainly was, to all appearance, very unaccountable behaviour, but the fact was, that Mr. Pickwick no sooner put on his spectacles, than he at once recognised in the future Mrs. Magnus the lady into whose room he had so unwarrantably intruded on the previous night; and the spectacles had no sooner crossed Mr. Pickwick's nose, than the lady at once identified the countenance which she had seen surrounded by all the horrors of a night-cap. So the lady screamed, and Mr. Pickwick started.</p>
+<p>&ldquo;Mr. Pickwick!&rdquo; exclaimed Mr. Magnus, lost in astonishment, &ldquo;What is the meaning of this, Sir? What is the meaning of it, Sir?&rdquo; added Mr. Magnus, in a threatening, and a louder tone.</p>
+<p>&ldquo;Sir,&rdquo; said Mr. Pickwick, somewhat indignant at the very sudden manner in which Mr. Peter Magnus had conjugated himself into the imperative mood, &ldquo;I decline answering that question.&rdquo;</p>
+<p>&ldquo;You decline it, Sir?&rdquo; said Mr. Magnus.</p>
+<pb n="246" id="p246"/>
+<p>&ldquo;I do, Sir, replied Mr. Pickwick; &ldquo;I object to saying anything which may compromise that lady, or awaken unpleasant recollections in her breast, without her consent and permission.&rdquo;</p>
+<p>&ldquo;Miss Witherfield,&rdquo; said Mr. Peter Magnus, &ldquo;do you know this person?&rdquo;</p>
+<p>&ldquo;Know him!&rdquo; repeated the middle-aged lady, hesitating.</p>
+<p>&ldquo;Yes, know him, Ma'am, I said know him,&rdquo; replied Mr. Magnus, with ferocity.</p>
+<p>&ldquo;I have seen him,&rdquo; replied the middle-aged lady.</p>
+<p>&ldquo;Where?&rdquo; inquired Mr. Magnus, &ldquo;where?&rdquo;</p>
+<p>&ldquo;That,&rdquo; said the middle-aged lady, rising from her seat, and averting her head, &ldquo;that I would not reveal for worlds.&rdquo;</p>
+<p>&ldquo;I understand you, Ma'am,&rdquo; said Mr. Pickwick, &ldquo;and respect your delicacy; it shall never be revealed by <hi
+rend="italics">me,</hi> depend upon it.&rdquo;</p>
+<p>&ldquo;Upon my word, Ma'am,&rdquo; said Mr. Magnus, &ldquo;considering the situation in which I am placed with regard to yourself, you carry this matter off with tolerable coolness&mdash;tolerable coolness, Ma'am.&rdquo;</p>
+<p>&ldquo;Cruel Mr. Magnus,&rdquo; said the middle-aged lady; and here she wept very copiously indeed.</p>
+<p>&ldquo;Address your observations to me, Sir,&rdquo; interposed Mr. Pickwick; &ldquo;I alone am to blame, if anybody be.&rdquo;</p>
+<p>&ldquo;Oh! you alone are to blame, are you, Sir?&rdquo; said Mr. Magnus; &ldquo;I&mdash;I&mdash;see through this, Sir. You repent of your determination now, do you?&rdquo;</p>
+<p>&ldquo;My determination!&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Your determination, Sir. Oh! don't stare at me, Sir,&rdquo; said Mr. Magnus; &ldquo;I recollect your words last night, Sir. You came down here, Sir, to expose the treachery and falsehood of an individual on whose truth and honour you had placed implicit reliance&mdash;eh?&rdquo; Here Mr. Peter Magnus indulged in a prolonged sneer; and taking off his green spectacles&mdash;which he probably found superfluous in his fit of jealousy&mdash;rolled his little eyes about, in a manner which was frightful to behold.</p>
+<p>&ldquo;Eh?&rdquo; said Mr. Magnus; and then he repeated the sneer with increased effect. &ldquo;But you shall answer it, Sir.&rdquo;</p>
+<p>&ldquo;Answer what?&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Never mind, Sir,&rdquo; replied Mr. Magnus, striding up and down the room&mdash;&ldquo;Never mind.&rdquo;</p>
+<p>There must be something very comprehensive in this phrase of &ldquo;Never mind,&rdquo; for we do not recollect to have ever witnessed a quarrel in the street, at a theatre, public room, or elsewhere, in which it has not been the standard reply to all belligerent inquiries. &ldquo;Do you call yourself a gentleman, Sir?&rdquo;&mdash;&ldquo;Never mind, Sir.&rdquo; &ldquo;Did I offer to say anything to the young woman, Sir?&rdquo;&mdash;&ldquo;Never mind, Sir.&rdquo; &ldquo;Do you want your head knocked up against that wall, Sir?&rdquo;&mdash;&ldquo;Never mind, Sir.&rdquo; It is observable, too, that there would appear to be some hidden taunt in this universal &ldquo;Never mind,&rdquo; which rouses more indignation in the bosom of the individual addressed, than the most lavish abuse could possibly awaken.</p>
+<pb n="247" id="p247"/>
+<p>We do not mean to assert that the application of this brevity to himself, struck exactly that indignation to Mr. Pickwick's soul, which it would infallibly have roused in a vulgar breast. We merely record the fact that Mr. Pickwick opened the room door, and abruptly called out, &ldquo;Tupman, come here.&rdquo;</p>
+<p>Mr. Tupman immediately presented himself, with a look of very considerable surprise.</p>
+<p>&ldquo;Tupman,&rdquo; said Mr. Pickwick, &ldquo;a secret of some delicacy, in which that lady is concerned, is the cause of a difference which has just arisen between this gentleman and myself. When I assure him, in your presence, that it has no relation to himself, and is not in any way connected with his affairs, I need hardly beg you to take notice that if he continues to dispute it, he expresses a doubt of my veracity, which I shall consider extremely insulting.&rdquo; As Mr. Pickwick said this, he looked encyclop&aelig;dias at Mr. Peter Magnus.</p>
+<p>Mr. Pickwick's upright and honourable bearing, coupled with that force and energy of speech which so eminently distinguished him, would have carried conviction to any reasonable mind; but unfortunately at that particular moment, the mind of Mr. Peter Magnus was in anything but reasonable order. Consequently, instead of receiving Mr. Pickwick's explanation as he ought to have done, he forthwith proceeded to work himself into a red-hot scorching consuming passion, and to talk about what was due to his own feelings, and all that sort of thing, adding force to his declamation by striding to and fro, and pulling his hair, amusements which he would vary occasionally, by shaking his fist in Mr. Pickwick's philanthropic countenance.</p>
+<p>Mr. Pickwick, in his turn, conscious of his own innocence and rectitude, and irritated by having unfortunately involved the middle-aged lady in such an unpleasant affair, was not so quietly disposed as was his wont. The consequence was, that words ran high, and voices higher, and at length Mr. Magnus told Mr. Pickwick he should hear from him, to which Mr. Pickwick replied with laudable politeness, that the sooner he heard from him the better; whereupon the middle-aged lady rushed in terror from the room, out of which Mr. Tupman dragged Mr. Pickwick, leaving Mr. Peter Magnus to himself and meditation.</p>
+<p>If the middle-aged lady had mingled much with the busy world, or profited at all, by the manners and customs of those who make the laws and set the fashions, she would have known that this sort of ferocity is just the most harmless thing in nature; but as she had lived for the most part in the country, and never read the parliamentary debates, she was little versed in these particular refinements of civilised life. Accordingly, when she had gained her bed-chamber, bolted herself in, and begun to meditate on the scene she had just witnessed, the most terrific pictures of slaughter and destruction presented themselves to her imagination; among which, a full-length portrait of Mr. Peter Magnus borne home by four men, with the embellishment of a whole barrel-full of bullets in his left side, was among the very least. The more the middle-aged lady mediated, the more terrified she became; and at length she determined to repair to the house of the principal
+<pb n="248" id="p248"/>
+magistrate of the town, and request him to secure the persons of Mr. Pickwick and Mr. Tupman, without delay.</p>
+<p>To this decision, the middle-aged lady was impelled by a variety of considerations, the chief of which, was the incontestible proof it would afford of her devotion to Mr. Peter Magnus, and her anxiety for his safety. She was too well acquainted with his jealous temperament to venture the slightest allusion to the real cause of her agitation on beholding Mr. Pickwick; and she trusted to her own influence and power of persuasion with the little man, to quell his boisterous jealousy, supposing that Mr. Pickwick were removed, and no fresh quarrel could arise. Filled with these reflections, the middle-aged lady arrayed herself in her bonnet and shawl, and repaired to the Mayor's dwelling straightway.</p>
+<p>&ldquo;Now George Nupkins, Esquire, the principal magistrate aforesaid, was about as grand a personage as the fastest walker would find out, between sunrise and sunset, on the twenty-first of June, which being, according to the almanacs, the longest day in the whole year, would naturally afford him the longest period for his search. On this particular morning, Mr. Nupkins was in a state of the utmost excitement and irritation, for there had been a rebellion in the town; all the day-scholars at the largest day-school, had conspired to break the windows of an obnoxious apple-seller, and had hooted the beadle, and pelted the constabulary&mdash;an elderly gentleman in top-boots, who had been called out to repress the tumult; and had been a peace-officer, man and boy, for half a century at least.&rdquo; And Mr. Nupkins was sitting in his easy chair, frowning with majesty, and boiling with rage, when a lady was announced on pressing, private, and particular business. Mr. Nupkins looked calmly terrible, and commanded that the lady should be shown in, which command, like all the mandates of emperors, and magistrates, and other great potentates of the earth, was forthwith obeyed; and Miss Witherfield, interestingly agitated, was ushered in accordingly.</p>
+<p>&ldquo;Muzzle,&rdquo; said the Magistrate.</p>
+<p>Muzzle was an under-sized footman, with a long body and short legs.</p>
+<p>&ldquo;Muzzle.&rdquo;</p>
+<p>&ldquo;Yes, your worship.&rdquo;</p>
+<p>&ldquo;Place a chair and leave the room.&rdquo;</p>
+<p>&ldquo;Yes, your worship.&rdquo;</p>
+<p>&ldquo;Now, Ma'am, will you state your business?&rdquo; said the Magistrate.</p>
+<p>&ldquo;It is of a very painful kind, Sir,&rdquo; said Miss Witherfield.</p>
+<p>&ldquo;Very likely, Ma'am,&rdquo; said the Magistrate. &ldquo;Compose your feelings, Ma'am.&rdquo; Here Mr. Nupkins looked beningnant. &ldquo;And then tell me what legal business brings you here, Ma'am.&rdquo; Here the Magistrate triumphed over the man; and he looked stern again.</p>
+<p>&ldquo;It is very distressing to me, Sir, to give this information,&rdquo; said Miss Witherfield, &ldquo;but I fear a duel is going to be fought here.&rdquo;</p>
+<p>&ldquo;Here, Ma'am,&rdquo; said the Magistrate. &ldquo;Where, Ma'am?&rdquo;</p>
+<p>&ldquo;In Ipswich.&rdquo;</p>
+<p>&ldquo;In Ipswich, Ma'am&mdash;a duel in Ipswich,&rdquo; said the Magistrate, perfectly aghast at the notion. &ldquo;Impossible, Ma'am; nothing of the kind
+<pb id="p249" n="249"/>
+can be contemplated in this town, I am persuaded. Bless my soul, Ma'am, are you aware of the activity of our local magistracy? Do you happen to have heard, Ma'am, that I rushed into a prize-ring on the fourth of May last, attended by only sixty special constables; and, at the hazard of falling a sacrifice to the angry passions of an infuriated multitude, prohibited a pugilistic contest between the Middlesex Dumpling, and the Suffolk Bantam? A duel in Ipswich, Ma'am! I don't think&mdash;I do <hi
+rend="italics">not</hi> think,&rdquo; said the Magistrate, reasoning with himself, &ldquo;that any two men can have had the hardihood to plan such a breach of the peace, in this town.&rdquo;</p>
+<p>&ldquo;My information is unfortunately but too correct,&rdquo; said the middle-aged lady, &ldquo;I was present at the quarrel.&rdquo;</p>
+<p>&ldquo;It's a most extraordinary thing,&rdquo; said the astounded Magistrate. &ldquo;Muzzle.&rdquo;</p>
+<p>&ldquo;Yes, your worship.&rdquo;</p>
+<p>&ldquo;Send Mr. Jinks here, directly&mdash;instantly.&rdquo;</p>
+<p>&ldquo;Yes, your worship.&rdquo;</p>
+<p>Muzzle retired; and a pale, sharp-nosed, half-fed, shabbily-clad clerk, of middle age, entered the room.</p>
+<p>&ldquo;Mr. Jinks,&rdquo; said the Magistrate&mdash;&ldquo;Mr. Jinks.&rdquo;</p>
+<p>&ldquo;Sir,&rdquo; said Mr. Jinks.</p>
+<p>&ldquo;This lady, Mr. Jinks, has come here, to give information of an intended duel in this town.&rdquo;</p>
+<p>Mr. Jinks, not exactly knowing what to do, smiled a dependent's smile.</p>
+<p>&ldquo;What are you laughing at, Mr. Jinks?&rdquo; said the Magistrate.</p>
+<p>Mr. Jinks looked serious, instantly.</p>
+<p>&ldquo;Mr. Jinks,&rdquo; said the Magistrate, &ldquo;you're a fool, Sir.&rdquo;</p>
+<p>Mr. Jinks looked humbly at the great man, and bit the top of his pen.</p>
+<p>&ldquo;You may see something very comical in this information, Sir; but I can tell you this, Mr. Jinks, that you have very little to laugh at,&rdquo; said the Magistrate.</p>
+<p>The hungry-looking Jinks sighed, as if he were quite aware of the fact of his having very little indeed, to be merry about; and, being ordered to take the lady's information, shambled to a seat, and proceeded to write it down.</p>
+<p>&ldquo;This man Pickwick is the principal, I understand,&rdquo; said the Magistrate, when the statement was finished.</p>
+<p>&ldquo;He is,&rdquo; said the middle-aged lady.</p>
+<p>&ldquo;And the other rioter&mdash;what's his name, Mr. Jinks?&rdquo;</p>
+<p>&ldquo;Tupman, Sir.&rdquo;</p>
+<p>&ldquo;Tumpman is the second?&rdquo;</p>
+<p>&ldquo;Yes.&rdquo;</p>
+<p>&ldquo;The other principal you say, has absconded, Ma'am?&rdquo;</p>
+<p>&ldquo;Yes,&rdquo; replied Miss Witherfield, with a short cough.</p>
+<p>&ldquo;Very well,&rdquo; said the Magistrate. &ldquo;These are two cut-throats from London, who have come down here, to destroy his Majesty's population, thinking that at this distance from the capital, the arm of the law is weak and paralysed. They shall be made an example of. Draw up the warrants, Mr. Jinks. Muzzle.&rdquo;</p>
+<pb n="250" id="p250"/>
+<p>&ldquo;Yes, your worship.&rdquo;</p>
+<p>&ldquo;Is Grummer down stairs?&rdquo;</p>
+<p>&ldquo;Yes, your worship.&rdquo;</p>
+<p>&ldquo;Send him up.&rdquo;</p>
+<p>The obsequious Muzzle retired, and presently returned, introducing the elderly gentleman in the top-boots, who was chiefly remarkable for a bottle nose, a hoarse voice, a snuff-coloured surtout, and a wandering eye.</p>
+<p>&ldquo;Grummer,&rdquo; said the Magistrate.</p>
+<p>&ldquo;Your wash-up.&rdquo;</p>
+<p>&ldquo;Is the town quiet now?&rdquo;</p>
+<p>&ldquo;Pretty well, your wash-up,&rdquo; replied Grummer. &ldquo;Pop'lar feeling has in a measure subsided, consekens o' the boys having dispersed to cricket.&rdquo;</p>
+<p>&ldquo;Nothing but vigorous measures will do, in these times, Grummer,&rdquo; said the Magistrate, in a determined manner. &ldquo;If the authority of the king's officers is set at nought, we must have the riot act read. If the civil power cannot protect these windows, Grummer, the military must protect the civil power, and the windows too. I believe that is a maxim of the constitution, Mr. Jinks?&rdquo;</p>
+<p>&ldquo;Certainly, Sir,&rdquo; said Jinks.</p>
+<p>&ldquo;Very good,&rdquo; said the Magistrate, signing the warrants. &ldquo;Grummer, you will bring these persons before me, this afternoon. You will find them at the Great White Horse. You recollect the case of the Middlesex Dumpling and the Suffolk Bantam, Grummer?&rdquo;</p>
+<p>Mr. Grummer intimated, by a retrospective shake of the head, that he should never forget it&mdash;as indeed it was not likely he would, so long as it continued to be cited daily.</p>
+<p>&ldquo;This is even more unconstitutional,&rdquo; said the Magistrate; &ldquo;this is even a greater breach of the peace, and a grosser infringement of his Majesty's prerogative. I believe duelling is one of His Majesty's most undoubted prerogatives, Mr. Jinks?&rdquo;</p>
+<p>&ldquo;Expressly stipulated in Magna Charta, Sir,&rdquo; said Mr. Jinks.</p>
+<p>&ldquo;One of the brightest jewels in the British crown, wrung from his Majesty by the Political Union of Barons, I believe, Mr. Jinks?&rdquo; said the Magistrate.</p>
+<p>&ldquo;Just so, Sir,&rdquo; replied Mr. Jinks.</p>
+<p>&ldquo;Very well,&rdquo; said the Magistrate, drawing himself up proudly, &ldquo;it shall not be violated in this portion of his dominions. Grummer, procure assistance, and execute these warrants with as little delay as possible. Muzzle.&rdquo;</p>
+<p>&ldquo;Yes, your worship.&rdquo;</p>
+<p>&ldquo;Show the lady out.&rdquo;</p>
+<p>Miss Witherfield retired, deeply impressed with the Magistrate's learning and research; Mr. Nupkins retired to lunch; Mr. Jinks retired within himself&mdash;that being the only retirement he had, except the sofa-bedstead in the small parlour which was occupied by his landlady's family in the day-time&mdash;and Mr. Grummer retired, to wash out, by his mode of discharging his present commission, the insult which had been
+<pb id="p251" n="251"/>
+fastened upon himself, and the other representative of His Majesty&mdash;the beadle&mdash;in the course of the morning.</p>
+<p>While these resolute and determined preparations for the conservation of the King's peace, were pending, Mr. Pickwick and his friends, wholly unconscious of the mighty events in progress, had sat quietly down to dinner; and very talkative and companionable they all were; Mr. Pickwick was in the very act of relating his adventure of the preceding night, to the great amusement of his followers, Mr. Tupman especially, when the door opened, and a somewhat forbidding countenance peeped into the room. The eyes in the forbidding countenance looked very earnestly at Mr. Pickwick, for several seconds, and were to all appearance satisfied with their investigation; for the body to which the forbidding countenance belonged, slowly brought itself into the apartment, and presented the form of an elderly individual in top-boots&mdash;not to keep the reader any longer in suspense, in short, the eyes were the wandering eyes of Mr.  Grummer, and the body was the body of the same gentleman.</p>
+<p>Mr. Grummer's mode of proceeding was professional, but peculiar. His first act was to bolt the door on the inside; his second, to polish his head and countenance very carefully with a cotton handkerchief; his third, to place his hat, with the cotton handkerchief in it, on the nearest chair; and his fourth to produce from the breast-pocket of his coat, a short truncheon surmounted by a brazen crown, with which he beckoned to Mr. Pickwick with a grave and ghost-like air.</p>
+<p>Mr. Snodgrass was the first to break the astonished silence. He looked steadily at Mr. Grummer for a brief space, and then said emphatically&mdash;&ldquo;This is a private room, Sir&mdash;a private room.&rdquo;</p>
+<p>Mr. Grummer shook his head, and replied&mdash;&ldquo;No room's private to His Majesty when the street door's once passed. That's law. Some people maintains that an Englishman's house is his castle. That's gammon.&rdquo;</p>
+<p>The Pickwickians gazed on each other, with wondering eyes.</p>
+<p>&ldquo;Which is Mr. Tupman?&rdquo; inquired Mr. Grummer. He had an intuitive perception of Mr. Pickwick; he knew him at once.</p>
+<p>&ldquo;My name's Tupman,&rdquo; said that gentleman.</p>
+<p>&ldquo;My name's Law,&rdquo; said Mr. Grummer.</p>
+<p>&ldquo;What?&rdquo; said Mr. Tupman.</p>
+<p>&ldquo;Law,&rdquo; replied Mr. Grummer, &ldquo;law, civil power, and exekative; them's my titles; here's my authority. Blank Tupman, blank Pickvick&mdash;against the peace of our sufferin Lord the King&mdash;stattit in that case made and purwided&mdash;and all regular. I apprehend you Pickvick, Tupman&mdash;the aforesaid.&rdquo;</p>
+<p>&ldquo;What do you mean by this insolence?&rdquo; said Mr. Tupman, starting up&mdash;&ldquo;Leave the room, leave the room.&rdquo;</p>
+<p>&ldquo;Halloo,&rdquo; said Mr. Grummer, retreating very expeditiously to the door, and opening it an inch or two, &ldquo;Dubbley.&rdquo;</p>
+<p>&ldquo;Well,&rdquo; said a deep voice from the passage.</p>
+<p>&ldquo;Come for'ard, Dubbley,&rdquo; said Mr. Grummer.</p>
+<p>At the word of command, a dirty-faced man, something over six feet
+<pb id="p252" n="252"/>
+high, and stout in proportion, squeezed himself through the half-open door, making his face very red in the process, and entered the room.</p>
+<p>&ldquo;Is the other specials outside, Dubbley?&rdquo; inquired Mr. Grummer.</p>
+<p>Mr. Dubbley, who was a man of few words, nodded assent.</p>
+<p>&ldquo;Order in the diwision under your charge, Dubbley,&rdquo; said Mr. Grummer.</p>
+<p>Mr. Dubbley did as he was desired; and half a dozen men, each with a short truncheon and a brass crown, flocked into the room. Mr. Grummer pocketed his staff and looked at Mr. Dubbley, Mr. Dubbley pocketed <hi
+rend="italics">his</hi> staff and looked at the division; and the division pocketed <hi
+rend="italics">their</hi> staves and looked at Messrs. Tupman and Pickwick.</p>
+<p>Mr. Pickwick and his followers, rose as one man.</p>
+<p>&ldquo;What is the meaning of this atrocious intrusion upon my privacy?&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Who dares apprehend me?&rdquo; said Mr. Tupman.</p>
+<p>&ldquo;What do you want here, scoundrels?&rdquo; said Mr. Snodgrass.</p>
+<p>Mr. Winkle said nothing, but he fixed his eyes on Grummer, and bestowed a look upon him, which, if he had had any feeling, must have pierced his brain, and come out on the other side. As it was, however, it had no visible effect upon him whatever.</p>
+<p>When the executive perceived that Mr. Pickwick and his friends were disposed to resist the authority of the law, they very significantly turned up their coat sleeves, as if knocking them down in the first instance, and taking them up afterwards, were a mere professional act which had only to be thought of, to be done, as a matter of course. This demonstration was not lost upon Mr. Pickwick. He conferred a few moments with Mr. Tupman apart, and then signified his readiness to proceed to the Mayor's residence, merely begging the parties then and there assembled, to take notice, that it was his firm intention to resent this monstrous invasion of his privileges as an Englishman, the instant he was at liberty, whereat the parties then and there assembled, laughed very heartily, with the single exception of Mr. Grummer, who seemed to consider that any slight cast upon the divine right of Magistrates, was a species of blasphemy, not to be tolerated.</p>
+<p>But when Mr. Pickwick had signified his readiness to bow to the laws of his country, and just when the waiters, and hostlers, and chambermaids, and post-boys, who had anticipated a delightful commotion from his threatened obstinacy, began to turn away, disappointed and disgusted, a difficulty arose which had not been foreseen. With every sentiment of veneration for the constituted authorities, Mr. Pickwick resolutely protested against making his appearance in the public streets, surrounded and guarded by the officers of justice, like a common criminal. Mr. Grummer, in the then disturbed state of public feeling (for it was half-holiday, and the boys had not yet gone home), as resolutely  protested against walking on the opposite side of the way, and taking Mr. Pickwick's parole that he would go straight to the Magistrate's; and both Mr. Pickwick and Mr. Tupman as strenuously objected to the expense of a post-coach, which was the only respectable conveyance that could be obtained. The dispute ran high, and the dilemma lasted long; and just
+<pb n="253" id="p253"/>
+as the executive were on the point of overcoming Mr. Pickwick's objection to walking to the Magistrate's, by the trite expedient of carrying him thither, it was recollected that there stood in the inn yard, an old sedan chair, which having been originally built for a gouty gentleman with funded property, would hold Mr. Pickwick and Mr. Tupman, at least as conveniently as a modern post-chaise. The chair was hired, and brought into the hall; Mr. Pickwick and  Mr. Tupman squeezed themselves inside, and pulled down the blinds; a couple of chairmen were speedily found, and the procession started in grand order. The specials surrounded the body of the vehicle, Mr. Grummer and Mr. Dubbley marched truimphantly in front, Mr. Snodgrass and Mr. Winkle walked arm in arm behind, and the unsoaped of Ipswich brought up the rear.</p>
+<p>The shopkeepers of the town, although they had a very indistinct notion of the nature of the offence, could not but be much edified and gratified by this spectacle. Here was the strong arm of the law, coming down with twenty gold-heater force, upon two offenders from the metropolis itself; the mighty engine was directed by their own Magistrate, and worked by their own officers; and both the criminals by their united efforts, were securely boxed up, in the narrow compass of one sedan-chair. Many were the expressions of approval and admiration which greeted Mr. Grummer, as he headed the cavalcade, staff in hand; loud and long were the shouts which were raised by the unsoaped; and amidst these united testimonials of public approbation, the procession moved slowly and majestically along.</p>
+<p>Mr. Weller, habited in his morning jacket with the black calico sleeves, was returning in a rather desponding state from an unsuccessful survey of the mysterious house with the green gate, when, raising his eyes, he beheld a crowd pouring down the street, surrounding an object which had very much the appearance of a sedan-chair. Willing to divert his thoughts from the failure of his enterprise, he stepped aside to see the crowd pass; and finding that they were cheering away, very much to their own satisfaction, forthwith began (just by way of raising his spirits) to cheer too, with all his might and main.</p>
+<p>Mr. Grummer passed, and Mr. Dubbley passed, and the sedan passed, and the body-guard of specials passed, and Sam was still responding to the enthusiastic cheers of the mob, and waving his hat about as if he were in the very last extreme of the wildest joy (though of course he had not the faintest idea of the matter in hand), when he was suddenly stopped by the unexpected appearance of Mr. Winkle and Mr. Snodgrass.</p>
+<p>&ldquo;What's the row, genl'm'n?&rdquo; cried Sam, &ldquo;Who have they got in this here watch-box in mournin'?&rdquo;</p>
+<p>Both gentlemen replied together, but their words were lost in the tumult.</p>
+<p>&ldquo;Who is it?&rdquo; roared Sam again.</p>
+<p>Once more was a joint reply returned; and though the weeds were inaudible, Sam saw by the motion of the two pairs of lips that they had uttered the magic word &ldquo;Pickwick.&rdquo;</p>
+<p>This was enough. In another minute Mr. Weller had made his way through the crowd, stopped the chairmen, and confronted the portly Grummer.</p>
+<pb n="254" id="p254"/>
+<p>&ldquo;Hallo, old genl'm'n,&rdquo; said Sam, &ldquo;Who have you got in this here con-wayance?&rdquo;</p>
+<p>&ldquo;Stand back,&rdquo; said Mr. Grummer, whose dignity, like the dignity of a great many other men, had been wondrously augmented by a little popularity.</p>
+<p>&ldquo;Knock him down, if he don't,&rdquo; said Mr. Dubbley.</p>
+<p>&ldquo;I'm wery much obliged to you, old genl'm'n,&rdquo; replied Sam, &ldquo;for consulting my conwenience, and I'm still more obliged to the other genl'm'n who looks as if he'd just escaped from a giant's carrywan, for his wery 'ansome suggestion; but I should perfer your givin' me a answer to my question, if it's all the same to you. How are you, Sir?&rdquo; This last observation was addressed with a patronising air to Mr. Pickwick, who was peeping through the front window.</p>
+<p>Mr. Grummer, perfectly speechless with indignation, dragged the truncheon with the brass crown, from its particular pocket, and flourished it before Sam's eyes.</p>
+<p>&ldquo;Ah,&rdquo; said Sam, &ldquo;it's wery pretty, 'specially the crown, which is uncommon like the real one.&rdquo;</p>
+<p>&ldquo;Stand back,&rdquo; said the outraged Mr. Grummer. By way of adding force to the command, he thrust the brass emblem of royalty into Sam's neckcloth with one hand, and seized Sam's collar with the other, a compliment which Mr. Weller returned by knocking him down out of hand, having previously, with the utmost consideration, knocked down a chairman for him to lie upon.</p>
+<p>Whether Mr. Winkle was seized with a temporary attack of that species of insanity which originates in a sense of injury, or animated by this display of Mr. Weller's valour, is uncertain; but certain it is, that he no sooner saw Mr. Grummer fall, than he made a terrific onslaught on a small boy who stood next him; whereupon Mr. Snodgrass, in a truly christian spirit, and in order that he might take no one unawares, announced in a very loud tone that he was going to begin, and proceeded to take off his coat with the utmost deliberation. He was immediately surrounded and secured; and it is but common justice both to him and Mr. Winkle to say, that they did not make the slightest attempt to rescue either themselves or Mr. Weller, who, after a most vigorous resistance, was overpowered by numbers, and taken prisoner. The procession then re-formed, the chairmen resumed their stations, and the march was re-commenced.</p>
+<p>Mr. Pickwick's indignation during the whole of this proceeding was beyond all bounds. He could just see Sam upsetting the specials, and flying about, in every direction, and that was all he could see, for the sedan doors wouldn't open, and the blinds wouldn't pull up. At length, with the assistance of Mr. Tupman, he managed to push open the roof and mounting on the seat, and steadying himself as well as he could, by placing his hand on that gentleman's shoulder, Mr. Pickwick proceeded to address the multitude; to dwell upon the unjustifiable manner in which he had been treated; and to call upon them to take notice that his servant had been first assaulted. And in this order they reached the Magistrate's house; the chairmen trotting, the prisoners following, Mr. Pickwick oratorising, and the crowd shouting.</p>
+</div2>
+<div2 type="chapter">
+<pb n="255" id="p255"/>
+<head>CHAPTER XXV.</head>
+<head>
+SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC AND IMPARTIAL MR. NUPKINS WAS; AND HOW MR. WELLER RETURNED MR. JOB TROTTER'S SHUTTLECOCK, AS HEAVILY AS IT CAME. WITH ANOTHER MATTER, WHICH WILL BE FOUND IN ITS PLACE.
+</head>
+<p>VIOLENT was Mr. Weller's indignation as he was borne along; numerous were the allusions to the personal appearance and demeanour of Mr. Grummer and his companion; and valorous were the defiances to any six of the gentlemen present, in which he vented his dissatisfaction. Mr. Snodgrass and Mr. Winkle listened with gloomy respect to the torrent of eloquence which their leader poured forth, from the sedan chair, and the rapid course of which, not all Mr. Tupman's earnest entreaties to have the lid of the vehicle closed, were able to check for an instant. But Mr. Weller's anger quickly gave way to curiosity, when the procession turned down the identical court-yard in which he had met with the runaway Job Trotter: and curiosity was exchanged for a feeling of the most gleeful astonishment, when the all-important Mr. Grummer, commanding the sedan-bearers to halt, advanced with dignified and portentous steps, to the very green gate from which Job Trotter had emerged, and gave a mighty pull at the bell-handle which hung at the side thereof. The ring was answered by a very smart and pretty-faced servant-girl, who, after holding up her hands in astonishment at the rebellious appearance of the prisoners, and the impassioned language of Mr. Pickwick, summoned Mr. Muzzle. Mr. Muzzle opened one-half of the carriage gate, to admit the sedan, the captured ones, and the specials; and immediately slammed it in the faces of the mob, who, indignant at being excluded, and anxious to see what followed, relieved their feelings by kicking at the gate and ringing the bell, for an hour or two afterwards. In this amusement they all took part by turns, except three or four fortunate individuals, who having discovered a grating in the gate which commanded a view of nothing, were staring through it, with the same indefatigable perseverance with which people will flatten their noses against the front widows of a chemist's shop, when a drunken man, who has been run over by a dog-cart in the street, is undergoing a surgical inspection in the back-parlour.</p>
+<p>At the foot of a flight of steps, leading to the house door, which were guarded on either side by an American aloe in a green tub, the sedanchair stopped; and Mr. Pickwick and his friends were conducted into the hall, from whence, having been previously announced by Muzzle, and ordered in by Mr. Nupkins, they were ushered into the worshipful presence of that public-spirited officer.</p>
+<p>The scene was an impressive one, well calculated to strike terror to
+<pb n="256" id="p256"/>
+the hearts of culprits, and to impress them with an adequate idea of the stern majesty of the law. In front of a big book-case, in a big chair, behind a big table, and before a big volume, sat Mr. Nupkins, looking a full size larger than any one of them, big as they were. The table was adorned with piles of papers: and above the further end of it, appeared the head and shoulders of Mr. Jinks, who was busily engaged in looking as busy as possible. The party having all entered, Muzzle carefully closed the door, and placed himself behind his master's chair to await his orders; Mr. Nupkins threw himself back, with thrilling solemnity, and scrutinised the faces of his unwilling visiters.</p>
+<p>&ldquo;Now, Grummer, who is that person?&rdquo; said Mr. Nupkins, pointing to Mr. Pickwick, who, as the spokesman of his friends, stood hat in hand, bowing with the utmost politeness and respect.</p>
+<p>&ldquo;This here's Pickvick, your wash-up,&rdquo; said Grummer.</p>
+<p>&ldquo;Come, none o' that'ere, old  Strike-a-light,&rdquo; interposed Mr. Weller, elbowing himself into the front rank&mdash;&ldquo;Beg your pardon, Sir, but this here officer o' yourn in the gambooge tops, 'ull never earn a decent livin' as a master o' the ceremonies any vere. This here, Sir,&rdquo; continued Mr. Weller, thrusting Grummer aside, and addressing the Magistrate with pleasant familiarity&mdash;&ldquo;This here is S. Pickvick, Esquire; this here's Mr. Tupman; that'ere's Mr. Snodgrass; and furder on, next him on the t'other side, Mr. Winkle&mdash;all wery nice genl'm'n, Sir, as you'll be wery happy to have the acquaintance on; so the sooner you commits these here officers o' yourn to the tread-mill for a month or two, the sooner we shall begin to be on a pleasant understanding. Business first, pleasure arterwards, as King Richard the Third said ven he stabbed the t'other king in the Tower, afore he smothered the babbies.&rdquo;</p>
+<p>At the conclusion of this address, Mr. Weller brushed his hat with his right elbow, and nodded benignly to Jinks, who had heard him throughout, with unspeakable awe.</p>
+<p>&ldquo;Who is this man, Grummer?&rdquo; said the magistrate.</p>
+<p>&ldquo;Wery desp'rate ch'racter, your wash-up,&rdquo; replied Grummer. &ldquo;He attempted to rescue the prisoners, and assaulted the officers&mdash;so we took him into custody, and brought him here.&rdquo;</p>
+<p>&ldquo;You did quite right,&rdquo; replied the magistrate. &ldquo;He is evidently a desperate ruffian.&rdquo;</p>
+<p>&ldquo;He is my servant, Sir,&rdquo; said Mr. Pickwick, angrily.</p>
+<p>&ldquo;Oh! he is your servant, is he?&rdquo; said Mr. Nupkins. &ldquo;A conspiracy to defeat the ends of justice, and murder its officers. Pickwick's servant. Put that down, Mr. Jinks.&rdquo;</p>
+<p>Mr. Jinks did so.</p>
+<p>&ldquo;What's your name, fellow?&rdquo; thundered Mr. Nupkins.</p>
+<p>&ldquo;Veller,&rdquo; replied Sam.</p>
+<p>&ldquo;A very good name for the Newgate Calendar, said Mr. Nupkins.</p>
+<p>This was a joke; so Jinks, Grummer, Dubbley, all the specials, and Muzzle, went into fits of laughter of five minutes' duration.</p>
+<p>&ldquo;Put down his name, Mr. Jinks,&rdquo; said the magistrate.</p>
+<p>&ldquo;Two L's, old feller,&rdquo; said Sam.</p>
+<p>Here an unfortunate special laughed again, whereupon the magistrate
+<pb n="257" id="p257"/>
+threatened to commit him, instantly. It's a dangerous thing laughing at the wrong man, in these cases.</p>
+<p>&ldquo;Where do you live?&rdquo; said the magistrate.</p>
+<p>&ldquo;Vare-ever I can,&rdquo; replied Sam.</p>
+<p>&ldquo;Put down that, Mr. Jinks,&rdquo; said the magistrate, who was fast rising into a rage.</p>
+<p>&ldquo;Score it under,&rdquo; said Sam.</p>
+<p>&ldquo;He is a vagabond, Mr. Jinks,&rdquo; said the magistrate. &ldquo;He is a vagabond on his own statement, is he not, Mr. Jinks?&rdquo;</p>
+<p>&ldquo;Certainly, Sir.&rdquo;</p>
+<p>&ldquo;Then I'll commit him&mdash;I'll commit him, as such,&rdquo; said Mr. Nupkins.</p>
+<p>&ldquo;This is a wery impartial country for justice,&rdquo; said Sam. &ldquo;There ain't a magistrate going, as don't commit himself, twice as often as he commits other people.&rdquo;</p>
+<p>At this sally another special laughed, and then tried to look so supernaturally solemn, that the magistrate detected him immediately.</p>
+<p>&ldquo;Grummer,&rdquo; said Mr. Nupkins, reddening with passion, &ldquo;how dare you select such an inefficient and disreputable person for a special contable, as that man? How dare you do it, Sir?&rdquo;</p>
+<p>&ldquo;I am very sorry, your wash-up,&rdquo; stammered Grummer.</p>
+<p>&ldquo;Very sorry!&rdquo; said the furious magistrate. &ldquo;You shall repent of this neglect of duty, Mr. Grummer; you shall be made an example of. Take that fellow's staff away. He's drunk. You're drunk, fellow.&rdquo;</p>
+<p>&ldquo;I am not drunk, your worship,&rdquo; said the man.</p>
+<p>&ldquo;You <hi rend="italics">are</hi> drunk,&rdquo; returned the magistrate. &ldquo;How dare you say you are not drunk, Sir, when I say you are? Doesn't he smell of spirits, Grummer?&rdquo;</p>
+<p>&ldquo;Horrid, your wash-up,&rdquo; replied Grummer, who had a vague impression that there was a smell of rum somewhere.</p>
+<p>&ldquo;I knew he did,&rdquo; said Mr. Nupkins. &ldquo;I saw he was drunk when he first came into the room, by his excited eye. Did you observe his excited eye, Mr. Jinks?&rdquo;</p>
+<p>&ldquo;Certainly, Sir.&rdquo;</p>
+<p>&ldquo;I haven't touched a drop of spirits this morning,&rdquo; said the man, who was as sober a fellow as need be.</p>
+<p>&ldquo;How dare you tell me a falsehood?&rdquo; said Mr. Nupkins. &ldquo;Is n't he drunk at this moment, Mr. Jinks?&rdquo;</p>
+<p>&ldquo;Certainly, Sir,&rdquo; replied Jinks.</p>
+<p>&ldquo;Mr. Jinks,&rdquo; said the magistrate, &ldquo;I shall commit that man, for contempt. Make out his committal, Mr. Jinks.&rdquo;</p>
+<p>And committed the special would have been, only Jinks, who was the magistrate's adviser, having had a legal education of three years in a country attorney's office, whispered the magistrate that he thought it wouldn't do; so the magistrate made a speech, and said, that in consideration of the special's family, he would merely reprimand and discharge him. Accordingly, the special was abused vehemently for a quarter of an hour, and sent about his business: and Grummer, Dubbley, Muzzle,
+<pb n="258" id="p258"/>
+and all the other specials murmured their admiration of the magnanimity of Mr. Nupkins.</p>
+<p>&ldquo;Now, Mr. Jinks,&rdquo; said the magistrate, &ldquo;swear Grummer.&rdquo;</p>
+<p>Grummer was sworn directly; but as Grummer wandered, and Mr. Nupkins' dinner was nearly ready, Mr. Nupkins cut the matter short, by putting leading questions to Grummer, which Grummer answered as nearly in the affirmative as he could. So the examination went off, all very smooth and comfortable; and two assaults were proved against Mr. Weller, and a threat against Mr. Winkle, and a push against Mr. Snodgrass. And when all this was done to the magistrate's satisfaction, the magistrate and Mr. Jinks consulted in whispers.</p>
+<p>The consultation having lasted about ten minutes, Mr. Jinks retired to his end of the table; and the magistrate, with a preparatory cough, drew himself up in his chair, and was proceeding to commence his address, when Mr. Pickwick interposed.</p>
+<p>&ldquo;I beg your pardon, Sir, for interrupting you,&rdquo; said Mr. Pickwick; &ldquo;but before you proceed to express, and act upon, any opinion you may have formed on the statements which have been made here, I must claim my right to be heard, so far as I am personally concerned.&rdquo;</p>
+<p>&ldquo;Hold your tongue, Sir,&rdquo; said the magistrate, peremptorily.</p>
+<p>&ldquo;I must submit to you, Sir,&rdquo;&mdash;said Mr. Pickwick.</p>
+<p>&ldquo;Hold your tongue, Sir,&rdquo; interposed the magistrate, &ldquo;or I shall order an officer to remove you.&rdquo;</p>
+<p>&ldquo;You may order your officers to do whatever you please, Sir,&rdquo; said Mr. Pickwick; &ldquo;and I have no doubt, from the specimen I have had of the subordination preserved among them, that whatever you order, they will execute; but I shall take the liberty, Sir, of claiming my right to be heard, until I am removed by force.&rdquo;</p>
+<p>&ldquo;Pickvick and principle,&rdquo; exclaimed Mr. Weller, in a very audible voice.</p>
+<p>&ldquo;Sam, be quiet,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Dumb as a drum vith a hole in it,&rdquo; replied Sam.</p>
+<p>Mr. Nupkins looked at Mr. Pickwick with a gaze of intense astonishment, at his displaying such unwonted temerity; and was apparently about to return a very angry reply, when Mr. Jinks pulled him by the sleeve, and whispered something in his ear. To this, the magistrate returned a half-audible answer, and then the whispering was renewed. Jinks was evidently remonstrating.</p>
+<p>At length the magistrate, gulping down with a very bad grace his disinclination to hear anything more, turned to Mr. Pickwick, and said sharply&mdash;&ldquo;What do you want to say?&rdquo;</p>
+<p>&ldquo;First,&rdquo; said Mr. Pickwick, sending a look through his spectacles, under which even Nupkins quailed. &ldquo;First, I wish to know what I and my friend have  been brought here for?&rdquo;</p>
+<p>&ldquo;Must I tell him?&rdquo; whispered the magistrate to Jinks.</p>
+<p>&ldquo;I think you had better, Sir,&rdquo; whispered Jinks to the magistrate.</p>
+<p>&ldquo;An information has been sworn before me,&rdquo; said the magistrate, &ldquo;that it is apprehended you are going to fight a duel, and that the
+<pb n="259" id="p259"/>
+other man, Tupman, is your aider and abettor in it. Therefore&mdash;eh, Mr. Jinks?&rdquo;</p>
+<p>&ldquo;Certainly, Sir.&rdquo;</p>
+<p>&ldquo;Therefore, I call upon you both, to&mdash;I think that's the course, Mr. Jinks?&rdquo;</p>
+<p>&ldquo;Certainly, Sir.&rdquo;</p>
+<p>&ldquo;To&mdash;to&mdash;what Mr. Jinks?&rdquo; said the magistrate, pettishly.</p>
+<p>&ldquo;To find bail, Sir.&rdquo;</p>
+<p>&ldquo;Yes. Therefore, I call upon you both&mdash;as I was about to say, when I was interrupted by my clerk&mdash;to find bail.&rdquo;</p>
+<p>&ldquo;Good bail,&rdquo; whispered Mr. Jinks.</p>
+<p>&ldquo;I shall require good bail,&rdquo; said the magistrate.</p>
+<p>&ldquo;Town's-people,&rdquo; whispered Jinks.</p>
+<p>&ldquo;They must be town's-people,&rdquo; said the magistrate.</p>
+<p>&ldquo;Fifty pounds each,&rdquo; whispered Jinks, &ldquo;and householders, of course.&rdquo;</p>
+<p>&ldquo;I shall require two sureties of fifty pounds each,&rdquo; said the magistrate aloud, with great dignity, &ldquo;and they must be householders, of course.&rdquo;</p>
+<p>&ldquo;But, bless my heart, Sir,&rdquo; said Mr. Pickwick, who, together with Mr. Tupman, was all amazement and indignation; &ldquo;we are perfect strangers in this town. I have as little knowledge of any householders here, as I have intention of fighting a duel with any body.&rdquo;</p>
+<p>&ldquo;I dare say,&rdquo; replied the magistrate, &ldquo;I dare say&mdash;don't you, Mr. Jinks?&rdquo;</p>
+<p>&ldquo;Certainly, Sir.&rdquo;</p>
+<p>&ldquo;Have you anything more to say?&rdquo; inquired the magistrate.</p>
+<p>Mr. Pickwick <hi rend="italics">had</hi> a great deal more to say, which he would no doubt have said, very little to his own advantage, or the magistrate's satisfaction, if he had not, the moment he ceased speaking, been pulled by the sleeve by Mr. Weller, with whom he was immediately engaged in so earnest a conversation, that he suffered the magistrate's inquiry to pass wholly unnoticed. Mr. Nupkins was not the man to ask a question of the kind twice over; and so, with another preparatory cough, he proceeded, amidst the reverential and admiring silence of the constables, to pronounce his decision.</p>
+<p>He should fine Weller two pounds for the first assault, and three pounds for the second. He should fine Winkle two pounds, and Snodgrass one pound, besides requiring them to enter into their own recognizances to keep the peace towards all his Majesty's subjects, and especially towards his liege servant, Daniel Grummer. Pickwick and Tupman he had already held to bail.</p>
+<p>Immediately on the magistrate ceasing to speak, Mr. Pickwick, with a smile mantling on his  again-good-humoured countenance, stepped forward, and said&mdash;</p>
+<p>&ldquo;I beg the magistrate's pardon, but may I request a few minutes' private conversation with him, on a matter of deep importance to himself?&rdquo;</p>
+<p>&ldquo;What!&rdquo; said the magistrate.</p>
+<pb n="260" id="p260"/>
+<p>Mr. Pickwick repeated his request.</p>
+<p>&ldquo;This is a most extraordinary request,&rdquo; said the magistrate&mdash;&ldquo;A private interview!&rdquo;</p>
+<p>&ldquo;A private interview,&rdquo; replied Mr. Pickwick, firmly; &ldquo;only as a part of the information which I wish to communicate is derived from my servant, I should wish him to be present.&rdquo;</p>
+<p>The magistrate looked at Mr. Jinks, Mr. Jinks looked at the magistrate, and the officers looked at each other in amazement. Mr. Nupkins turned suddenly pale. Could the man Weller, in a moment of remorse, have divulged some secret conspiracy for his assassination? It was a dreadful thought. He was a public man; and he turned paler, as he thought of Julius C&aelig;sar and Mr. Perceval.</p>
+<p>The magistrate looked at Mr. Pickwick again, and beckoned Mr. Jinks.</p>
+<p>&ldquo;What do you think of this request, Mr. Jinks?&rdquo; murmured Mr. Nupkins.</p>
+<p>Mr. Jinks, who didn't exactly know what to think of it, and was afraid he might offend, smiled feebly, after a dubious fashion, and, screwing up the corners of his mouth, shook his head slowly from side to side.</p>
+<p>&ldquo;Mr. Jinks,&rdquo; said the magistrate, gravely, &ldquo;you are an ass, Sir.&rdquo;</p>
+<p>At this little expression of opinion, Mr. Jinks smiled again&mdash;rather more feebly than before&mdash;and edged himself, by degrees, back into his own corner.</p>
+<p>Mr. Nupkins debated the matter within himself for a few seconds, and then, rising from his chair, and requesting Mr. Pickwick and Sam to follow him, led the way into a small room which opened into the justice parlour. Desiring Mr. Pickwick to walk to the further end of the little apartment, and holding his hand upon the half-closed door, that he might be able to effect an immediate escape, in case there was the least tendency to a display of hostilities, Mr. Nupkins expressed his readiness to hear the communication, whatever it might be.</p>
+<p>&ldquo;I will come to the point at once, Sir,&rdquo; said Mr. Pickwick, &ldquo;it affects yourself, and your credit, materially. I have every reason to believe, Sir, that you are harbouring in your house, a gross impostor!&rdquo;</p>
+<p>&ldquo;Two,&rdquo; interrupted Sam, &ldquo;Mulberry agin all natur, for tears and willainny.&rdquo;</p>
+<p>&ldquo;Sam,&rdquo; said Mr. Pickwick, &ldquo;if I am to render myself intelligible to this gentleman, I must beg you to controul your feelings.&rdquo;</p>
+<p>&ldquo;Wery sorry, Sir,&rdquo; replied Mr. Weller; &ldquo;but when I think o' that 'ere Job, I can't help opening the walve a inch or two.&rdquo;</p>
+<p>&ldquo;In one word, Sir,&rdquo; said Mr. Pickwick, &ldquo;is my servant right in suspecting that a certain Captain Fitz-Marshall is in the habit of visiting here? Because,&rdquo; added Mr. Pickwick, as he saw that Mr. Nupkins was about to offer a very indignant interruption&mdash;&ldquo;because, if he be, I know that person to be a&mdash;&rdquo;</p>
+<p>&ldquo;Hush, hush,&rdquo; said Mr. Nupkins, closing the door. &ldquo;Know him to be what, Sir?&rdquo;</p>
+<p>&ldquo;An unprincipled adventurer&mdash;a dishonourable character&mdash;a man
+<pb id="p261" n="261"/>
+who preys upon society, and makes easily-deceived people his dupes, Sir; his absurd, his foolish, his wretched dupes, Sir,&rdquo; said the excited Mr. Pickwick.</p>
+<p>&ldquo;Dear me,&rdquo; said Mr. Nupkins, colouring up very red, and altering his whole manner directly. &ldquo;Dear me, Mr.&mdash;&rdquo;</p>
+<p>&ldquo;Pickvick,&rdquo; said Sam.</p>
+<p>&ldquo;Pickwick,&rdquo; said the Magistrate, &ldquo;dear me, Mr. Pickwick&mdash;pray take a seat&mdash;you cannot mean this? Captain Fitz-Marshall!&rdquo;</p>
+<p>&ldquo;Don't call him a cap'en,&rdquo; said Sam, &ldquo;nor Fitz-Marshall neither; he ain't neither one nor t'other. He's a strolling actor, he is, and his name's Jingle; and if ever there was a wolf in a mulberry suit, that ere Job Trotter's him.&rdquo;</p>
+<p>&ldquo;It is very true, Sir,&rdquo; said Mr. Pickwick, replying to the magistrate's look of amazement; &ldquo;my only business in this town, is to expose the person of whom we now speak.&rdquo;</p>
+<p>And Mr. Pickwick proceeded to pour into the horror-stricken ear of Mr. Nupkins, an abridged account of all Mr. Jingle's atrocities. He related how he had first met him, how he had eloped with Miss Wardle, how he had cheerfully resigned the lady for a pecuniary consideration, how he had entrapped him into a lady's boarding-school at midnight, and how he (Mr. Pickwick) now felt it his duty to expose his assumption of his present name and rank.</p>
+<p>As the narrative proceeded, all the warm blood in the body of Mr. Nupkins tingled up into the very tips of his ears. He had picked up the captain at a neighbouring race-course. Charmed with his long list of aristocratic acquaintance, his extensive travel, and his fashionable demeanour, Mrs. Nupkins and Miss Nupkins had exhibited Captain Fitz-Marshall, and quoted Captain Fitz-Marshall, and hurled Captain Fitz-Marshall at the devoted heads of their select circle of acquaintance, until their bosom friends, Mrs. Porkenham and the Miss Porkenhams, and Mr. Sidney Porkenham, were ready to burst with jealousy and despair. And now, to hear after all, that he was a needy adventurer, a strolling player, and if not a swindler, something so very like it, that it was hard to tell the difference! Heavens! what would the Porkenhams say! What would be the triumph of Mr. Sidney Porkenham when he found that his addresses had been slighted for such a rival! How should he meet the eye of old Porkenham at the next Quarter Sessions!&mdash;and what a handle would it be for the opposition magisterial party, if the story got abroad!</p>
+<p>&ldquo;But after all,&rdquo; said Mr. Nupkins, brightening up for a moment after a long pause; &ldquo;after all, this is a mere statement. Captain Fitz-Marshall is a man of very engaging manners,&mdash;and, I dare say, has many enemies. What proof have you, of the truth of these representations?&rdquo;</p>
+<p>&ldquo;Confront me with him,&rdquo; said Mr. Pickwick, &ldquo;that is all I ask, and all I require. Confront him with me, and my friends here; you will want no further proof.&rdquo;</p>
+<p>&ldquo;Why,&rdquo; said Mr. Nupkins, &ldquo;that might be very easily done, for he will be here to-night, and then there would be no occasion to make
+<pb n="262" id="p262"/>
+the matter public, just&mdash;just&mdash;for the young man's own sake, you know. I&mdash;I&mdash;should like to consult Mrs. Nupkins on the propriety of the step, in the first instance, though. At all events, Mr. Pickwick, we must despatch this legal business before we can do anything else. Pray step back into the next room.&rdquo;</p>
+<p>Into the next room they went.</p>
+<p>&ldquo;Grummer,&rdquo; said the magistrate, in an awful voice.</p>
+<p>&ldquo;Your wash-up,&rdquo; replied Grummer, with the smile of a favourite.</p>
+<p>&ldquo;Come, come, Sir,&rdquo; said the magistrate, sternly, &ldquo;don't let me see any of this levity here. It is very unbecoming, and I can assure you that you have very little to smile at. Was the account you gave me just now, strictly true? Now be careful, Sir.&rdquo;</p>
+<p>&ldquo;Your wash-up,&rdquo; stammered Grummer, &ldquo;I&mdash;&rdquo;</p>
+<p>&ldquo;Oh, you are confused, are you?&rdquo; said the magistrate. &ldquo;Mr. Jinks, you observe this confusion?&rdquo;</p>
+<p>&ldquo;Certainly, Sir,&rdquo; replied Jinks.</p>
+<p>&ldquo;Now,&rdquo; said the magistrate, &ldquo;just repeat your statement, Grummer, and again I warn you to be careful. Mr. Jinks, take his words down.&rdquo;</p>
+<p>The unfortunate Grummer proceeded to re-state his complaint, but, what between Mr. Jinks's taking down his words, and the magistrate's taking them up; his natural tendency to rambling, and his extreme confusion, he managed to get involved, in something under three minutes, in such a mass of entanglement and contradiction, that Mr. Nupkins at once declared he didn't believe him. So the fines were remitted, and Mr. Jinks found a couple of bail in no time. And all these solemn proceedings having been satisfactorily concluded, Mr. Grummer was ignominiously ordered out&mdash;an awful instance of the instability of human greatness, and the uncertain tenure of great men's favour.</p>
+<p>Mrs. Nupkins was a majestic female in a blue gauze turban and a light brown wig. Miss Nupkins possessed all her mamma's haughtiness without the turban, and all her ill-nature without the wig; and whenever the exercise of these two amiable qualities involved mother and daughter in some unpleasant dilemma, as they not unfrequently did, they both concurred in laying the blame on the shoulders of Mr. Nupkins. Accordingly, when Mr. Nupkins sought Mrs. Nupkins, and detailed the communication which had been made by Mr. Pickwick, Mrs. Nupkins suddenly recollected that she had always expected something of the kind; that she had always said it would be so; that her advice was never taken; that she really did not know what Mr. Nupkins supposed she was; and so forth.</p>
+<p>&ldquo;The idea!&rdquo; said Miss Nupkins, forcing a tear of very scanty proportions, into the corner of each eye, &ldquo;the idea of my being made such a fool of!&rdquo;</p>
+<p>&ldquo;Ah! you may thank your papa, my dear,&rdquo; said Mrs. Nupkins; &ldquo;how I have implored and begged that man to inquire into the Captain's family connections; how I have urged and entreated him to take some decisive step! I am quite certain nobody would believe it&mdash;quite.&rdquo;</p>
+<pb n="263" id="p263"/>
+<p>&ldquo;But, my dear,&rdquo; said Mr. Nupkins.</p>
+<p>&ldquo;Don't talk to me, you aggravating thing, don't,&rdquo; said Mrs Nupkins.</p>
+<p>&ldquo;My love,&rdquo; said Mr. Nupkins, &ldquo;you professed yourself very fond of Captain Fitz-Marshall. You have constantly asked him here, my dear, and you have lost no opportunity of introducing him elsewhere.&rdquo;</p>
+<p>&ldquo;Didn't I say so, Henrietta?&rdquo; said Mrs. Nupkins, appealing to her daughter with the air of a much-injured female&mdash;&ldquo;Didn't I say that your papa would turn round, and lay all this, at my door? Didn't I say so?&rdquo; Here Mrs. Nupkins sobbed.</p>
+<p>&ldquo;Oh pa!&rdquo; remonstrated Miss Nupkins. And here she sobbed too.</p>
+<p>&ldquo;Isn't it too much, when he has brought all this disgrace and ridicule upon us, for him to taunt <hi
+rend="italics">me</hi> with being the cause of it?&rdquo; exclaimed Mrs. Nupkins.</p>
+<p>&ldquo;How can we ever shew ourselves in society!&rdquo; said Miss Nupkins.</p>
+<p>&ldquo;How can we face the Porkenhams!&rdquo; said Mrs. Nupkins.</p>
+<p>&ldquo;Or the Griggs's!&rdquo; said Miss Nupkins.</p>
+<p>&ldquo;Or the Slummintowkens!&rdquo; said Mrs. Nupkins. &ldquo;But what does your papa care! What is it to <hi
+rend="italics">him!</hi>&rdquo; At this dreadful reflection, Mrs. Nupkins wept with mental anguish, and Miss Nupkins followed on the same side.</p>
+<p>Mrs. Nupkins's tears continued to gush forth, with great velocity, until she had gained a little time to think the matter over, when she decided in her own mind, that the best thing to do, would be to ask Mr. Pickwick and his friends to remain until the Captain's arrival, and then to give Mr. Pickwick the opportunity he sought. If it appeared that he had spoken truly, the Captain could be turned out of the house without noising the matter abroad, and they could easily account to the Porkenhams for his disappearance, by saying that he had been appointed, through the Court influence of his family, to the Governor-Generalship of Sierra Leone, or Sangur Point, or any other of those salubrious climates which enchant Europeans so much, that, when they once get there, they can hardly ever prevail upon themselves to come back again.</p>
+<p>When Mrs. Nupkins dried up her tears, Miss Nupkins dried up <hi
+rend="italics">her's,</hi> and Mr. Nupkins was very glad to settle the matter as Mrs. Nupkins had proposed. So Mr. Pickwick and his friends, having washed off all marks of their late encounter, were introduced to the ladies, and soon afterwards to their dinner; and Mr. Weller, whom the magistrate with his peculiar sagacity, had discovered in half an hour to be one of the finest fellows alive, was consigned to the care and guardianship of Mr. Muzzle, who was specially enjoined to take him below, and make much of him.</p>
+<p>&ldquo;How de do, Sir?&rdquo; said Mr. Muzzle, as he conducted Mr. Weller down the kitchen stairs.</p>
+<p>&ldquo;Why, no con-siderable change has taken place in the state of my system, since I see you cocked up behind your governor's chair in the parlour, a little vile ago,&rdquo; replied Sam.</p>
+<p>&ldquo;You will excuse my not taking more notice of you then,&rdquo; said Mr.
+<pb n="264" id="p264"/>
+Muzzle. &ldquo;You see, master hadn't introduced us, then. Lord, how fond he is of you, Mr. Weller, to be sure!&rdquo;</p>
+<p>&ldquo;Ah,&rdquo; said Sam, &ldquo;what a pleasant chap he is!&rdquo;</p>
+<p>&ldquo;Ain't he?&rdquo; replied Mr. Muzzle.</p>
+<p>&ldquo;So much humour,&rdquo; said Sam.</p>
+<p>&ldquo;And such a man to speak,&rdquo; said Mr. Muzzle. &ldquo;How his ideas flow, don't they?&rdquo;</p>
+<p>&ldquo;Wonderful,&rdquo; replied Sam; &ldquo;they comes a pouring out, knocking each other's heads so fast, that they seems to stun one another; you hardly know what he's arter, do you?&rdquo;</p>
+<p>&ldquo;That's the great merit of his style of speaking,&rdquo; rejoined Mr. Muzzle. &ldquo;Take care of the last step, Mr. Weller. Would you like to wash your hands, Sir, before we join the ladies? Here's a sink, with the water laid on, Sir, and a clean jack towel behind the door.&rdquo;</p>
+<p>&ldquo;Ah, perhaps I may as vel have a rinse,&rdquo; replied Mr. Weller, applying plenty of yellow soap to the towel, and rubbing away, till his face shone again. &ldquo;How many ladies are there?&rdquo;</p>
+<p>&ldquo;Only two in our kitchen,&rdquo; said Mr. Muzzle, &ldquo;cook and 'ousemaid. We keep a boy to do the dirty work, and a gal besides, but they dine in the washus.&rdquo;</p>
+<p>&ldquo;Oh, they dines in the washus, do they?&rdquo; said Mr. Weller.</p>
+<p>&ldquo;Yes,&rdquo; replied Mr. Muzzle, &ldquo;we tried 'em at our table when they first come, but we couldn't keep 'em. The gal's manners is dreadful vulgar; and the boy breathes so very hard while he's eating, that we found it impossible to sit at table with him.&rdquo;</p>
+<p>&ldquo;What a young grampus!&rdquo; said Mr. Weller.</p>
+<p>&ldquo;Oh, dreadful,&rdquo; rejoined Mr. Muzzle; &ldquo;but that is the worst of country service, Mr. Weller; the juniors is always so very savage. This way, Sir, if you please&mdash;this way.&rdquo;</p>
+<p>And preceding Mr. Weller, with the utmost politeness, Mr. Muzzle conducted him into the kitchen.</p>
+<p>&ldquo;Mary,&rdquo; said Mr. Muzzle to the pretty servant-girl, &ldquo;this is Mr. Weller, a gentleman as master has sent down, to be made as comfortable as possible.&rdquo;</p>
+<p>&ldquo;And your master's a knowin' hand&mdash;and has just sent me to the right place,&rdquo; said Mr. Weller, with a glance of admiration at Mary. &ldquo;If I was master o' this here  house, I should alvays find the materials for comfort vere Mary vas.&rdquo;</p>
+<p>&ldquo;Lor, Mr. Weller!&rdquo; said Mary, blushing.</p>
+<p>&ldquo;Well, I never!&rdquo; ejaculated the cook.</p>
+<p>&ldquo;Bless me, cook, I forgot you,&rdquo; said Mr. Muzzle. &ldquo;Mr. Weller, let me introduce you.&rdquo;</p>
+<p>&ldquo;How are you, Ma'am,&rdquo; said Mr. Weller. &ldquo;Wery glad to see you, indeed; and hope our acquaintance may be a long 'un, as the gen'lm'n said to the fi' pun' note.&rdquo;</p>
+<p>When this ceremony of introduction had been gone through, the cook and Mary retired into the back kitchen to titter for ten minutes; and then returning, all giggles and blushes, they sat down to dinner.</p>
+<p>Mr. Weller's easy manner and conversational powers had such irresistible
+<pb id="p265" n="265"/>
+influence with his new friends, that before the dinner was half over, they were on a footing of perfect intimacy, and in possession of a full account of the delinquency of Job Trotter.</p>
+<p>&ldquo;I never could a-bear that Job,&rdquo; said Mary.</p>
+<p>&ldquo;No more you never ought to, my dear,&rdquo; replied Mr. Weller.</p>
+<p>&ldquo;Why not?&rdquo; inquired Mary.</p>
+<p>&ldquo;Cos ugliness and svindlin' never ought to be formiliar vith elegance and wirtew,&rdquo; replied Mr. Weller. &ldquo;Ought they, Mr. Muzzle?&rdquo;</p>
+<p>&ldquo;Not by no means,&rdquo; replied that gentleman.</p>
+<p>Here Mary laughed, and said the cook had made her; and the cook laughed, and said she hadn't.</p>
+<p>&ldquo;I han't got a glass,&rdquo; said Mary.</p>
+<p>&ldquo;Drink vith me, my dear,&rdquo; said Mr. Weller. &ldquo;Put your lips to this here tumbler, and then I can kiss you by deputy.&rdquo;</p>
+<p>&ldquo;For shame, Mr. Weller,&rdquo; said Mary.</p>
+<p>&ldquo;What's a shame, my dear?&rdquo;</p>
+<p>&ldquo;Talkin' in that way.&rdquo;</p>
+<p>&ldquo;Nonsense; it ain't no harm. It's natur; ain't it, cook?&rdquo;</p>
+<p>&ldquo;Don't ask me imperence,&rdquo; replied the cook, in a high state of delight: and hereupon the cook and Mary laughed again, till what between the beer, and the cold meat, and the laughter combined, the latter young lady was brought to the verge of choaking&mdash;an alarming crisis from which she was only recovered by sundry pats of the back, and other necessary attentions, most delicately administered by Mr. Samuel Weller.</p>
+<p>In the midst of all this jollity and conviviality, a loud ring was heard at the garden-gate, to which the young gentleman who took his meals in the wash-house, immediately responded. Mr. Weller was in the height of his attentions to the pretty housemaid; Mr. Muzzle was busy doing the honours of the table; and the cook had just paused to laugh, in the very act of raising a huge morsel to her lips, when the kitchen-door opened, and in walked Mr. Job Trotter.</p>
+<p>We have said in walked Mr. Job Trotter, but the statement is not distinguished by our usual scrupulous adherence to fact. The door opened, and Mr. Trotter appeared. He <hi
+rend="italics">would</hi> have walked in, and was in the very act of doing so indeed, when catching sight of Mr. Weller, he involuntarily shrunk back a pace or two, and stood gazing on the unexpected scene before him, perfectly motionless with amazement and terror.</p>
+<p>&ldquo;Here he is,&rdquo; said Sam, rising with great glee. &ldquo;Why we were that wery moment a speaking o' you. How are you? Vere <hi
+rend="italics">have</hi> you been? Come in.&rdquo;</p>
+<p>And laying his hand on the mulberry collar of the unresisting Job, Mr. Weller dragged him into the kitchen; and locking the door, handed the key to Mr. Muzzle, who very coolly buttoned it up, in a side-pocket.</p>
+<p>&ldquo;Well, here's a game,&rdquo; cried Sam. &ldquo;Only think o' my master havin' the pleasure o' meeting your'n, up stairs, and me havin' the joy o' meetin' you down here. How <hi
+rend="italics">are</hi> you gettin' on, and how <hi rend="italics">is</hi> the
+<pb n="266" id="p266"/>
+chandlery bis'ness likely to do? Vel, I am so glad to see you. How happy you look. It's quite a treat to see you, ain't it, Mr. Muzzle?&rdquo;</p>
+<p>&ldquo;Quite,&rdquo; said Mr. Muzzle.</p>
+<p>&ldquo;So cheerful he is,&rdquo; said Sam.</p>
+<p>&ldquo;In such good spirits,&rdquo; said Muzzle.</p>
+<p>&ldquo;And so glad to see <hi rend="italics">us</hi>&mdash;that makes it so much more comfortable,&rdquo; said Sam. &ldquo;Sit down; sit down.&rdquo;</p>
+<p>Mr. Trotter suffered himself to be forced into a chair by the fireside. He cast his small eyes first on Mr. Weller, and then on Mr. Muzzle, but said nothing.</p>
+<p>&ldquo;Well, now,&rdquo; said Sam, &ldquo;afore these here ladies, I should just like to ask you, as a sort of curiosity, vether you don't con-sider yourself as nice and vell-behaved a young gen'lm'n as ever used a pink check pocket-handkerchief, and the number four collection?&rdquo;</p>
+<p>&ldquo;And as was ever a-going to be married to a cook,&rdquo; said that lady, indignantly, &ldquo;The willin!&rdquo;</p>
+<p>&ldquo;And leave off his evil ways, and set up in the chandlery line, arterwards,&rdquo; said the house-maid.</p>
+<p>&ldquo;Now, I'll tell you what it is, young man,&rdquo; said Mr. Muzzle, solemnly, enraged at the last two allusions, &ldquo;this here lady (pointing to the cook) keeps company with me; and when you presume, Sir, to talk of keeping chandlers' shops with her, you injure me in one of the most delicatest points in which one man can injure another. Do you understand that, Sir?&rdquo;</p>
+<p>Here Mr. Muzzle, who had a great notion of his eloquence, in which he imitated his master, paused for a reply.</p>
+<p>But Mr. Trotter made no reply. So Mr. Muzzle proceeded in a solemn manner&mdash;</p>
+<p>&ldquo;It's very probable, Sir, that you won't be wanted up stairs for several minutes, Sir, because <hi
+rend="italics">my</hi> master is at this moment particularly engaged in settling the hash of <hi
+rend="italics">your</hi> master, Sir; and therefore you'll have leisure, Sir, for a little private talk with me, Sir. Do you understand <hi
+rend="italics">that,</hi> Sir?&rdquo;</p>
+<p>Mr. Muzzle again paused for a reply; and again Mr. Trotter disappointed him.</p>
+<p>&ldquo;Well, then,&rdquo; said Mr. Muzzle, &ldquo;I'm very sorry to have to explain myself before the ladies, but the urgency of the case will be my excuse. The back kitchen's empty, Sir; if you will step in there, Sir, Mr. Weller will see fair, and we can have mutual satisfaction 'till the bell rings. Follow me, Sir.&rdquo;</p>
+<p>As Mr. Muzzle uttered these words, he took a step or two towards the door; and by way of saving time, began to pull off his coat as he walked along.</p>
+<p>Now the cook no sooner heard the concluding words of this desperate challenge, and saw Mr. Muzzle about to put it into execution, than she uttered a loud and piercing shriek; and rushing on Mr. Job Trotter, who rose from his chair on the instant, tore and buffeted his large flat face, with an energy peculiar to excited females, and twining her hands in his long black hair, tore therefrom about enough to make five or six
+<pb n="267" id="p267"/>
+dozen of the very largest-sized mourning-rings. Having accomplished this feat with all the ardour which her devoted love for Mr. Muzzle inspired, she staggered back; and being a lady of very excitable and delicate feelings, instantly fell under the dresser, and fainted away.</p>
+<p>At this moment, the bell rang.</p>
+<p>&ldquo;That's for you, Job Trotter,&rdquo; said Sam; and before Mr. Trotter could offer remonstrance or reply&mdash;even before he had time to stanch the wounds inflicted by the insensible lady&mdash;Sam seized one arm and Mr. Muzzle the other; and one pulling before, and the other pushing behind, they conveyed him up stairs, and into the parlour.</p>
+<p>It was an impressive tableau. Alfred Jingle, Esquire, alias Captain Fitz-Marshall, was standing near the door with his hat in his hand, and a smile on his face, wholly unmoved by his very unpleasant situation. Confronting him, stood Mr. Pickwick, who had evidently been inculcating some high moral lesson, for his left hand was beneath his coat tail, and his right extended in air, as was his wont when delivering himself of an impressive address. At a little distance stood Mr. Tupman with indignant countenance, carefully held back by his two younger friends; and at the further end of the room were Mr. Nupkins, Mrs. Nupkins, and Miss Nupkins, gloomily grand, and savagely vexed.</p>
+<p>&ldquo;What prevents me,&rdquo; said Mr. Nupkins, with magisterial dignity, as Job was brought in&mdash;&ldquo;what prevents me from detaining these men as rogues and impostors? It is a foolish mercy. What prevents me?&rdquo;</p>
+<p>&ldquo;Pride, old fellow, pride,&rdquo; replied Jingle, quite at his ease. &ldquo;Wouldn't do&mdash;no go&mdash;caught a captain, eh?&mdash;ha! ha! very good&mdash;husband for daughter&mdash;biter bit&mdash;make it public&mdash;not for worlds&mdash;look stupid&mdash;very!&rdquo;</p>
+<p>&ldquo;Wretch,&rdquo; said Mrs. Nupkins, &ldquo;we scorn your base insinuations.&rdquo;</p>
+<p>&ldquo;I always hated him,&rdquo; added Henrietta.</p>
+<p>&ldquo;Oh, of course,&rdquo; said Jingle. &ldquo;Tall young man&mdash;old lover&mdash;Sidney Porkenham&mdash;rich&mdash;fine fellow&mdash;not so rich as captain, though, eh?&mdash;turn him away&mdash;off with him&mdash;anything for captain&mdash;nothing like captain anywhere&mdash;all the girls&mdash;raving mad&mdash;eh, Job, eh?&rdquo;</p>
+<p>Here Mr. Jingle laughed very heartily; and Job, rubbing his hands with delight, uttered the first sound he had given vent to, since he entered the house&mdash;a low noiseless chuckle, which seemed to intimate that he enjoyed his laugh too much, to let any of it escape in sound.</p>
+<p>&ldquo;Mr. Nupkins,&rdquo; said the elder lady, &ldquo;this is not a fit conversation for the servants to overhear. Let these wretches be removed.&rdquo;</p>
+<p>&ldquo;Certainly, my dear,&rdquo; said Mr. Nupkins. &ldquo;Muzzle.&rdquo;</p>
+<p>&ldquo;Your worship.&rdquo;</p>
+<p>&ldquo;Open the front door.&rdquo;</p>
+<p>&ldquo;Yes, your worship.&rdquo;</p>
+<p>&ldquo;Leave the house,&rdquo; said Mr. Nupkins, waving his hand emphatically. Jingle smiled, and moved towards the door.</p>
+<p>&ldquo;Stay,&rdquo; said Mr. Pickwick. Jingle stopped.</p>
+<p>&ldquo;I might,&rdquo; said Mr. Pickwick, &ldquo;have taken a much greater revenge for the treatment I have experienced at your hands, and that of your hypocritical friend there.&rdquo;</p>
+<pb n="268" id="p268"/>
+<p>Here Job Trotter bowed with great politeness, and laid his hand upon his heart.</p>
+<p>&ldquo;I say,&rdquo; said Mr. Pickwick, growing gradually angry, &ldquo;that I might have taken a greater revenge, but I content myself with exposing you, which I consider a duty I owe to society. This is a leniency, Sir, which I hope you will remember.&rdquo;</p>
+<p>When Mr. Pickwick arrived at this point, Job Trotter, with facetious gravity, applied his hand to his ear, as if desirous not to lose a syllable he uttered.</p>
+<p>&ldquo;And I have only to add, Sir,&rdquo; said Mr. Pickwick, now thoroughly angry, &ldquo;that I consider you a rascal, and a&mdash;a ruffian&mdash;and&mdash;and worse than any man I ever saw, or heard of, except that very pious and sanctified vagabond in the mulberry livery.&rdquo;</p>
+<p>&ldquo;Ha! ha!&rdquo; said Jingle, &ldquo;good fellow, Pickwick&mdash;fine heart&mdash;stout old boy&mdash;but must <hi
+rend="italics">not</hi> be passionate&mdash;bad thing, very&mdash;bye, bye&mdash;see you again some day&mdash;keep up your spirits&mdash;now Job&mdash;trot.&rdquo;</p>
+<p>With these words, Mr. Jingle stuck on his hat in his old fashion, and strode out of the room. Job Trotter paused, looked round, smiled, and then with a bow of mock solemnity to Mr. Pickwick, and a wink to Mr. Weller, the audacious slyness of which, baffles all description, followed the footsteps of his hopeful master.</p>
+<p>&ldquo;Sam,&rdquo; said Mr. Pickwick, as Mr. Weller was following.</p>
+<p>&ldquo;Sir.&rdquo;</p>
+<p>&ldquo;Stay here.&rdquo;</p>
+<p>Mr. Weller seemed uncertain.</p>
+<p>&ldquo;Stay here,&rdquo; repeated Mr. Pickwick.</p>
+<p>&ldquo;Mayn't I polish that ere Job off, in the front garden?&rdquo; said Mr. Weller.</p>
+<p>&ldquo;Certainly not,&rdquo; replied Mr. Pickwick.</p>
+<p>&ldquo;Mayn't I kick him out o' the gate, Sir?&rdquo; said Mr. Weller.</p>
+<p>&ldquo;Not on any account,&rdquo; replied his master.</p>
+<p>For the first time since his engagement, Mr. Weller looked, for a moment, discontented and unhappy. But his countenance immediately cleared up, for the wily Mr. Muzzle, by concealing himself behind the street door, and rushing violently out, at the right instant, contrived with great dexterity to overturn both Mr. Jingle and his attendant, down the flight of steps, into the American aloe tubs that stood beneath.</p>
+<p>&ldquo;Having discharged my duty, Sir,&rdquo; said Mr. Pickwick to Mr. Nupkins, &ldquo;I will, with my friends, bid you farewell. While we thank you for such hospitality as we have received, permit me to assure you in our joint names that we should not have accepted it, or consented to extricate ourselves in this way, from our previous dilemma, had we not been impelled by a strong sense of duty. We return to London to-morrow Your secret is safe with us.&rdquo;</p>
+<p>Having thus entered his protest against their treatment of the morning, Mr. Pickwick bowed low to the ladies; and notwithstanding the solicitations of the family, left the room with his friends.</p>
+<p>&ldquo;Get your hat, Sam,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;It's below stairs, Sir,&rdquo; said Sam, and he ran down after it.</p>
+<p>Now there was nobody in the kitchen, but the pretty housemaid; and
+<pb n="269" id="p269"/>
+as Sam's hat was misland, he had to look for it, and the pretty housemaid lighted him. They had to look all over the place for the hat; and the pretty housemaid, in her anxiety to find it, went down on her knees, and turned over all the things that were heaped together in a little corner by the door. It was an awkward corner. You couldn't get at it without shutting the door first.</p>
+<p>&ldquo;Here it is,&rdquo; said the pretty housemaid. &ldquo;This is it, ain't it?&rdquo;</p>
+<p>&ldquo;Let me look,&rdquo; said Sam.</p>
+<p>The pretty housemaid had stood the candle on the floor; and as it gave a very dim light, Sam was obliged to go down on <hi
+rend="italics">his</hi> knees before he could see whether it really was his own hat or not. It was a remarkably small corner, and so&mdash;it was nobody's fault but the man's who built the house&mdash;Sam and the pretty housemaid were necessarily very close together.</p>
+<p>&ldquo;Yes, this is it,&rdquo; said Sam. &ldquo;Good bye&rdquo;</p>
+<p>&ldquo;Good bye,&rdquo; said the pretty housemaid.</p>
+<p>&ldquo;Good bye,&rdquo; said Sam; and as he said it, he dropped the hat that had cost so much trouble looking for.</p>
+<p>&ldquo;How awkward you are,&rdquo; said the pretty housemaid. &ldquo;You'll lose it again, if you don't take care.&rdquo;</p>
+<p>So just to prevent his losing it again, she put it on for him.</p>
+<p>Whether it was that the pretty housemaid's face looked prettier still, when it was raised towards Sam's, or whether it was the accidental consequence of their being so near each other, is matter of uncertainty to this day, but Sam kissed her.</p>
+<p>&ldquo;You don't mean to say you did that on purpose,&rdquo; said the pretty housemaid, blushing.</p>
+<p>&ldquo;No, I didn't then,&rdquo; said Sam; &ldquo;but I will now.&rdquo;</p>
+<p>So he kissed her again.</p>
+<p>&ldquo;Sam,&rdquo; said Mr. Pickwick, calling over the bannisters.</p>
+<p>&ldquo;Coming, Sir,&rdquo; replied Sam, running up stairs.</p>
+<p>&ldquo;How long you have been,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;There was something behind the door, Sir, which perwented our getting it open, for ever so long,&rdquo; replied Sam.</p>
+<p>And this was the first passage of Mr. Weller's first love.</p>
+</div2>
+<div2 type="chapter">
+<head>CHAPTER XXVI.</head>
+<head>
+WHICH CONTAINS A BRIEF ACCOUNT OF THE PROGRESS OF THE ACTION OF BARDELL AGAINST PICKWICK.
+</head>
+<p>HAVING accomplished the main end and object of his journey by the exposure of Jingle, Mr. Pickwick resolved on immediately returning to London, with the view of becoming acquainted with the proceedings which had been taken against him, in the mean time, by Messrs. Dodson and Fogg. Acting upon this resolution with all the energy
+<pb n="270" id="p270"/>
+and decision of his character, he mounted to the back seat of the first coach, which left Ipswich on the morning after the memorable occurrences detailed at length in the two preceding chapters; and accompanied by his three friends and Mr. Samuel Weller, arrived in the metropolis in perfect health and safety, the same evening.</p>
+<p>Here the friends for a short time separated. Messrs. Tupman, Winkle, and Snodgrass, repaired to their several homes to make such preparations as might be requisite for their forthcoming visit to Dingley Dell; and Mr. Pickwick and Sam took up their present abode in very good, old-fashioned, and comfortable quarters, to wit, the George and Vulture Tavern and Hotel, George Yard, Lombard Street.</p>
+<p>Mr. Pickwick had dined, finished his second pint of particular port, pulled his silk handkerchief over his head, put his feet on the fender, and thrown himself back in an easy chair, when the entrance of Mr. Weller with his carpet bag, aroused him from his tranquil meditations.</p>
+<p>&ldquo;Sam,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Sir,&rdquo; said Mr. Weller.</p>
+<p>&ldquo;I have just been thinking, Sam,&rdquo; said Mr. Pickwick, &ldquo;that having left a good many things at Mrs. Bardell's, in Goswell Street, I ought to arrange for taking them away, before I leave town again.&rdquo;</p>
+<p>&ldquo;Wery good, Sir,&rdquo; replied Mr. Weller.</p>
+<p>&ldquo;I could send them to Mr. Tupman's for the present, Sam,&rdquo; continued Mr. Pickwick, &ldquo;but, before we take them away, it is necessary that they should be looked up, and put together. I wish you would step up to Goswell Street, Sam, and arrange about it.&rdquo;</p>
+<p>&ldquo;At once, Sir?&rdquo; inquired Mr. Weller.</p>
+<p>&ldquo;At once,&rdquo; replied Mr. Pickwick. &ldquo;And stay, Sam,&rdquo; added Mr. Pickwick, pulling out his purse, &ldquo;There is some rent to pay. The quarter is not due till Christmas, but you may pay it, and have done with it. A month's notice terminates my tenancy. Here it is, written out. Give it, and tell Mrs. Bardell she may put a bill up, as soon as she likes.&rdquo;</p>
+<p>&ldquo;Wery good, Sir,&rdquo; replied Mr. Weller; &ldquo;anythin' more, Sir?&rdquo;</p>
+<p>&ldquo;Nothing more, Sam.&rdquo;</p>
+<p>Mr. Weller stepped slowly to the door, as if he expected something further; slowly opened it, slowly stepped out, and had slowly closed it within a couple of inches, when Mr. Pickwick called out&mdash;</p>
+<p>&ldquo;Sam.&rdquo;</p>
+<p>&ldquo;Yes, Sir,&rdquo; said Mr. Weller, stepping quickly back, and closing the door behind him.</p>
+<p>&ldquo;I have no objection, Sam, to your endeavouring to ascertain how Mrs. Bardell herself, seems disposed towards me, and whether it is really probable that this vile and groundless action is to be carried to extremity. I say I do not object to your doing this, if you wish it, Sam,&rdquo; said Mr. Pickwick.</p>
+<p>Sam gave a short nod of intelligence, and left the room. Mr. Pickwick drew the silk handkerchief once more over his head, and composed himself for a nap; Mr. Weller promptly walked forth, to execute his commission.</p>
+<pb n="271" id="p271"/>
+<p>It was nearly nine o'clock when he reached Goswell Street. A couple of candles were burning in the little front parlour, and a couple of caps were reflected on the window-blind. Mrs. Bardell had got company.</p>
+<p>Mr. Weller knocked at the door, and after a pretty long interval&mdash;occupied by the party without, in whistling a tune, and by the party within, in persuading a refractory flat candle to allow itself to be lighted&mdash;a pair of small boots pattered over the floor-cloth, and Master Bardell presented himself.</p>
+<p>&ldquo;Vell, young townskip,&rdquo; said Sam, &ldquo;how's mother?&rdquo;</p>
+<p>&ldquo;She's pretty well,&rdquo; replied Master Bardell, &ldquo;so am I.&rdquo;</p>
+<p>&ldquo;Vell, that's a mercy,&rdquo; said Sam; &ldquo;tell her I want to speak to her, my hinfant fernomenon.&rdquo;</p>
+<p>Master Bardell, thus adjured, placed the refractory flat candle on the bottom stair, and vanished into the front parlour with his message.</p>
+<p>The two caps reflected on the window-blind, were the respective head-dresses of a couple of Mrs. Bardell's most particular acquaintance, who had just stepped in, to have a quiet cup of tea, and a little warm supper of a couple of sets of pettitoes and some toasted cheese. The cheese was simmering and browning away, most delightfully, in a little Dutch oven before the fire, and the pettitoes were getting on deliciously in a little tin saucepan on the hob; and Mrs. Bardell and her two friends were getting on very well, also, in a little quiet conversation about and concerning all their particular friends and acquaintance, when Master Bardell came back from answering the door, and delivered the message entrusted to him by Mr. Samuel Weller.</p>
+<p>&ldquo;Mr. Pickwick's servant!&rdquo; said Mrs. Bardell, turning pale.</p>
+<p>&ldquo;Bless my soul!&rdquo; said Mrs. Cluppins.</p>
+<p>&ldquo;Well, I raly would <hi rend="italics">not</hi> ha' believed it, unless I had ha' happened to ha' been here!&rdquo; said Mrs. Sanders.</p>
+<p>Mrs. Cluppins was a little brisk, busy-looking woman: and Mrs. Sanders was a big, fat, heavy-faced personage; and the two were the company.</p>
+<p>Mrs. Bardell felt it proper to be agitated; and as none of the three exactly knew whether, under existing circumstances, any communication, otherwise than through Dodson and Fogg, ought to be held with Mr. Pickwick's servant, they were all rather taken by surprise. In this state of indecision, obviously the first thing to be done, was to thump the boy for finding Mr. Weller at the door. So his mother thumped him, and he cried melodiously.</p>
+<p>&ldquo;Hold your noise&mdash;do&mdash;you naughty creetur,&rdquo; said Mrs. Bardell.</p>
+<p>&ldquo;Yes; don't worrit your poor mother,&rdquo; said Mrs. Sanders.</p>
+<p>&ldquo;She's quite enough to worrit her, as it is, without you, Tommy,&rdquo; said Mrs. Cluppins, with sympathising resignation.</p>
+<p>&ldquo;Ah! worse luck, poor lamb!&rdquo; said Mrs. Sanders.</p>
+<p>At all which moral reflections, Master Bardell howled the louder.</p>
+<p>&ldquo;Now, what <hi rend="italics">shall</hi> I do?&rdquo; said Mrs. Bardell to Mrs. Cluppins.</p>
+<p>&ldquo;<hi rend="italics">I</hi> think you ought to see him,&rdquo; replied Mrs. Cluppins. &ldquo;But on no account without a witness.&rdquo;</p>
+<pb n="272" id="p272"/>
+<p>&ldquo;<hi rend="italics">I</hi> think two witnesses would be more lawful,&rdquo; said Mrs. Sanders, who, like the other friend, was bursting with curiosity.</p>
+<p>&ldquo;Perhaps, he'd better come in here,&rdquo; said Mrs. Bardell.</p>
+<p>&ldquo;To be sure,&rdquo; replied Mrs. Cluppins, eagerly catching at the idea&mdash;&ldquo;Walk in, young man; and shut the street door first, please.&rdquo;</p>
+<p>Mr. Weller immediately took the hint; and presenting himself in the parlour, explained his business to Mrs. Bardell, thus&mdash;</p>
+<p>&ldquo;Wery sorry to casion any personal inconwenience, Ma'am, as the housebreaker said to the old lady vhen he put her on the fire; but as me and my governor's only just come to town, and is just going away agin, it can't be helped you see.&rdquo;</p>
+<p>&ldquo;Of course, the young man can't help the faults of his master,&rdquo; said Mrs. Cluppins, much struck by Mr. Weller's appearance and conversation.</p>
+<p>&ldquo;Certainly not,&rdquo; chimed in Mrs. Sanders, who, from certain wistful glances at the little tin sauce-pan, seemed to be engaged in a mental calculation of the probable extent of the pettitoes, in the event of Sam's being asked to stop supper.</p>
+<p>&ldquo;So all I've come about, is just this here,&rdquo; said Sam, disregarding the interruption&mdash;&ldquo;First, to give my governor's notice&mdash;there it is. Secondly, to pay the rent&mdash;here it is. Thirdly, to say as all his things is to be put together, and given to any body as we sends for em. Fourthly, that you may let the place as soon as you like&mdash;and that's all.&rdquo;</p>
+<p>&ldquo;Whatever has happened,&rdquo; said Mrs. Bardell, &ldquo;I always have said and always will say, that in every respect but one, Mr. Pickwick has always behaved himself like a perfect gentleman. His money always was as good as the bank&mdash;always.&rdquo;</p>
+<p>As Mrs. Bardell said this, she applied her handkerchief to her eyes, and went out of the room to get the receipt.</p>
+<p>Sam well knew that he had only to remain quiet, and the women were sure to talk, so he looked alternately at the tin saucepan, the toasted cheese, the wall, and the ceiling, in profound silence.</p>
+<p>&ldquo;Poor dear!&rdquo; said Mrs. Cluppins.</p>
+<p>&ldquo;Ah, poor thing!&rdquo; replied Mrs. Sanders.</p>
+<p>Sam said nothing. He saw they were coming to the subject.</p>
+<p>&ldquo;I raly cannot contain myself,&rdquo; said Mrs. Cluppins, &ldquo;when I think of such perjury. I don't wish to say anything to make you uncomfortable, young man, but your master's an old brute, and I wish I had him here to tell him so.&rdquo;</p>
+<p>&ldquo;I vish you had,&rdquo; said Sam.</p>
+<p>&ldquo;To see how dreadful she takes on, going moping about, and taking no pleasure in nothing, except when her friends comes in, out of charity, to sit with her, and make her comfortable,&rdquo; resumed Mrs. Cluppins, glancing at the tin saucepan and the Dutch oven, &ldquo;it's shocking.&rdquo;</p>
+<p>&ldquo;Barbareous,&rdquo; said Mrs. Sanders.</p>
+<p>&ldquo;And your master, young man, a gentleman with money, as could never feel the expense of a wife, no more than nothing,&rdquo; continued Mrs. Cluppins, with great volubility; &ldquo;why there ain't the faintest shade of an excuse for his behaviour. Why don't he marry her?&rdquo;</p>
+<pb n="273" id="p273"/>
+<p>&ldquo;Ah,&rdquo; said Sam, &ldquo;to be sure; that's the question.&rdquo;</p>
+<p>&ldquo;Question, indeed,&rdquo; retorted Mrs. Cluppins; &ldquo;she'd question him, if she'd my spirit. Hows'ever, there <hi
+rend="italics">is</hi> law for us women, mis'rable creeturs as they'd make us, if they could; and that your master will find out, young man, to his cost, afore he's six months older.&rdquo;</p>
+<p>At this consolatory reflection, Mrs. Cluppins bridled up, and smiled at Mrs. Sanders, who smiled back again.</p>
+<p>&ldquo;The action's going on, and no mistake,&rdquo; thought Sam, as Mrs. Bardell re-entered with the receipt.</p>
+<p>&ldquo;Here's the receipt, Mr. Weller,&rdquo; said Mrs. Bardell, &ldquo;and here's the change, and I hope you'll take a little drop of something to keep the cold out, if it's only for old acquaintance' sake, Mr. Weller.&rdquo;</p>
+<p>Sam saw the advantage he should gain, and at once acquiesced, whereupon Mrs. Bardell produced from a small closet a black bottle and a wine glass, and so great was her abstraction in her deep mental affliction, that, after filling Mr. Weller's glass, she brought out three more wine glasses, and filled them too.</p>
+<p>&ldquo;Lauk, Mrs. Bardell,&rdquo; said Mrs. Cluppins, &ldquo;see what you've been and done.&rdquo;</p>
+<p>&ldquo;Well, that is a good one!&rdquo; ejaculated Mrs. Sanders.</p>
+<p>&ldquo;Ah, my poor head!&rdquo; said Mrs. Bardell, with a faint smile.</p>
+<p>Sam understood all this, of course, so he said at once, that he never could drink before supper, unless a lady drank with him. A great deal of laughing ensued, and then Mrs. Sanders volunteered to humour him, so she took a slight sip out of her glass. Then Sam said it must go all round, so they all took a slight sip. Then little Mrs. Cluppins proposed as a toast, &ldquo;Success to Bardell against Pickwick;&rdquo; and then the ladies emptied their glasses in honour of the sentiment, and got very talkative directly.</p>
+<p>&ldquo;I suppose you've heard what's going forward, Mr. Weller,&rdquo; said Mrs. Bardell.</p>
+<p>&ldquo;I've heerd somethin' on it,&rdquo; replied Sam.</p>
+<p>&ldquo;It's a terrible thing to be dragged before the public, in that way, Mr. Weller,&rdquo; said Mrs. Bardell; &ldquo;but I see now, that it's the only thing I ought to do, and my lawyers, Mr. Dodson and Fogg, tell me that, with the evidence as we shall call, we must succeed. I don't know what I should do, Mr. Weller, if I didn't.&rdquo;</p>
+<p>The mere idea of Mrs. Bardell's failing in her action, affected Mrs. Sanders so deeply, that she was under the necessity of re-filling and re-emptying her glass immediately; feeling, as she said afterwards, that if she hadn't had the presence of mind to have done so, she must have dropped.</p>
+<p>&ldquo;Ven is it expected to come on?&rdquo; inquired Sam.</p>
+<p>&ldquo;Either in February or March,&rdquo; replied Mrs. Bardell.</p>
+<p>&ldquo;What a number of witnesses there'll be, won't there?&rdquo; said Mrs. Cluppins.</p>
+<p>&ldquo;Ah, won't there!&rdquo; replied Mrs. Sanders.</p>
+<p>&ldquo;And won't Mr. Dodson and Fogg be wild if the plaintiff shouldn't get it?&rdquo; added Mrs. Cluppins, &ldquo;when they do it all on speculation!&rdquo;</p>
+<pb n="274" id="p274"/>
+<p>&ldquo;Ah! won't they!&rdquo; said Mrs. Sanders.</p>
+<p>&ldquo;But the plaintiff must get it,&rdquo; resumed Mrs. Cluppins.</p>
+<p>&ldquo;I hope so,&rdquo; said Mrs. Bardell.</p>
+<p>&ldquo;Oh, there can't be any doubt about it,&rdquo; rejoined Mrs. Sanders.</p>
+<p>&ldquo;Vell,&rdquo; said Sam, rising and setting down his glass. &ldquo;All I can say is, that I vish you <hi
+rend="italics">may</hi> get it.&rdquo;</p>
+<p>&ldquo;Thanke'e, Mr. Weller,&rdquo; said Mrs. Bardell, fervently.</p>
+<p>&ldquo;And of them Dodson and Fogg, as does these sort o' things on spec,&rdquo; continued Mr. Weller, &ldquo;as vell as for the other kind and gen'rous people o'the same purfession, as sets people by the ears free gratis for nothin', and sets their clerks to work to find out little disputes among their neighbours and acquaintance as vants settlin' by means o' law-suits&mdash;all I can say o' them is, that I vish they had the revard I'd give 'em.&rdquo;</p>
+<p>&ldquo;Ah, I wish they had the reward that every kind and generous heart would be inclined to bestow upon them,&rdquo; said the gratified Mrs. Bardell.</p>
+<p>&ldquo;Amen to that,&rdquo; replied Sam, &ldquo;and a fat and happy livin' they'd get out of it. Vish you good night, ladies.&rdquo;</p>
+<p>To the great relief of Mrs. Sanders, Sam was allowed to depart, without any reference on the part of the hostess to the pettitoes and toasted cheese, to which the ladies, with such juvenile assistance as Master Bardell could afford, soon afterwards rendered the amplest justice&mdash;indeed they wholly vanished, before their strenuous exertions.</p>
+<p>Mr. Weller wended his way back to the George and Vulture, and faithfully recounted to his master, such indications of the sharp practice of Dodson and Fogg, as he had contrived to pick up in his visit to Mrs. Bardell's. An interview with Mr. Perker next day, more than confirmed Mr. Weller's statement; and Mr. Pickwick was fain to prepare for his Christmas visit to Dingley Dell, with the pleasant anticipation that some two or three months afterwards, an action brought against him for damages sustained by reason of a breach of promise of marriage, would be publicly tried in the Court of Common Pleas; the plaintiff having all the advantages derivable not only from the force of circumstances, but from the sharp practice of Dodson and Fogg to boot.</p>
+</div2>
+</div1></body>
+<back>
+<div1 type="advertisement">
+<pb id="piv" n="iv"/>
+<head>NEW AND SPLENDID VOLUME.</head>
+<p>THIS DAY IS PUBLISHED, <lb/> BOUND IN A NOVEL AND VERY ELEGANT MANNER, <lb/> THE PICTORIAL ALBUM, <lb/> OR <lb/> CABINET OF PAINTINGS, <lb/> FOR THE YEAR 1837.</p>
+<p>Containing ELEVEN DESIGNS, executed in Oil-colours by G. BAXTER, and <lb/> forming perfect Fac-similes of the original Pictures, by</p>
+<list>
+<item>J. BARNARD,</item>
+<item>MISS F. CORBAUX,</item>
+<item>J. HOLLAND,</item>
+<item>G. JONES, R.A.</item>
+<item>W. PICKERSGILL, R.A.</item>
+<item>S. PROUT,</item>
+<item>MRS. SEYFFARTH,</item>
+<item>MISS E. SHARPE,</item>
+<item>R. WESTALL, R.A.</item>
+<item>W. WESTALL, A.R.A.</item></list>
+<p>WITH LETTER-PRESS ILLUSTRATIONS.</p>
+<p>THE POETRY BY MISS LANDON. THE PROSE BY JAMES OLLIER, ESQ.</p>
+<p>IN offering to the public a NEW ANNUAL, the proprietors are aware that they are entering upon a field of great and honourable competition; nor should they perhaps have ventured to do so, but for a consciousness that the position they propose to take up is one never before occupied, and yet equally commanding as novel.</p>
+<p>It has been reserved for the present publication to exhibit a display of art hitherto unattempted in works of a similar or indeed of any nature. The PICTORIAL ALBUM adds to the various graces of the artist's <hi
+rend="italics">design,</hi> the luxuriant charms of his <hi rend="italics">colouring;</hi> nor is this additional fascination wrought through the medium of mere water tints; the richer and more enduring effects of oil colours are insured, and thus a series of actual <hi
+rend="italics">paintings</hi> is placed at the disposal of the purchaser.</p>
+<p>The proprietors in fact venture to express a confident anticipation, that the work altogether will form a splendid and interesting volume, admirably adapted for a New Year's Gift, and not less so for a standard adornment of the drawing-room table or the boudoir.</p>
+<closer>CHAPMAN AND HALL, 186, STRAND.<lb/>
+Bradbury and Evans, Printers.</closer>
+</div1>
+</back>
+</text>
+</TEI.2>

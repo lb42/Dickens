@@ -1,0 +1,272 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI U5-1995//DTD TEI Lite//EN" "teixlite.dtd" [
+
+]>
+<TEI.2>
+<teiHeader type="3D">
+<fileDesc>
+<titleStmt>
+<title><emph>A Child's Dream of a Star:</emph>
+Electronic Edition.
+</title><author>Dickens, Charles, 1812-1870.</author>
+
+<respStmt>
+<resp>Illustrated by </resp><name>Billings, Hammatt, 1818-1874</name>
+</respStmt>
+
+<funder>Funding from the  E. S. P. Das Educational Foundation supported the electronic publication of this title.</funder><respStmt>
+<resp>Text transcribed  by</resp>
+<name>Apex Data Services, Inc.</name>
+</respStmt>
+<respStmt><resp>Images scanned by</resp>
+<name>Brooke Phillips</name></respStmt><respStmt><resp>Text encoded by </resp>
+<name>Apex Data Services, Inc., Matthew Kern and Natalia Smith</name></respStmt></titleStmt>
+<editionStmt><edition>First edition, <date>2002</date></edition></editionStmt>
+<extent>ca.  20K</extent>
+<publicationStmt>
+<publisher>Academic Affairs Library, UNC-CH</publisher>
+<pubPlace>University of North Carolina at Chapel Hill, </pubPlace><date>2002.</date>
+
+<availability>
+<p>&copy; This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+</availability>
+</publicationStmt>
+
+
+<sourceDesc>
+
+<biblFull>
+<titleStmt>
+<title type="title page"> A Child's Dream of a Star</title>
+
+<title type="cover"> A Child's Dream of a Star by Charles Dickens. Illustrated by Hammatt Billings</title>
+
+<title type="spine"> A Child's Dream of a Star. Illustrated</title>
+<author>Charles Dickens</author>
+
+
+<respStmt><resp>Illustrations by</resp>
+<name>Hammatt  Billings</name></respStmt>
+
+</titleStmt>
+
+<extent> 15 leaves, 11 leaves of plates </extent>
+
+<publicationStmt>
+<pubPlace>BOSTON:</pubPlace>
+<publisher>FIELDS, OSGOOD, &amp; CO.</publisher>
+<date>1871.</date>
+<authority></authority>
+</publicationStmt>
+<notesStmt><note>Call number RBC Ticknor PR 4572.C46 1871 c.2 (Rare Book Collection, University of North Carolina at Chapel Hill)</note></notesStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p></p>
+</projectDesc>
+
+<editorialDecl>
+
+<p>The text has been entered using double-keying and verified against the original. 
+</p><p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+
+<p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+
+<p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+
+<p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+<p>All double right and left quotation marks are encoded as &rdquo; and &ldquo;
+respectively.</p>
+<p>All single right and left quotation marks are encoded as &rsquo; and &lsquo; respectively.</p>
+<p>All em dashes are encoded as &mdash;</p><p>Indentation in lines has not been preserved.</p>
+<p>Running titles have not been preserved.</p>
+<p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+</editorialDecl>
+
+<classDecl><taxonomy id="LCSH">
+<bibl><title>Library of Congress Subject Headings</title>
+</bibl>
+</taxonomy></classDecl>
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+
+<language id="eng">English</language>
+
+</langUsage>
+
+<textClass>
+<keywords scheme="LCSH">
+<list>
+<item><!-- LC headings go here --></item>
+</list>
+</keywords>
+
+</textClass>
+</profileDesc>
+<revisionDesc>
+
+
+<change>
+<date>2002-10-08, </date><respStmt><name> Natalia Smith, </name><resp>project manager, </resp>
+</respStmt><item>finished TEI-conformant encoding and final proofing.</item>
+</change>
+<change>
+<date>2002-09-17, </date><respStmt><name>Matthew Kern</name>
+<resp></resp></respStmt><item> finished TEI/SGML encoding</item></change>
+<change><date>2002-08-01, </date>
+<respStmt><name>Apex Data Services, Inc.</name><resp></resp></respStmt>
+<item> finished transcribing the text.</item></change>
+</revisionDesc>
+</teiHeader>
+
+
+<text>
+<front>
+
+
+
+<div1 type="cover image"><p><figure id="cover"><p>[Cover Image]</p></figure></p></div1>
+
+<div1 type="spine image"><p><figure id="spine"><p>[Spine Image]</p></figure></p></div1>
+
+
+<div1 type="half-title page">
+
+
+<p><figure id="half"><p>A CHILD'S DREAM <lb/> OF A STAR.</p></figure></p></div1><div1 type="title page image"><p><figure id="title"><p>[Title Page Image]</p></figure></p></div1>
+
+<div1 type="verso image"><p><figure id="verso"><p>[Title Page Verso Image]</p></figure></p></div1>
+
+<titlePage>
+<docTitle><titlePart>A CHILD'S DREAM <lb/> OF <lb/> A STAR.</titlePart></docTitle>
+<byline>BY</byline>
+<docAuthor>CHARLES DICKENS.</docAuthor>
+<docEdition><hi rend="italics">WITH ILLUSTRATIONS BY HAMMATT BILLINGS.</hi>
+</docEdition>
+
+<docImprint>
+<pubPlace>BOSTON:</pubPlace>
+<publisher>FIELDS, OSGOOD, &amp; CO.</publisher>
+<docDate>1871.</docDate>
+</docImprint>
+
+<docImprint><pb id="p3" n="verso"/>
+Entered according to Act of Congress, in the year 1870, <lb/> BY FIELDS, OSGOOD, &amp; CO., <lb/> in the Office of the Librarian of Congress, at Washington.
+</docImprint>
+
+<docImprint>UNIVERSITY PRESS: WELCH, BIGELOW, &amp; CO., <lb/> CAMBRIDGE.
+</docImprint>
+</titlePage>
+
+<div1 type="list of illustrations">
+<pb id="p4" n="4"/>
+<head>LIST OF ILLUSTRATIONS.</head>
+<head>ENGRAVED BY W. J. LINTON.</head>
+<list>
+<item>I. THESE TWO USED TO WONDER  . . . . . <ref target="ill1">5</ref></item>
+<item>II. ONE CLEAR SHINING STAR  . . . . . <ref target="ill2">6</ref></item>
+<item>III. THE SISTER DROOPED  . . . . . <ref target="ill3">7</ref></item>
+<item>IV. A LITTLE GRAVE  . . . . . <ref target="ill4">8</ref></item>
+<item>V. A GREAT WORLD OF LIGHT  . . . . . <ref target="ill5">9</ref></item>
+<item>VI. &ldquo;IS MY BROTHER COME?&rdquo;  . . . . . <ref target="ill6">10</ref></item>
+<item>VII. THE COMPANY OF ANGELS  . . . . . <ref target="ill7">11</ref></item>
+<item>VIII. &ldquo;THY MOTHER IS NO MORE&rdquo;  . . . . . <ref target="ill8">12</ref></item>
+<item>IX. A MAN, WHOSE HAIR WAS TURNING GRAY  . . . . . <ref target="ill9">13</ref></item>
+<item>X. &ldquo;I SEE THE STAR!&rdquo;  . . . . . <ref target="ill10">14</ref></item>
+<item>XI. IT SHINES UPON HIS GRAVE  . . . . . <ref target="ill11">15</ref></item>
+</list>
+</div1>
+</front>
+<body>
+<div1 type="section">
+
+<p><figure id="ill1"><p>[THESE TWO USED TO WONDER]</p></figure></p>
+</div1>
+<div1 type="section">
+<pb id="p5" n="5"/>
+<head>A CHILD'S <lb/> DREAM OF A STAR.</head>
+<p>THERE was once a child, and he strolled about a good deal, and thought of a number of things. He had a sister, who was a child too, and his constant companion. These two used to wonder all day long. They wondered at the beauty of the flowers; they wondered at the height and blueness of the sky; they wondered at the depth of the bright water; they wondered at
+
+<figure id="ill2"><p>[ONE CLEAR SHINING STAR]</p></figure>
+<pb n="6" id="p6"/>
+the goodness and the power of GOD, who made the lovely world.</p>
+<p>They used to say to one another, sometimes, Supposing all the children upon earth were to die, would the flowers and the water and the sky be sorry? They believed they would be sorry. For, said they, the buds are the children of the flowers, and the little playful streams that gambol down the hillsides are the children of the water; and the smallest bright specks playing at hide-and-seek in the sky all night must surely be the children of the stars; and they would all be grieved to see their playmates, the children of men, no more.</p>
+<p>There was one clear shining star that used to come out in the sky before the
+
+<figure id="ill3"><p>[THE SISTER DROOPED]</p></figure>
+<pb n="7" id="p7"/>
+rest, near the church-spire, above the graves. It was larger and more beautiful, they thought, than all the others, and every night they watched for it, standing hand in hand at a window. Whoever saw it first cried out, &ldquo;I see the star!&rdquo; And often they cried out both together, knowing so well when it would rise and where. So they grew to be such friends with it, that, before lying down in their beds, they always looked out once again, to bid it good night; and when they were turning round to sleep, they used to say, &ldquo;God bless the star!&rdquo;</p>
+<p>But while she was still very young, O, very, very young, the sister drooped, and came to be so weak that she could no longer stand in the window at night; and
+
+<figure id="ill4"><p>[A LITTLE GRAVE]</p></figure>
+<pb n="8" id="p8"/>
+then the child looked sadly out by himself, and when he saw the star, turned round and said to the patient pale face on the bed, &ldquo;I see the star!&rdquo; And then a smile would come upon the face, and a little weak voice used to say, &ldquo;God bless my brother and the star!&rdquo;</p>
+<p>And so the time came, all too soon! when the child looked out alone, and when there was no face on the bed; and when there was a little grave among the graves, not there before; and when the star made long rays down towards him, as he saw it through his tears.</p>
+<p>Now, these rays were so bright, and they seemed to make such a shining way from earth to heaven, that when the child went to his solitary bed, he dreamed about
+
+<figure id="ill5"><p>[A GREAT WORLD OF LIGHT]</p></figure>
+<pb n="9" id="p9"/>
+the star; and dreamed that, lying where he was, he saw a train of people taken up that sparkling road by angels. And the star, opening, showed him a great world of light, where many more such angels waited to receive them.</p>
+<p>All these angels, who were waiting, turned their beaming eyes upon the people who were carried up into the star; and some came out from the long rows in which they stood, and fell upon the people's necks, and kissed them tenderly, and went away with them down avenues of light, and were so happy in their company, that, lying in his bed, he wept for joy.</p>
+<p>But there were many angels who did not go with them, and among them one
+
+<figure id="ill6"><p>[&ldquo;IS MY BROTHER COME?&rdquo;]</p></figure>
+<pb n="10" id="p10"/>
+he knew. The patient face that once had lain upon the bed was glorified and radiant, but his heart found out his sister among all the host.</p>
+<p>His sister's angel lingered near the entrance of the star, and said to the leader among those who had brought the people thither, &ldquo;Is my brother come?&rdquo;</p>
+<p>And he said, &ldquo;No.&rdquo;</p>
+<p>She was turning hopefully away, when the child stretched out his arms, and cried, &ldquo;O sister, I am here! Take me!&rdquo; And then she turned her beaming eyes upon him, and it was night; and the star was shining into the room, making long rays down towards him as he saw it through his tears.</p>
+<p>From that hour forth, the child looked
+
+<figure id="ill7"><p>THE COMPANY OF ANGELS]</p></figure>
+<pb n="11" id="p11"/>
+out upon the star as on the home he was to go to, when his time should come; and he thought that he did not belong to the earth alone, but to the star too, because of his sister's angel gone before.</p>
+<p>There was a baby born to be a brother to the child; and while he was so little that he never yet had spoken word, he stretched his tiny form out on his bed, and died.</p>
+<p>Again the child dreamed of the opened star, and of the company of angels, and the train of people, and the rows of angels with their beaming eyes all turned upon those people's faces.</p>
+<p>Said his sister's angel to the leader, &ldquo;Is my brother come?&rdquo;</p>
+
+<p><figure id="ill8"><p>[&ldquo;THY MOTHER IS NO MORE&rdquo;]</p></figure></p>
+<pb n="12" id="p12"/>
+<p>And he said, &ldquo;Not that one, but another.&rdquo;</p>
+<p>As the child beheld his brother's angel in her arms, he cried, &ldquo;O sister, I am here! Take me!&rdquo; And she turned and smiled upon him, and the star was shining.</p>
+<p>He grew to be a young man, and was busy at his books when an old servant came to him and said, &ldquo;Thy mother is no more. I bring her blessing on her darling son!&rdquo;</p>
+<p>Again at night he saw the star, and all that former company. Said his sister's angel to the leader, &ldquo;Is my brother come?&rdquo;</p>
+<p>And he said, &ldquo;Thy mother!&rdquo;</p>
+<p>A mighty cry of joy went forth through
+<figure id="ill9"><p>[A MAN, WHOSE HAIR WAS TURNING GRAY]</p></figure>
+<pb n="13" id="p13"/>
+all the star, because the mother was reunited to her two children. And he stretched out his arms and cried, &ldquo;O mother, sister, and brother, I am here! Take me!&rdquo;</p>
+<p>And they answered him, &ldquo;Not yet.&rdquo; And the star was shining.</p>
+<p>He grew to be a man, whose hair was turning gray; and he was sitting in his chair by the fireside, heavy with grief, and with his face bedewed with tears, when the star opened once again.</p>
+<p>Said his sister's angel to the leader, &ldquo;Is my brother come?&rdquo;</p>
+<p>And he said, &ldquo;Nay, but his maiden daughter.&rdquo;</p>
+<p>And the man who had been the child saw his daughter, newly lost to him, a
+
+<figure id="ill10"><p>[&ldquo;I SEE THE STAR!&rdquo;]</p></figure>
+<pb n="14" id="p14"/>
+celestial creature among those three, and he said, &ldquo;My daughter's head is on my sister's bosom, and her arm is round my mother's neck, and at her feet there is the baby of old time, and I can bear the parting from her, GOD be praised!&rdquo;</p>
+<p>And the star was shining.</p>
+<p>Thus the child came to be an old man, and his once smooth face was wrinkled, and his steps were slow and feeble, and his back was bent. And one night as he lay upon his bed, his children standing round, he cried, as he had cried so long ago, &ldquo;I see the star!&rdquo;</p>
+<p>They whispered one another, &ldquo;He is dying.&rdquo;</p>
+<p>And he said, &ldquo;I am. My age is falling from me like a garment, and I move
+
+<figure id="ill11"><p>[IT SHINES UPON HIS GRAVE]</p></figure>
+<pb n="15" id="p15"/>
+towards the star as a child. And O my Father, now I thank thee that it has so often opened to receive those dear ones who await me!&rdquo;</p>
+<p>And the star was shining; and it shines upon his grave.</p>
+<p><figure id="ill12"></figure></p>
+</div1>
+</body>
+</text>
+</TEI.2>

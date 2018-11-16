@@ -1,0 +1,729 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI U5-1995//DTD TEI Lite//EN" "http://docsouth.unc.edu/dtds/teixlite.dtd" [
+
+]>
+<TEI.2>
+<teiHeader type="3D">
+<fileDesc>
+<titleStmt>
+<title><emph>Dickens Portfolio De Luxe Collection:</emph>
+Electronic Edition.
+</title><author>Dickens, Charles, 1812-1870.</author>
+
+<funder>Funding from the  E. S. P. Das Educational Foundation supported the electronic publication of this title.</funder><respStmt>
+<resp>Text transcribed  by</resp>
+<name>Apex Data Services, Inc.</name>
+</respStmt>
+<respStmt><resp>Images scanned by</resp>
+<name>Ingrid Pohl</name></respStmt><respStmt><resp>Text encoded by </resp>
+<name>Apex Data Services, Inc. and Jill Kuhn Sexton</name></respStmt></titleStmt>
+<editionStmt><edition>First edition, <date>2002</date></edition></editionStmt>
+<extent>ca. 25K</extent>
+<publicationStmt>
+<publisher>Academic Affairs Library, UNC-CH</publisher>
+<pubPlace>University of North Carolina at Chapel Hill, </pubPlace><date>2002.</date>
+
+<availability>
+<p>&copy; This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+</availability>
+</publicationStmt>
+
+
+<sourceDesc>
+
+<biblFull>
+<titleStmt>
+<title type="title page">Dickens Portfolio De Luxe Collection</title>
+<author>Charles Dickens</author>
+</titleStmt>
+
+<extent>89 p., ill.</extent>
+
+<publicationStmt>
+<pubPlace></pubPlace>
+<publisher>Published in a Limited Edition by J. A. Hill &amp; Company</publisher>
+<date>[1910?]</date>
+<authority></authority>
+</publicationStmt>
+<notesStmt><note>Call number Dickens 135 Folio (Rare Book Collection, University of North Carolina at Chapel Hill)</note></notesStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+<editorialDecl>
+
+<p>The text has been entered using double-keying and verified against the original. 
+The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+
+<p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+
+<p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+
+<p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+<p>All double right and left quotation marks are encoded as &rdquo; and &ldquo;
+respectively.</p>
+<p>All single right and left quotation marks are encoded as &rsquo; and &lsquo; respectively.</p>
+<p>All em dashes are encoded as &mdash;</p><p>Indentation in lines has not been preserved.</p>
+<p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+</editorialDecl>
+
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+
+<language id="eng">English</language>
+
+</langUsage>
+
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2002-10-20, </date><respStmt><name> Jill Kuhn Sexton </name><resp></resp>
+</respStmt><item>finished TEI-conformant encoding and final proofing.</item>
+</change>
+
+<change><date>2002-08-01, </date>
+<respStmt><name>Apex Data Services, Inc.</name><resp></resp></respStmt>
+<item> finished transcribing the text.</item></change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="title page">
+
+
+<p>
+<figure id="tp">
+</figure>
+</p>
+</div1>
+
+<titlePage>
+<docTitle><titlePart>DICKENS PORTFOLIO <lb/> DE LUXE COLLECTION</titlePart></docTitle>
+<docImprint>
+<publisher>Published in a Limited Edition by <lb/> J. A. HILL &amp; COMPANY</publisher>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div1 type="section">
+<pb n="[i]" id="pi"/>
+
+<head>Dickens Portfolio <lb/> PART I <lb/> CHARLES DICKENS</head>
+<pb n="[1]" id="p1"/>
+<p>
+<figure id="ill1">
+<p>CHARLES DICKENS.</p>
+<p>(From a photograph by Mason, 1865.)</p>
+</figure>
+</p>
+<pb n="[2]" id="p2"/>
+<p>
+<figure id="ill2">
+<p><hi rend="italics">Boz</hi></p>
+</figure>
+</p>
+<pb n="[3]" id="p3"/>
+<p>
+<figure id="ill3">
+<p>RESTORATION HOUSE, ROCHESTER.</p>
+<p>The &ldquo;Satis House&rdquo; of &ldquo;Great Expectations.&rdquo;</p>
+</figure>
+</p>
+<pb n="[4]" id="p4"/>
+<p>
+<figure id="ill4">
+<p>THE LEATHER BOTTLE, COBHAM.</p>
+</figure>
+</p>
+<pb n="[5]" id="p5"/>
+<p>
+<figure id="ill5">
+<p>GAD'S HILL PLACE.</p>
+<p>(From the rear.)</p>
+</figure>
+</p>
+</div1>
+<div1 type="section">
+<pb n="[6]" id="p6"/>
+
+<head>Dickens Portfolio <lb/> PART II <lb/> DAVID COPPERFIELD</head>
+<pb n="[7]" id="p7"/>
+<p>
+<figure id="ill6">
+<p>DAVID COPPERFIELD.</p>
+<p>David's munificent order at the public house.</p>
+</figure>
+</p>
+<pb n="[8]" id="p8"/>
+<p>
+<figure id="ill7">
+<p>DAVID COPPERFIELD.</p>
+<p>David and Steerforth arrive unexpectedly at Mr. Peggotty's <lb/> fireside.</p>
+</figure>
+</p>
+<pb n="[9]" id="p9"/>
+<p>
+<figure id="ill8">
+<p>DAVID COPPERFIELD.</p>
+<p>Steerforth shows up Mr. Mell &ldquo;as a beggar.&rdquo;</p>
+</figure>
+</p>
+<pb n="[10]" id="p10"/>
+<p>
+<figure id="ill9">
+<p>DAVID COPPERFIELD.</p>
+<p>David and Dora invite Traddles to dinner.</p>
+</figure>
+</p>
+<pb n="[11]" id="p11"/>
+<p>
+<figure id="ill10">
+<p>DAVID COPPERFIELD.</p>
+<p>Traddles, as Mr. Burke, or Mr. Pitt, would deliver withering denunciations of the corruption of my aunt and Mr. Dick, while I, note-book on knee, fagged after him with all my might and main.</p>
+</figure>
+</p>
+<pb n="[12]" id="p12"/>
+<p>
+<figure id="ill11">
+<p>DAVID COPPERFIELD.</p>
+<p>David bears ill tidings to Steerforth's mother and Rosa.</p>
+</figure>
+</p>
+<pb n="[13]" id="p13"/>
+<p>
+<figure id="ill12">
+<p>DAVID COPPERFIELD.</p>
+<p>Peggotty returns after a vain search for Emily.</p>
+</figure>
+</p>
+<pb n="[14]" id="p14"/>
+<p>
+<figure id="ill13">
+<p>DAVID COPPERFIELD.</p>
+<p>Mr. Micawber delivers some valedictory remarks.</p>
+</figure>
+</p>
+<pb n="[15]" id="p15"/>
+<p>
+<figure id="ill14">
+<p>DAVID COPPERFIELD.</p>
+<p>David and his guests become the meekest of the meek before <lb/> Steerforth's respectable serving man.</p>
+</figure>
+</p>
+<pb n="[16]" id="p16"/>
+<p>
+<figure id="ill15">
+<p>DAVID COPPERFIELD.</p>
+<p>Uriah Heap obtrudes himself on David at the dinner party.</p>
+</figure>
+</p>
+<pb n="[17]" id="p17"/>
+<p>
+<figure id="ill16">
+<p>DAVID COPPERFIELD.</p>
+<p>David makes himself known to his aunt.</p>
+</figure>
+</p>
+<pb n="[18]" id="p18"/>
+<p>
+<figure id="ill17">
+<p>DAVID COPPERFIELD.</p>
+<p>Little David is hospitably received by Mr. Peggotty.</p>
+</figure>
+</p>
+</div1>
+<div1 type="section">
+<pb n="[19]" id="p19"/>
+
+<head>Dickens Portfolio <lb/> PART III <lb/> OLD CURIOSITY SHOP</head>
+<pb n="[20]" id="p20"/>
+<p>
+<figure id="ill18">
+<p>OLD CURIOSITY SHOP.</p>
+<p>Quilp, amiable as usual, surprises his wife's visitors.</p>
+</figure>
+</p>
+<pb n="[21]" id="p21"/>
+<p>
+<figure id="ill19">
+<p>OLD CURIOSITY SHOP.</p>
+<p>Mrs. Jarley taking tea on the head of a drum.</p>
+</figure>
+</p>
+<pb n="[22]" id="p22"/>
+<p>
+<figure id="ill20">
+<p>OLD CURIOSITY SHOP.</p>
+<p>Quilp and his little wife.</p>
+</figure>
+</p>
+<pb n="[23]" id="p23"/>
+<p>
+<figure id="ill21">
+<p>OLD CURIOSITY SHOP.</p>
+<p>He (the old man) sat so wild and restless, so feverishly anxious, so ravenous for the paltry stakes, that she could have almost better borne to see him dead.</p>
+</figure>
+</p>
+<pb n="[24]" id="p24"/>
+<p>
+<figure id="ill22">
+<p>OLD CURIOSITY SHOP.</p>
+<p>Poor Kit in trouble.</p>
+</figure>
+</p>
+<pb n="[25]" id="p25"/>
+<p>
+<figure id="ill23">
+<p>OLD CURIOSITY SHOP.</p>
+<p>At the Punch and Judy show.</p>
+</figure>
+</p>
+<pb n="[26]" id="p26"/>
+<p>
+<figure id="ill24">
+<p>OLD CURIOSITY SHOP.</p>
+<p>Quilp comes into his own.</p>
+</figure>
+</p>
+<pb n="[27]" id="p27"/>
+<p>
+<figure id="ill25">
+<p>OLD CURIOSITY SHOP.</p>
+<p>Quilp passes the time pleasantly with his friends.</p>
+</figure>
+</p>
+<pb n="[28]" id="p28"/>
+<p>
+<figure id="ill26">
+<p>OLD CURIOSITY SHOP.</p>
+<p>Dick Swiveller regales himself.</p>
+</figure>
+</p>
+<pb n="[29]" id="p29"/>
+<p>
+<figure id="ill27">
+<p>OLD CURIOSITY SHOP.</p>
+<p>Flight of Nell and her grandfather.</p>
+</figure>
+</p>
+</div1>
+<div1 type="section">
+<pb n="[30]" id="p30"/>
+
+<head>Dickens Portfolio <lb/> PART IV <lb/> DOMBEY AND SON</head>
+<pb n="[31]" id="p31"/>
+<p>
+<figure id="ill28">
+<p>DOMBEY AND SON.</p>
+<p>Dr. Blimber's young gentlemen as they appeared when enjoying <lb/> themselves.</p>
+</figure>
+</p>
+<pb n="[32]" id="p32"/>
+<p>
+<figure id="ill29">
+<p>DOMBEY AND SON.</p>
+<p>Major Bagstock is delighted to have the opportunity, and Cleopatra <lb/> is gracious.</p>
+</figure>
+</p>
+<pb n="[33]" id="p33"/>
+<p>
+<figure id="ill30">
+<p>DOMBEY AND SON.</p>
+<p>&ldquo;Plain Joe, sir &mdash; Joey B. &mdash; Josh. Bagstock &mdash; Joseph &mdash; rough <lb/> and tough old J., sir. At your service.&rdquo;</p>
+</figure>
+</p>
+<pb n="[34]" id="p34"/>
+<p>
+<figure id="ill31">
+<p>DOMBEY AND SON.</p>
+<p>Mr. Dombey stoops low to get secret intelligence.</p>
+</figure>
+</p>
+<pb n="[35]" id="p35"/>
+<p>
+<figure id="ill32">
+<p>DOMBEY AND SON.</p>
+<p>Mr. Dombey and his &ldquo;confidential agent.&rdquo;</p>
+</figure>
+</p>
+<pb n="[36]" id="p36"/>
+<p>
+<figure id="ill33">
+<p>DOMBEY AND SON.</p>
+<p>Miss Tox introduces the party to fill the vacancy.</p>
+</figure>
+</p>
+<pb n="[37]" id="p37"/>
+<p>
+<figure id="ill34">
+<p>DOMBEY AND SON.</p>
+<p>Mr. Carker, abstracted, is watched by vengeful eyes.</p>
+</figure>
+</p>
+<pb n="[38]" id="p38"/>
+<p>
+<figure id="ill35">
+<p>DOMBEY AND SON.</p>
+<p>Mr. Carker in his hour of triumph.</p>
+</figure>
+</p>
+<pb n="[39]" id="p39"/>
+<p>
+<figure id="ill36">
+<p>DOMBEY AND SON.</p>
+<p>The Wooden Midshipman greets Florence and Miss Nipper.</p>
+</figure>
+</p>
+</div1>
+<div1 type="section">
+<pb n="[40]" id="p40"/>
+
+<head>Dickens Portfolio <lb/> PART V <lb/> LITTLE DORRIT</head>
+<pb n="[41]" id="p41"/>
+<p>
+<figure id="ill37">
+<p>LITTLE DORRIT.</p>
+<p>The Father of the Marshalsea leaves it in state.</p>
+</figure>
+</p>
+<pb n="[42]" id="p42"/>
+<p>
+<figure id="ill38">
+<p>LITTLE DORRIT.</p>
+<p>Little Mother tells Maggie the story of the Princess.</p>
+</figure>
+</p>
+<pb n="[43]" id="p43"/>
+<p>
+<figure id="ill39">
+<p>LITTLE DORRIT.</p>
+<p>The Father of the Marshalsea entertains a pensioner at tea.</p>
+</figure>
+</p>
+<pb n="[44]" id="p44"/>
+<p>
+<figure id="ill40">
+<p>LITTLE DORRIT.</p>
+<p>Little Dorrit and her sister find their uncle playing the clarionet.</p>
+</figure>
+</p>
+<pb n="[45]" id="p45"/>
+<p>
+<figure id="ill41">
+<p>LITTLE DORRIT.</p>
+<p>Frederick electrifies his brother by taking up the cudgels for <lb/> Little Dorrit.</p>
+</figure>
+</p>
+<pb n="[46]" id="p46"/>
+<p>
+<figure id="ill42">
+<p>LITTLE DORRIT.</p>
+<p>Affery hears the mysterious noises again, to the indignation of <lb/> her virtuous husband.</p>
+</figure>
+</p>
+</div1>
+<div1 type="section">
+<pb n="[47]" id="p47"/>
+
+<head>Dickens Portfolio <lb/> PART VI <lb/> BARNABY RUDGE</head>
+<pb n="[48]" id="p48"/>
+<p>
+<figure id="ill43">
+<p>BARNABY RUDGE.</p>
+<p>Barnaby and his father meet at last.</p>
+</figure>
+</p>
+<pb n="[49]" id="p49"/>
+<p>
+<figure id="ill44">
+<p>BARNABY RUDGE.</p>
+<p>Solomon Daisy has seen the ghost of a murdered man.</p>
+</figure>
+</p>
+<pb n="[50]" id="p50"/>
+<p>
+<figure id="ill45">
+<p>BARNABY RUDGE.</p>
+<p>Barnaby and his mother.</p>
+</figure>
+</p>
+<pb n="[51]" id="p51"/>
+<p>
+<figure id="ill46">
+<p>BARNABY RUDGE.</p>
+<p>Barnaby joins the ranks of Lord George Gordon.</p>
+</figure>
+</p>
+<pb n="[52]" id="p52"/>
+<p>
+<figure id="ill47">
+<p>BARNABY RUDGE.</p>
+<p>Barnaby's mother at the Warren after an absence of 22 years.</p>
+</figure>
+</p>
+<pb n="[53]" id="p53"/>
+<p>
+<figure id="ill48">
+<p>BARNABY RUDGE.</p>
+<p>Mr. Chester goes off jauntily in his chair.</p>
+</figure>
+</p>
+<pb n="[54]" id="p54"/>
+<p>
+<figure id="ill49">
+<p>BARNABY RUDGE.</p>
+<p>Hugh sleeping on the bench of the Maypole Inn.</p>
+</figure>
+</p>
+<pb n="[55]" id="p55"/>
+<p>
+<figure id="ill50">
+<p>BARNABY RUDGE.</p>
+<p>A mysterious stranger disturbs the cronies at the Maypole Inn.</p>
+</figure>
+</p>
+<pb n="[56]" id="p56"/>
+<p>
+<figure id="ill51">
+<p>BARNABY RUDGE.</p>
+<p>Dennis and Hugh drink to the health of Lord George Gordon.</p>
+</figure>
+</p>
+<pb n="[57]" id="p57"/>
+<p>
+<figure id="ill52">
+<p>BARNABY RUDGE.</p>
+<p>Mr. Chester makes himself agreeable to Mrs. Varden.</p>
+</figure>
+</p>
+<pb n="[58]" id="p58"/>
+<p>
+<figure id="ill53">
+<p>BARNABY RUDGE.</p>
+<p>&ldquo;A fine old country gentleman&rdquo; is diverted by Grip.</p>
+</figure>
+</p>
+<pb n="[59]" id="p59"/>
+<p>
+<figure id="ill54">
+<p>BARNABY RUDGE.</p>
+<p>The blind man terrifies Barnaby's mother.</p>
+</figure>
+</p>
+</div1>
+<div1 type="section">
+<pb n="[60]" id="p60"/>
+
+<head>Dickens Portfolio <lb/> PART VII <lb/> BLEAK HOUSE</head>
+<pb n="[61]" id="p61"/>
+<p>
+<figure id="ill55">
+<p>BLEAK HOUSE.</p>
+<p>Mr. Turveydrop's dancing school.</p>
+</figure>
+</p>
+<pb n="[62]" id="p62"/>
+<p>
+<figure id="ill56">
+<p>BLEAK HOUSE.</p>
+<p>&ldquo;We have among us . . . a brother and a boy. Devoid of relations, devoid of flocks and herds, devoid of gold and silver and of precious stones.&rdquo; &mdash; Mr. Chadband.</p>
+</figure>
+</p>
+<pb n="[63]" id="p63"/>
+<p>
+<figure id="ill57">
+<p>BLEAK HOUSE.</p>
+<p>Mr. Bucket is made welcome at Mrs. Bagnet's birthday party.</p>
+</figure>
+</p>
+<pb n="[64]" id="p64"/>
+<p>
+<figure id="ill58">
+<p>BLEAK HOUSE.</p>
+<p>Miss Flite explains that she attends court regularly and expects <lb/> a judgment &mdash; &ldquo;on the Day of Judgment.&rdquo;</p>
+</figure>
+</p>
+<pb n="[65]" id="p65"/>
+<p>
+<figure id="ill59">
+<p>BLEAK HOUSE.</p>
+<p>Mr. Tulkinghorn and the &ldquo;young man of the name of Guppy&rdquo; <lb/> have an audience with Lady Dedlock.</p>
+</figure>
+</p>
+<pb n="[66]" id="p66"/>
+<p>
+<figure id="ill60">
+<p>BLEAK HOUSE.</p>
+<p>Dame Durden gets her first love token.</p>
+</figure>
+</p>
+<pb n="[67]" id="p67"/>
+<p>
+<figure id="ill61">
+<p>BLEAK HOUSE.</p>
+<p>Tom-all-Alone's. &mdash; It might be better that the sun should sometimes set upon the British dominions than that it should rise upon so vile a wonder.</p>
+</figure>
+</p>
+<pb n="[68]" id="p68"/>
+<p>
+<figure id="ill62">
+<p>BLEAK HOUSE.</p>
+<p>Mr. Guppy offers his heart, his income, and a mother-in-law, <lb/> and is rejected.</p>
+</figure>
+</p>
+</div1>
+<div1 type="section">
+<pb n="[69]" id="p69"/>
+
+<head>Dickens Portfolio <lb/> PART VIII <lb/> MARTIN CHUZZLEWIT</head>
+<pb n="[70]" id="p70"/>
+<p>
+<figure id="ill63">
+<p>MARTIN CHUZZLEWIT.</p>
+<p>Meekness of Mr. Pecksniff and his charming daughters.</p>
+</figure>
+</p>
+<pb n="[71]" id="p71"/>
+<p>
+<figure id="ill64">
+<p>MARTIN CHUZZLEWIT.</p>
+<p>&ldquo;I wish they wos still abed,&rdquo; said the boy. &ldquo;They're very <lb/> noisy abed all calling for their boots.&rdquo;</p>
+</figure>
+</p>
+<pb n="[72]" id="p72"/>
+<p>
+<figure id="ill65">
+<p>MARTIN CHUZZLEWIT.</p>
+<p>Mr. Pecksniff and his younger daughter comfort the wounded <lb/> orphan.</p>
+</figure>
+</p>
+<pb n="[73]" id="p73"/>
+<p>
+<figure id="ill66">
+<p>MARTIN CHUZZLEWIT.</p>
+<p>Mrs. Gamp rose &mdash; morally and physically rose &mdash; and denounced <lb/> Mrs. Prig.</p>
+</figure>
+</p>
+<pb n="[74]" id="p74"/>
+<p>
+<figure id="ill67">
+<p>MARTIN CHUZZLEWIT.</p>
+<p>The charity children are admonished to grow up Pecksniffs, <lb/> and Martin is much gratified by an imposing ceremony.</p>
+</figure>
+</p>
+<pb n="[75]" id="p75"/>
+<p>
+<figure id="ill68">
+<p>MARTIN CHUZZLEWIT.</p>
+<p>Mr. Moddle is led to the contemplation of his destiny by Miss <lb/> Charity.</p>
+</figure>
+</p>
+<pb n="[76]" id="p76"/>
+<p>
+<figure id="ill69">
+<p>MARTIN CHUZZLEWIT.</p>
+<p>Tom Pinch and Martin on a social occasion.</p>
+</figure>
+</p>
+<pb n="[77]" id="p77"/>
+<p>
+<figure id="ill70">
+<p>MARTIN CHUZZLEWIT.</p>
+<p>Pecksniff hears some truths and Tom Pinch loses an idol.</p>
+</figure>
+</p>
+<pb n="[78]" id="p78"/>
+<p>
+<figure id="ill71">
+<p>MARTIN CHUZZLEWIT.</p>
+<p>The Board of the Anglo-Bengalee Disinterested Loan and Life <lb/> Insurance Company.</p>
+</figure>
+</p>
+</div1>
+<div1 type="section">
+<pb n="[79]" id="p79"/>
+
+<head>Dickens Portfolio <lb/> PART IX <lb/> MISCELLANEOUS</head>
+<pb n="[80]" id="p80"/>
+<p>
+<figure id="ill72">
+<p>TALE OF TWO CITIES.</p>
+<p>&ldquo;What do you mean by flopping yourself down and praying <lb/> agin me? What do you suppose the worth of your prayers <lb/> may be?&rdquo;&mdash;Jerry Cruncher.</p>
+</figure>
+</p>
+<pb n="[81]" id="p81"/>
+<p>
+<figure id="ill73">
+<p>NICHOLAS NICKLEBY.</p>
+<p>&ldquo;I don't forget you, my soul, and never shall, and never can,&rdquo; <lb/> said Mantalini.</p>
+</figure>
+</p>
+<pb n="[82]" id="p82"/>
+<p>
+<figure id="ill74">
+<p>MASTER HUMPHREY'S CLOCK.</p>
+<p>Sam Weller's father and his son.</p>
+</figure>
+</p>
+<pb n="[83]" id="p83"/>
+<p>
+<figure id="ill75">
+<p>A CHRISTMAS CAROL.</p>
+<p>Away they all went, twenty couple at once; hands half round <lb/> and back again the other way, down the middle and up again.</p>
+</figure>
+</p>
+<pb n="[84]" id="p84"/>
+<p>
+<figure id="ill76">
+<p>A CHRISTMAS CAROL.</p>
+<p>&ldquo;Bob had been Tim's blood horse all the way from church, <lb/> and had come home rampant.&rdquo;</p>
+</figure>
+</p>
+<pb n="[85]" id="p85"/>
+<p>
+<figure id="ill77">
+<p>OUR MUTUAL FRIEND.</p>
+<p>The Bird of Prey brought down.</p>
+</figure>
+</p>
+<pb n="[86]" id="p86"/>
+<p>
+<figure id="ill78">
+<p>OUR MUTUAL FRIEND.</p>
+<p>The Evil Genius of the House of Boffin.</p>
+</figure>
+</p>
+<pb n="[87]" id="p87"/>
+<p>
+<figure id="ill79">
+<p>OUR MUTUAL FRIEND.</p>
+<p>Rogue Riderhood, narrowly saved from drowning, becomes his <lb/> old surly self again.</p>
+</figure>
+</p>
+<pb n="[88]" id="p88"/>
+<p>
+<figure id="ill80">
+<p>OUR MUTUAL FRIEND.</p>
+<p>Mr. Wegg prepares a grindstone for Mr. Boffin's nose.</p>
+</figure>
+</p>
+<pb n="[89]" id="p89"/>
+<p>
+<figure id="ill81">
+<p>MASTER HUMPHREY'S CLOCK.</p>
+<p>Mr. Pickwick and Master Humphrey.</p>
+</figure>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

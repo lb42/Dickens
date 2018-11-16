@@ -1,0 +1,1646 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI U5-1995//DTD TEI Lite//EN" "teixlite.dtd" [
+
+]>
+<TEI.2>
+<teiHeader type="3D">
+<fileDesc>
+<titleStmt>
+<title><emph>The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No.  XV:</emph>
+Electronic Edition.
+</title><author>Dickens, Charles, 1812-1870</author>
+
+<respStmt>
+<resp>Illustrated by </resp><name>Browne, H. K. (Hablot Knight), 1815-1882</name>
+</respStmt>
+
+<funder>Funding from the  E. S. P. Das Educational Foundation supported the electronic publication of this title.</funder><respStmt>
+<resp>Text transcribed  by</resp>
+<name>Apex Data Services, Inc.</name>
+</respStmt>
+<respStmt><resp>Images scanned by</resp>
+<name>Brooke Phillips</name></respStmt><respStmt><resp>Text encoded by </resp>
+<name>Apex Data Services, Inc., Matthew Kern and Natalia Smith</name></respStmt></titleStmt>
+<editionStmt><edition>First edition, <date>2002</date></edition></editionStmt>
+<extent>ca.   190K</extent>
+<publicationStmt>
+<publisher>Academic Affairs Library, UNC-CH</publisher>
+<pubPlace>University of North Carolina at Chapel Hill, </pubPlace><date>2002.</date>
+
+<availability>
+<p>&copy; This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+</availability>
+</publicationStmt>
+
+
+<sourceDesc>
+
+<biblFull>
+<titleStmt>
+<title type="title page"> The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No.  XV:</title>
+
+<author>Charles  Dickens</author>
+
+<respStmt><resp>Illustrations by</resp>
+<name>H. K. Browne</name></respStmt>
+
+</titleStmt>
+
+<extent>  52 p., ill.</extent>
+
+<publicationStmt>
+<pubPlace>LONDON:</pubPlace>
+<publisher>BRADBURY &amp; EVANS, WHITEFRIARS.</publisher>
+<date>1850</date>
+<authority></authority>
+</publicationStmt>
+<notesStmt><note>Call number RBC Dickens 20 (Rare Book Collection, University of North Carolina at Chapel Hill)</note></notesStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p></p>
+</projectDesc>
+
+<editorialDecl>
+
+<p>The text has been entered using double-keying and verified against the original. 
+</p><p>The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+
+<p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+<p>All footnotes are inserted at the point of reference within paragraphs.
+ </p>
+
+<p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+
+<p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+<p>All double right and left quotation marks are encoded as &rdquo; and &ldquo;
+respectively.</p>
+<p>All single right and left quotation marks are encoded as &rsquo; and &lsquo; respectively.</p>
+<p>All em dashes are encoded as &mdash;</p><p>Indentation in lines has not been preserved.</p>
+<p>Running titles have not been preserved.</p>
+<p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+</editorialDecl>
+
+<classDecl><taxonomy id="LCSH">
+<bibl><title>Library of Congress Subject Headings </title>
+</bibl>
+</taxonomy></classDecl>
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+
+<language id="eng">English</language>
+
+</langUsage>
+
+<textClass>
+<keywords scheme="LCSH">
+<list>
+<item><!-- LC headings go here --></item>
+</list>
+</keywords>
+
+</textClass>
+</profileDesc>
+<revisionDesc>
+
+
+<change>
+<date>2002-11-20, </date><respStmt><name> Natalia Smith, </name><resp>project manager, </resp>
+</respStmt><item>finished TEI-conformant encoding and final proofing.</item>
+</change>
+<change>
+<date>2002-10-10, </date><respStmt><name>Matthew Kern</name>
+<resp></resp></respStmt><item> finished TEI/SGML encoding</item></change>
+<change><date>2002-08-01, </date>
+<respStmt><name>Apex Data Services, Inc.</name><resp></resp></respStmt>
+<item> finished transcribing the text.</item></change>
+</revisionDesc>
+</teiHeader>
+
+
+<text>
+<front>
+
+<div1 type="title page image"><p><figure id="title"><p>[Title Page Image]</p></figure></p></div1>
+
+<div1 type="title page verso image"><p><figure id="verso"><p>[Title Page Verso Image]</p></figure></p></div1>
+
+
+<titlePage>
+
+
+<docTitle><titlePart> No.  XV. </titlePart></docTitle>
+
+<docDate> JULY.
+</docDate>
+<docEdition>Price 1<hi rend="italics">s</hi>.</docEdition><docTitle><titlePart>THE <lb/> PERSONAL HISTORY, ADVENTURES, <lb/> EXPERIENCE, &amp; OBSERVATION <lb/> OF <lb/> DAVID COPPERFIELD <lb/> THE YOUNGER <lb/> OF BLUNDERSTONE ROOKERY.<lb/>(Which He never meant to be Published on any Account.) </titlePart></docTitle>
+<byline>BY</byline>
+<docAuthor>CHARLES DICKENS.</docAuthor>
+
+<docAuthor>WITH ILLUSTRATIONS BY H. K. BROWNE.
+</docAuthor><docImprint>
+<pubPlace>LONDON:</pubPlace>
+<publisher>BRADBURY &amp; EVANS, WHITEFRIARS.</publisher>
+AGENTS:&mdash;J. MENZIES, EDINBURGH; T. MURRAY, GLASGOW; J. MURRAY, DUBLIN.
+</docImprint>
+</titlePage>
+<div1 type="advertisement">
+<pb id="pii" n="verso"/>
+<head>HYDROPATHIC ESTABLISHMENT,</head><p>SUDBROOK PARK, NEAR RICHMOND, SURREY.</p>
+<p>THIS Institution, which has been in full and successful operation for eight years, is conducted by JAMES ELLIS, M.D., who resides in the house, and has thus the opportunity of exercising a constant superintendence of the treatment.</p>
+<p>His own experience during a practice of eight years, part of which he was a coadjutor of Dr. Weiss, enables him confidently to assert, that all diseases curable, and many incurable by any previously known means, can be safely and successfully treated by a proper application of the Water Cure <hi rend="italics">alone.</hi></p>
+<p>Sudbrook Park adjoins Richmond Park on its southern and sheltered side, and contains upwards of a hundred acres. It is richly wooded, and the pleasure grounds are extensive and beautiful, containing many appliances for the recreation and exercise of the patients. It is also within five minutes' walk of the most beautiful part of the river Thames, which is accessible for the amusements of boating and fishing.</p>
+<p>By special permission of the Queen, there is also a private access to the Royal Park of Richmond.</p>
+<p>The air is celebrated for its purity, and the soil being composed of gravel, is peculiarly dry and healthy, allowing the exercise of walking at all seasons.</p>
+<p>The Mansion is admirably adapted for the purpose, the rooms being lofty and spacious. It was formerly the residence of the Dukes of Argyll and Buceleuch.</p>
+<p>The domestic arrangements, superintended by Mrs. ELLIS, are on a complete and liberal scale.</p>
+<p>The house is abundantly supplied with the purest water, including, among other sources, the celebrated Silver spring which takes its rise in Richmond Park;<ref id="ref1" target="n1">*</ref><note id="n1" target="ref1"><p>* It is related that Cardinal Wolsey, from the well-known excellence of the water of this vicinity, had it conveyed in pipes across the Thames, to supply his palace at Hampton Court</p></note> and the Plunge Baths, Douches, &amp;c., are fitted up in the most complete manner.</p>
+
+<p>It is believed that the improvements made during the past winter have rendered this Establishment one of the most complete in Europe.</p>
+<p>Strangers desirous of inspecting the Mansion, Baths, Douches, Pleasure Grounds, Park, &amp;c., are admitted on Wednesdays, from 10 till 4 o'clock, by cards only, which may be obtained of Mr. TRELAWNEY SAUNDERS, Bookseller, No. 6, Charing Cross; Wall's Library, Richmond; or at the Star and Garter, Richmond Hill. Visitors will be required to insert their names and addresses in the Visitors' Book. The Richmond Railway Station is within two miles of Sudbrook Park; an Omnibus runs to meet several of the trains, Fare 6<hi rend="italics">d.</hi> Fly from the station, 1<hi rend="italics">s.</hi> 6<hi rend="italics">d.</hi> To the Kingston Station is four miles. Omnibusses from St. Paul's Church Yard pass Sudbrook Park several times in the day. Fare 1<hi rend="italics">s.</hi> 6<hi rend="italics">d.,</hi> exclusive of luggage.</p>
+<p>TERMS.</p>
+<p>Consultation and Entrance Fee, One Guinea.</p>
+<p>Single-Bedded Rooms, Three to Four Guineas per Week and upwards.</p>
+<p>Double-Bedded Rooms, Six Guineas per Week and upwards.</p>
+<p>PRIVATE APARTMENTS, OR SUITES OF APARTMENTS MAY BE ENGAGED.</p>
+<p>Further particulars may be obtained on application to Mr. JOSEPH DYER, Secretary, at the Establishment.</p>
+</div1>
+<div1>
+<pb id="p1" n="[1]"/>
+<opener>No. XV.&mdash;JULY, 1850.</opener>
+<head>COPPERFIELD ADVERTISER.</head>
+<div2 type="section">
+<opener>NOW READY, PRICE EIGHT SHILLINGS, IN CLOTH, THE</opener><head>EIGHTEENTH VOLUME OF PUNCH.</head>
+<p>EMBELLISHED WITH FIFTY-TWO LARGE PLATES, AND AN IMMENSE NUMBER OF <lb/> SMALLER ILLUSTRATIONS.</p>
+<closer>PUNCH OFFICE, 85, FLEET STREET, AND ALL BOOKSELLERS AND NEWSMEN.</closer>
+</div2>
+<div2 type="advertisement">
+<opener>&ldquo;HOME FOR THE HOLIDAYS.&rdquo;</opener><p><hi rend="italics">Price</hi> 7<hi rend="italics">s.</hi> 6<hi rend="italics">d. coloured, or</hi> 5<hi rend="italics">s.</hi> 6<hi rend="italics">d. plain,</hi>
+<lb/> &ldquo;YOUNG TROUBLESOME,&rdquo; <lb/> or <lb/> Master Jacky's Holidays.</p>
+<p>A SERIES OF ETCHINGS ON STEEL, BY JOHN LEECH.</p>
+<p>New Monthly Work on Gardening and Botany, Beautifully Illustrated.</p>
+<p><hi rend="italics">On the First of July was published, price</hi> 2<hi rend="italics">s.</hi> 6<hi rend="italics">d., No. V. of</hi>
+<lb/> PAXTON'S FLOWER-GARDEN.</p>
+<p>Edited by Dr. LINDLEY and JOSEPH PAXTON, <lb/>
+<hi rend="italics">And Illustrated by Highly Finished Plates and Woodcuts.</hi></p>
+<closer>BRADBURY AND EVANS, 11, BOUVERIE STREET.</closer>
+</div2>
+<div2 type="advertisement">
+<opener>Second Edition, Enlarged, with Portrait of the Author; Cloth, Price 5<hi rend="italics">s.</hi></opener>
+<head>RUINS OF MANY LANDS.</head>
+<p>A PILGRIMAGE. BY NICHOLAS MICHELL.</p>
+<p>CONTENTS:&mdash;Babylon&mdash;Nineveh&mdash;Petra&mdash;Nubia&mdash;Egypt&mdash;Central America&mdash;Rock-Temples of India&mdash;Athens&mdash;Rome&mdash;Pompeii&mdash;Carthage&mdash;Tyre&mdash;Baalbec&mdash;Palmyra&mdash;Susa&mdash;Persepolis&mdash;Geraza&mdash;Jerusalem, &amp;c.</p>
+<p>&ldquo;Most heartily do we rejoice to see a second and enlarged edition of Mr. Michell's remarkable work.&rdquo;&mdash;<hi rend="italics">New Monthly Magazine.</hi></p>
+<p>&ldquo;Few modern volumes of poetry reach a second edition; Mr. Michell's work, like Sir E. Bulwer Lytton's <hi rend="italics">&lsquo;King Arthur,&rsquo;</hi> is an exception to the rule. The two volumes have no resemblance except in the fact that both deserve the distinction they have attained. . , . The author moves over all the celebrated ruins of the world; his verse is suited to the subject, full and solemn, and the volume evinces a profound acquaintance with ancient history. Mr. Michell has profusely used the rich materials at his disposal; few will read the work without gleaning some new fact, and all will close it, determined to open it again, as a book well calculated to elevate, improve, and solemnise the mind.&rdquo;&mdash;<hi rend="italics">Glasgow Daily Mail,</hi> January 7, 1850.</p>
+<p>&ldquo;The amount of classical and historical lore which it contains is immense.&rdquo;&mdash;<hi rend="italics">Brighton Herald.</hi></p>
+<closer>LONDON: WILLIAM TEGG and Co., 85. Queen Street, Cheapside; and all Booksellers.</closer>
+</div2>
+<div2 type="advertisement">
+<head>TRELOAR'S<lb/>COCOA-NUT-FIBRE<lb/>WAREHOUSE<lb/>42<lb/>LUDGATE HILL</head><p>The Articles made of <lb/> COCOA-NUT FIBRE are <lb/> Matting, Mattresses, <lb/> HEARTH-RUGS, <lb/>
+<hi rend="italics">Door and Carriage Mats,</hi>
+<lb/> Netting for Sheepfolds, <lb/> CORDAGE, <lb/> Brushes and Brooms, <lb/> For Household and Stable <lb/> use, &amp;c.; <lb/>
+<hi rend="italics">A Catalogue of which may</hi>
+<lb/>
+<hi rend="italics">be had gratis.</hi></p>
+<p>As there are many worthless imitations of these goods, it is necessary to notice the Name and Address of the Manufacturer,</p><closer>T. TRELOAR, <lb/> 42, LUDGATE HILL, <lb/>
+<hi rend="italics">London.</hi></closer>
+</div2>
+<div2 type="advertisement">
+<pb n="2" id="p2"/>
+<opener>13, GREAT MARLBOROUGH STREET.</opener>
+<head>MR. COLBURN'S <lb/> NEW PUBLICATIONS.</head>
+<div3 type="section">
+<p>I. <lb/> THE HISTORY OF RELIGION.</p>
+<p>By the celebrated JOHN EVELYN, Author of &ldquo;Sylva,&rdquo; &amp;c. Now first published by permission of W. J. EVELYN, Esq., M.P., from the original MS. in the library at Wotton. Edited, with notes, by the Rev. R. M. EVANSON, B.A. 2 vols., 21<hi rend="italics">s.</hi> bound. The Author was led to undertake this important work by the revolutionary changes amidst which he passed his youth, and by the startling manifestations of infidelity, fanaticism, and conflicting opinion that surrounded him in later life; seeking by a thorough examination to satisfy himself on the various questions in dispute.</p>
+<p>II. <lb/> GERMANIA; Its Courts, Camps, and <lb/> People.</p>
+<p>By the BARONESS BLAZE DE BURY. 2 vols., 8vo. (Just ready.)</p>
+<p>III. <lb/> GENERAL PEPE'S NARRATIVE</p>
+<p>OF THE LATE EVENTS IN ITALY, from 1847 to 1850, including the SIEGE OF VENICE. 2 vols., 21<hi rend="italics">s.</hi> bound. This important Narrative comprises the most interesting particulars respecting the Revolutions in Naples, Sicily, and Rome; the Military Operations of Charles Albert, and the Siege of Venice; of which city General Pepe held the command. It also includes the details of the General's confidential communications and interviews with the Italian Sovereign's, &amp;c.</p>
+<p>IV. <lb/> THE COUNTRY YEAR-BOOK;</p>
+<p>Or, THE FIELD, THE FOREST, AND THE FIRE-SIDE. By WILLIAM HOWITT, Author of &ldquo;The Book of the Seasons,&rdquo; &ldquo;Rural Life in England,&rdquo; &amp;c. 1 vol., with numerous Illustrations. 10<hi rend="italics">s.</hi> 6<hi rend="italics">d.</hi> bound. (Just ready.)</p>
+<p>V. <lb/> LIGHTS and SHADES of MILITARY <lb/> LIFE.</p>
+<p>Edited by LIEUT.-GEN. SIR CHARLES NAPIER, G.C.B., Commander-in Chief and General in India, &amp;c. New and cheaper edition, 1 vol., 10<hi rend="italics">s.</hi> 6<hi rend="italics">d.</hi> bound. (Just ready.)</p>
+</div3>
+<div3 type="section">
+<head>THE NEW NOVELS.</head>
+<p>I. <lb/> ADELAIDE LINDSAY.</p>
+<p>Edited by the Author of &ldquo;Emilia Wyndham,&rdquo; &ldquo;The Wilmingtons,&rdquo; &amp;c.</p>
+<p>II. <lb/> PETTICOAT GOVERNMENT.</p>
+<p>By Mrs. TROLLOPE. (Just ready.)</p>
+<p>III. <lb/> ANNE DYSART, The Scotch Minister's <lb/> Daughter.</p>
+<p>A Tale of Every-day Life.</p>
+<p>IV. <lb/> OUR COUNTRY.</p>
+<p>By JOHN MILLS, Esq., Author of &ldquo;The Old English <lb/> Gentleman,&rdquo; &amp;c. (Just ready.)</p>
+<p>V. <lb/> FRESTON TOWER;</p>
+<p>Or, THE EARLY DAYS OF CARDINAL WOLSEY. By the <lb/> Rev. R. COBBOLD, M.A. With six Illustrations.</p>
+<p>VI. <lb/> LA VENDEE.</p>
+<p>An Historical Romance. By A. TROLLOPE, Esq.</p>
+<p>VII. <lb/> MORNINGS AT MATLOCK.</p>
+<p>By Dr. SHELTON MACKHNZIK, Author of &ldquo;Titian, an <lb/> Art-Novel.&rdquo;</p>
+</div3>
+</div2>
+<div2 type="advertisement">
+<head>THE FAVOURITE LIBRARY,</head><p>A series of Works for the Young, each with an <lb/> Illustration, price 1<hi rend="italics">s.</hi></p>
+<p>NEVER WRONG: OR, THE YOUNG DISPUTANT; and &ldquo;IT WAS ONLY IN FUN.&rdquo; New Tales, forming the Seventh Volume.</p>
+<list>
+<item>6. THE SCOTTISH ORPHANS. By Lady STODDART.</item>
+<item>5. KEEPER'S TRAVELS IN SEARCH OF HIS MASTER.</item>
+<item>4. MEMOIRS OF BOB, THE SPOTTED TERRIER.</item>
+<item>3. HISTORY OF THE ROBINS. By Mrs. TRIMMER.</item>
+<item>2. Mrs. LEICESTER'S SCHOOL. By CHARLES and MARY LAMB.</item>
+<item>1. THE ESKDALE HERD BOY. By Lady STODDART.</item>
+</list><closer>GRANT &amp; GRIFFITH, Corner of St. Paul's Churchyard.</closer>
+</div2>
+<div2 type="advertisement">
+<opener>This day is published, in one vol., post 8vo. with numerous Illustrations, price 8<hi rend="italics">s.</hi> handsomely bound and gilt,</opener>
+<head>NINEVEH AND PERSEPOLIS:</head>
+<p>An Historical Sketch of Ancient Assyria and Persia, with an Account of the recent researches in those Countries. By W. S. W. VAUX, M.A., of the British Museum.</p>
+<p>London: ARTHUR HALL, VIRTUE, &amp; Co., <lb/> 25, Paternoster-row.</p>
+</div2>
+<div2 type="advertisement">
+<head>THE DUCHESS OF KENT.</head>
+<p>Now ready, elegantly bound, <lb/> THE LANGUAGE OF FLOWERS.</p>
+<p>Known as the DUCHESS OF KENT'S EDITION, with coloured Plates, prepared expressly as a GIFT-BOOK for Young Ladies.</p>
+<closer>SAUNDERS &amp; OTLEY, Publishers, Conduit-street, Hanover-square.</closer>
+</div2>
+<div2 type="advertisement">
+<head>A LIVER COMPLAINT OF A MOST HOPELESS NATURE CURED BY HOLLOWAY'S PILLS.&mdash;</head><p>Mr. Thomas Clarke, of Lake George. New South Wales, was seriously afflicted for years with a liver complaint. His medical attendants, after trying all their skill, candidly gave their opinion that his case was hopeless. In this situation, and when expecting that every day would terminate his earthly career, a friend recommended him to try HOLLOWAY'S PILLS, assuring him that he knew a person who was cured by them of that complaint. He adopted the advice, and found speedy relief from taking them, and in a short time he was perfectly restored to health.&mdash;Sold by all Vendors of Medicines; and at Professor Holloway's Establishment, 244, Strand, London.</p>
+</div2>
+<div2 type="advertisement">
+<head>For Purifying the Blood and Strengthening <lb/> the Digestive Organs.</head>
+<p>FRENCH'S SARSAPARILLA AND CHAMOMILE, a concentrated Fluid Extract of these well known valuable Medicines. It is suited for either sex, and will prove a certain cure for Indigestion, Loss of Appetite, Dimness of Sight, Fainting Fits, Wasting of the Flesh, Languor, Skin Diseases, Rheumatic and Nervous Affections, and all Impurities of Blood caused by unhealthy climates, too sedentary a life, dissipation, and other causes. However debilitated the system, or deep-rooted the disease, by the diligent use of this purifying Medicine the energies of the whole nervous system will be augmented, a more powerful and healthy action of every faculty produced, and feebleness, and all the deplorable symptoms of disease will vanish, and strength and health be restored to the feeble and afflicted by its restorative properties.&mdash;Prepared only by W. A. FRENCH, 309, Holborn, two doors west of Chancerylane. Price 2<hi rend="italics">s.</hi> 9<hi rend="italics">d.,</hi> 4<hi rend="italics">s.</hi> 6<hi rend="italics">d.,</hi> 11<hi rend="italics">s.,</hi> and 22<hi rend="italics">s.</hi></p>
+</div2>
+<div2 type="advertisement">
+<pb n="3" id="p3"/>
+<head>KIRBY, BEARD, &amp; CO.,</head><p>ORIGINAL PATENTEES &amp; MANUFACTURERS OF THE NE PLUS ULTRA &amp; ROYAL DIAMOND PATENT <lb/> PINS AND NEEDLES, <lb/> TO HER MOST EXCELLENT MAJESTY QUEEN VICTORIA.</p>
+<p>THE acknowledged excellence of the above Pins and Needles, manufactured solely by KIRBY, BEARD, &amp; Co. under their immediate superintendence, has justly rendered them worthy of the extensive patronage and high reputation which they have so long maintained.</p>
+<p>The combined efforts of mechanical ingenuity and long practical experience have brought them to the highest possible perfection; and K., B., and Co. confidently recommend them as superior to all others, from their possessing all the requisites sought after in these very useful articles.</p>
+<p>K., B., &amp; Co., in presenting themselves as long-established manufacturers, beg most respectfully to caution Ladies,&mdash;to prevent their being deceived by imperfect productions in imitation of, and purporting to be of their manufacture,&mdash;that they have, to distinguish them, affixed to their <lb/> Ne Plus Ultra and Royal Diamond <lb/> PATENT PINS AND NEEDLES, <lb/> A Gold Label, bearing the name of the Firm in full, <lb/> WITHOUT WHICH NONE ARE GENUINE.</p>
+<p>Sold by all the principal Haberdashers, Silk Mercers, and Drapers in the United Kingdom&mdash;and Wholesale and for Exportation by</p><closer>KIRBY, BEARD, &amp; CO, 46, CANNON STREET, LONDON.</closer>
+</div2>
+<div2 type="advertisement">
+<opener>Under Royal Patronage.<lb/>PERFECT FREEDOM FROM COUGHS IN TEN MINUTES, AND INSTANT RELIEF <lb/> AND A RAPID CURE OF ASTHMA AND CONSUMPTION, COUGHS, <lb/> COLDS, AND ALL DISORDERS OF THE BREATH AND LUNGS, <lb/> ARE INSURED BY</opener><head>DR. LOCOCK'S PULMONIC WAFERS.</head>
+<p><hi rend="italics">Small books, containing many hundreds of properly authenticated Testimonials, may be</hi>
+<lb/>
+<hi rend="italics">had from every Agent.</hi></p>
+<p>Extract of a Letter from Mr. Lynch, Chemist, Market <lb/> Street, Manchester.</p>
+<p>Gentlemen, <lb/> I enclose you a letter received from a party who has derived great benefit from Dr. Locock's Wafers. We are constantly receiving testimonials of their efficacy.</p>
+<p>I am, &amp;c., <lb/> J. R. LYNCH.</p>
+<p>Middleton, near Manchester.</p>
+<p>Sir,&mdash;I am now forty-four years of age, and I have been afflicted with a severe asthmatic cough since I was a boy of 15 years of age; during that time I have resorted to every means in my power to remove it, but in vain, until last Sunday, when I sent for a small box of Dr. Locock's Wafers. I have taken two boxes since, and from the effect they have upon me I feel no doubt of a speedy recovery. (Signed) G. STRINGER</p>
+<p>TO SINGERS AND PUBLIC SPEAKERS they are invaluable, as in a few hours they remove all hoarseness, and wonderfully increase the power and flexibility of the voice.</p>
+<p>They have a pleasant taste. Price 1<hi rend="italics">s.</hi> 1&frac12;<hi rend="italics">d.,</hi> 2<hi rend="italics">s.</hi> 9<hi rend="italics">d.,</hi> and 11<hi rend="italics">s.</hi> per box.</p>
+<p>AGENTS: DA SILVA &amp; CO., 1, Bride-lane, Fleet-street, London. Sold by all Medicine Vendors</p>
+<div3>
+<opener>ALSO,</opener><head>DR. LOCOCK'S FEMALE WAFERS.</head>
+<p>HAVE NO TASTE OF MEDICINE, and are highly recommended to Ladies. They fortify the constitution at all periods of life, and in all Nervous Affections act like a charm. They remove all Obstructions, Heaviness, Fatigue on Slight Exertion, Palpitation of the Heart, Lowness of Spirits, Weakness, and Allay Pain.</p>
+<p>They create Appetite, and remove Indigestion, Heart-burn, Wind, Head-aches, Giddiness, &amp;c.</p>
+<p>In Hysterical Diseases, a proper perseverance in the use of this Medicine will be found to effect a Cure after all other means have failed.</p>
+<p>Full Directions are given with every box.</p>
+<p>NOTE.&mdash;These Wafers do not contain any Mineral, and may be taken either dissolved in water, or whole.</p>
+<p>Price 1<hi rend="italics">s.</hi> 1&frac12;<hi rend="italics">d.,</hi> 2<hi rend="italics">s.</hi> 9<hi rend="italics">d.,</hi> and 11<hi rend="italics">s.</hi> per Box.</p>
+<p>The 2<hi rend="italics">s.</hi> 9<hi rend="italics">d.</hi> Boxes contain nearly three of the small size, and the 11<hi rend="italics">s.</hi> Boxes five of those at 2<hi rend="italics">s.</hi> 9<hi rend="italics">d.</hi></p>
+<closer>BEWARE OF COUNTERFEITS IN THE FORM OF PILLS.</closer>
+</div3>
+</div2>
+<div2 type="advertisement">
+<head>THE TOILET of BEAUTY</head><p>furnishes innumerable proofs of the high estimation in which GOWLAND'S LOTION is held by the most distinguished possessors of brilliant complexions. This elegant preparation comprehends the preservation of the complexion, both from the effects of cutaneous malady and the operation of variable temperature, by refreshing its delicacy and preserving the brightest tints with which beauty is adorned.&mdash;&ldquo;ROBERT SHAW. London,&rdquo; is in white letters on the Government stamp of the genuine. Price 2<hi rend="italics">s.</hi> 9<hi rend="italics">d.</hi> and 5<hi rend="italics">s.</hi> 6<hi rend="italics">d.;</hi> quarts. 8<hi rend="italics">s.</hi> 6<hi rend="italics">d.</hi></p>
+</div2>
+<div2 type="advertisement">
+<pb n="4" id="pxxx3"/>
+<head>ALPACA UMBRELLAS.</head><p>IN a climate so changeable as that of England an Umbrella is indispensable, and it is consequently advisable, where economy is consulted, that it should be made of a material that would be the most durable.</p>
+<p>The experience of the last two years justifies the Patentees of the Alpaca Umbrella in asserting that, whilst it can scarcely be distinguished from Silk, it will wear much longer, and cost only half the price.</p>
+<p>Several of the largest Houses in the Trade being Licensed, it may be procured of most respectable Umbrella Dealers in the Kingdom, from 10<hi rend="italics">s.</hi> 6<hi rend="italics">d.</hi> each. A very extensive assortment of Silk Umbrellas at all prices, from 7<hi rend="italics">s.</hi> 6<hi rend="italics">d.</hi> to 20<hi rend="italics">s.</hi> each.</p>
+<p>W. and J. SANGSTER. 140, Regent-street; <lb/> 94, Fleet-street; <lb/> 10, Royal Exchange; and <lb/> 75, Cheapside.</p>
+</div2>
+<div2 type="advertisement">
+<head>THE GENTLEMAN'S REAL HEAD OF HAIR or INVISIBLE PERUKE.</head>
+<p>The principle upon which this Peruke is made is so superior to everything yet produced, that the Manufacturer invites the honour of a visit from the Sceptic and the Connoisseur, that one may be convinced and the other gratified, by inspecting this and other novel and beautiful specimens of the Perruqueian Art, at the establishment of the Sole Inventor, F. Browne, 47, FENCHURCH-ST.</p>
+<p>
+<table rows="3" cols="4">
+<head>F. BROWNE'S INFALLIBLE MODE OF MEASURING THE HEAD.</head>
+<row>
+<cell> Round the head in the manner of a fillet, leaving the Ears loose </cell>
+<cell> As dotted 1 to 1. </cell>
+<cell> Inches. </cell>
+<cell> Eighths. </cell>
+</row>
+<row>
+<cell> From the Forehead over to the poll, as deep each way as required </cell>
+<cell> As dotted 2 to 2. </cell>
+<cell> &nbsp; </cell>
+<cell> &nbsp; </cell>
+</row>
+<row>
+<cell> From one Temple to the other, across the rise or Crown of the head to where the Hair grows </cell>
+<cell> As marked 3 to 3. </cell>
+<cell> &nbsp; </cell>
+<cell> &nbsp; </cell>
+</row>
+</table>
+</p>
+<p>THE CHARGE FOR THIS UNIQUE HEAD OF HAIR ONLY &pound;1 10<hi rend="italics">s.</hi></p>
+</div2>
+<div2 type="advertisement">
+<head>BRITISH COLLEGE OF HEALTH,</head><p>NEW ROAD, LONDON.</p>
+<p>The following is a list of Agents for the Sale of MORISON (the HYGEIST'S) PILLS, the VEGETABLE UNIVERSAL MEDICINE, in London and its vicinity.</p>
+<p>
+<table rows="19" cols="3">
+<row>
+<cell> 368, </cell>
+<cell> Strand, (John Lofts, jun.) </cell>
+<cell> The Hygeist Office </cell>
+</row>
+<row>
+<cell> 65, </cell>
+<cell> Quadrant, Regent-street </cell>
+<cell> Mr. Field </cell>
+</row>
+<row>
+<cell> 53, </cell>
+<cell> Cambridge-street, Edgeware-road </cell>
+<cell> Mrs. Good </cell>
+</row>
+<row>
+<cell> 1, </cell>
+<cell> Park-place, Mile-end-road </cell>
+<cell> Mr. Lofts </cell>
+</row>
+<row>
+<cell> 63, </cell>
+<cell> Oxford-street </cell>
+<cell> Dietrichsen and Hannay, Perfumers </cell>
+</row>
+<row>
+<cell> 20, </cell>
+<cell> New-road, St. George's-in-the-east </cell>
+<cell> Mr. J. Kaines </cell>
+</row>
+<row>
+<cell> 55, </cell>
+<cell> Watling-street </cell>
+<cell> Mrs. E. Dare </cell>
+</row>
+<row>
+<cell> 133, </cell>
+<cell> Great Tower-street </cell>
+<cell> Mr. Baldwin </cell>
+</row>
+<row>
+<cell> 182, </cell>
+<cell> Strand </cell>
+<cell> Mr. E. Griffin, Perfumer </cell>
+</row>
+<row>
+<cell> 8, </cell>
+<cell> Townsend-street, Old Kent-road </cell>
+<cell> Mrs. Foulser </cell>
+</row>
+<row>
+<cell> 123, </cell>
+<cell> Tottenham-court-road </cell>
+<cell> Mr. Rayner </cell>
+</row>
+<row>
+<cell> 123, </cell>
+<cell> Walham-green </cell>
+<cell> Mrs. Marchant </cell>
+</row>
+<row>
+<cell> 123, </cell>
+<cell> Brentford (Post-Office) </cell>
+<cell> Mr. Norbury </cell>
+</row>
+<row>
+<cell> 123, </cell>
+<cell> Clapham </cell>
+<cell> Mr. Batten's Library </cell>
+</row>
+<row>
+<cell> 53, </cell>
+<cell> Great Chart-street, East-road, Hoxton </cell>
+<cell> Mr. J. Dinmore </cell>
+</row>
+<row>
+<cell> 68, </cell>
+<cell> Cornhill </cell>
+<cell> Mr. R. Johnston, Perfumer, &amp;c. </cell>
+</row>
+<row>
+<cell> 83, </cell>
+<cell> High Holborn </cell>
+<cell> Mr. William Hallett </cell>
+</row>
+<row>
+<cell> 83, </cell>
+<cell> Deptford </cell>
+<cell> Mr. Porritt, Bookseller </cell>
+</row>
+<row>
+<cell> 83, </cell>
+<cell> Staines </cell>
+<cell> Mrs. Norris's Library </cell>
+</row>
+</table>
+</p>
+<p>An Agent for the Medicine may be found in every town in the kingdom, and all the principal cities throughout the world.</p>
+</div2>
+<div2 type="advertisement">
+<head>BALSAM COPAIBA</head><p>and all other Medicines of a nauseous character may now be taken without inconvenience, by means of the PATENT FLEXIBLE CAPSULES. These Capsules will be found superior to those made with Gelatine. They remain entire until they have passed through the stomach into the intestines; and the medicine being efficiently brought in contact with the organs it is intended to affect, the usual nausea and unpleasant eructations are avoided. EVANS &amp; LESCHER, London, Patentees; and all Medicine Vendors throughout the kingdom.</p>
+<p>The recent discovery that the low priced Gelatine Capsules contain a compound of train and other oils, and in many cases no Copaiba whatever, renders it important that the public should be made aware that the PATENT FLEXIBLE CAPSULES are guaranteed to contain <hi rend="italics">genuine Copaiba only.</hi></p>
+</div2>
+</div1>
+</front>
+
+
+<body>
+<div1 type="section">
+<pb id="piii" n="[i]"/>
+<p><figure><p><hi rend="italics">Mr. Dick fulfil's my Aunt's prediction.</hi></p></figure></p>
+</div1>
+<div1 type="section">
+<pb id="pxxx5" n="[ii]"/>
+<p><figure><p><hi rend="italics">Our Housekeeping.</hi></p></figure></p>
+</div1>
+<div1 type="advertisement">
+<pb id="p1a" n="[1]"/>
+<opener>Familiar in their Mouths as &ldquo;HOUSEHOLD WORDS.&rdquo;&mdash;<hi rend="italics">Skakespeare.</hi><lb/><hi rend="italics">Published weekly, price 2d., or Stamped for post, 3d; also in</hi> MONTHLY PARTS,</opener><head>HOUSEHOLD WORDS.</head>
+<p>A Weekly Journal.</p>
+<p>DESIGNED FOR THE INSTRUCTION AND ENTERTAINMENT OF ALL <lb/> CLASSES OF READERS.</p>
+<p>CONDUCTED BY <lb/> CHARLES DICKENS.</p>
+<p><hi rend="italics">The THIRD PART published on the</hi> 4<hi rend="italics">th of JULY.</hi></p>
+<div2 type="section">
+<head>CONTENTS OF PART III.&mdash;PRICE 11D.</head>
+<list type="section">
+<head>No. X.</head>
+<item>A Popular Delusion.</item>
+<item>Greenwich Weather-Wisdom.</item>
+<item>My Wonderful Adventures in Skitzland.</item>
+<item>Birth Song.</item>
+<item>Song of Death.</item>
+<item>The Sickness and Health of the People of Bleaburn.&mdash;In Three Parts.</item>
+<item>The Song of Sorrow.&mdash;A Fable from the Swedish.</item>
+<item>The Appetite for News.</item>
+</list>
+<list type="section">
+<head>No. XI.</head>
+<item>From the Raven in the Happy Family.</item>
+<item>How we went Fishing in Canada.</item>
+<item>A Wish.</item>
+<item>The Black Diamonds of England.</item>
+<item>The Great Penal Experiments.</item>
+<item>The Orphan's Voyage Home.</item>
+<item>Illustrations of Cheapness.&mdash;Tea.</item>
+<item>The Sickness and Health of the People of Bleaburn.</item>
+<item>Young Russia.</item>
+</list>
+<list type="section">
+<head>No. XII.</head>
+<item>Old Lamps for New Ones.</item>
+<item>Savings' Bank Defalcations.</item>
+<item>The Summer Sabbath.</item>
+<item>Newspaper Antecedents.</item>
+<item>The Royal Rotten Row Commission.</item>
+<item>A Village Tale.</item>
+<item>The Fire Annihilator.</item>
+<item>The Sickness and Health of the People of Bleaburn.</item>
+<item>The Revenge of &AElig;sop.&mdash;Imitated from Ph&aelig;drus.</item>
+<item>The Golden Fagots.&mdash;A Child's Tale.</item>
+</list>
+<list type="section">
+<head>No. XIII.</head>
+<item>The Sunday Screw.</item>
+<item>The Young Advocate.</item>
+<item>Earth's Harvests.</item>
+<item>&ldquo;The Devil's Acre.&rdquo;</item>
+<item>&ldquo;Press On.&rdquo;&mdash;A Rivulet's Song.</item>
+<item>Address from an Undertaker to the Trade.&mdash;(Strictly Private and Confidential.)</item>
+<item>The Two Sacks.&mdash;Imitated from Ph&aelig;drus.</item>
+<item>The Modern &ldquo;Officer's&rdquo; Progress.&mdash;I. Joining the Regiment.</item>
+<item>Pictures of Life in Australia.</item>
+<item>Ebenezer Elliott.</item>
+</list>
+<list type="section">
+<head>No. XIV.</head>
+<item>The Golden City.</item>
+<item>The Modern &ldquo;Officer's&rdquo; Progress.&mdash;II. A Subaltern's Day.</item>
+<item>The Belgian Lace-makers.</item>
+<item>Flowers.</item>
+<item>The Cattle-Road to Ruin.</item>
+<item>The Power of Mercy.</item>
+<item>Class Opinions.&mdash;A Fable.</item>
+<item>The Registrar-General on &ldquo;Life&rdquo; in London.</item>
+<item>Bed.</item>
+</list>
+</div2>
+<div2 type="section">
+<head>CONTENTS OF PART II.&mdash;PRICE 9D.</head>
+<list type="section">
+<head>No. VI.</head>
+<item>The Heart of Mid-London.</item>
+<item>The Miner's Daughters.&mdash;A Tale of the Peak.</item>
+<item>New Life and Old Learning.</item>
+<item>The Railway Station.</item>
+<item>The Brown Hat.</item>
+<item>Alchemy and Gunpowder.</item>
+<item>&ldquo;A Good Plain Cook.&rdquo;</item>
+<item>Two-Handed Dick the Stockman.&mdash;An Adventure in the Bush.</item>
+</list>
+<list type="section">
+<head>No. VII.</head>
+<item>The Fire Brigade of London.</item>
+<item>Poetry in the Bye-Ways.</item>
+<item>The Miner's Daughters.&mdash;A Tale of the Peak.</item>
+<item>The Uses of Sorrow.</item>
+<item>From the Raven in the Happy Family.</item>
+<item>Illustrations of Cheapness.&mdash;Eggs.</item>
+<item>Music in Humble Life.</item>
+<item>A Paris Newspaper.</item>
+<item>Lines by Robert Southey.</item>
+<item>Short Cuts Across the Globe.</item>
+<item>Curious Epitaph.</item>
+</list>
+<list type="section">
+<head>No. VIII.</head>
+<item>The Begging-Letter Question.</item>
+<item>The Great Cat and Dog Question.</item>
+<item>A Card from Mr. Booley.</item>
+<item>Law at a Low Price.</item>
+<item>Swedish Folk-Songs.&mdash;Fair Carin.</item>
+<item>A Visit to the Arctic Discovery Ships.</item>
+<item>The Miner's Daughters.&mdash;A Tale of the Peak.</item>
+<item>Letter from a Highly Respectable Old Lady.</item>
+<item>A Sample of the Old School.</item>
+</list>
+<list type="section">
+<head>No. IX.</head>
+<item>The Sickness and Health of the People of Bleaburn.&mdash;In Three Parts.&mdash;Chapter I.</item>
+<item>Spring-Time in the Court.</item>
+<item>The Planet-Watchers of Greenwich.</item>
+<item>Swedish Folk-Songs.&mdash;The Dove on the Lily.</item>
+<item>A Walk in a Workhouse.</item>
+<item>The &ldquo;Irish Difficulty&rdquo; solved by Con Me Nale.</item>
+<item>William Wordsworth.</item>
+<item>Father and Son.</item>
+</list>
+</div2>
+<div2 type="section">
+<pb n="2" id="p2a"/>
+<head>CONTENTS OF PART I.&mdash;PRICE 11D.</head>
+<list type="section">
+<head>No. I.</head>
+<item>A Preliminary Word.</item>
+<item>Lizzie Leigh.&mdash;In Four Chapters.&mdash;Chapter I.</item>
+<item>Valentine's Day at the Post Office.</item>
+<item>Abraham and the Fire-Worshipper</item>
+<item>The Amusements of the People.</item>
+<item>An Incident in the Life of Madlle. Clairon.</item>
+<item>The Wayside Well.</item>
+<item>A Bundle of Emigrants' Letters.</item>
+<item>Milking in Australia.</item>
+<item>Metal Sea-Water.</item>
+</list>
+<list type="section">
+<head>No. II</head>
+<item>A Child's Dream of a Star.</item>
+<item>The True Story of a Coal Fire.&mdash;In Three Chapters.</item>
+<item>Lizzie Leigh.&mdash;In Four Chapters.&mdash;Chapter II.</item>
+<item>Work! An Anecdote.</item>
+<item>Good Verses of a Bad Poet.</item>
+<item>Perfect Felicity.&mdash;In a Bird's-Eye View</item>
+<item>A Dialogue of Shadows.</item>
+<item>An Australian Ploughman's Story</item>
+<item>Heathen and Christian Burial.</item>
+</list>
+<list type="section">
+<head>No. III.</head>
+<item>The Household Narrative.</item>
+<item>The Troubled Water Question.</item>
+<item>Illustrations of Cheapness.&mdash;The Lucifer Match.</item>
+<item>The Amusements of the People.</item>
+<item>Sonnet.&mdash;To Lord Denman.</item>
+<item>Lizzie Leigh.&mdash;In Four Chapters.&mdash;Chap. III.</item>
+<item>The Seasons.</item>
+<item>Short Cuts across the Globe.</item>
+<item>The True Story of a Coal Fire.&mdash;Chap. II.</item>
+</list>
+<list type="section">
+<head>No. IV.</head>
+<item>Some Account of an Extraordinary Traveller</item>
+<item>Loaded Dice.</item>
+<item>Dream within Dream; or, Evil Minimised.</item>
+<item>The Schoolmaster at Home and Abroad.</item>
+<item>The Lady Alice.</item>
+<item>Illustrations of Cheapness.&mdash;A Globe.</item>
+<item>The Ghost of the late Mr. James Barber.&mdash;A Yarn Ashore.</item>
+<item>The True Story of a Coal Fire.&mdash;Chapter the Last.</item>
+<item>Supposing!</item>
+</list>
+<list type="section">
+<head>No. V</head>
+<item>Pet Prisoners.</item>
+<item>A Tale of the Good Old Times.</item>
+<item>Baptismal Rituals.</item>
+<item>Arctic Heroes.&mdash;A Fragment of Naval History.</item>
+<item>A Coroner's Inquest.</item>
+<item>Francis Jeffrey.</item>
+<item>The Young Jew of Tunis.</item>
+</list>
+</div2>
+</div1>
+<div1 type="advertisement">
+<opener><hi rend="italics">Published Monthly, with the Magazines, price</hi> 2<hi rend="italics">d., or Stamped</hi> 3<hi rend="italics">d.</hi></opener>
+<head>THE <lb/> HOUSEHOLD NARRATIVE <lb/> OF CURRENT EVENTS.</head>
+<p>BEING <lb/> A Monthly Supplement to &ldquo;Household Words,&rdquo; <lb/> CONDUCTED BY <lb/> CHARLES DICKENS.</p>
+<p>WE take this opportunity of announcing a design closely associated with our Household Words, which we have now matured, and which we hope will be acceptable to our readers.</p>
+<p>We propose publishing, at the end of each month, as a Supplementary Number to the monthly part of &ldquo;HOUSEHOLD WORDS,&rdquo; a comprehensive Abstract or History of all the occurrences of that month, native and foreign, under the title of THE HOUSEHOLD NARRATIVE OF CURRENT EVENTS.</p>
+<p>The size and price of each of these numbers will be the same as the size and price of a single number of &ldquo;HOUSEHOLD WORDS.&rdquo; Twelve numbers will necessarily be published in the course of the year&mdash;one for each month&mdash;and on the completion of the Annual Volume, a copious Index will appear, and a title-page for the volume, which will then be called THE HOUSEHOLD NARRATIVE of such a year. It will form a complete Chronicle of all that year's events, carefully compiled, thoroughly digested, and systematically arranged for easy reference, presenting a vast mass of information that must be interesting to all, at a price that will render it accessible to the humblest purchasers of books, at which only our existing machinery in connexion with our Weekly Miscellany would enable us to produce it.</p>
+<p>The first number of THE HOUSEHOLD NARRATIVE will appear as a Supplement to the first monthly part of &ldquo;HOUSEHOLD WORDS,&rdquo; published at the end of the present month of APRIL. As the Volume for 1850 would be incomplete (in consequence of our not having commenced this publication at the beginning of a year) without a backward reference to the three months of JANUARY, FEBRUARY, and MARCH, a similar number of THE HOUSEHOLD NARRATIVE for each of those months, will be published before the year is out.</p>
+<p>It is scarcely necessary to explain that it is not proposed to render the purchase of THE HOUSEHOLD NARRATIVE compulsory on the purchasers of &ldquo;HOUSEHOLD WORDS;&rdquo; and that the Supplementary Number, though always published at the same time as our Monthly Part, will therefore be detached from it, and published separately.</p>
+<p>Nor is it necessary for us, we believe, to expatiate on our leading reasons for adding this new undertaking to our present enterprise. The intimate connexion between the facts and realities of the time, and the means by which we aim, in &ldquo;HOUSEHOLD WORDS,&rdquo; to soften what is hard in them, to exalt what is held in little consideration, and to show the latent hope there is in what may seem unpromising, needs not be pointed out. All that we sought to express in our Preliminary Word, in reference to this work, applies, we think, to its proposed companion. As another humble means of enabling those who accept us for their friend, to bear the world's rough-cast events to the anvil of courageous duty, and there beat them into a shape, we enter on the project, and confide in its success.</p>
+<p>The Number for JUNE was published on the 1st of July.</p>
+<p><hi rend="italics">The Numbers for April and May may be had of all Booksellers and Newsmen.</hi></p>
+<closer>OFFICE, 16, WELLINGTON STREET NORTH, STRAND; <lb/> AND ALL BOOKSELLERS AND NEWSMEN.</closer>
+<trailer>[Bradbury &amp; Evans, Printers, Whitefriars.</trailer>
+</div1>
+
+
+<div1 type="narrative">
+<pb n="449" id="p449"/>
+
+<head>[THE 
+<lb/> PERSONAL HISTORY AND EXPERIENCE <lb/> OF <lb/> DAVID COPPERFIELD THE YOUNGER.]
+</head>
+
+
+<div2 type="chapter"><head>CHAPTER XLIV. <lb/> OUR HOUSEKEEPING.</head>
+<p>IT was a strange condition of things, the honey-moon being over, and the bridesmaids gone home, when I found myself sitting down in my own small house with Dora; quite thrown out of employment, as I may say, in respect of the delicious old occupation of making love.</p>
+<p>It seemed such an extraordinary thing to have Dora always there. It was so unaccountable not to be obliged to go out to see her, not to have any occasion to be tormenting myself about her, not to have to write to her, not to be scheming and devising opportunities of being alone with her. Sometimes of an evening, when I looked up from my writing, and saw her seated opposite, I would lean back in my chair, and think how queer it was that there we were, alone together as a matter of course&mdash;nobody's business any more&mdash;all the romance of our engagement put away upon a shelf, to rust&mdash;no one to please but one another&mdash;one another to please, for life.</p>
+<p>When there was a debate, and I was kept out very late, it seemed so strange to me, as I was walking home, to think that Dora was at home! It was such a wonderful thing, at first, to have her coming softly down to talk to me as I ate my supper. It was such a stupendous thing to know for certain that she put her hair in papers. It was altogether such an astonishing event to see her do it!</p>
+<p>I doubt whether two young birds could have known less about keeping house, than I and my pretty Dora did. We had a servant, of course. She kept house for us. I have still a latent belief that she must have been Mrs. Crupp's daughter in disguise, we had such an awful time of it with Mary Anne.</p>
+<p>Her name was Paragon. Her nature was represented to us, when we engaged her, as being feebly expressed in her name. She had a written character, as large as a proclamation; and, according to this document, could do everything of a domestic nature that ever I heard of, and a great many things that I never did hear of. She was a woman in the prime of life; of a severe countenance; and subject (particularly in the arms) to a sort of perpetual measles or fiery rash. She had a cousin in the Life Guards, with such long legs that he looked like the afternoon shadow of somebody else. His shell-jacket was as much too little for him as he was too big for the premises. He made the cottage smaller than it need have been, by being so very much out of proportion to it. Besides which, the walls were not thick, and whenever he passed the evening at our house, we always knew of it by hearing one continual growl in the kitchen.</p>
+<p>Our treasure was warranted sober and honest. I am therefore willing to believe that she was in a fit when we found her under the boiler; and that the deficient teaspoons were attributable to the dustman.</p>
+<p>But she preyed upon our minds dreadfully. We felt our inexperience,
+<pb n="450" id="p450"/>
+and were unable to help ourselves. We should have been at her mercy, if she had had any; but she was a remorseless woman, and had none. She was the cause of our first little quarrel.</p>
+<p>&ldquo;My dearest life,&rdquo; I said one day to Dora, &ldquo;do you think Mary Anne has any idea of time?&rdquo;</p>
+<p>&ldquo;Why, Doady?&rdquo; inquired Dora, looking up, innocently, from her drawing.</p>
+<p>&ldquo;My love, because it's five, and we were to have dined at four.&rdquo;</p>
+<p>Dora glanced wistfully at the clock, and hinted that she thought it was too fast.</p>
+<p>&ldquo;On the contrary, my love,&rdquo; said I, referring to my watch, &ldquo;it's a few minutes too slow.&rdquo;</p>
+<p>My little wife came and sat upon my knee, to coax me to be quiet, and drew a line with her pencil down the middle of my nose; but I couldn't dine off that, thought it was very agreeable.</p>
+<p>&ldquo;Don't you think, my dear,&rdquo; said I, &ldquo;it would be better for you to remonstrate with Mary Anne?&rdquo;</p>
+<p>&ldquo;Oh no, please! I couldn't, Doady!&rdquo; said Dora.</p>
+<p>&ldquo;Why not, my love?&rdquo; I gently asked.</p>
+<p>&ldquo;Oh, because I am such a little goose,&rdquo; said Dora, &ldquo;and she knows I am!&rdquo;</p>
+<p>I thought this sentiment so incompatible with the establishment of any system of check on Mary Anne, that I frowned a little.</p>
+<p>&ldquo;Oh, what ugly wrinkles in my bad boy's forehead!&rdquo; said Dora, and still being on my knee, she traced them with her pencil; putting it to her rosy lips to make it mark blacker, and working at my forehead with a quaint little mockery of being industrious, that quite delighted me in spite of myself.</p>
+<p>&ldquo;There's a good child,&rdquo; said Dora, &ldquo;it makes its face so much prettier to laugh.&rdquo;</p>
+<p>&ldquo;But, my love,&rdquo; said I.</p>
+<p>&ldquo;No, no! please!&rdquo; cried Dora, with a kiss, &ldquo;don't be a naughty Blue Beard! Don't be serious!&rdquo;</p>
+<p>&ldquo;My precious wife,&rdquo; said I, &ldquo;we must be serious sometimes. Come! Sit down on this chair, close beside me! Give me the pencil! There! Now let us talk sensibly. You know, dear;&rdquo; what a little hand it was to hold, and what a tiny wedding-ring it was to see! &ldquo;You know, my love, it is not exactly comfortable to have to go out without one's dinner. Now, is it?&rdquo;</p>
+<p>&ldquo;N&mdash;n&mdash;no!&rdquo; replied Dora, faintly.</p>
+<p>&ldquo;My love, how you tremble!&rdquo;</p>
+<p>&ldquo;Because I KNOW you're going to scold me,&rdquo; exclaimed Dora, in a piteous voice.</p>
+<p>&ldquo;My sweet, I am only going to reason.&rdquo;</p>
+<p>&ldquo;Oh, but reasoning is worse than scolding!&rdquo; exclaimed Dora, in despair. &ldquo;I didn't marry to be reasoned with. If you meant to reason with such a poor little thing as I am, you ought to have told me so, you cruel boy!&rdquo;</p>
+<p>I tried to pacify Dora, but she turned away her face, and shook her curls from side to side, and said &ldquo;You cruel, cruel boy!&rdquo; so many times,
+<pb n="451" id="p451"/>
+that I really did not exactly know what to do: so I took a few turns up and down the room in my uncertainty, and came back again.</p>
+<p>&ldquo;Dora, my darling!&rdquo;</p>
+<p>&ldquo;No, I am not your darling. Because you <hi rend="italics">must</hi> be sorry that you married me, or else you wouldn't reason with me!&rdquo; returned Dora.</p>
+<p>I felt so injured by the inconsequential nature of this charge, that it gave me courage to be grave.</p>
+<p>&ldquo;Now, my own Dora,&rdquo; said I, &ldquo;you are very childish, and are talking nonsense. You must remember, I am sure, that I was obliged to go out yesterday when dinner was half over; and that, the day before, I was made quite unwell by being obliged to eat underdone veal in a hurry; to-day, I don't dine at all&mdash;and I am afraid to say how long we waited for breakfast&mdash;and <hi rend="italics">then</hi> the water didn't boil. I don't mean to reproach you, my dear, but this is not comfortable.&rdquo;</p>
+<p>&ldquo;Oh, you cruel, cruel boy, to say I am a disagreeable wife!&rdquo; cried Dora.</p>
+<p>&ldquo;Now, my dear Dora, you must know that I never said that!&rdquo;</p>
+<p>&ldquo;You said I wasn't comfortable!&rdquo; said Dora.</p>
+<p>&ldquo;I said the housekeeping was not comfortable.&rdquo;</p>
+<p>&ldquo;It's exactly the same thing!&rdquo; cried Dora. And she evidently thought so, for she wept most grievously.</p>
+<p>I took another turn across the room, full of love for my pretty wife, and distracted by self-accusatory inclinations to knock my head against the door. I sat down again, and said:</p>
+<p>&ldquo;I am not blaming you, Dora. We have both a great deal to learn. I am only trying to show you, my dear, that you must&mdash;you really must&rdquo; (I was resolved not to give this up)&mdash;&ldquo;accustom yourself to look after Mary Anne. Likewise to act a little for yourself, and me.&rdquo;</p>
+<p>&ldquo;I wonder, I do, at your making such ungrateful speeches,&rdquo; sobbed Dora. &ldquo;When you know that the other day, when you said you would like a little bit of fish, I went out myself, miles and miles, and ordered it, to surprise you.&rdquo;</p>
+<p>&ldquo;And it was very kind of you, my own darling,&rdquo; said I. &ldquo;I felt it so much that I wouldn't on any account have even mentioned that you bought a Salmon&mdash;which was too much for two. Or that it cost one pound six&mdash;which was more than we can afford.&rdquo;</p>
+<p>&ldquo;You enjoyed it very much,&rdquo; sobbed Dora. &ldquo;And you said I was a Mouse.&rdquo;</p>
+<p>&ldquo;And I'll say so again, my love,&rdquo; I returned, &ldquo;a thousand times!&rdquo;</p>
+<p>But I had wounded Dora's soft little heart, and she was not to be comforted. She was so pathetic in her sobbing and bewailing, that I felt as if I had said I don't know what to hurt her. I was obliged to hurry away; I was kept out late; and I felt all night such pangs of remorse as made me miserable. I had the conscience of an assassin, and was haunted by a vague sense of enormous wickedness.</p>
+<p>It was two or three hours past midnight when I got home. I found my aunt, in our house, sitting up for me.</p>
+<p>&ldquo;Is anything the matter, aunt?&rdquo; said I, alarmed.</p>
+<p>&ldquo;Nothing, Trot,&rdquo; she replied. &ldquo;Sit down, sit down. Little Blossom has been rather out of spirits, and I have been keeping her company. That's all.&rdquo;</p>
+<pb n="452" id="p452"/>
+<p>I leaned my head upon my hand; and felt more sorry and downcast, as I sat looking at the fire, than I could have supposed possible so soon after the fulfilment of my brightest hopes. As I sat thinking, I happened to meet my aunt's eyes, which were resting on my face. There was an anxious expression in them, but it cleared directly.</p>
+<p>&ldquo;I assure you, aunt,&rdquo; said I, &ldquo;I have been quite unhappy myself all night, to think of Dora's being so. But I had no other intention than to speak to her tenderly and lovingly about our home-affairs.&rdquo;</p>
+<p>My aunt nodded encouragement.</p>
+<p>&ldquo;You must have patience, Trot,&rdquo; said she.</p>
+<p>&ldquo;Of course. Heaven knows I don't mean to be unreasonable, aunt!&rdquo;</p>
+<p>&ldquo;No, no,&rdquo; said my aunt. &ldquo;But Little Blossom is a very tender little blossom, and the wind must be gentle with her.&rdquo;</p>
+<p>I thanked my good aunt, in my heart, for her tenderness towards my wife; and I was sure that she knew I did.</p>
+<p>&ldquo;Don't you think, aunt,&rdquo; said I, after some further contemplation of the fire, &ldquo;that you could advise and counsel Dora a little, for our mutual advantage, now and then?&rdquo;</p>
+<p>&ldquo;Trot,&rdquo; returned my aunt, with some emotion, &ldquo;no! Don't ask me such a thing!&rdquo;</p>
+<p>Her tone was so very earnest that I raised my eyes in surprise.</p>
+<p>&ldquo;I look back on my life, child,&rdquo; said my aunt, &ldquo;and I think of some who are in their graves, with whom I might have been on kinder terms. If I judged harshly of other people's mistakes in marriage, it may have been because I had bitter reason to judge harshly of my own. Let that pass. I have been a grumpy, frumpy, wayward sort of a woman, a good many years. I am still, and I always shall be. But you and I have done one another some good, Trot,&mdash;at all events, you have done me good, my dear; and division must not come between us, at this time of day.&rdquo;</p>
+<p>&ldquo;Division between <hi rend="italics">us!</hi>&rdquo; cried I.</p>
+<p>&ldquo;Child, child!&rdquo; said my aunt, smoothing her dress, &ldquo;how soon it might come between us, or how unhappy I might make our Little Blossom, if I meddled in anything, a prophet couldn't say. I want our pet to like me, and be as gay as a butterfly. Remember your own home, in that second marriage; and never do both me and her the injury you have hinted at!&rdquo;</p>
+<p>I comprehended, at once, that my aunt was right; and I comprehended the full extent of her generous feeling towards my dear wife.</p>
+<p>&ldquo;These are early days, Trot,&rdquo; she pursued, &ldquo;and Rome was not built in a day, nor in a year. You have chosen freely for yourself;&rdquo; a cloud passed over her face for a moment, I thought; &ldquo;and you have chosen a very pretty and a very affectionate creature. It will be your duty, and it will be your pleasure too&mdash;of course I know that; I am not delivering a lecture&mdash;to estimate her (as you chose her) by the qualities she has, and not by the qualities she may not have. The latter you must develop in her, if you can. And if you cannot, child,&rdquo; here my aunt rubbed her nose, &ldquo;you must just accustom yourself to do without 'em. But remember, my dear, your future is between you two. No one can assist you; you are to work it out for yourselves. This is marriage, Trot; and Heaven bless you both, in it, for a pair of babes in the wood as you are!&rdquo;</p>
+<pb n="453" id="p453"/>
+<p>My aunt said this in a sprightly way, and gave me a kiss to ratify the blessing.</p>
+<p>&ldquo;Now,&rdquo; said she, &ldquo;light my little lantern, and see me into my bandbox by the garden path;&rdquo; for there was a communication between our cottages in that direction. &ldquo;Give Betsey Trotwood's love to Blossom, when you come back; and whatever you do, Trot, never dream of setting Betsey up as a scarecrow, for if <hi rend="italics">I</hi> ever saw her in the glass, she's quite grim enough and gaunt enough in her private capacity!&rdquo;</p>
+<p>With this my aunt tied her head up in a handkerchief, with which she was accustomed to make a bundle of it on such occasions; and I escorted her home. As she stood in her garden, holding up her little lantern to light me back, I thought her observation of me had an anxious air again; but I was too much occupied in pondering on what she had said, and too much impressed&mdash;for the first time, in reality&mdash;by the conviction that Dora and I had indeed to work out our future for ourselves, and that no one could assist us, to take much notice of it.</p>
+<p>Dora came stealing down in her little slippers, to meet me, now that I was alone; and cried upon my shoulder, and said I had been hardhearted and she had been naughty; and I said much the same thing in effect, I believe; and we made it up, and agreed that our first little difference was to be our last, and that we were never to have another if we lived a hundred years.</p>
+<p>The next domestic trial we went through, was the Ordeal of Servants. Mary Anne's cousin deserted into our coal-hole, and was brought out, to our great amazement, by a piquet of his companions in arms, who took him away handcuffed in a procession that covered our front-garden with ignominy. This nerved me to get rid of Mary Anne, who went so mildly, on receipt of wages, that I was surprised, until I found out about the tea-spoons, and also about the little sums she had borrowed in my name of the tradespeople without authority. After an interval of Mrs. Kidgerbury&mdash;the oldest inhabitant of Kentish Town, I believe, who went out charing, but was too feeble to execute her conceptions of that art&mdash;we found another treasure, who was one of the most amiable of women, but who generally made a point of falling either up or down the kitchen stairs with the tray, and almost always plunged into the parlor, as into a bath, with the tea-things. The ravages committed by this unfortunate, rendering her dismissal necessary, she was succeeded (with intervals of Mrs. Kidgerbury) by a long line of Incapables; terminating in a young person of genteel appearance, who went to Greenwich Fair in Dora's bonnet. After whom I remember nothing but an average equality of failure.</p>
+<p>Everybody we had anything to do with seemed to cheat us. Our appearance in a shop was a signal for the damaged goods to be brought out immediately. If we bought a lobster, it was full of water. All our meat turned out to be tough, and there was hardly any crust to our loaves. In search of the principle on which joints ought to be roasted, to be roasted enough, and not too much, I myself referred to the Cookery Book, and found it there established as the allowance of a quarter of an hour to every pound, and say a quarter over. But the principle always failed us by some curious fatality, and we never could hit any medium between redness and cinders.</p>
+<pb n="454" id="p454"/>
+<p>I had reason to believe that in accomplishing these failures we incurred a far greater expense than if we had achieved a series of triumphs. It appeared to me, on looking over the tradesmen's books, as if we might have kept the basement story paved with butter, such was the extensive scale of our consumption of that article. I don't know whether the Excise returns of the period may have exhibited any increase in the demand for pepper; but if our performances did not affect the market, I should say several families must have left off using it. And the most wonderful fact of all was, that we never had anything in the house.</p>
+<p>As to the washerwoman pawning the clothes, and coming in a state of penitent intoxication to apologise, I suppose that might have happened several times to anybody. Also the chimney on fire, the parish engine, and perjury on the part of the Beadle. But I apprehend that we were personally unfortunate in engaging a servant with a taste for cordials, who swelled our running account for porter at the public-house by such inexplicable items as &ldquo;quartern rum shrub (Mrs. C.)&rdquo; &ldquo;Half-quartern gin and cloves (Mrs. C.)&rdquo; &ldquo;Glass rum and peppermint (Mrs. C.)&rdquo;&mdash;the parenthesis always referring to Dora, who was supposed, it appeared on explanation, to have imbibed the whole of these refreshments.</p>
+<p>One of our first feats in the housekeeping way was a little dinner to Traddles. I met him in town, and asked him to walk out with me that afternoon. He readily consenting, I wrote to Dora, saying I would bring him home. It was pleasant weather, and on the road we made my domestic happiness the theme of conversation. Traddles was very full of it; and said, that, picturing himself with such a home, and Sophy waiting and preparing for him, he could think of nothing wanting to complete his bliss.</p>
+<p>I could not have wished for a prettier little wife at the opposite end of the table, but I certainly could have wished, when we sate down, for a little more room. I did not know how it was, but though there were only two of us, we were at once always cramped for room, and yet had always room enough to lose everything in. I suspect it may have been because nothing had a place of its own, except Jip's pagoda, which invariably blocked up the main thoroughfare. On the present occasion, Traddles was so hemmed in by the pagoda and the guitar-case, and Dora's flower-painting, and my writing-table, that I had serious doubts of the possibility of his using his knife and fork; but he protested, with his own good-humour, &ldquo;Oceans of room, Copperfield! I assure you, Oceans!&rdquo;</p>
+<p>There was another thing I could have wished, namely, that Jip had never been encouraged to walk about the table-cloth during dinner. I began to think there was something disorderly in his being there at all, even if he had not been in the habit of putting his foot in the salt or the melted butter. On this occasion he seemed to think he was introduced expressly to keep Traddles at bay; and he barked at my old friend, and made short runs at his plate, with such undaunted pertinacity, that he may be said to have engrossed the conversation.</p>
+<p>However, as I knew how tender-hearted my dear Dora was, and how sensitive she would be to any slight upon her favorite, I hinted no objection. For similar reasons I made no allusion to the skirmishing
+<pb n="455" id="p455"/>
+plates upon the floor; or to the disreputable appearance of the castors, which were all at sixes and sevens, and looked drunk; or to the further blockade of Traddles by wandering vegetable dishes and jugs. I could not help wondering in my own mind, as I contemplated the boiled leg of mutton before me, previous to carving it, how it came to pass that our joints of meat were of such extraordinary shapes&mdash;and whether our butcher contracted for all the deformed sheep that came into the world; but I kept my reflections to myself.</p>
+<p>&ldquo;My love,&rdquo; said I to Dora, &ldquo;what have you got in that dish?&rdquo;</p>
+<p>I could not imagine why Dora had been making tempting little faces at me, as if she wanted to kiss me.</p>
+<p>&ldquo;Oysters, dear,&rdquo; said Dora, timidly.</p>
+<p>&ldquo;Was that <hi rend="italics">your</hi> thought?&rdquo; said I, delighted.</p>
+<p>&ldquo;Ye-yes, Doady,&rdquo; said Dora.</p>
+<p>&ldquo;There never was a happier one!&rdquo; I exclaimed, laying down the carving-knife and fork. &ldquo;There is nothing Traddles likes so much!&rdquo;</p>
+<p>&ldquo;Ye-yes, Doady,&rdquo; said Dora, &ldquo;and so I bought a beautiful little barrel of them, and the man said they were very good. But I&mdash;I am afraid there's something the matter with them. They don't seem right.&rdquo; Here Dora shook her head, and diamonds twinkled in her eyes.</p>
+<p>&ldquo;They are only opened in both shells,&rdquo; said I. &ldquo;Take the top one off, my love.&rdquo;</p>
+<p>&ldquo;But it won't come off,&rdquo; said Dora, trying very hard, and looking very much distressed.</p>
+<p>&ldquo;Do you know, Copperfield,&rdquo; said Traddles, cheerfully examining the dish, &ldquo;I think it is in consequence&mdash;they are capital oysters, but I <hi rend="italics">think</hi> it is in consequence&mdash;of their never having been opened.&rdquo;</p>
+<p>They never had been opened; and we had no oyster-knives&mdash;and couldn't have used them if we had; so we looked at the oysters and ate the mutton. At least we ate as much of it as was done, and made up with capers. If I had permitted him, I am satisfied that Traddles would have made a perfect savage of himself, and eaten a plateful of raw meat, to express enjoyment of the repast; but I would hear of no such immolation on the altar of friendship, and we had a course of bacon instead; there happening, by good fortune, to be cold bacon in the larder.</p>
+<p>My poor little wife was in such affliction when she thought I should be annoyed, and in such a state of joy when she found I was not, that the discomfiture I had subdued, very soon vanished, and we passed a happy evening; Dora sitting with her arm on my chair while Traddles and I discussed a glass of wine, and taking every opportunity of whispering in my ear that it was so good of me not to be a cruel, cross old boy. By and bye she made tea for us; which it was so pretty to see her do, as if she were busying herself with a set of doll's tea-things, that I was not particular about the quality of the beverage. Then Traddles and I played a game or two at cribbage; and Dora singing to the guitar the while, it seemed to me as if our courtship and marriage were a tender dream of mine, and the night when I first listened to her voice were not yet over.</p>
+<p>When Traddles went away, and I came back into the parlor from seeing him out, my wife planted her chair close to mine, and sat down by my side.</p>
+<pb n="456" id="p456"/>
+<p>&ldquo;I am very sorry,&rdquo; she said. &ldquo;Will you try to teach me, Doady?&rdquo;</p>
+<p>&ldquo;I must teach myself first, Dora,&rdquo; said I. &ldquo;I am as bad as you, love.&rdquo;</p>
+<p>&ldquo;Ah! But you can learn,&rdquo; she returned; &ldquo;and you are a clever, clever man!&rdquo;</p>
+<p>&ldquo;Nonsense, mouse!&rdquo; said I.</p>
+<p>&ldquo;I wish,&rdquo; resumed my wife, after a long silence, &ldquo;that I could have gone down into the country for a whole year, and lived with Agnes!&rdquo;</p>
+<p>Her hands were clasped upon my shoulder, and her chin rested on them, and her blue eyes looked quietly into mine.</p>
+<p>&ldquo;Why so?&rdquo; I asked.</p>
+<p>&ldquo;I think she might have improved me, and I think I might have learnt from <hi rend="italics">her,</hi>&rdquo; said Dora.</p>
+<p>&ldquo;All in good time, my love. Agnes has had her father to take care of for these many years, you should remember. Even when she was quite a child, she was the Agnes whom we know,&rdquo; said I.</p>
+<p>&ldquo;Will you call me a name I want you to call me?&rdquo; inquired Dora, without moving.</p>
+<p>&ldquo;What is it?&rdquo; I asked with a smile.</p>
+<p>&ldquo;It's a stupid name,&rdquo; she said, shaking her curls for a moment. &ldquo;Child-wife.&rdquo;</p>
+<p>I laughingly asked my child-wife what her fancy was in desiring to be so called? She answered without moving, otherwise than as the arm I twined about her may have brought her blue eyes nearer to me:</p>
+<p>&ldquo;I don't mean, you silly fellow, that you should use the name, instead of Dora. I only mean that you should think of me that way. When you are going to be angry with me, say to yourself, &lsquo;it's only my child-wife!&rsquo; When I am very disappointing, say, &lsquo;I knew, a long time ago, that she would make but a child-wife!&rsquo; When you miss what I should like to be, and I think can never be, say, &lsquo;still my foolish child-wife loves me!&rsquo; For indeed I do.&rdquo;</p>
+<p>I had not been serious with her; having no idea, until now, that she was serious herself. But her affectionate nature was so happy in what I now said to her with my whole heart, that her face became a laughing one before her glittering eyes were dry. She was soon my child-wife indeed; sitting down on the floor outside the Chinese House, ringing all the little bells one after another, to punish Jip for his recent bad behaviour; while Jip lay blinking in the doorway with his head out, even too lazy to be teased.</p>
+<p>This appeal of Dora's made a strong impression on me. I look back on the time I write of; I invoke the innocent figure that I dearly loved, to come out from the mists and shadows of the past, and turn its gentle head towards me once again; and I can still declare that this one little speech was constantly in my memory. I may not have used it to the best account; I was young and inexperienced; but I never turned a deaf ear to its artless pleading.</p>
+<p>Dora told me, shortly afterwards, that she was going to be a wonderful housekeeper. Accordingly, she polished the tablets, pointed the pencil, bought an immense account-book, carefully stitched up with a needle and thread all the leaves of the Cookery-Book which Jip had torn, and made
+<pb n="457" id="p457"/>
+quite a desperate little attempt &ldquo;to be good,&rdquo; as she called it. But the figures had the old obstinate propensity&mdash;they <hi rend="italics">would not</hi> add up. When she had entered two or three laborious items in the account-book, Jip would walk over the page, wagging his tail, and smear them all out. Her own little right-hand middle finger got steeped to the very bone in ink; and I think that was the only decided result attained.</p>
+<p>Sometimes, of an evening, when I was at home and at work&mdash;for I wrote a good deal now, and was beginning in a small way to be known as a writer&mdash;I would lay down my pen, and watch my child-wife trying to be good. First of all, she would bring out the immense account-book, and lay it down upon the table, with a deep sigh. Then she would open it at the place where Jip had made it illegible last night, and call Jip up, to look at his misdeeds. This would occasion a diversion in Jip's favour, and some inking of his nose, perhaps, as a penalty. Then she would tell Jip to lie down on the table instantly, &ldquo;like a lion&rdquo;&mdash;which was one of his tricks, though I cannot say the likeness was striking&mdash;and, if he were in an obedient humor, he would obey. Then she would take up a pen, and begin to write, and find a hair in it. Then she would take up another pen, and begin to write, and find that it spluttered. Then she would take up another pen, and begin to write, and say in a low voice, &ldquo;Oh, it's a talking pen, and will disturb Doady!&rdquo; And then she would give it up as a bad job, and put the account-book away, after pretending to crush the lion with it.</p>
+<p>Or, if she were in a very sedate and serious state of mind, she would sit down with the tablets, and a little basket of bills and other documents, which looked more like curl-papers than anything else, and endeavour to get some result out of them. After severely comparing one with another, and making entries on the tablets, and blotting them out, and counting all the fingers of her left hand over and over again, backwards and forwards, she would be so vexed and discouraged, and would look so unhappy, that it gave me pain to see her bright face clouded&mdash;and for me!&mdash;and I would go softly to her, and say:</p>
+<p>&ldquo;What's the matter, Dora?&rdquo;</p>
+<p>Dora would look up hopelessly, and reply, &ldquo;They won't come right. They make my head ache so. And they won't do anything I want!&rdquo;</p>
+<p>Then I would say, &ldquo;Now let us try together. Let me show you, Dora.&rdquo;</p>
+<p>Then I would commence a practical demonstration, to which Dora would pay profound attention, perhaps for five minutes; when she would begin to be dreadfully tired, and would lighten the subject by curling my hair, or trying the effect of my face with my shirt collar turned down. If I tacitly checked this playfulness, and persisted, she would look so scared and disconsolate, as she became more and more bewildered, that the remembrance of her natural gaiety when I first strayed into her path, and of her being my child-wife, would come reproachfully upon me; and I would lay the pencil down, and call for the guitar.</p>
+<p>I had a great deal of work to do, and had many anxieties, but the same considerations made me keep them to myself. I am far from sure, now, that it was right to do this, but I did it for my child-wife's sake. I search my breast, and I commit its secrets, if I know them,
+<pb n="458" id="p458"/>
+without any reservation to this paper. The old unhappy loss or want of something had, I am conscious, some place in my heart; but not to the embitterment of my life. When I walked alone in the fine weather, and thought of the summer days when all the air had been filled with my boyish enchantment, I did miss something of the realisation of my dreams; but I thought it was a softened glory of the Past, which nothing could have thrown upon the present time. I did feel, sometimes, for a little while, that I could have wished my wife had been my counsellor; had had more character and purpose, to sustain me and improve me by; had been endowed with power to fill up the void which somewhere seemed to be about me; but I felt as if this were an unearthly consummation of my happiness, that never had been meant to be, and never could have been.</p>
+<p>I was a boyish husband as to years. I had known the softening influence of no other sorrows or experiences than those recorded in these leaves. If I did any wrong, as I may have done much, I did it in mistaken love, and in my want of wisdom. I write the exact truth. It would avail me nothing to extenuate it now.</p>
+<p>Thus it was that I took upon myself the toils and cares of our life, and had no partner in them. We lived much as before, in reference to our scrambling household arrangements; but I had got used to those, and Dora I was pleased to see was seldom vexed now. She was bright and cheerful in the old childish way, loved me dearly, and was happy with her old trifles.</p>
+<p>When the debates were heavy&mdash;I mean as to length, not quality, for in the last respect they were not often otherwise&mdash;and I went home late, Dora would never rest when she heard my footsteps, but would always come down stairs to meet me. When my evenings were unoccupied by the pursuit for which I had qualified myself with so much pains, and I was engaged in writing at home, she would sit quietly near me, however late the hour, and be so mute, that I would often think she had dropped asleep. But generally, when I raised my head, I saw her blue eyes looking at me with the quiet attention of which I have already spoken.</p>
+<p>&ldquo;Oh, what a weary boy!&rdquo; said Dora one night, when I met her eyes as I was shutting up my desk.</p>
+<p>&ldquo;What a weary girl!&rdquo; said I. &ldquo;That's more to the purpose. You must go to bed another time, my love. It's far too late for you.&rdquo;</p>
+<p>&ldquo;No, don't send me to bed!&rdquo; pleaded Dora, coming to my side. &ldquo;Pray don't do that!&rdquo;</p>
+<p>&ldquo;Dora!&rdquo;</p>
+<p>To my amazement she was sobbing on my neck.</p>
+<p>&ldquo;Not well, my dear! not happy!&rdquo;</p>
+<p>&ldquo;Yes! quite well, and very happy!&rdquo; said Dora. &ldquo;But say you'll let me stop, and see you write.&rdquo;</p>
+<p>&ldquo;Why, what a sight for such bright eyes at midnight!&rdquo; I replied.</p>
+<p>&ldquo;Are they bright, though?&rdquo; returned Dora, laughing. &ldquo;I'm so glad they're bright.&rdquo;</p>
+<p>&ldquo;Little Vanity!&rdquo; said I.</p>
+<p>But it was not vanity; it was only harmless delight in my admiration. I knew that very well, before she told me so.</p>
+<pb n="459" id="p459"/>
+<p>&ldquo;If you think them pretty, say I may always stop, and see you write!&rdquo; said Dora. &ldquo;<hi rend="italics">Do</hi> you think them pretty?&rdquo;</p>
+<p>&ldquo;Very pretty.&rdquo;</p>
+<p>&ldquo;Then let me always stop and see you write.&rdquo;</p>
+<p>&ldquo;I am afraid that won't improve their brightness, Dora.&rdquo;</p>
+<p>&ldquo;Yes it will! Because, you clever boy, you'll not forget me then, while you are full of silent fancies. Will you mind it, if I say something very, very silly?&mdash;more than usual?&rdquo; inquired Dora, peeping over my shoulder into my face.</p>
+<p>&ldquo;What wonderful thing is that?&rdquo; said I.</p>
+<p>&ldquo;Please let me hold the pens,&rdquo; said Dora. &ldquo;I want to have something to do with all those many hours when you are so industrious. May I hold the pens?&rdquo;</p>
+<p>The remembrance of her pretty joy when I said yes, brings tears into my eyes. The next time I sat down to write, and regularly afterwards, she sat in her old place with a spare bundle of pens at her side. Her triumph in this connexion with my work, and her delight when I wanted a new pen&mdash;which I very often feigned to do&mdash;suggested to me a new way of pleasing my child-wife. I occasionally made a pretence of wanting a page or two of manuscript copied. Then Dora was in her glory. The preparations she made for this great work, the aprons she put on, the bibs she borrowed from the kitchen to keep off the ink, the time she took, the innumerable stoppages she made to have a laugh with Jip as if he understood it all, her conviction that her work was incomplete unless she signed her name at the end, and the way in which she would bring it to me, like a school-copy, and then, when I praised it, clasp me round the neck, are touching recollections to me, simple as they might appear to other men.</p>
+<p>She took possession of the keys soon after this, and went jingling about the house with the whole bunch in a little basket, tied to her slender waist. I seldom found that the places to which they belonged were locked, or that they were of any use except as a plaything for Jip&mdash;but Dora was pleased, and that pleased me. She was quite satisfied that a good deal was effected by this make-belief of housekeeping; and was as merry as if we had been keeping a baby-house, for a joke.</p>
+<p>So we went on. Dora was hardly less affectionate to my aunt than to me, and often told her of the time when she was afraid she was &ldquo;a cross old thing.&rdquo; I never saw my aunt unbend more systematically to anyone. She courted Jip, though Jip never responded; listened, day after day, to the guitar, though I am afraid she had no taste for music; never attacked the Incapables, though the temptation must have been severe; went wonderful distances on foot to purchase, as surprises, any trifles that she found out Dora wanted; and never came in by the garden, and missed her from the room, but she would call out, at the foot of the stairs, in a voice that sounded cheerfully all over the house:</p>
+<p>&ldquo;Where's Little Blossom!&rdquo;</p>
+</div2>
+<div2 type="chapter">
+<pb n="460" id="p460"/>
+<head>CHAPTER XLV. <lb/> MR. DICK FULFILS MY AUNT'S PREDICTION.</head>
+<p>IT was some time now, since I had left the Doctor. Living in his neighbourhood, I saw him frequently; and we all went to his house on two or three occasions to dinner or tea. The Old Soldier was in permanent quarters under the Doctor's roof. She was exactly the same as ever, and the same immortal butterflies hovered over her cap.</p>
+<p>Like some other mothers, whom I have known in the course of my life, Mrs. Markleham was far more fond of pleasure than her daughter was. She required a great deal of amusement, and, like a deep old soldier, pretended, in consulting her own inclinations, to be devoting herself to her child. The Doctor's desire that Annie should be entertained, was therefore particularly acceptable to this excellent parent; who expressed unqualified approval of his discretion.</p>
+<p>I have no doubt, indeed, that she probed the Doctor's wound without knowing it. Meaning nothing but a certain matured frivolity and selfishness, not always inseparable from full-blown years, I think she confirmed him in his fear that he was a constraint upon his young wife, and that there was no congeniality of feeling between them, by so strongly commending his design of lightening the load of her life.</p>
+<p>&ldquo;My dear soul,&rdquo; she said to him one day when I was present, &ldquo;you know there is no doubt it would be a little pokey for Annie to be always shut up here.&rdquo;</p>
+<p>The Doctor nodded his benevolent head.</p>
+<p>&ldquo;When she comes to her mother's age,&rdquo; said Mrs. Markleham, with a flourish of her fan, &ldquo;then, it'll be another thing. You might put ME into a Jail, with genteel society and a rubber, and I should never care to come out. But I am not Annie, you know; and Annie is not her mother.&rdquo;</p>
+<p>&ldquo;Surely, surely,&rdquo; said the Doctor.</p>
+<p>&ldquo;You are the best of creatures&mdash;no, I beg your pardon!&rdquo; for the Doctor made a gesture of depreciation, &ldquo;I must say before your face, as I always say behind your back, you are the best of creatures; but of course you don't&mdash;now do you?&mdash;enter into the same pursuits and fancies as Annie?&rdquo;</p>
+<p>&ldquo;No,&rdquo; said the Doctor, in a sorrowful tone.</p>
+<p>&ldquo;No, of course not,&rdquo; retorted the Old Soldier. &ldquo;Take your Dictionary for example. What a useful work a Dictionary is! What a necessary work! The meanings of words! Without Doctor Johnson, or somebody of that sort, we might have been at this present moment calling an Italian-iron a bedstead. But we can't expect a Dictionary&mdash;especially when it's making&mdash;to interest Annie, can we?&rdquo;</p>
+<p>The Doctor shook his head.</p>
+<p>&ldquo;And that's why I <hi rend="italics">so</hi> much approve,&rdquo; said Mrs. Markleham, tapping him on the shoulder with her shut-up fan, &ldquo;of your thoughtfulness. It shows that you don't expect, as many elderly people do expect, old
+<pb n="461" id="p461"/>
+heads on young shoulders. You have studied Annie's character, and you understand it. <hi rend="italics">That's</hi> what I find so charming!&rdquo;</p>
+<p>Even the calm and patient face of Doctor Strong expressed some little sense of pain, I thought, under the infliction of these compliments.</p>
+<p>&ldquo;Therefore, my dear Doctor,&rdquo; said the Soldier, giving him several affectionate taps, &ldquo;you may command me, at all times and seasons. Now, do understand that I am entirely at your service. I am ready to go with Annie to operas, concerts, exhibitions, all kinds of places; and you shall never find that I am tired. Duty, my dear Doctor, before every consideration in the universe!&rdquo;</p>
+<p>She was as good as her word. She was one of those people who can bear a great deal of pleasure, and she never flinched in her perseverance in the cause. She seldom got hold of the newspaper (which she settled herself down in the softest chair in the house to read through an eyeglass, every day, for two hours), but she found out something that she was certain Annie would like to see. It was in vain for Annie to protest that she was weary of such things. Her mother's remonstrance always was, &ldquo;Now, my dear Annie, I am sure you know better; and I must tell you, my love, that you are not making a proper return for the kindness of Doctor Strong.&rdquo;</p>
+<p>This was usually said in the Doctor's presence, and appeared to me to constitute Annie's principal inducement for withdrawing her objections when she made any. But in general she resigned herself to her mother, and went where the Old Soldier would.</p>
+<p>It rarely happened now that Mr. Maldon accompanied them. Sometimes my aunt and Dora were invited to do so, and accepted the invitation. Sometimes Dora only was asked. The time had been, when I should have been uneasy in her going; but reflection on what had passed that former night in the Doctor's study, had made a change in my mistrust. I believed that the Doctor was right, and I had no worse suspicions.</p>
+<p>My aunt rubbed her nose sometimes when she happened to be alone with me, and said she couldn't make it out; she wished they were happier; she didn't think our military friend (so she always called the Old Soldier) mended the matter at all. My aunt further expressed her opinion &ldquo;that if our military friend would cut off those butterflies, and give'em to the chimney-sweepers for May-day, it would look like the beginning of something sensible on her part.&rdquo;</p>
+<p>But her abiding reliance was on Mr. Dick. That man had evidently an idea in his head, she said; and if he could only once pen it up into a corner, which was his great difficulty, he would distinguish himself in some extraordinary manner.</p>
+<p>Unconscious of this prediction, Mr. Dick continued to occupy precisely the same ground in reference to the Doctor and to Mrs. Strong. He seemed neither to advance nor to recede. He appeared to have settled into his original foundation, like a building; and I must confess that my faith in his ever moving, was not much greater than if he had been a building.</p>
+<p>But one night, when I had been married some months, Mr. Dick put his head into the parlor, where I was writing alone (Dora having gone out with my aunt to take tea with the two little birds), and said, with a significant cough:</p>
+<pb n="462" id="p462"/>
+<p>&ldquo;You couldn't speak to me without inconveniencing yourself, Trotwood, I am afraid?&rdquo;</p>
+<p>&ldquo;Certainly, Mr. Dick,&rdquo; said I; &ldquo;come in!&rdquo;</p>
+<p>&ldquo;Trotwood,&rdquo; said Mr. Dick, laying his finger on the side of his nose, after he had shaken hands with me. &ldquo;Before I sit down, I wish to make an observation. You know your aunt?&rdquo;</p>
+<p>&ldquo;A little,&rdquo; I replied.</p>
+<p>&ldquo;She is the most wonderful woman in the world, sir!&rdquo;</p>
+<p>After the delivery of this communication, which he shot out of himself as if he were loaded with it, Mr. Dick sat down with greater gravity than usual, and looked at me.</p>
+<p>&ldquo;Now, boy,&rdquo; said Mr. Dick, &ldquo;I am going to put a question to you.&rdquo;</p>
+<p>&ldquo;As many as you please,&rdquo; said I.</p>
+<p>&ldquo;What do you consider me, sir?&rdquo; asked Mr. Dick, folding his arms.</p>
+<p>&ldquo;A dear old friend,&rdquo; said I.</p>
+<p>&ldquo;Thank you, Trotwood,&rdquo; returned Mr. Dick, laughing, and reaching across in high glee to shake hands with me. &ldquo;But I mean, boy,&rdquo; resuming his gravity, &ldquo;what do you consider me in this respect?&rdquo; touching his forehead.</p>
+<p>I was puzzled how to answer, but he helped me with a word.</p>
+<p>&ldquo;Weak?&rdquo; said Mr. Dick.</p>
+<p>&ldquo;Well,&rdquo; I replied, dubiously. &ldquo;Rather so.&rdquo;</p>
+<p>&ldquo;Exactly!&rdquo; cried Mr. Dick, who seemed quite enchanted by my reply. &ldquo;That is, Trotwood, when they took some of the trouble out of you-know-who's head, and put it you know where, there was a&mdash;&rdquo; Mr. Dick made his two hands revolve very fast about each other a great number of times, and then brought them into collision, and rolled them over and over one another, to express confusion. &ldquo;There was that sort of thing done to me somehow? Eh?&rdquo;</p>
+<p>I nodded at him, and he nodded back again.</p>
+<p>&ldquo;In short, boy,&rdquo; said Mr. Dick, dropping his voice to a whisper, &ldquo;I am simple.&rdquo;</p>
+<p>I would have qualified that conclusion, but he stopped me.</p>
+<p>&ldquo;Yes, I am! She pretends I am not. She won't hear of it; but I am. I know I am. If she hadn't stood my friend, sir, I should have been shut up, to lead a dismal life these many years. But I'll provide for her! I never spend the copying money. I put it in a box. I have made a will. I'll leave it all to her. She shall be rich&mdash;noble!&rdquo;</p>
+<p>Mr. Dick took out his pocket-handkerchief, and wiped his eyes. He then folded it up with great care, pressed it smooth between his two hands, put it in his pocket, and seemed to put my aunt away with it.</p>
+<p>&ldquo;Now you are a scholar, Trotwood,&rdquo; said Mr. Dick. &ldquo;You are a fine scholar. You know what a learned man, what a great man, the Doctor is. You know what honor he has always done me. Not proud in his wisdom. Humble, humble&mdash;condescending even to poor Dick, who is simple and knows nothing. I have sent his name up, on a scrap of paper, to the kite, along the string, when it has been in the sky, among the larks. The kite has been glad to receive it, sir, and the sky has been brighter with it.&rdquo;</p>
+<p>I delighted him by saying, most heartily, that the Doctor was deserving of our best respect and highest esteem.</p>
+<pb n="463" id="p463"/>
+<p>&ldquo;And his beautiful wife is a star,&rdquo; said Mr. Dick. &ldquo;A shining star. I have seen her shine, sir. But,&rdquo; bringing his chair nearer, and laying one hand upon my knee&mdash;&ldquo;clouds, sir&mdash;clouds.&rdquo;</p>
+<p>I answered the solicitude which his face expressed, by conveying the same expression into my own, and shaking my head.</p>
+<p>&ldquo;What clouds?&rdquo; said Mr. Dick.</p>
+<p>He looked so wistfully into my face, and was so anxious to understand, that I took great pains to answer him slowly and distinctly, as I might have entered on an explanation to a child.</p>
+<p>&ldquo;There is some unfortunate division between them,&rdquo; I replied. &ldquo;Some unhappy cause of separation. A secret. It may be inseparable from the discrepancy in their years. It may have grown up out of almost nothing.&rdquo;</p>
+<p>Mr. Dick, who told off every sentence with a thoughtful nod, paused when I had done, and sat considering, with his eyes upon my face, and his hand upon my knee.</p>
+<p>&ldquo;Doctor not angry with her, Trotwood?&rdquo; he said, after some time.</p>
+<p>&ldquo;No. Devoted to her.&rdquo;</p>
+<p>&ldquo;Then, I have got it, boy!&rdquo; said Mr. Dick.</p>
+<p>The sudden exultation with which he slapped me on the knee, and leaned back in his chair, with his eyebrows lifted up as high as he could possibly lift them, made me think him farther out of his wits than ever. He became as suddenly grave again, and leaning forward as before, said&mdash;first respectfully taking out his pocket-handkerchief, as if it really did represent my aunt:</p>
+<p>&ldquo;Most wonderful woman in the world, Trotwood. Why has <hi rend="italics">she</hi> done nothing to set things right?&rdquo;</p>
+<p>&ldquo;Too delicate and difficult a subject for such interference,&rdquo; I replied.</p>
+<p>&ldquo;Fine scholar,&rdquo; said Mr. Dick, touching me with his finger. &ldquo;Why has <hi rend="italics">he</hi> done nothing.&rdquo;</p>
+<p>&ldquo;For the same reason,&rdquo; I returned.</p>
+<p>&ldquo;Then, I have got it, boy!&rdquo; said Mr. Dick. And he stood up before me, more exultingly than before, nodding his head, and striking himself repeatedly upon the breast, until one might have supposed that he had nearly nodded and struck all the breath out of his body.</p>
+<p>&ldquo;A poor fellow with a craze, sir,&rdquo; said Mr. Dick, &ldquo;a simpleton, a weakminded person&mdash;present company, you know!&rdquo; striking himself again, &ldquo;may do what wonderful people may not do. I'll bring them together, boy. I'll try. They'll not blame <hi rend="italics">me.</hi> They'll not object to <hi rend="italics">me.</hi> They'll not mind what <hi rend="italics">I</hi> do, if it's wrong. I'm only Mr. Dick. And who minds Dick? Dick's nobody! Whoo!&rdquo; He blew a slight, contemptuous breath, as if he blew himself away.</p>
+<p>It was fortunate he had proceeded so far with his mystery, for we heard the coach stop at the little garden gate, which brought my aunt and Dora home.</p>
+<p>&ldquo;Not a word, boy!&rdquo; he pursued in a whisper; &ldquo;leave all the blame with Dick&mdash;simple Dick&mdash;mad Dick. I have been thinking, sir, for some time that I was getting it, and now I have got it. After what you have said to me, I am sure I have got it. All right!&rdquo;</p>
+<p>Not another word did Mr. Dick utter on the subject; but he made a
+<pb n="464" id="p464"/>
+very telegraph of himself for the next half-hour (to the great disturbance of my aunt's mind), to enjoin inviolable secresy on me.</p>
+<p>To my surprise I heard no more about it for some two or three weeks, though I was sufficiently interested in the result of his endeavours; descrying a strange gleam of good sense&mdash;I say nothing of good feeling, for that he always exhibited&mdash;in the conclusion to which he had come. At last I began to believe, that, in the flighty and unsettled state of his mind, he had either forgotten his intention or abandoned it.</p>
+<p>One fair evening, when Dora was not inclined to go out, my aunt and I strolled up to the Doctor's cottage. It was autumn, when there were no debates to vex the evening air; and I remember how the leaves smelt like our garden at Blunderstone as we trod them under foot, and how the old, unhappy feeling, seemed to go by, on the sighing wind.</p>
+<p>It was twilight when we reached the cottage. Mrs. Strong was just coming out of the garden, where Mr. Dick yet lingered, busy with his knife, helping the gardener to point some stakes. The Doctor was engaged with some one in his study; but the visitor would be gone directly, Mrs. Strong said, and begged us to remain and see him. We went into the drawing-room with her, and sat down by the darkening window. There was never any ceremony about the visits of such old friends and neighbours as we were.</p>
+<p>We had not sat here many minutes, when Mrs. Markleham, who usually contrived to be in a fuss about something, came bustling in, with her newspaper in her hand, and said, out of breath, &ldquo;My goodness gracious, Annie, why didn't you tell me there was some one in the Study!&rdquo;</p>
+<p>&ldquo;My dear mama,&rdquo; she quietly returned, &ldquo;how could I know that you desired the information!&rdquo;</p>
+<p>&ldquo;Desired the information!&rdquo; said Mrs. Markleham, sinking on the sofa. &ldquo;I never had such a turn in all my life!&rdquo;</p>
+<p>&ldquo;Have you been to the Study then, mama?&rdquo; asked Annie.</p>
+<p>&ldquo;<hi rend="italics">Been</hi> to the Study, my dear!&rdquo; she returned emphatically. &ldquo;Indeed I have! I came upon the amiable creature&mdash;if you'll imagine my feelings, Miss Trotwood and David&mdash;in the act of making his will.&rdquo;</p>
+<p>Her daughter looked round from the window quickly.</p>
+<p>&ldquo;In the act, my dear Annie,&rdquo; repeated Mrs. Markleham, spreading the newspaper on her lap like a table-cloth, and patting her hands upon it, &ldquo;of making his last Will and Testament. The foresight and affection of the dear! I must tell you how it was. I really must, in justice to the darling&mdash;for he is nothing less!&mdash;tell you how it was. Perhaps you know, Miss Trotwood, that there is never a candle lighted in this house, until one's eyes are literally falling out of one's head with being stretched to read the paper. And that there is not a chair in this house, in which a paper can be what <hi rend="italics">I</hi> call, read, except one in the Study. This took me to the Study, where I saw a light. I opened the door. In company with the dear Doctor were two professional people, evidently connected with the law, and they were all three standing at the table: the darling Doctor pen in hand. &lsquo;This simply expresses then,&rsquo; said the Doctor&mdash;Annie, my love, attend to the very words&mdash;&lsquo;this simply expresses then, gentlemen, the confidence I have in Mrs. Strong, and gives her all unconditionally?&rsquo; One of the professional people replied, &lsquo;And gives her all unconditionally.&rsquo;
+<pb n="465" id="p465"/>
+Upon that, with the natural feelings of a mother, I said, &lsquo;Good God, I beg your pardon!&rsquo; fell over the door-step, and came away through the little back passage where the pantry is.&rdquo;</p>
+<p>Mrs. Strong opened the window, and went out into the verandah, where she stood leaning against a pillar.</p>
+<p>&ldquo;But now isn't it, Miss Trotwood, isn't it, David, invigorating,&rdquo; said Mrs. Markleham, mechanically following her with her eyes, &ldquo;to find a man at Doctor Strong's time of life, with the strength of mind to do this kind of thing? It only shows how right I was. I said to Annie, when Doctor Strong paid a very flattering visit to myself, and made her the subject of a declaration and an offer, I said, &lsquo;My dear, there is no doubt whatever, in my opinion, with reference to a suitable provision for you, that Doctor Strong will do more than he binds himself to do.&rsquo; &rdquo;</p>
+<p>Here the bell rang, and we heard the sound of the visitors' feet as they went out.</p>
+<p>&ldquo;It's all over, no doubt,&rdquo; said the Old Soldier, after listening; &ldquo;the dear creature has signed, sealed, and delivered, and his mind's at rest. Well may be! What a mind! Annie, my love, I am going to the Study with my paper, for I am a poor creature without news. Miss Trotwood, David, pray come and see the Doctor.&rdquo;</p>
+<p>I was conscious of Mr. Dick's standing in the shadow of the room, shutting up his knife, when we accompanied her to the Study; and of my aunt's rubbing her nose violently, by the way, as a mild vent for her intolerance of our military friend; but who got first into the Study, or how Mrs. Markleham settled herself in a moment in her easy chair, or how my aunt and I came to be left together near the door (unless her eyes were quicker than mine, and she held me back), I have forgotten, if I ever knew. But this I know,&mdash;that we saw the Doctor before he saw us, sitting at his table, among the folio volumes in which he delighted, resting his head calmly on his hand. That, in the same moment, we saw Mrs. Strong glide in, pale and trembling. That Mr. Dick supported her on his arm. That he laid his other hand upon the Doctor's arm, causing him to look up with an abstracted air. That, as the Doctor moved his head, his wife dropped down on one knee at his feet, and, with her hands imploringly lifted, fixed upon his face the memorable look I had never forgotten. That at this sight Mrs. Markleham dropped the newspaper, and stared more like a figure-head intended for a ship to be called The Astonishment, than anything else I can think of.</p>
+<p>The gentleness of the Doctor's manner and surprise, the dignity that mingled with the supplicating attitude of his wife, the amiable concern of Mr. Dick, and the earnestness with which my aunt said to herself, &ldquo;<hi rend="italics">That</hi> man mad!&rdquo; (triumphantly expressive of the misery from which she had saved him), I see and hear, rather than remember, as I write about it.</p>
+<p>&ldquo;Doctor!&rdquo; said Mr. Dick. &ldquo;What is it that's amiss? Look here!&rdquo;</p>
+<p>&ldquo;Annie!&rdquo; cried the Doctor. &ldquo;Not at my feet, my dear!&rdquo;</p>
+<p>&ldquo;Yes!&rdquo; she said. &ldquo;I beg and pray that no one will leave the room! Oh, my husband and father, break this long silence. Let us both know what it is that has come between us!&rdquo;</p>
+<p>Mrs. Markleham, by this time recovering the power of speech, and seeming to swell with family pride and motherly indignation, here
+<pb n="466" id="p466"/>
+exclaimed, &ldquo;Annie, get up immediately, and don't disgrace everybody belonging to you by humbling yourself like that, unless you wish to see me go out of my mind on the spot!&rdquo;</p>
+<p>&ldquo;Mama!&rdquo; returned Annie. &ldquo;Waste no words on me, for my appeal is to my husband, and even you are nothing here.&rdquo;</p>
+<p>&ldquo;Nothing!&rdquo; exclaimed Mrs. Markleham. &ldquo;Me, nothing! The child has taken leave of her senses. Please to get me a glass of water!&rdquo;</p>
+<p>I was too attentive to the Doctor and his wife, to give any heed to this request; and it made no impression on anybody else; so Mrs. Markleham panted, stared, and fanned herself.</p>
+<p>&ldquo;Annie!&rdquo; said the Doctor, tenderly taking her in his hands. &ldquo;My dear! If any unavoidable change has come, in the sequence of time, upon our married life, you are not to blame. The fault is mine, and only mine. There is no change in my affection, admiration, and respect. I wish to make you happy. I truly love and honor you. Rise, Annie, pray!&rdquo;</p>
+<p>But she did not rise. After looking at him for a little while, she sank down closer to him, laid her arm across his knee, and dropping her head upon it, said:</p>
+<p>&ldquo;If I have any friend here, who can speak one word for me, or for my husband, in this matter; if I have any friend here, who can give a voice to any suspicion that my heart has sometimes whispered to me; if I have any friend here, who honors my husband, or has ever cared for me, and has anything within his knowledge, no matter what it is, that may help to mediate between us, I implore that friend to speak!&rdquo;</p>
+<p>There was a profound silence. After a few moments of painful hesitation, I broke the silence.</p>
+<p>&ldquo;Mrs. Strong,&rdquo; I said, &ldquo;there is something within my knowledge, which I have been earnestly entreated by Doctor Strong to conceal, and have concealed until to-night. But, I believe the time has come when it would be mistaken faith and delicacy to conceal it any longer, and when your appeal absolves me from his injunction.&rdquo;</p>
+<p>She turned her face towards me for a moment, and I knew that I was right. I could not have resisted its entreaty, if the assurance that it gave me had been less convincing.</p>
+<p>&ldquo;Our future peace,&rdquo; she said, &ldquo;may be in your hands. I trust it confidently to your not suppressing anything. I know beforehand that nothing you, or any one, can tell me, will show my husband's noble heart in any other light than one. Howsoever it may seem to you to touch me, disregard that. I will speak for myself, before him, and before God afterwards.&rdquo;</p>
+<p>Thus earnestly besought, I made no reference to the Doctor for his permission, but, without any other compromise of the truth than a little softening of the coarseness of Uriah Heep, related plainly what had passed in that same room that night. The staring of Mrs. Markleham during the whole narration, and the shrill, sharp interjections with which she occasionally interrupted it, defy description.</p>
+<p>When I had finished, Annie remained, for some few moments, silent, with her head bent down, as I have described. Then, she took the Doctor's hand (he was sitting in the same attitude as when we had entered the room), and pressed it to her breast, and kissed it. Mr. Dick
+<pb n="467" id="p467"/>
+softly raised her; and she stood, when she began to speak, leaning on him, and looking down upon her husband&mdash;from whom she never turned her eyes.</p>
+<p>&ldquo;All that has ever been in my mind, since I was married,&rdquo; she said in a low, submissive, tender voice, &ldquo;I will lay bare before you. I could not live and have one reservation, knowing what I know now.&rdquo;</p>
+<p>&ldquo;Nay, Annie,&rdquo; said the Doctor, mildly, &ldquo;I have never doubted you, my child. There is no need; indeed there is no need, my dear.&rdquo;</p>
+<p>&ldquo;There is great need,&rdquo; she answered, in the same way, &ldquo;that I should open my whole heart before the soul of generosity and truth, whom, year by year, and day by day, I have loved and venerated more and more, as Heaven knows!&rdquo;</p>
+<p>&ldquo;Really,&rdquo; interrupted Mrs. Markleham, &ldquo;if I have any discretion at all&mdash;&rdquo;</p>
+<p>(&ldquo;Which you haven't, you Marplot,&rdquo; observed my aunt, in an indignant whisper.)</p>
+<p>&mdash;&ldquo;I must be permitted to observe that it cannot be requisite to enter into these details.&rdquo;</p>
+<p>&ldquo;No one but my husband can judge of that, mama,&rdquo; said Annie, without removing her eyes from his face, &ldquo;and he will hear me. If I say anything to give you pain, mama, forgive me. I have borne pain first, often and long, myself.&rdquo;</p>
+<p>&ldquo;Upon my word!&rdquo; gasped Mrs. Markleham.</p>
+<p>&ldquo;When I was very young,&rdquo; said Annie, &ldquo;quite a little child, my first associations with knowledge of any kind were inseparable from a patient friend and teacher&mdash;the friend of my dead father&mdash;who was always dear to me. I can remember nothing that I know, without remembering him. He stored my mind with its first treasures, and stamped his character upon them all. They never could have been, I think, as good as they have been to me, if I had taken them from any other hands.&rdquo;</p>
+<p>&ldquo;Makes her mother nothing!&rdquo; exclaimed Mrs. Markleham.</p>
+<p>&ldquo;Not so, mama,&rdquo; said Annie; &ldquo;but I make him what he was. I must do that. As I grew up, he occupied the same place still. I was proud of his interest: deeply, fondly, gratefully attached to him. I looked up to him I can hardly describe how&mdash;as a father, as a guide, as one whose praise was different from all other praise, as one in whom I could have trusted and confided, if I had doubted all the world. You know, mama, how young and inexperienced I was, when you presented him before me, of a sudden, as a lover.&rdquo;</p>
+<p>&ldquo;I have mentioned the fact, fifty times at least, to everybody here!&rdquo; said Mrs. Markleham.</p>
+<p>(&ldquo;Then hold your tongue, for the Lord's sake, and don't mention it any more!&rdquo; muttered my aunt).</p>
+<p>&ldquo;It was so great a change: so great a loss, I felt it, at first,&rdquo; said Annie, still preserving the same look and tone, &ldquo;that I was agitated and distressed. I was but a girl; and when so great a change came in the character in which I had so long looked up to him, I think I was sorry. But nothing could have made him what he used to be again; and I was proud that he should think me so worthy, and we were married.&rdquo;</p>
+<p>&ldquo;&mdash;At Saint Alphage, Canterbury,&rdquo; observed Mrs. Markleham.</p>
+<pb n="468" id="p468"/>
+<p>(&ldquo;Confound the woman!&rdquo; said my aunt, &ldquo;she <hi rend="italics">won't</hi> be quiet!&rdquo;)</p>
+<p>&ldquo;I never thought,&rdquo; proceeded Annie, with a heightened color, &ldquo;of any worldly gain that my husband would bring to me. My young heart had no room in its homage for any such poor reference. Mama, forgive me when I say that it was <hi rend="italics">you</hi> who first presented to my mind the thought that any one could wrong me, and wrong him, by such a cruel suspicion.&rdquo;</p>
+<p>&ldquo;Me!&rdquo; cried Mrs. Markleham.</p>
+<p>(&ldquo;Ah! You, to be sure!&rdquo; observed my aunt, &ldquo;and you can't fan it away, my military friend!&rdquo;)</p>
+<p>&ldquo;It was the first unhappiness of my new life,&rdquo; said Annie. &ldquo;It was the first occasion of every unhappy moment I have known. Those moments have been more, of late, than I can count; but not&mdash;my generous husband!&mdash;not for the reason you suppose; for in my heart there is not a thought, a recollection, or a hope, that any power could separate from you!&rdquo;</p>
+<p>She raised her eyes, and clasped her hands, and looked as beautiful and true, I thought, as any Spirit. The Doctor looked on her, henceforth, as stedfastly as she on him.</p>
+<p>&ldquo;Mama is blameless,&rdquo; she went on, &ldquo;of having ever urged you for herself, and she is blameless in intention everyway, I am sure,&mdash;but when I saw how many importunate claims that were no claims were pressed upon you in my name; how you were traded on in my name; how generous you were, and how Mr. Wickfield, who had your welfare very much at heart, resented it; the first sense of my exposure to the mean suspicion that my tenderness was bought&mdash;and sold to you, of all men, on earth&mdash;fell upon me, like unmerited disgrace, in which I forced you to participate. I cannot tell you what it was&mdash;mama cannot imagine what it was&mdash;to have this dread and trouble always on my mind, yet know in my own soul that on my marriage-day I crowned the love and honor of my life!&rdquo;</p>
+<p>&ldquo;A specimen of the thanks one gets,&rdquo; cried Mrs. Markleham, in tears, &ldquo;for taking care of one's family! I wish I was a Turk!&rdquo;</p>
+<p>(&ldquo;I wish you were, with all my heart&mdash;and in your native country!&rdquo; said my aunt).</p>
+<p>&ldquo;It was at that time that mama was most solicitous about my Cousin Maldon. I had liked him:&rdquo; she spoke softly, but without any hesitation: &ldquo;very much. We had been little lovers once. If circumstances had not happened otherwise, I might have come to persuade myself that I really loved him, and might have married him, and been most wretched. There can be no disparity in marriage like unsuitability of mind and purpose.&rdquo;</p>
+<p>I pondered on those words, even while I was studiously attending to what followed, as if they had some particular interest, or some strange application that I could not divine. &ldquo;There can be no disparity in marriage like unsuitability of mind and purpose&rdquo;&mdash;&ldquo;no disparity in marriage like unsuitability of mind and purpose.&rdquo;</p>
+<p>&ldquo;There is nothing,&rdquo; said Annie, &ldquo;that we have in common. I have long found that there is nothing. If I were thankful to my husband for no more, instead of for so much, I should be thankful to him for having saved me from the first mistaken impulse of my undisciplined heart.&rdquo;</p>
+<p>She stood quite still, before the Doctor, and spoke with an earnestness that thrilled me. Yet her voice was just as quiet as before.</p>
+<pb n="469" id="p469"/>
+<p>&ldquo;When he was waiting to be the object of your munificence, so freely bestowed for my sake, and when I was unhappy in the mercenary shape I was made to wear, I thought it would have become him better to have worked his own way on. I thought that if I had been he, I would have tried to do it, at the cost of almost any hardship. But I thought no worse of him, until the night of his departure for India. That night I knew he had a false and thankless heart. I saw a double meaning, then, in Mr. Wickfield's scrutiny of me. I perceived, for the first time, the dark suspicion that shadowed my life.&rdquo;</p>
+<p>&ldquo;Suspicion, Annie!&rdquo; said the Doctor. &ldquo;No, no, no!&rdquo;</p>
+<p>&ldquo;In your mind there was none, I know, my husband!&rdquo; she returned. &ldquo;And when I came to you, that night, to lay down all my load of shame and grief, and knew that I had to tell, that, underneath your roof, one of my own kindred, to whom you had been a benefactor, for the love of me, had spoken to me words that should have found no utterance, even if I had been the weak and mercenary wretch he thought me&mdash;my mind revolted from the taint the very tale conveyed. It died upon my lips, and from that hour till now has never passed them.&rdquo;</p>
+<p>Mrs. Markleham, with a short groan, leaned back in her easy chair; and retired behind her fan, as if she were never coming out any more.</p>
+<p>&ldquo;I have never, but in your presence, interchanged a word with him from that time; then, only when it has been necessary for the avoidance of this explanation. Years have passed since he knew, from me, what his situation here was. The kindnesses you have secretly done for his advancement, and then disclosed to me, for my surprise and pleasure, have been, you will believe, but aggravations of the unhappiness and burden of my secret.&rdquo;</p>
+<p>She sunk down gently at the Doctor's feet, though he did his utmost to prevent her; and said, looking up, tearfully, into his face:</p>
+<p>&ldquo;Do not speak to me yet! Let me say a little more! Right or wrong, if this were to be done again, I think I should do just the same. You never can know what it was to be devoted to you, with those old associations; to find that any one could be so hard as to suppose that the truth of my heart was bartered away, and to be surrounded by appearances confirming that belief. I was very young, and had no adviser. Between mama and me, in all relating to you, there was a wide division. If I shrunk into myself, hiding the disrespect I had undergone, it was because I honored you so much, and so much wished that you should honor me!&rdquo;</p>
+<p>&ldquo;Annie, my pure heart!&rdquo; said the Doctor, &ldquo;my dear girl!&rdquo;</p>
+<p>&ldquo;A little more! a very few words more! I used to think there were so many whom you might have married, who would not have brought such charge and trouble on you, and who would have made your home a worthier home. I used to be afraid that I had better have remained your pupil, and almost your child. I used to fear that I was so unsuited to your learning and wisdom. If all this made me shrink within myself (as indeed it did), when I had that to tell, it was still because I honored you so much, and hoped that you might one day honor me.&rdquo;</p>
+<p>&ldquo;That day has shone this long time, Annie,&rdquo; said the Doctor, &ldquo;and can have but one long night, my dear.&rdquo;</p>
+<p>&ldquo;Another word! I afterwards meant&mdash;stedfastly meant, and purposed to myself&mdash;to bear the wholeweight of knowing the unworthiness of one to whom
+<pb n="470" id="p470"/>
+you had been so good. And now a last word, dearest and best of friends! The cause of the late change in you, which I have seen with so much pain and sorrow, and have sometimes referred to my old apprehension&mdash;at other times to lingering suppositions nearer to the truth&mdash;has been made clear to-night; and by an accident I have also come to know, to-night, the full measure of your noble trust in me, even under that mistake. I do not hope that any love and duty I may render in return, will ever make me worthy of your priceless confidence; but with all this knowledge fresh upon me, I can lift my eyes to this dear face, revered as a father's, loved as a husband's, sacred to me in my childhood as a friend's, and solemnly declare that in my lightest thought I have never wronged you; never wavered in the love and the fidelity I owe you!&rdquo;</p>
+<p>She had her arms around the Doctor's neck, and he leant his head down over her, mingling his grey hair with her dark brown tresses.</p>
+<p>&ldquo;Oh, hold me to your heart, my husband! Never cast me out! Do not think or speak of disparity between us, for there is none, except in all my many imperfections. Every succeeding year I have known this better, as I have esteemed you more and more. Oh, take me to your heart, my husband, for my love was founded on a rock, and it endures!&rdquo;</p>
+<p>In the silence that ensued, my aunt walked gravely up to Mr. Dick, without at all hurrying herself, and gave him a hug and a sounding kiss. And it was very fortunate, with a view to his credit, that she did so; for I am confident that I detected him at that moment in the act of making preparations to stand on one leg, as an appropriate expression of delight.</p>
+<p>&ldquo;You are a very remarkable man, Dick!&rdquo; said my aunt, with an air of unqualified approbation; &ldquo;and never pretend to be anything else, for I know better!&rdquo;</p>
+<p>With that, my aunt pulled him by the sleeve, and nodded to me; and we three stole quietly out of the room, and came away.</p>
+<p>&ldquo;That's a settler for our military friend, at any rate,&rdquo; said my aunt, on the way home. &ldquo;I should sleep the better for that, if there was nothing else to be glad of!&rdquo;</p>
+<p>&ldquo;She was quite overcome, I am afraid,&rdquo; said Mr. Dick, with great commiseration.</p>
+<p>&ldquo;What! Did you ever see a crocodile overcome?&rdquo; inquired my aunt.</p>
+<p>&ldquo;I don't think I ever saw a crocodile,&rdquo; returned Mr. Dick, mildly.</p>
+<p>&ldquo;There never would have been anything the matter, if it hadn't been for that old Animal,&rdquo; said my aunt, with strong emphasis. &ldquo;It's very much to be wished that some mothers would leave their daughters alone after marriage, and not be so violently affectionate. They seem to think the only return that can be made them for bringing an unfortunate young woman into the world&mdash;God bless my soul, as if she asked to be brought, or wanted to come!&mdash;is full liberty to worry her out of it again. What are you thinking of, Trot?&rdquo;</p>
+<p>I was thinking of all that had been said. My mind was still running on some of the expressions used. &ldquo;There can be no disparity in marriage like unsuitability of mind and purpose.&rdquo; &ldquo;The first mistaken impulse of an undisciplined heart.&rdquo; &ldquo;My love was founded on a rock.&rdquo; But we were at home; and the trodden leaves were lying under-foot, and the autumn wind was blowing.</p>
+</div2>
+<div2 type="chapter">
+<pb n="471" id="p471"/>
+<head>CHAPTER XLVI. <lb/> INTELLIGENCE.</head>
+<p>I MUST have been married, if I may trust to my imperfect memory for dates, about a year or so, when one evening, as I was returning from a solitary walk, thinking of the book I was then writing&mdash;for my success had steadily increased with my steady application, and I was engaged at that time upon my first work of fiction &mdash; I came past Mrs. Steerforth's house. I had often passed it before, during my residence in that neighbourhood, though never when I could choose another road. How beit, it did sometimes happen that it was not easy to find another, without making a long circuit; and so I had passed that way, upon the whole, pretty often.</p>
+<p>I had never done more than glance at the house, as I went by with a quickened step. It had been uniformly gloomy and dull. None of the best rooms abutted on the road; and the narrow, heavily-framed old-fashioned windows, never cheerful under any circumstances, looked very dismal, close shut, and with their blinds always drawn down. There was a covered way across a little paved court, to an entrance that was never used; and there was one round staircase window, at odds with all the rest, and the only one unshaded by a blind, which had the same unoccupied blank look. I do not remember that I ever saw a light in all the house. If I had been a casual passer-by, I should have probably supposed that some childless person lay dead in it. If I had happily possessed no knowledge of the place, and had seen it often in that changeless state, I should have pleased my fancy with many ingenious speculations, I dare say.</p>
+<p>As it was, I thought as little of it as I might. But my mind could not go by it and leave it, as my body did; and it usually awakened a long train of meditations. Coming before me, on this particular evening that I mention, mingled with the childish recollections and later fancies, the ghosts of half-formed hopes, the broken shadows of disappointments dimly seen and understood, the blending of experience and imagination, incidental to the occupation with which my thoughts had been busy, it was more than commonly suggestive. I fell into a brown study as I walked on, and a voice at my side made me start.</p>
+<p>It was a woman's voice, too. I was not long in recollecting Mrs. Steerforth's little parlor-maid, who had formerly worn blue ribbons in her cap. She had taken them out now, to adapt herself, I suppose, to the altered character of the house; and wore but one or two disconsolate bows of sober brown.</p>
+<p>&ldquo;If you please, sir, would you have the goodness to walk in, and speak to Miss Dartle?&rdquo;</p>
+<p>&ldquo;Has Miss Dartle sent you for me?&rdquo; I inquired.</p>
+<p>&ldquo;Not to-night, sir, but it's just the same. Miss Dartle saw you pass a night or two ago; and I was to sit at work on the staircase, and when I saw you pass again, to ask you to step in and speak to her.&rdquo;</p>
+<pb n="472" id="p472"/>
+<p>I turned back, and inquired of my conductor, as we went along, how Mrs. Steerforth was. She said her lady was but poorly, and kept her own room a good deal.</p>
+<p>When we arrived at the house, I was directed to Miss Dartle in the garden, and left to make my presence known to her myself. She was sitting on a seat at one end of a kind of terrace, overlooking the great city. It was a sombre evening, with a lurid light in the sky; and as I saw the prospect scowling in the distance, with here and there some larger object starting up into the sullen glare, I fancied it was no inapt companion to the memory of this fierce woman.</p>
+<p>She saw me as I advanced, and rose for a moment to receive me. I thought her, then, still more colorless and thin than when I had seen her last; the flashing eyes still brighter, and the scar still plainer.</p>
+<p>Our meeting was not cordial. We had parted angrily on the last occasion; and there was an air of disdain about her, which she took no pains to conceal.</p>
+<p>&ldquo;I am told you wish to speak to me, Miss Dartle;&rdquo; said I, standing near her, with my hand upon the back of the seat, and declining her gesture of invitation to sit down.</p>
+<p>&ldquo;If you please,&rdquo; said she. &ldquo;Pray has this girl been found?&rdquo;</p>
+<p>&ldquo;No.&rdquo;</p>
+<p>&ldquo;And yet she has run away!&rdquo;</p>
+<p>I saw her thin lips working while she looked at me, as if they were eager to load her with reproaches.</p>
+<p>&ldquo;Run away?&rdquo; I repeated.</p>
+<p>&ldquo;Yes! From him,&rdquo; she said with a laugh. &ldquo;If she is not found, perhaps she never will be found. She may be dead!&rdquo;</p>
+<p>The vaunting cruelty with which she met my glance, I never saw expressed in any other face that ever I have seen.</p>
+<p>&ldquo;To wish her dead,&rdquo; said I, &ldquo;may be the kindest wish that one of her own sex could bestow upon her. I am glad that time has softened you so much, Miss Dartle.&rdquo;</p>
+<p>She condescended to make no reply, but, turning on me with another scornful laugh, said:</p>
+<p>&ldquo;The friends of this excellent and much-injured young lady are friends of yours. You are their champion, and assert their rights. Do you wish to know what is known of her?</p>
+<p>&ldquo;Yes,&rdquo; said I.</p>
+<p>She rose with an ill-favored smile, and, taking a few steps towards a wall of holly that was near at hand, dividing the lawn from a kitchen-garden, said, in a louder voice, &ldquo;Come here!&rdquo;&mdash;as if she were calling to some unclean beast.</p>
+<p>&ldquo;You will restrain any demonstrative championship or vengeance in this place, of course, Mr. Copperfield?&rdquo; said she, looking over her shoulder at me with the same expression.</p>
+<p>I inclined my head, without knowing what she meant; and she said, &ldquo;Come here!&rdquo; again; and returned, followed by the respectable Mr. Littimer, who, with undiminished respectability, made me a bow, and took up his position behind her. The air of wicked grace: of triumph, in
+<pb n="473" id="p473"/>
+which, strange to say, there was yet something feminine and alluring: with which she reclined upon the seat between us, and looked at me, was worthy of a cruel Princess in a Legend.</p>
+<p>&ldquo;Now,&rdquo; said she, imperiously, without glancing at him, and touching the old wound as it throbbed: perhaps, in this instance, with pleasure rather than pain. &ldquo;Tell Mr. Copperfield about the flight.&rdquo;</p>
+<p>&ldquo;Mr. James and myself, ma'am_____&rdquo;</p>
+<p>&ldquo;Don't address yourself to me!&rdquo; she interrupted, with a frown.</p>
+<p>&ldquo;Mr. James and myself, sir_____&rdquo;</p>
+<p>&ldquo;Nor to me, if you please,&rdquo; said I.</p>
+<p>Mr. Littimer, without being at all discomposed, signified by a slight obeisance, that anything that was most agreeable to us was most agreeable to him; and began again:</p>
+<p>&ldquo;Mr. James and myself have been abroad with the young woman, ever since she left Yarmouth under Mr. James's protection. We have been in a variety of places, and seen a deal of foreign country. We have been in France, Switzerland, Italy, in fact, almost all parts.&rdquo;</p>
+<p>He looked at the back of the seat, as if he were addressing himself to that; and softly played upon it with his hands, as if he were striking chords upon a dumb piano.</p>
+<p>&ldquo;Mr. James took quite uncommonly to the young woman; and was more settled, for a length of time, than I have known him to be since I have been in his service. The young woman was very improvable, and spoke the languages; and wouldn't have been known for the same country-person. I noticed that she was much admired wherever we went.&rdquo;</p>
+<p>Miss Dartle put her hand upon her side. I saw him steal a glance at her, and slightly smile to himself.</p>
+<p>&ldquo;Very much admired, indeed, the young woman was. What with her dress; what with the air and sun; what with being made so much of; what with this, that, and the other; her merits really attracted general notice.&rdquo;</p>
+<p>He made a short pause. Her eyes wandered restlessly over the distant prospect, and she bit her nether lip to stop that busy mouth.</p>
+<p>Taking his hands from the seat, and placing one of them within the other, as he settled himself on one leg, Mr. Littimer proceeded, with his eyes cast down, and his respectable head a little advanced, and a little on one side:</p>
+<p>&ldquo;The young woman went on in this manner for some time, being occasionally low in her spirits, until I think she began to weary Mr. James by giving way to her low spirits and tempers of that kind; and things were not so comfortable. Mr. James he began to be restless again. The more restless he got, the worse she got; and I must say, for myself, that I had a very difficult time of it indeed between the two. Still matters were patched up here, and made good there, over and over again; and altogether lasted, I am sure, for a longer time than anybody could have expected.&rdquo;</p>
+<p>Recalling her eyes from the distance, she looked at me again now, with her former air. Mr. Littimer, clearing his throat behind his hand with a respectable short-cough, changed legs, and went on:</p>
+<p>&ldquo;At last, when there had been, upon the whole, a good many words
+<pb n="474" id="p474"/>
+and reproaches, Mr. James he set off one morning, from the neighbourhood of Naples, where we had a villa (the young woman being very partial to the sea), and under pretence of coming back in a day or so, left it in charge with me to break it out, that, for the general happiness of all concerned, he was&rdquo;&mdash;here an interruption of the short cough&mdash;&ldquo;gone. But Mr. James, I must say, certainly did behave extremely honorable; for he proposed that the young woman should marry a very respectable person, who was fully prepared to overlook the past, and who was, at least, as good as anybody the young woman could have aspired to in a regular way: her connexions being very common.&rdquo;</p>
+<p>He changed legs again, and wetted his lips. I was convinced that the scoundrel spoke of himself, and I saw my conviction reflected in Miss Dartle's face.</p>
+<p>&ldquo;This I also had it in charge to communicate. I was willing to do anything to relieve Mr. James from his difficulty, and to restore harmony between himself and an affectionate parent, who has undergone so much on his account. Therefore I undertook the commission. The young woman's violence when she came to, after I broke the fact of his departure, was beyond all expectations. She was quite mad, and had to be held by force; or, if she couldn't have got to a knife, or got to the sea, she'd have beaten her head against the marble floor.&rdquo;</p>
+<p>Miss Dartle, leaning back upon the seat, with a light of exultation in her face, seemed almost to caress the sounds this fellow had uttered.</p>
+<p>&ldquo;But when I came to the second part of what had been entrusted to me,&rdquo; said Mr. Littimer, rubbing his hands, uneasily, &ldquo;which anybody might have supposed would have been, at all events, appreciated as a kind intention, then the young woman came out in her true colors. A more outrageous person I never did see. Her conduct was surprisingly bad. She had no more gratitude, no more feeling, no more patience, no more reason in her, than a stock or a stone. If I hadn't been upon my guard, I am convinced she would have had my blood.&rdquo;</p>
+<p>&ldquo;I think the better of her for it,&rdquo; said I, indignantly.</p>
+<p>Mr. Littimer bent his head, as much as to say, &ldquo;Indeed, sir? But you're young!&rdquo; and resumed his narrative.</p>
+<p>&ldquo;It was necessary, in short, for a time, to take away everything nigh her, that she could do herself, or anybody else, an injury with, and to shut her up close. Notwithstanding which, she got out in the night; forced the lattice of a window, that I had nailed up myself; dropped on a vine that was trailed below; and never has been seen or heard of, to my knowledge, since.&rdquo;</p>
+<p>&ldquo;She is dead, perhaps,&rdquo; said Miss Dartle, with a smile, as if she could have spurned the body of the ruined girl.</p>
+<p>&ldquo;She may have drownded herself, miss,&rdquo; returned Mr. Littimer, catching at an excuse for addressing himself to somebody. &ldquo;It's very possible. Or, she may have had assistance from the boatmen, and the boatmens' wives and children. Being given to low company, she was very much in the habit of talking to them on the beach, Miss Dartle, and sitting by their boats. I have known her do it, when Mr. James has been away, whole days. Mr. James was far from pleased
+<pb n="475" id="p475"/>
+to find out, once, that she had told the children she was a boatman's daughter, and that in her own country, long ago, she had roamed about the beach, like them.&rdquo;</p>
+<p>Oh, Emily! Unhappy beauty! What a picture rose before me of her sitting on the far-off shore, among the children like herself when she was innocent, listening to little voices such as might have called her Mother had she been a poor man's wife; and to the great voice of the sea, with its eternal &ldquo;Never more!&rdquo;</p>
+<p>&ldquo;When it was clear that nothing could be done, Miss Dartle&mdash;&rdquo;</p>
+<p>&ldquo;Did I tell you not to speak to me?&rdquo; she said, with stern contempt.</p>
+<p>&ldquo;You spoke to me, miss,&rdquo; he replied. &ldquo;I beg your pardon. But it's my service to obey.&rdquo;</p>
+<p>&ldquo;Do your service,&rdquo; she returned. &ldquo;Finish your story, and go!&rdquo;</p>
+<p>&ldquo;When it was clear,&rdquo; he said, with infinite respectability, and an obedient bow, &ldquo;that she was not to be found, I went to Mr. James, at the place where it had been agreed that I should write to him, and informed him of what had occurred. Words passed between us in consequence, and I felt it due to my character to leave him. I could bear, and I have borne, a great deal from Mr. James; but he insulted me too far. He hurt me. Knowing the unfortunate difference between himself and his mother, and what her anxiety of mind was likely to be, I took the liberty of coming home to England, and relating&mdash;&rdquo;</p>
+<p>&ldquo;For money which I paid him,&rdquo; said Miss Dartle to me.</p>
+<p>&ldquo;Just so, ma'am&mdash;and relating what I knew. I am not aware,&rdquo; said Mr. Littimer, after a moment's reflection, &ldquo;that there is anything else. I am at present out of employment, and should be happy to meet with a respectable situation.&rdquo;</p>
+<p>Miss Dartle glanced at me, as though she would inquire if there were anything that I desired to ask. As there was something which had occurred to my mind, I said in reply:</p>
+<p>&ldquo;I could wish to know from this&mdash;creature,&rdquo; I could not bring myself to utter any more conciliatory word, &ldquo;whether they intercepted a letter that was written to her from home, or whether he suppose that she received it.&rdquo;</p>
+<p>He remained calm and silent, with his eyes fixed on the ground, and the tip of every finger of his right hand delicately poised against the tip of every finger of his left.</p>
+<p>Miss Dartle turned her head disdainfully towards him.</p>
+<p>&ldquo;I beg your pardon, miss,&rdquo; he said, awakening from his abstraction, &ldquo;but, however submissive to you, I have my position, though a servant. Mr. Copperfield and you, miss, are different people. If Mr. Copperfield wishes to know anything from me, I take the liberty of reminding Mr. Copperfield that he can put a question to me. I have a character to maintain.&rdquo;</p>
+<p>After a momentary struggle with myself, I turned my eyes upon him, and said, &ldquo;You have heard my question. Consider it addressed to yourself, if you choose. What answer do you make?&rdquo;</p>
+<p>&ldquo;Sir,&rdquo; he rejoined, with an occasional separation and reunion of those delicate tips, &ldquo;my answer must be qualified; because, to betray Mr. James's
+<pb n="476" id="p476"/>
+confidence to his mother, and to betray it to you, are two different actions. It is not probable, I consider, that Mr. James would encourage the receipt of letters likely to increase low spirits and unpleasantness; but further than that, sir, I should wish to avoid going.&rdquo;</p>
+<p>&ldquo;Is that all?&rdquo; enquired Miss Dartle of me.</p>
+<p>I indicated that I had nothing more to say. &ldquo;Except,&rdquo; I added, as I saw him moving off, &ldquo;that I understand this fellow's part in the wicked story, and that, as I shall make it known to the honest man who has been her father from her childhood, I would recommend him to avoid going too much into public.&rdquo;</p>
+<p>He had stopped the moment I began, and had listened with his usual repose of manner.</p>
+<p>&ldquo;Thank you, sir. But you'll excuse me if I say, sir, that there are neither slaves nor slave-drivers in this country, and that people are not allowed to take the law into their own hands. If they do, it is more to their own peril, I believe, than to other people's. Consequently speaking, I am not at all afraid of going wherever I may wish, sir.&rdquo;</p>
+<p>With that, he made me a polite bow; and, with another to Miss Dartle, went away through the arch in the wall of holly by which he had come. Miss Dartle and I regarded each other for a little while in silence; her manner being exactly what it was, when she had produced the man.</p>
+<p>&ldquo;He says besides,&rdquo; she observed, with a slow curling of her lip, &ldquo;that his master, as he hears, is coasting Spain; and this done, is away to gratify his seafaring tastes till he is weary. But that is of no interest to you. Between these two proud persons, mother and son, there is a wider breach than before, and little hope of its healing, for they are one at heart, and time makes each more obstinate and imperious. Neither is this of any interest to you; but it introduces what I wish to say. This devil whom you make an angel of, I mean this low girl whom he picked out of the tide-mud,&rdquo; with her black eyes full upon me, and her passionate finger up, &ldquo;may be alive,&mdash;for I believe some common things are hard to die. If she is, you will desire to have a pearl of such price found and taken care of. We desire that, too; that he may not by any chance be made her prey again. So far, we are united in one interest; and that is why I, who would do her any mischief that so coarse a wretch is capable of feeling, have sent for you to hear what you have heard.&rdquo;</p>
+<p>I saw, by the change in her face, that some one was advancing behind me. It was Mrs. Steerforth, who gave me her hand more coldly than of yore, and with an augmentation of her former stateliness of manner; but still, I perceived&mdash;and I was touched by it&mdash;with an ineffaceable remembrance of my old love for her son. She was greatly altered. Her fine figure was far less upright, her handsome face was deeply marked, and her hair was almost white. But when she sat down on the seat, she was a handsome lady still; and well I knew the bright eye with its lofty look, that had been a light in my very dreams at school.</p>
+<p>&ldquo;Is Mr. Copperfield informed of everything, Rosa?&rdquo;</p>
+<p>&ldquo;Yes.&rdquo;</p>
+<p>&ldquo;And has he heard Littimer himself?&rdquo;</p>
+<p>&ldquo;Yes; I have told him why you wished it.&rdquo;</p>
+<pb n="477" id="p477"/>
+<p>&ldquo;You are a good girl. I have had some slight correspondence with your former friend, sir,&rdquo; addressing me, &ldquo;but it has not restored his sense of duty or natural obligation. Therefore I have no other object in this, than what Rosa has mentioned. If, by the course which may relieve the mind of the decent man you brought here (for whom I am sorry&mdash;I can say no more), my son may be saved from again falling into the snares of a designing enemy, well!&rdquo;</p>
+<p>She drew herself up, and sat looking straight before her, far away.</p>
+<p>&ldquo;Madam,&rdquo; I said respectfully, &ldquo;I understand. I assure you I am in no danger of putting any strained construction on your motives. But I must say, even to you, having known this injured family from childhood, that if you suppose the girl, so deeply wronged, has not been cruelly deluded, and would not rather die a hundred deaths than take a cup of water from your son's hand now, you cherish a terrible mistake.&rdquo;</p>
+<p>&ldquo;Well, Rosa, well!&rdquo; said Mrs. Steerforth, as the other was about to interpose, &ldquo;it is no matter. Let it be. You are married, sir, I am told?&rdquo;</p>
+<p>I answered that I had been some time married.</p>
+<p>&ldquo;And are doing well? I hear little in the quiet life I lead, but I understand you are beginning to be famous.&rdquo;</p>
+<p>&ldquo;I have been very fortunate,&rdquo; I said, &ldquo;and find my name connected with some praise.&rdquo;</p>
+<p>&ldquo;You have no mother?&rdquo;&mdash;in a softened voice.</p>
+<p>&ldquo;No.&rdquo;</p>
+<p>&ldquo;It is a pity,&rdquo; she returned. &ldquo;She would have been proud of you. Good night!&rdquo;</p>
+<p>I took the hand she held out with a dignified, unbending air, and it was as calm in mine as if her breast had been at peace. Her pride could still its very pulses it appeared, and draw the placid veil before her face, through which she sat looking straight before her on the far distance.</p>
+<p>As I moved away from them along the terrace, I could not help observing how steadily they both sat gazing on the prospect, and how it thickened and closed around them. Here and there, some early lamps were seen to twinkle in the distant city; and in the eastern quarter of the sky the lurid light still hovered. But, from the greater part of the broad valley interposed, a mist was rising like a sea, which, mingling with the darkness, made it seem as if the gathering waters would encompass them. I have reason to remember this, and think of it with awe; for before I looked upon those two again, a stormy sea had risen to their feet.</p>
+<p>Reflecting on what had been thus told me, I felt it right that it should be communicated to Mr. Peggotty. On the following evening I went into London in quest of him. He was always wandering about from place to place, with his one object of recovering his niece before him; but was more in London than elsewhere. Often and often, now, had I seen him in the dead of night passing along the streets, searching, among the few who loitered out of doors at those untimely hours, for what he dreaded to find.</p>
+<p>He kept a lodging over the little chandler's shop in Hungerford Market, which I have had occasion to mention more than once, and from which he first went forth upon his errand of mercy. Hither I directed my walk.
+<pb n="478" id="p478"/>
+On making inquiry for him, I learned from the people of the house that he had not gone out yet, and I should find him in his room up-stairs.</p>
+<p>He was sitting reading by a window in which he kept a few plants. The room was very neat and orderly. I saw in a moment that it was always kept prepared for her reception, and that he never went out but he thought it possible he might bring her home. He had not heard my tap at the door, and only raised his eyes when I laid my hand upon his shoulder.</p>
+<p>&ldquo;Mas'r Davy! Thankee, sir! thankee hearty, for this visit! Sit ye down. You're kindly welcome, sir!&rdquo;</p>
+<p>&ldquo;Mr. Peggotty,&rdquo; said I, taking the chair he handed me, &ldquo;don't expect much! I have heard some news.&rdquo;</p>
+<p>&ldquo;Of Em'ly!&rdquo;</p>
+<p>He put his hand, in a nervous manner, on his mouth, and turned pale, as he fixed his eyes on mine.</p>
+<p>&ldquo;It gives no clue to where she is; but she is not with him.&rdquo;</p>
+<p>He sat down, looking intently at me, and listened in profound silence to all I had to tell. I well remember the sense of dignity, beauty even, with which the patient gravity of his face impressed me, when, having gradually removed his eyes from mine, he sat looking downward, leaning his forehead on his hand. He offered no interruption, but remained throughout perfectly still. He seemed to pursue her figure through the narrative, and to let every other shape go by him, as if it were nothing.</p>
+<p>When I had done, he shaded his face, and continued silent. I looked out of the window for a little while, and occupied myself with the plants.</p>
+<p>&ldquo;How do you fare to feel about it, Mas'r Davy?&rdquo; he inquired at length.</p>
+<p>&ldquo;I think that she is living,&rdquo; I replied.</p>
+<p>&ldquo;I doen't know. Maybe the first shock was too rough, and in the wildness of her art&mdash;! That there blue water as she used to speak on. Could she have thowt o' that so many year, because it was to be her grave!&rdquo;</p>
+<p>He said this, musing, in a low, frightened voice; and walked across the little room.</p>
+<p>&ldquo;And yet,&rdquo; he added, &ldquo;Mas'r Davy, I have felt so sure as she was living&mdash;I have know'd, awake and sleeping, as it was so trew that I should find her&mdash;I have been so led on by it, and held up by it&mdash;that I doen't believe I can have been deceived. No! Em'ly's alive!&rdquo;</p>
+<p>He put his hand down firmly on the table, and set his sunburnt face into a resolute expression.</p>
+<p>&ldquo;My niece, Em'ly, is alive, sir!&rdquo; he said, stedfastly. &ldquo;I doen't know wheer it comes from, or how 'tis, but <hi rend="italics">I am told</hi> as she's alive!&rdquo;</p>
+<p>He looked almost like a man inspired, as he said it. I waited for a few moments, until he could give me his undivided attention; and then proceeded to explain the precaution, that, it had occurred to me last night, it would be wise to take.</p>
+<p>&ldquo;Now, my dear friend&mdash;&rdquo; I began.</p>
+<p>&ldquo;Thankee, thankee, kind sir,&rdquo; he said, grasping my hand in both of his.</p>
+<pb n="479" id="p479"/>
+<p>&ldquo;If she should make her way to London, which is likely&mdash;for where could she lose herself so readily as in this vast city; and what would she wish to do, but lose and hide herself, if she does not go home?&mdash;&rdquo;</p>
+<p>&ldquo;And she won't go home,&rdquo; he interposed, shaking his head mournfully. &ldquo;If she had left of her own accord, she might; not as 'twas, sir.&rdquo;</p>
+<p>&ldquo;If she should come here,&rdquo; said I, &ldquo;I believe there is one person, here, more likely to discover her than any other in the world. Do you remember&mdash;hear what I say, with fortitude&mdash;think of your great object!&mdash;do you remember Martha?&rdquo;</p>
+<p>&ldquo;Of our town?&rdquo;</p>
+<p>I needed no other answer than his face.</p>
+<p>&ldquo;Do you know that she is in London?&rdquo;</p>
+<p>&ldquo;I have seen her in the streets,&rdquo; he answered, with a shiver.</p>
+<p>&ldquo;But you don't know,&rdquo; said I, &ldquo;that Emily was charitable to her, with Ham's help, long before she fled from home. Nor, that, when we met one night, and spoke together in the room yonder, over the way, she listened at the door.&rdquo;</p>
+<p>&ldquo;Mas'r Davy?&rdquo; he replied in astonishment. &ldquo;That night when it snew so hard?&rdquo;</p>
+<p>&ldquo;That night. I have never seen her since. I went back, after parting from you, to speak to her, but she was gone. I was unwilling to mention her to you then, and I am now; but she is the person of whom I speak, and with whom I think we should communicate. Do you understand?&rdquo;</p>
+<p>&ldquo;Too well, sir,&rdquo; he replied. We had sunk our voices, almost to a whisper, and continued to speak in that tone.</p>
+<p>&ldquo;You say you have seen her. Do you think that you could find her? I could only hope to do so by chance.&rdquo;</p>
+<p>&ldquo;I think, Mas'r Davy, I know wheer to look.&rdquo;</p>
+<p>&ldquo;It is dark. Being together, shall we go out now, and try to find her to night?&rdquo;</p>
+<p>He assented, and prepared to accompany me. Without appearing to observe what he was doing, I saw how carefully he adjusted the little room, put a candle ready and the means of lighting it, arranged the bed, and finally took out of a drawer one of her dresses (I remembered to have seen her wear it), neatly folded with some other garments, and a bonnet, which he placed upon a chair. He made no allusion to these clothes, neither did I. There they had been waiting for her, many and many a night, no doubt.</p>
+<p>&ldquo;The time was, Mas'r Davy,&rdquo; he said, as we came down stairs, &ldquo;when I thowt this girl, Martha, a'most like the dirt underneath my Em'ly's feet. God forgive me, there's a difference now!&rdquo;</p>
+<p>As we went along, partly to hold him in conversation, and partly to satisfy myself, I asked him about Ham. He said, almost in the same words as formerly, that Ham was just the same, &ldquo;wearing away his life with kiender no care nohow for't; but never murmuring, and liked by all.&rdquo;</p>
+<p>I asked him what he thought Ham's state of mind was, in reference to the cause of their misfortunes? Whether he believed it was dangerous?
+<pb n="480" id="p480"/>
+What he supposed, for example, Ham would do, if he and Steerforth ever should encounter?</p>
+<p>&ldquo;I doen't know, sir,&rdquo; he replied. &ldquo;I have thowt of it oftentimes, but I can't arrize myself of it, no matters.&rdquo;</p>
+<p>I recalled to his remembrance the morning after her departure, when we were all three on the beach. &ldquo;Do you recollect,&rdquo; said I, &ldquo;a certain wild way in which he looked out to sea, and spoke about &lsquo;the end of it.&rsquo; &rdquo;</p>
+<p>&ldquo;Sure I do!&rdquo; said he.</p>
+<p>&ldquo;What do you suppose he meant?&rdquo;</p>
+<p>&ldquo;Mas'r Davy,&rdquo; he replied, &ldquo;I've put the question to myself a mort o'times, and never found no answer. And theer's one curous thing&mdash;that, though he is so pleasant, I wouldn't fare to feel comfortable to try and get his mind upon't. He never said a wured to me as warn't as dootiful as dootiful could be, and it ain't likely as he'd begin to speak any other ways now; but it's fur from being fleet water in his mind, where them thowts lays. It's deep, sir, and I can't see down.&rdquo;</p>
+<p>&ldquo;You are right,&rdquo; said I, &ldquo;and that has sometimes made me anxious.&rdquo;</p>
+<p>&ldquo;And me too, Mas'r Davy,&rdquo; he rejoined. &ldquo;Even more so, I do assure you, than his ventersome ways, though both belongs to the alteration in him. I doen't know as he'd do violence under any circumstarnces, but I hope as them two may be kep asunders.&rdquo;</p>
+<p>We had come, through Temple Bar, into the city. Conversing no more now, and walking at my side, he yielded himself up to the one aim of his devoted life, and went on, with that hushed concentration of his faculties which would have made his figure solitary in a multitude. We were not far from Blackfriars Bridge, when he turned his head and pointed to a solitary female figure flitting along the opposite side of the street. I knew it, readily, to be the figure that we sought.</p>
+<p>We crossed the road, and were pressing on towards her, when it occurred to me that she might be more disposed to feel a woman's interest in the lost girl, if we spoke to her in a quieter place, aloof from the crowd, and where we should be less observed. I advised my companion, therefore, that we should not address her yet, but follow her; consulting in this, likewise, an indistinct desire I had, to know where she went.</p>
+<p>He acquiescing, we followed at a distance: never losing sight of her, but never caring to come very near, as she frequently looked about. Once, she stopped to listen to a band of music; and then we stopped too.</p>
+<p>She went on a long way. Still we went on. It was evident, from the manner in which she held her course, that she was going to some fixed destination; and this, and her keeping in the busy streets, and, I suppose the strange fascination in the secresy and mystery of so following any one, made me adhere to my first purpose. At length she turned into a dull, dark street, where the noise and crowd were lost; and I said, &ldquo;We may speak to her now;&rdquo; and, mending our pace, we went after her.</p>
+</div2>
+
+</div1>
+
+
+</body>
+<back>
+<div1 type="advertisement">
+<pb id="p1b" n="[1]"/>
+<head>Illustrated Weekly Journal for Ladies.</head>
+<p><hi rend="italics">Published Weekly, Price Threepence, Stamped Fourpence,</hi>
+<lb/> AND IN MONTHLY PARTS: <lb/> THE <lb/> LADIES' COMPANION <lb/> At Home and Abroad.</p>
+<p>THE success of &ldquo;THE LADIES' COMPANION,&rdquo; which has justified the belief that a field for such a periodical existed, has also encouraged its projectors to double diligence, on commencing a new volume, with a view of rendering their miscellany increasingly valuable by its vigour and variety, no less than attractive by its refinement.</p>
+<p>New arrangements have been entered into, for the purpose of presenting in an improved form the many important movements now making in the cause of <hi rend="italics">Female Education and Association.</hi></p>
+<p>It is the Editor's desire, too, to increase the importance of the literary criticism of the paper; selecting, week by week, such books only as befit a <hi rend="italics">Lady's Library.</hi>&mdash;The popular scientific essays which have been so favourably received will be continued. Care, too, will be taken to vary the chronicle, of the pleasant open-air pursuits of the country, as well as to record the amusements of the town.&mdash;Characters and biographies of <hi rend="italics">Distinguished Women</hi> will be presented from time to time.&mdash;The co-operation of some of our female writers most distinguished in imaginative literature has been secured, in addition to many of those who have already contributed.&mdash;In <hi rend="italics">Art,</hi> besides furnishing guidance and information, especially referring to the female artist, it is intended more largely than heretofore to consider the intellectual pleasure of the amateur.&mdash;It would be easy to follow these promises by a list of names: but it is thought better that the numbers of this periodical to come shall speak for themselves; the public having learned that those who are the most earnest in their purposes and the surest in their resources, will the most carefully avoid every device that savours of puffery.</p>
+<p>While, however, Philosophy, Literature, Science, Imagination, Art, and Manners, will be in turn treated, it is hoped, with increased spirit,&mdash;a &ldquo;LADIES' COMPANION,&rdquo; to merit such companionship, must also hold up &ldquo;the Glass of Fashion,&rdquo; and keep open a Board of all manner of dainty and ingenious works. Here, too, new arrangements of the first importance have been made, and here a name carries its own authority and recommendation. The proprietors, therefore, announce with pleasure, that the valuable assistance of Madame D&Eacute;VY, 73, Grosvenor-street, will, in future, be given exclusively to &ldquo;THE LADIES' COMPANION;&rdquo; and that all the information concerning Dress or Fashions which will henceforth appear in its columns, has either been directly communicated by that lady, or appears under her sanction. They may also state that the Illustrations of the periodical will appear, for the future, under the superintendence of H. Noel Humphreys, Esq.</p>
+<p>Parts I. to VI. are now ready: and the First Volume will be published <lb/> shortly, being delayed by the preparation of a very elegant cover.</p>
+<p><hi rend="italics">The stamped edition of this Journal will be forwarded regularly at the charge of fourpence per week, upon the receipt of a Post-Office Order to the office, or of postage stamps for such period as the party may wish to subscribe for.</hi></p>
+<closer>OFFICE: 11, BOUVERIE STREET FLEET STREET AND <lb/> ALL BOOKSELLERS AND NEWSMEN.</closer>
+<closer>BRADBURY AND EVANS, PRINTERS, WHITEFRIARS.</closer>
+</div1>
+<div1 type="advertisement">
+<pb id="p2b" n="[2]"/>
+<opener>NOW READY, <lb/>
+<hi rend="italics">Price 7s., the Second Volume, completing the Series of</hi></opener><head> MANNERS AND CVSTOMS OF YE ENGLYSHE <lb/> IN 1849</head><p>BY RICHARD DOYLE.</p>
+<p>TOGETHER WITH SOME EXTRACTS FROM MR. PIPS HIS DIARY, <lb/> CONTRIBUTED BY PERCIVAL LEIGH.</p>
+<list>
+<head>CONTENTS.</head>
+<item>A Raylway Statyon&mdash;Showinge ye Travellers Refrefhynge Themfelves.</item>
+<item>Ye Brytyfh Granadiers a Mountynge Guard at St. James Hys Palace Yarde.</item>
+<item>A Cydere Cellare Duryng a Comyck Songe.</item>
+<item>Regente Strete at Four of ye Clocke, P.M.</item>
+<item>Ye Sport of Punte Fyfhynge, off Rychmonde.</item>
+<item>Blackwall&mdash;Showynge ye Publick a Dinynge on Whytebait.</item>
+<item>Madame Tuffaud Her Waxe Werkes&mdash;Ye Chamber of Horrors!!</item>
+<item>Deere Stalkynge in ye Hyghlandes.</item>
+<item>Trycks of ye London Trade.</item>
+<item>A Partie of Sportfmen out a Shutynge.</item>
+<item>A Profpect of an Election.</item>
+<item>Ye Wyne Vaults at ye Docks&mdash;Showynge a Partye Taftynge.</item>
+<item>A Weddynge Breakfafte.</item>
+<item>A Theatre, Showynge ye Houfe Amufed by ye Comycke Actor.</item>
+<item>A Profpecte of ye Zoological Soci&eacute;tye its Gardens&mdash;Feedynge ye Beafts.</item>
+<item>Weftminfter Hall&mdash;Showynge ye Ceremonye of Openynge Terme.</item>
+<item>A Profpecte of ye <hi rend="italics">5</hi>th of November &mdash; Showynge ye Guys.</item>
+<item>A Banquet&mdash;Showynge ye Farmer's Friend Impreffynge on ye Agricultural Intereft that it is Ruined.</item>
+<item>Appearance of ye Crymyna Courte during an Intereftyng Tryal for Murder.</item>
+<item>A Promenade Concerte.</item>
+</list><p><hi rend="italics">The complete Series may also be had, handsomely half-bound, in</hi>
+<lb/>
+<hi rend="italics">One Volume, in Turkey morcco, Price 15s.</hi></p>
+<div2>
+<opener>New Monthly Work on Gardening and Botany, Beautifully Illustrated.<lb/><hi rend="italics">On the First of July, was published, price 2s. 6d., No. V. of</hi></opener><head>PAXTON'S FLOWER GARDEN.</head>
+<p>EDITED BY DR. LINDLEY AND JOSEPH PAXTON.</p>
+<p>AND ILLUSTRATED BY HIGHLY FINISHED PLATES AND WOODCUTS.</p>
+<closer>BRADBURY AND EVANS, 11, BOUVERIE STREET, FLEET STREET.</closer>
+</div2>
+</div1>
+<div1 type="advertisement">
+<pb id="p1c" n="[1]"/>
+<head>PENNY MAPS.</head>
+<p>On the 1st of August will be Published, Part I. of <lb/> A NEW SERIES OF MAPS, <lb/> In Large Quarto, <lb/> PRICE ONE PENNY EACH MAP, PLAIN, <lb/> AND TWOPENCE WITH THE BOUNDARIES COLOURED.</p>
+<p>CHEAP AND GOOD MAPS are one of the wants of the time. All classes have an interest that the information supplied by maps should be accurate and full, but in no department of publication has it been found so difficult to bring the latest results of enterprise and science within the reach of all ranks of the people. It is now proposed to make that attempt in a series of PENNY MAPS.</p>
+<p>The Penny Maps will be on a scale to admit of all the most recent discoveries. This will render them of the highest value in FAMILIES and SCHOOLS, while, as the name implies, they will be published at a price to bring them really within the reach of WORKING MEN, to whom it is daily becoming more and more essential that they should possess the advantages of such instruction.</p>
+<p>They will be on large quarto paper, each map measuring eleven inches and a quarter by eight inches and three-quarters, and will be so drawn and marked in distinct scales, as at once to exhibit the comparative sizes of different countries. They will be printed by the printing machine, without the aid of which, by means of a recent invention, it would have been impossible to combine the degree of CHEAPNESS and EXCELLENCE aimed at.</p>
+<p>The construction and engraving of the Maps has been entrusted to Mr. JOHN WILSON LOWRY, F.R.G.S., whose name is a sufficient guarantee for the correctness of design, the clearness, precision, and beauty of effect, with which they will be executed.</p>
+<p>The series will comprise about One Hundred Penny Maps, which will admit of all the most important countries being given on enlarged scales.</p>
+<p>A Part, comprising Four Maps (any of which may be had separate), will be published on the First of every Month, price Fourpence plain and Eightpence coloured. In the Coloured Edition the boundaries of all the maps drawn on the same scale will be printed in the same colour, and the ready comparison of various countries will be thus greatly facilitated. As the colouring also will be effected by the printing machine, the most perfect accuracy and completeness of outline may be relied on.</p>
+<p>Part I. will contain DENMARK&mdash;HOLLAND AND BELGIUM&mdash; <lb/> and HUNGARY, in Two MAPS.</p>
+<closer>LONDON: PUBLISHED BY CHAPMAN AND HALL, 186 STRAND; <lb/> EDINBURGH, J MENZIES; GLASGOW, T. MURRAY; DUBLIN, J. M'GLASHAN; <lb/> NO SOLD BY ALL BOOKSELLERS AND NEWSMEN.</closer>
+</div1>
+<div1 type="advertisement">
+<pb id="p1d" n="[1]"/>
+<opener>THE MOST REMARKABLE PUBLICATION OF THE DAY.</opener>
+<head>THE WORKING MAN'S FRIEND <lb/> And Family Instructor.</head>
+<p>THIRTY-TWO PAGES CROWN OCTAVO, PRICE ONE PENNY.</p>
+<p>The SECOND VOLUME is NOW READY for delivery, price <hi rend="italics">One Shilling and Sixpence,</hi> bound in cloth, and containing thirteen weekly Numbers. The THIRD VOLUME will be commenced on Saturday, July 6. In addition to the continuation of papers by Doctor Ferguson, the Rev. B. Parsons, Mary Howitt, Fredrika Bremer, &ldquo;Silverpen,&rdquo; and other eminent writers, the first Number of the new Volume will contain the first of a Series of Sketches by WILLIAM HOWITT, Esq., descriptive of remarkable scenes, objects, and places.</p>
+<p>This Weekly Magazine has been declared, by a very large portion of the Public Press, to be &ldquo;one of the most remarkable publications of the class;&rdquo;&mdash;&ldquo;of excellent quality and amazing bulk;&rdquo;&mdash;&ldquo;for cheapness and real excellence unequalled;&rdquo;&mdash;&ldquo;a useful and formidable auxiliary in the cause of progress.&rdquo; And it has been hailed by the numerous class for whom it is especially intended, as well as by those who occupy a higher social position, as eminently calculated to promote the elevation and improvement of a most important portion of the community.</p>
+<div2 type="section">
+<opener>A new and highly-interesting feature will also be introduced into this Magazine, as will be seen by the following announcement:&mdash;</opener><head>THE OPERATIVE CLASSES: <lb/> THEIR TRIALS, SUFFERINGS, AND VIRTUES.</head>
+<p>JOHN CASSELL offers ONE HUNDRED POUNDS, in Premiums of TEN POUNDS each, for Ten pithy SKETCHES, TALES, or NARRATIVES, illustrative of the Trials, Sufferings, and Patient Endurance of the Industrial Classes, in connexion with various systems:&mdash; <lb/>
+<hi rend="italics">In order that no delay may occur in the publication of this important and interesting series of Papers, the subject,</hi> &ldquo;ON THE CONDITION OF THE OMNIBUS DRIVERS AND CONDUCTORS OF THE METROPOLIS,&rdquo; <hi rend="italics">has been submitted to, and accepted by, Miss Meteyard,</hi> (<hi rend="italics">better known to the literary world as</hi> &ldquo;SILVERPEN,&rdquo;) <hi rend="italics">the first chapter of which will appear in the number of</hi> THE WORKING MAN'S FRIEND <hi rend="italics">to be issued August 3. The whole of the remaining subjects</hi> (TEN <hi rend="italics">in number</hi>) <hi rend="italics">will be open to the competition of all writers in the United Kingdom.</hi></p>
+<list>
+<item>I. THE SWEATING SYSTEM: in connexion with the Tailoring Trade.</item>
+<item>II. THE FACTORY SYSTEM: as illustrated in the Life of a Child, a Wife, and a Mother; in connexion with long hours, absence from home, and bare subsistence.</item>
+<item>III. JOURNEYMEN BAKERS: in connexion with long hours, night work, Sunday labour, and close and unhealthy atmospheres.</item>
+<item>IV. COLLIERS and MINERS: their unhealthy and hazardous employments and the triumphs of virtue and religion under the most unfavourable circumstances.</item>
+<item>V. THE STOCKINGERS OF LEICESTER AND NOTTS; illustrated in the history of their trade; their privations during a lengthened depression; their long hours of labour, and scanty wages.</item>
+<item>VI. NEEDLE WOMEN: illustrative of the sufferings and miseries of Shirt-makers, and the makers of Slop-goods, &amp;c.</item>
+<item>VII. SALE-FURNITURE AND CABINET-MAKERS: in connexion with the drudgery, slavery, and the very inadequate remuneration of the present system.</item>
+<item>VIII. SPITALFIELDS WEAVERS: their history, privations, recreations, and present condition.</item>
+<item>IX. AGRICULTURAL LABOURERS: their employments, condition as to education, domestic comforts, &amp;c.</item>
+<item>And in connexion with the above series, though not actually including the operative classes:&mdash; <lb/> X. THE DRAPERS' ASSISTANTS: illustrative of life in large towns, long hours, unhealthy lodging, oppressive and degrading rules and maxims, and the demoralization usually attendant on the present system.</item>
+</list><p>Each Sketch, or Tale, must not exceed in length twelve of the ordinary pages of THE WORKING MAN'S FRIEND, and is to be divided into three chapters, or smaller sections if necessary. Though written in the form of tale, or narrative, it must describe the peculiarities of the respective trade or occupation, and contain such statistics as may convey just ideas of its extent, importance, and present state.</p>
+<p>The OBJECT of the Proprietor of THE WORKING MAN'S FRIEND, in publishing these Sketches, is to furnish a succession of vivid pictures, which may serve,&mdash; <lb/>
+<hi rend="italics">First,</hi>&mdash;To exhibit the advantages resulting from Sobriety, Industry, Integrity, and Moral Excellence under the most trying circumstances, namely, of the hardest work and the worst pay.</p>
+<p><hi rend="italics">Secondly,</hi>&mdash;To excite the sympathy of those who are in more favourable circumstances, by bringing more fully before their view the privations and sufferings which large portions of their brethren and sisters have to endure; and the great difficulties with which they have to contend, even in obtaining the commonest necessaries of life, and in procuring the education and training of their children; and the temptations and dangers to which they are, consequently, exposed.</p>
+<p><hi rend="italics">Thirdly,</hi>&mdash;To remove the prejudices, to allay the apprehensions, and to engage the kindly offices of these who have formed unfavourable opinions of the masses, as persons who have imbibed what are considered extravagant opinions and unwarrantable desires, as to Polities, Religion, and Social Philosophy; and, <lb/>
+<hi rend="italics">Finally,</hi>&mdash;To excite in the minds of all an earnest desire for the amelioration of the condition of the toiling classes, and a determination to employ the most rational means of securing their physical, intellectual, social, and moral elevation.</p>
+<p>The aim of each writer must be to carry out these objects in a calm and dignified tone, apart from personal invectives, or abuse of individuals whom bad systems may have betrayed into oppressive acts. It will not avail to irritate wounds that are already too grievous to be borne; the wisest course will be to point out the means by which healing and soundness may be best effected.</p>
+<p>The Editors of THE WORKING MAN'S FRIEND will be assisted, in the selection of the best Sketch or Tale, by persons well acquainted with the peculiarities of each system.</p>
+<p>The competitors for No. I. must send in their papers not later than August 14.</p>
+<list>
+<item>For No. II., September 1.</item><item>For No. III., September 15.</item><item>For No. IV., October 1.</item>
+<item>For No. V., October 15.</item>
+</list><p>And the remainder not later than November 15.</p>
+<p>The papers must be addressed &ldquo;To the Proprietor of the Working Man's Friend, 335, Strand, London.&rdquo; Each manuscript must be signed with some peculiar initial, accompanied with a sealed note
+<pb id="p2d" n="2"/>containing the real name and address of the writer; no note will be opened except that of the successful competitor.</p>
+<div3>
+<head>MONTHLY PARTS OF THE WORKING MAN'S FRIEND AND FAMILY INSTRUCTOR.</head>
+<p>MONTHLY PARTS are regularly published, price Sixpence, containing Four Weekly Numbers, besides which is the <hi rend="italics">Supplementary Number</hi> for the Month, uniform in size and price with the Weekly Numbers, and is devoted entirely to communications from Working Men. As an encouragement to literary exertion on the part of the working classes, valuable books are awarded to those whose compositions are considered worthy of insertion. Four Numbers have now been published, and have elicited the highest encomiums from all quarters, including several leading Members of Parliament.</p>
+</div3>
+</div2>
+<div2 type="section">
+<head>JOHN CASSELL'S LIBRARY,</head><p>To be completed in Twenty-four Monthly Volumes, each Volume containing 144 pages, price SIXPENCE. Vols. FIRST and SECOND (the two in one) NOW READY, price ONE SHILLING; or, bound in cloth, ONE SHILLING AND FOURPENCE, entitled &ldquo;SAILINGS OVER THE GLOBE;&rdquo; comprising:&mdash;Rise and Progress of Navigation&mdash;Early Discoveries of the Portuguese&mdash;Voyages of Vasco de Gama, Mendez Pinto, and Magellan&mdash;Eastern Enterprises of the English, and First Circumnavigation of the Globe&mdash;The Four Voyages of Columbus&mdash;Cortez and the Conquest of Mexico&mdash;Pizarro and the Discovery of Peru&mdash;Voyages and Discoveries of Commodore Byron&mdash;Voyages and Discoveries of Captain Wallis&mdash;The Four Voyages and Discoveries of Captain Cook-Early Polar Expeditions&mdash;Recent Voyages and Discoveries of Scoresby, Parry, Ross, and Franklin.</p>
+<p>Volume III. of the Series is also NOW PUBLISHED, and Volume IV. will be ready on the 1st of August, entitled</p></div2><div2
+type="section">
+<head>FOOTPRINTS OF TRAVELLERS.</head>
+<p>Volume I. contains: Capel de Brooke's Travels in Norway, Sweden, and Lapland&mdash;Lyall's Travels in the Crimea, the Caucasus, and Georgia&mdash;Inglis's Travels in the Tyrol&mdash;Travels among the Tartars by the Ambassador of the Pope, and also by Zwick and Schill&mdash;Burnes's Travels in Bokhara&mdash;Heber's Travels in India.</p>
+</div2><div2 type="section">
+<head>NEW AND POPULAR HISTORY OF ENGLAND.</head>
+<p>To render this Library as perfect as possible, the Publisher has arranged with Dr. Ferguson, of Ryde for bringing out a new HISTORY OF ENGLAND, to be comprised in THERE VOLUMES of the, WORKING MAN'S LIBRARY. These, with a Volume entitled, &ldquo;THE HISTORY OF ENGLAND'S GREATNESS,&rdquo; by the Rev. BENJAMIN PARSONS, Author of &ldquo;Anti-Bacchus,&rdquo; &ldquo;The Moral and Mental Dignity of Woman,&rdquo; &amp;c. &amp;c., will form <hi rend="italics">four single volumes,</hi> or <hi rend="italics">two handsome double volumes.</hi> Thus will be produced the cheapest and most complete HISTORY OF ENGLAND ever issued from the press.</p>
+<p>In publishing these volumes the design will be not only to exhibit a mere record of the actions of Kings, but also to present a more faithful and interesting history of the People, with their progress in industrial arts and social amelioration. The acknowledged talents and celebrity of the respective authors of these works will be a sufficient guarantee for the ability and excellence with which they will be prepared.</p>
+</div2>
+<div2 type="section">
+<head>PRIZE ESSAY.</head>
+<p>Just published, price 1s. 6d., in a stiff wrapper; or bound in cloth, 2s., <lb/> &ldquo;THE WORKING CLASSES OF GREAT BRITAIN; <lb/> THEIR PRESENT CONDITION, AND THE MEANS OF THEIR IMPROVEMENT AND ELEVATION.&rdquo; <lb/> To which will be added an Appendix.</p>
+<p>By the Rev. SAMUEL G. GREEN, A.B., of Taunton.</p>
+<p>A Prize of Fifty Pounds was offered by Mr. John Cassell for the best Essay upon the above subject, the Adjudicators being the Rev. T. Spencer, A.M.; Edward Miall, Esq.; and Edward Swaine, Esq.; and was unanimously awarded to the above gentlemen; his Essay being selected from almost fifty others.</p>
+</div2>
+<div2 type="section">
+<head>JOHN CASSELL'S BOOKS FOR THE YOUNG.</head>
+<p>There are Primers, Spelling Books, Grammars, and other helps to Elementary Education, in abundance. There are also Libraries of Fairy Tales, Romances, and other works of Fiction, for the amusement of youthful readers, almost without end. But there are still wanting cheap, well-written books, adapted to the capacities of children, and furnishing information as to Natural Objects, Arts, Sciences, and Manufactures. To supply this want, John Cassell proposes to issue <lb/> A NEW SERIES OF INSTRUCTIVE WORKS FOR CHILDREN; To consist of <hi rend="italics">Twelve Books at Sixpence each,</hi> in the form of catechisms or dialogues, divided into sections, and written in a style at once plain and familiar, interesting and instructive. The aim in this Series will be, by judicious condensation, to furnish for the youthful mind such a store of information as shall prove of avail in after-life, at the same time that it excites a spirit of laudable inquiry, and an eager thirst for the higher branches of intellectual, scientific, and moral truth.</p>
+<p>It is believed that there are few parents, however humble their lot in life, but will feel pleasure in presenting to their children a copy of each of these books as they make their appearance in succession. For use in schools, whether public or private, they cannot fail to be acceptable. They will, also, be admirably adapted for presents, either as tokens of esteem or rewards for good behaviour.</p>
+<p>The first of the Series will be ready by the 1st of August next, and will contain</p>
+<p>ARTS AND MANUFACTURES. NO. I.</p>
+<p>THE HISTORY OF PAPER-MAKING, WRITING, PRINTING, AND BOOKS.</p>
+<p>Each Number, or Book, will be complete in itself.</p>
+</div2>
+<div2 type="section">
+<head>THE FREEHOLDER,</head><p>The ORGAN of the FREEHOLDERS' UNION, is published on the first of every Month, price Fourpence, stamped. It contains forty-eight columns of closely-printed matter; and can be sent, postage free, to any part of the kingdom.</p>
+<p>&ldquo;THE FREEHOLDER&rdquo; is exclusively devoted to the extension of the County Franchise, and contains reports of the proceedings of all Freehold Land Societies, with an analysis of their rules, list of their officers, &amp;c. It also gives plain and practical directions for qualifying and registering, so that individuals, whether members of Land Societies or otherwise, may know how to obtain a County Vote, how to have their names put upon the Register, and how to support, if necessary, their claims in the Revision Court,&mdash;Office, 335, Strand, London.</p>
+</div2>
+<div2 type="advertisement">
+<pb id="p3d" n="[3]"/>
+<head>ALMANACKS FOR 1850.</head>
+<p>THIRTY-FIFTH THOUSAND.</p>
+<p>THE FINANCIAL REFORM ALMANACK, &ldquo;bristling with the Financial condition of the country ever exhibited.</p>
+<p>This ALMANACK, besides the Calendar and all other topics pertaining to Almanacks, contains, among a variety of Original Articles, the following?&mdash;History of Taxation&mdash;Present Amount and Sources of Taxation&mdash;The Civil List&mdash;The Army&mdash;The Navy&mdash;Naval and Military Colonial Expenditure&mdash;The Woods and Forests&mdash;The Civil Service&mdash;The Executive&mdash;Colonial Government and Expenditure&mdash;Indirect Taxation&mdash;The Budget of Richard Cobden for 1849&mdash;The Armed Peace Policy&mdash;The European Debt&mdash;National Debt&mdash;The Pension List&mdash;In and Out of Office&mdash;The Poor-laws&mdash;Local or Delegate Taxation&mdash;Taxation and Representation&mdash;The Expense of War&mdash;Miscellaneous Abuses&mdash;Law and Justice&mdash;Education, Science, and Art&mdash;Ambassadors', Royal, and other Palaces&mdash;Colonial, Consular, and other Foreign Purposes&mdash;Consuls&mdash;Regium Donum&mdash;Queen's Plates&mdash;Charities to Ireland&mdash;British India and the Cotton Trade&mdash;with a variety of Facts, Scraps, and Statistics.</p>
+<closer>CHARLES GILPIN, 5, Bishopsgate-street-without.</closer>
+</div2><div2 type="advertisement">
+<opener>Price Fourpence,</opener><head>THE EMIGRANT'S ALMANACK for 1850.</head><p>The circulation of this Almanack for the year 1849 was upwards of 16,000, and had a larger number been printed off a much more extensive sale would have resulted, as the demand made for extended supplies by various booksellers could not be answered. The sale for 1850 will be fully 20,000, and as &ldquo;the press&rdquo; has admitted that the EMIGRANT'S ALMANACK contains a greater mass of useful information on the important subject of Emigration than any other publication, and as every possible care has been taken to ensure its entire accuracy, its popularity will exceed that of its predecessor. It contains advice relative so the United States of America; describes the routes to the various fields of emigration; determines the distances to each place; the modes of conveyance; the length of time occupied in the various journeys; expense of transit; cost of land in different parts of the world; expense of clearing the soil, and all the official information from the Commission of Emigration. In every page it abounds with practical hints for the Emigrant of every degree, and altogether forms one of the most interesting and valuable books of reference ever published on the subject of Emigration.</p>
+<p>In demy 8vo, containing thirty-two pages, price 2d., <lb/> THE GREAT MILITARY AND NAVAL PARLIAMENT; being an Analysis of both our Houses of Parliament; showing, from a careful examination of the Red Books of the Aristocracy themselves, the true secret of the constant increase in our Military and Naval expenditure, in a STANDING MAJORITY in both Houses of nearly 300 members directly connected with the war system.</p>
+<p>In demy 8vo, containing 40 pages, price 3d., <lb/> OUR GREAT STATE-CHURCH PARLIAMENT; an Analysis of both Houses of Parliament; showing that there are in the two Houses 700 direct holders and dealers in Churches and Church influence, with a STANDING MAJORITY of 154 devoted to the maintenance of the present Ecclesiastical system. In a former publication, entitled the &ldquo;Great Military and Naval Parliament,&rdquo; it is shown that the Government, both of the Cabinet and the Senate, consists of a majority of soldiers. In the present work another view is taken of them, and they are now presented again as proprietors of the State Church.</p>
+<div3 type="section">
+<head>PEOPLE'S EDITION OF M. GUIZOT'S NEW WORK ON THE ENGLISH <lb/> REVOLUTION.</head>
+<p>Now ready, price only Fourpence, <lb/> AN UNABRIDGED TRANSLATION. By A. R. SCOBLE, Esq., of M. GUIZOT'S celebrated Work, entitled THE CAUSES OF THE SUCCESS OF THE ENGLISH REVOLUTION OF 1640-88, neatly printed on good paper. To which is added, a Biographical Sketch of the Author. This Publication contains more matter than the Volume published at Six Shillings.</p>
+<closer>London: JOHN CASSELL, 335, Strand. Order of all Booksellers.</closer>
+</div3>
+</div2>
+<div2 type="advertisement">
+<pb id="p4d" n="[4]"/>
+<head>THE STANDARD OF FREEDOM, THE ADVOCATE OF POLITICAL, COMMERCIAL, AND RELIGIOUS <lb/> LIBERTY.</head>
+<p>OF <hi rend="italics">Political</hi> Freedom, including adequate Representation, Retrenchment, and Equitable Taxation. Such an enlargement of the Elective Franchise as will secure a real and direct representation of the wants and wishes of the people. Such Retrenchments as are dictated by a wise economy, and which are imperiously called for in consequence of the growing rapacity, the reckless expenditure of the ruling few. Such modes of taxation as may cause the necessary burdens of the State to be properly distributed; bearing with the greatest weight upon those who are best able to sustain it; such as shall cause the revenues of the State to be collected on principles of equity, and disbursed on principles of economy.</p>
+<p>Of <hi rend="italics">Commercial</hi> Freedom, including the destruction of prohibition, restriction, and monopoly, and the establishment of those principles comprised in the words FREE-TRADE, which will effectually secure the prosperity alike of the middle and manufacturing classes and of the working multitudes in all parts of the kingdom.</p>
+<p>Of <hi rend="italics">Religious</hi> Freedom; including freedom from the humiliation of State interference, the degradation of State patronage, and the injury to &ldquo;pure and undefiled religion&rdquo; of State imposts and exactions.</p>
+<div3 type="section">
+<head>THE STANDARD OF FREEDOM, <lb/> AN INTELLIGENCER, FOREIGN AND DOMESTIC.</head>
+<p>For <hi rend="italics">Foreign</hi> Intelligence, this Journal is not to be surpassed. By means of Special Correspondents, and the sources of other private and public information, it is able to present faithful and impartial statements of the sentiments and opinions of <hi rend="italics">the people</hi> of various Governments, as well as of the actual movements of diplomatic bodies, and of all the stirring and important occurrences on the Continent, in the east, and the Great Western World.</p>
+<p>Its <hi rend="italics">Domestic</hi> Intelligence is derived from authentic sources, from communications daily received from accredited agents in all parts of the United Kingdom; those portions being carefully selected which are of general interest and paramount importance.</p>
+</div3>
+<div3 type="section">
+<head>THE STANDARD OF FREEDOM, <lb/> A JOURNAL OF PHILANTHROPY AND MORALS.</head>
+<p>England abounds with Institutions intended to remedy the various evils incident to human nature; and it will be found that the Conductors of this Journal sympathize with, and are anxious to encourage, all the efforts which are now made, whether to advance education&mdash;to abate the rigours of the penal code&mdash;to abolish death punishment&mdash;to promote the great Temperance movement&mdash;to establish peace and universal brotherhood &mdash; to diminish pauperism, juvenile delinquency, and general crime&mdash;or to maintain and perpetuate the practice and enjoyment of religious truth.</p>
+</div3>
+<div3 type="section">
+<head>THE STANDARD OF FREEDOM, <lb/> AN ACKNOWLEDGED AUTHORITY ON THE SUBJECT OF EMIGRATION.</head>
+<p>As a considerable portion of the population of the United Kingdom deem it expedient to leave their native soil, and to seek a home elsewhere, the conductors of this Journal have been anxious to furnish sound and practical information on all points essential to successful Emigration. The most suitable fields for Emigration, the persons who should Emigrate, the probable cost and advantages of Emigration, the testimonies of those who have established themselves in foreign Colonies, and every particular necessary to guide the intending Emigrant&mdash;on all such matters the STANDARD OF FREEDOM has long been, and continues to be, from week to week, an intelligent and accredited informant. Communications on this important social question, and well-authenticated facts connected with it, will always receive prompt attention.</p>
+</div3>
+<div3 type="section">
+<head>THE STANDARD OF FREEDOM, <lb/> AN INTERESTING AND INSTRUCTIVE FAMILY PAPER.</head>
+<p>In this department the Conductors aim to blend the useful with the entertaining. Domestic Economy&mdash;the state of the Provision-markets&mdash;Agriculture&mdash;Trade and Commerce&mdash;Manufactures,&mdash;Art and Science&mdash;Literature, including valuable extracts from recent publications; with notices of every movement, of every invention, likely to advance social progress; will be found from week to week in the columns of this Journal.</p>
+</div3>
+<div3 type="section">
+<p>THE STANDARD OF FREEDOM, <lb/> PRE-EMINENTLY A NEWSPAPER FOR THE PEOPLE, <lb/> Entirely devoted to their interest, and aiming in every possible way to promote their social, political, and moral elevation.</p>
+<p>Such are the objects for which the STANDARD OF FREEDOM was commenced two years ago. No pains or expenditure have been spared to place it on a scale of efficiency equal to any Weekly Newspaper of the day. Gentlemen of the first literary talent and reputation, and of tried political sagacity,&mdash;aware alike of the evils which press upon the community, and of the most appropriate remedies,&mdash;have been secured for each department; and a large capital and the power of a large connection have been put in operation for making it extensively known. The result has fully justified the hopes and the exertions of the Proprietor; and being resolved to persevere in the course hitherto pursued, availing himself of all the aids increased experience may afford, he respectfully claims for the STANDARD OF FREEDOM the continued and increased support of all the friends of Progress and of Mankind.</p>
+</div3>
+<div3 type="section">
+<p>THE STANDARD OF FREEDOM <lb/> Is published every SATURDAY MORNING, by JOHN CASSELL, at 335, Strand, London, price 5d., or 5s. 5d. per Quarter, paid in advance. The Largest Paper allowed by law.</p>
+<p>A COUNTRY EDITION is published on <hi rend="italics">Friday Evening,</hi> for delivery in the Provinces early on Saturday Morning. A TOWN EDITION is published on <hi rend="italics">Saturday Morning,</hi> in time also for the morning Mails; and a THIRD EDITION is issued at three o'clock, containing the latest intelligence, foreign and domestic, down to the hour of going to press. Order of any Bookseller in Town or Country.</p>
+</div3>
+</div2>
+</div1>
+<div1 type="advertisement">
+<pb id="p1e" n="[1]"/>
+<head>THE DOG-DAYS.</head>
+<p>THERE is a particular Star which philosophers call a Canicular Star, or Dog-Star, which Star, in its rising and setting, determines what we call the Dog-days, now about commencing.</p>
+<p>It can hardly be considered as descending to dog-grel when E. MOSES and SON say, <lb/> &ldquo;Let the Dog-days <lb/> Be light-&lsquo;tog&rsquo; days.&rdquo; <lb/> The oppressive heat which almost invariably distinguishes this season of the year renders a light cool description of dress absolutely necessary; and E. MOSES and SON have no wish to be dog-matical when they say that positively their Summer Over-coats and other Dress, are the choicest articles that can be purchased. If the present Stock of Summer Over-coats, in Alpaca and other materials, are compared, in quality and price, with those which used to be worn some years ago, it will be seen what good E. MOSES and SON have effected.</p>
+<p>Since E. MOSES &amp; SON em-barked in trade, Monopoly has had to bark in vain for support.</p>
+<p>His dog-ged obstinacy in high prices has availed him nothing; his full gallop in trade has become a mere dog-trot, and, the dog has had his day.</p>
+<p>He no longer cuts a &ldquo;Dash&rdquo; in business; his styles be. &ldquo;Tray&rdquo; him; and he is obliged to sneak away like a dog with his tail burnt. E. MOSES &amp; SON have proved Monopoly to be like the dog in the manger, begrudging all parties a portion of advantage in his transactions. Like the dog. however, in other fable, he grasped at a shadow and lost the substance; which substance E. MOSES and SON flatter themselves they have long enjoyed in the shape of an unprecedented amount of public countenance and support.</p>
+</div1>
+<div1 type="advertisement">
+<head>LIST OF PRICES.</head>
+<p>
+<table rows="21" cols="4">
+<head>Ready Made.</head>
+<row role="label">
+<cell> &nbsp; </cell>
+<cell> &pound; </cell>
+<cell> <hi rend="italics">s.</hi> </cell>
+<cell> <hi rend="italics">d.</hi> </cell>
+</row>
+<row>
+<cell> Men's Spring and Summer Wrappers, from </cell>
+<cell> 0 </cell>
+<cell> 8 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> The Bulwer Pacha Paletot, and every description of light Over Coat. </cell>
+<cell> 0 </cell>
+<cell> 12 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> Cloth Over Coat, of a light texture, and handsomely trimmed </cell>
+<cell> 1 </cell>
+<cell> 1 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Cloth Over Coat, of a light texture, lined with Silk </cell>
+<cell> 1 </cell>
+<cell> 8 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Cloth Over Coat, of a light texture, superior quality </cell>
+<cell> 1 </cell>
+<cell> 18 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Jean and Holland Blouses </cell>
+<cell> 0 </cell>
+<cell> 2 </cell>
+<cell> 9 </cell>
+</row>
+<row>
+<cell> Fancy Victoria Blouses </cell>
+<cell> 0 </cell>
+<cell> 4 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Tweed Blouses </cell>
+<cell> 0 </cell>
+<cell> 4 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> Dress Coats </cell>
+<cell> 0 </cell>
+<cell> 17 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Frock Coats </cell>
+<cell> 1 </cell>
+<cell> 0 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Spring and Summer Trousers </cell>
+<cell> 0 </cell>
+<cell> 4 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Doeskin and Buckskin Trousers </cell>
+<cell> 0 </cell>
+<cell> 7 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> Spring and Summer Vests, in every variety </cell>
+<cell> 0 </cell>
+<cell> 1 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> Black and Figured Satin Vests </cell>
+<cell> 0 </cell>
+<cell> 4 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> Black, superior quality </cell>
+<cell> 0 </cell>
+<cell> 9 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> White Marcella Vests </cell>
+<cell> 0 </cell>
+<cell> 4 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> Black Cloth Vests </cell>
+<cell> 0 </cell>
+<cell> 3 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> Boys' Hussar and Tunic Suits </cell>
+<cell> 0 </cell>
+<cell> 15 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Boys' Spring and Summer Vests </cell>
+<cell> 0 </cell>
+<cell> 0 </cell>
+<cell> 10 </cell>
+</row>
+<row>
+<cell> Men's Fishing Coats, in every variety </cell>
+<cell> 0 </cell>
+<cell> 3 </cell>
+<cell> 6 </cell>
+</row>
+</table>
+</p>
+<p>
+<table rows="20" cols="4">
+<head>Made to Measure.</head>
+<row role="label">
+<cell> &nbsp; </cell>
+<cell> &pound; </cell>
+<cell> <hi rend="italics">s.</hi> </cell>
+<cell> <hi rend="italics">d.</hi> </cell>
+</row>
+<row>
+<cell> Paletots, made from a variety of material, fitted for Summer wear from </cell>
+<cell> 1 </cell>
+<cell> 1 </cell>
+<cell> 0 </cell>
+<cell> Paletots, in every style, elegantly trimmed </cell>
+<cell> 1 </cell>
+<cell> 5 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Superfine Cloth in every style, of a light texture </cell>
+<cell> 1 </cell>
+<cell> 15 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Superfine Cloth in every style, lined with Silk </cell>
+<cell> 2 </cell>
+<cell> 2 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Superfine Dress Coat </cell>
+<cell> 1 </cell>
+<cell> 12 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Best Dress Coat for </cell>
+<cell> 2 </cell>
+<cell> 15 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Superfine Frock Coat </cell>
+<cell> 2 </cell>
+<cell> 15 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Best Frock Coat for </cell>
+<cell> 3 </cell>
+<cell> 3 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Fancy Doeskin Trousers from </cell>
+<cell> 0 </cell>
+<cell> 16 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> Black Doeskin Trousers </cell>
+<cell> 0 </cell>
+<cell> 16 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Best Doeskin Trousers </cell>
+<cell> 1 </cell>
+<cell> 6 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Black Cloth Vests </cell>
+<cell> 0 </cell>
+<cell> 8 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> Best Cloth Vests </cell>
+<cell> 0 </cell>
+<cell> 13 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> Splendid Satin Vests </cell>
+<cell> 0 </cell>
+<cell> 14 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> Best Splendid Satin Vests </cell>
+<cell> 0 </cell>
+<cell> 18 </cell>
+<cell> 6 </cell>
+</row>
+<row>
+<cell> Hussar and Tunic Suits </cell>
+<cell> 1 </cell>
+<cell> 5 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Superfine Tunic Suits </cell>
+<cell> 1 </cell>
+<cell> 15 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Men's White Marcella Vests </cell>
+<cell> 0 </cell>
+<cell> 7 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Fishing Coats, in endless variety, from 10s. 6d. to </cell>
+<cell> 1 </cell>
+<cell> 16 </cell>
+<cell> 0 </cell>
+</row>
+<row>
+<cell> Elegant Dressing Robes, in great variety, from 16s. to </cell>
+<cell> 5 </cell>
+<cell> 0 </cell>
+<cell> 0 </cell>
+</row>
+</table>
+</p>
+<p>NAVAL AND MILITARY UNIFORMS, LIVERIES, &amp;c.</p>
+<p>MOURNING TO ANY EXTENT AT FIVE MINUTES' NOTICE.</p>
+<p><hi rend="italics">A Suit of Mourning complete for</hi> &pound;1 10<hi rend="italics">s.</hi></p>
+<p>The New Book, entitled &ldquo;The Minion of the Million,&rdquo; with full Directions for Self-measurement, can be had on application, or forwarded, post free, to any part of the kingdom.</p>
+<p>NOTICE.&mdash;The Shawl and Fur Departments are now replete with every novelty of the Season.</p>
+<p>OBSERVE.&mdash;Any Article purchased, either Ready-made or Made to Measure, if not approved of, will be exchanged, or the money returned.</p>
+</div1>
+<div1 type="advertisement">
+<head>E. MOSES &amp; SON,</head><p>TAILORS, WOOLLEN DRAPERS, CLOTHIERS, HATTERS, HOSIERS, FURRIERS, <lb/> BOOT AND SHOE MAKERS, AND GENERAL OUTFITTERS, <lb/> 154, 155, 156, and 157, Minories; and 83, 84, 85, and 86, Aldgate, City, London.</p>
+<p>ALL COMMUNICATING, AND FORMING ONE VAST ESTABLISHMENT.</p>
+<p>CAUTION.&mdash;E. MOSES &amp; SON regret having to guard the public against imposition, but having heard that the untradesmanlike falsehood of being connected with them, or, it is the same concern, has been resorted to in many instances, and for obvious reasons, they beg to state they have no connexion with any other House in or out of London, except their branch Establishments, 36, Fargate, Sheffield, and 19 Thornton's Buildings, Bradford, Yorkshire; and those who desire genuine and cheap Clothing, &amp;c., should call at or send to Minories and Aldgate, City, London; or to the Branch Establishments as above.</p>
+<p>TAKE NOTICE.&mdash;This Establishment is closed from sunset Friday, till sunset Saturday, when business is resumed till 12 o'clock.</p>
+</div1>
+<div1 type="advertisement">
+<pb id="p2e" n="[2]"/>
+<head>VIEW OF EDINBURGH,</head><p>Where Messrs. NICOLL are represented by Messrs. CHRISTIE and SON, <lb/> George Street; W. ROUGHEAD, Senior, Princes Street.</p>
+<p>Many have assumed the use of the word PALETOT, but the PATENTEES of the design and material used in this inexpensive and gentlemanly article of dress are H. J. and D. NICOLL, Merchant Clothiers, and Manufacturers of Cloth, who have agents in every principal town in the United Kingdom and the Colonies. Their London address being REGENT STREET or CORNHILL, that is to say&mdash;No. 114, REGENT STREET, forms a department for PALETOTS, &amp;c.; No. 116 (the next house) is devoted for MILITARY and DIPLOMATIC UNIFORMS; No. 118, for ROBES and every novel or established article of costume; 120 is exclusively for BOYS and YOUTHS' CLOTHING, of unusual excellence, and at 22, Cornhill. Specimens of all may be seen. In each department, skillful and intelligent assistants attend, and the admitted fact, &ldquo;That an article, to be really cheap, should be really good,&rdquo; is practically sustained. WHOLESALE WOOLLEN CLOTH and SHIPPING Entrance at the rear in WARWICK STREET, and &rsquo;CHANGE ALLEY, in the CITY.&mdash;H. J. and D. NICOLL, 114, 116, 118, 120, REGENT STREET, and 22, CORNHILL.</p>
+<closer>BRADBURY AND EVANS, PRINTERS, WHITEFRIARS.</closer>
+</div1>
+</back>
+</text>
+</TEI.2>

@@ -1,0 +1,655 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI U5-1995//DTD TEI Lite//EN" "teixlite.dtd" [
+
+]>
+<TEI.2>
+<teiHeader type="3D">
+<fileDesc>
+<titleStmt>
+<title><emph>The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. VIII:</emph>
+Electronic Edition.
+</title><author>Dickens, Charles, 1812-1870</author>
+
+<respStmt>
+<resp>Illustrated by </resp>
+<name>Pailthorpe, F. W. (Frederic W.)</name>
+<name>Seymour, Robert, 1798-1836.</name>
+<name>Buss, Robert William, 1804-1875.</name>
+<name>Browne, Hablot Knight, 1815-1882.</name>
+</respStmt>
+
+<funder>Funding from the  E. S. P. Das Educational Foundation supported the electronic publication of this title.</funder><respStmt>
+<resp>Text transcribed  by</resp>
+<name>Apex Data Services, Inc.</name>
+</respStmt>
+<respStmt><resp>Images scanned by</resp>
+<name>Matthew Kern</name></respStmt><respStmt><resp>Text encoded by </resp>
+<name>Apex Data Services, Inc., Harris Henderson, and Jill Kuhn Sexton</name></respStmt></titleStmt>
+<editionStmt><edition>First edition, <date>2002</date></edition></editionStmt>
+<extent>ca. 115K</extent>
+<publicationStmt>
+<publisher>Academic Affairs Library, UNC-CH</publisher>
+<pubPlace>University of North Carolina at Chapel Hill, </pubPlace><date>2002.</date>
+
+<availability>
+<p>&copy; This work is the property of the University of North Carolina 
+at Chapel Hill. It may be used freely by individuals for research, teaching and personal use as long as this statement of availability is included in the text.</p>
+</availability>
+</publicationStmt>
+
+
+<sourceDesc>
+
+<biblFull>
+<titleStmt>
+<title type="title page">The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. VIII</title>
+
+<author>Boz</author>
+
+<respStmt><resp>Illustrations by</resp>
+<name>Phiz</name></respStmt>
+
+</titleStmt>
+
+<extent>     38 p., ill.</extent>
+
+<publicationStmt>
+<pubPlace>London</pubPlace>
+<publisher>Chapman &amp; Hall, 186, Strand</publisher>
+<date>1836</date>
+<authority></authority>
+</publicationStmt>
+<notesStmt><note>Call number Dickens 13 pt. 8 (Rare Book Collection, University of North Carolina at Chapel Hill)</note></notesStmt>
+</biblFull>
+</sourceDesc>
+
+</fileDesc>
+<encodingDesc>
+<editorialDecl>
+
+<p>The text has been entered using double-keying and verified against the original. 
+The text has been encoded using the
+recommendations for Level 4 of the TEI in Libraries Guidelines.</p>
+
+<p>Original grammar, punctuation, and spelling have been preserved.  Encountered
+typographical errors have been preserved, and appear in red type.</p>
+<p>Any hyphens occurring in line breaks have been 
+removed, and the trailing part of a word has been joined to 
+the preceding line.</p>
+
+<p>All quotation marks, em dashes  and ampersand have been transcribed as
+entity references.</p>
+<p>All double right and left quotation marks are encoded as &rdquo; and &ldquo;
+respectively.</p>
+<p>All single right and left quotation marks are encoded as &rsquo; and &lsquo; respectively.</p>
+<p>All em dashes are encoded as &mdash;</p><p>Indentation in lines has not been preserved.</p>
+<p>Running titles have not been preserved.</p>
+<p>Spell-check and verification made against printed text using Author/Editor (SoftQuad) and Microsoft Word spell check programs.</p>
+</editorialDecl>
+
+
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+
+<language id="eng">English</language>
+
+</langUsage>
+
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2002-11-25, </date><respStmt><name> Jill Kuhn Sexton </name><resp></resp>
+</respStmt><item>finished TEI-conformant encoding and final proofing.</item>
+</change>
+<change>
+<date>2002-09-26, </date><respStmt><name>Harris Henderson</name>
+<resp></resp></respStmt><item> finished TEI/SGML encoding</item></change>
+<change><date>2002-08-01, </date>
+<respStmt><name>Apex Data Services, Inc.</name><resp></resp></respStmt>
+<item> finished transcribing the text.</item></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+
+
+<titlePage>
+
+<titlePart> No. VIII.]</titlePart>
+
+<docEdition>[PRICE  1<hi rend="italics">s.</hi></docEdition>
+
+<docTitle><titlePart>THE <lb/> POSTHUMOUS PAPERS <lb/> OF THE <lb/> PICKWICK CLUB <lb/> CONTAINING A FAITHFUL RECORD OF THE <lb/> PERAMBULATIONS, PERILS, TRAVELS, ADVENTURES <lb/> AND <lb/> Sporting Transactions <lb/> OF THE CORRESPONDING MEMBERS. </titlePart></docTitle>
+
+<docAuthor>
+EDITED BY &ldquo;BOZ.&rdquo;
+</docAuthor>
+
+<docEdition>WITH ILLUSTRATIONS.
+</docEdition>
+
+<docImprint>
+<pubPlace>LONDON:</pubPlace>
+<publisher>CHAPMAN &amp; HALL, 186, STRAND.</publisher>
+<docDate>MDCCCXXXVI</docDate>
+</docImprint>
+</titlePage>
+</front>
+
+<body>
+<div1 type="section">
+<pb id="pii" n="ii"/>
+<p>
+<figure id="ill1">
+<p>page 223</p>
+</figure>
+</p>
+</div1>
+<div1 type="section">
+<pb id="piii" n="iii"/>
+<p>
+<figure id="ill2">
+<p>page 233</p>
+</figure>
+</p>
+</div1>
+<div1 type="text">
+<pb n="211" id="p211"/>
+
+<head>[POSTHUMOUS PAPERS OF THE PICKWICK CLUB]</head>
+
+<div2 type="chapter">
+
+<head>CHAPTER XXI.</head>
+<head>
+IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE THEME, AND RELATES A STORY ABOUT A QUEER CLIENT.
+</head>
+<p>&ldquo;AHA!&rdquo; said the old man, a brief description of whose manner and appearance concluded the last chapter, &ldquo;Aha! who was talking about the Inns?&rdquo;</p>
+<p>&ldquo;I was, Sir,&rdquo; replied Mr. Pickwick&mdash;&ldquo;I was observing what singular old places they are.&rdquo;</p>
+<p>&ldquo;<hi rend="italics">You!</hi>&rdquo; said the old man, contemptuously&mdash;&ldquo;What do <hi
+rend="italics">you</hi> know of the time when young men shut themselves up in those lonely rooms, and read and read, hour after hour, and night after night, till their reason wandered beneath their midnight studies; till mental powers were exhausted; till morning's light brought no freshness or health to them; and they sank beneath the unnatural devotion of their youthful energies to their dry old books? Coming down to a later time, and a very different day, what do <hi
+rend="italics">you</hi> know of the gradual sinking beneath consumption, or the quick wasting of fever&mdash;the grand results of &lsquo;life&rsquo; and dissipation&mdash;which men have undergone in those same rooms? How many vain pleaders for mercy, do you think have turned away heart-sick from the lawyer's office, to find a resting-place in the Thames, or a refuge in the gaol? They are no ordinary houses, those. There is not a pannel in the old wainscotting, but what, if it were endowed with the powers of speech and memory, could start from the wall, and tell its tale of horror&mdash;the romance of life, Sir, the romance of life. Common-place as they may seem now, I tell you they are strange old places, and I would rather hear many a legend with a terrific-sounding name, than the true history of one old set of chambers.&rdquo;</p>
+<p>There was something so odd in the old man's sudden energy, and the subject which had called it forth, that Mr. Pickwick was prepared with no observation in reply; and the old man checking his impetuosity, and resuming the leer, which had disappeared during his previous excitement, said&mdash;</p>
+<p>&ldquo;Look at them in another light: their most common-place and least romantic: what fine places of slow torture they are. Think of the needy man who has spent his all, beggared himself, and pinched his friends, to enter the profession, which is destined never to yield a morsel of bread to him. The waiting&mdash;the hope&mdash;the disappointment&mdash;the fear&mdash;the misery&mdash;the poverty&mdash;the blight on his hopes, and end to his career&mdash;the suicide perhaps, or, better still, the shabby, slip-shod drunkard. Am I not right about them, eh?&rdquo; And the old man rubbed his hands, and leered as if in delight at having found another point of view in which to place his favourite subject.</p>
+<p>Mr. Pickwick eyed the old man with great curiosity, and the remainder of the company smiled, and looked on in silence.</p>
+<pb n="212" id="p212"/>
+<p>&ldquo;Talk of your German universities,&rdquo; said the little old man&mdash;&ldquo;Pooh, pooh! there's romance enough at home, without going half a mile for it; only people never think of it.&rdquo;</p>
+<p>&ldquo;I never thought of the romance of this particular subject before, certainly,&rdquo; said Mr. Pickwick, laughing.</p>
+<p>&ldquo;To be sure you didn't,&rdquo; said the little old man, &ldquo;of course not. As a friend of mine used to say to me, &lsquo;What is there in chambers, in particular?&rsquo; &lsquo;Queer old places,&rsquo; said I. &lsquo;Not at all,&rsquo; said he. &lsquo;Lonely,&rsquo; said I. &lsquo;Not a bit of it,&rsquo; said he. He died one morning of apoplexy, as he was going to open his outer door. Fell with his head in his own letter-box, and there he lay for eighteen months. Every body thought he'd gone out of town.&rdquo;</p>
+<p>&ldquo;And how was he found at last?&rdquo; inquired Mr. Pickwick.</p>
+<p>&ldquo;The benchers determined to break his door open, as he hadn't paid any rent for two years. So they did. Forced the lock; and a very dusty skeleton in a blue coat, black knee-shorts, and silks, fell forward in the arms of the porter who opened the door. Queer, that. Rather, perhaps; rather, eh?&rdquo; And the little old man put his head more on one side, and rubbed his hands with unspeakable glee.</p>
+<p>&ldquo;I know another case,&rdquo; said the little old man, when his chuckles had in some degree subsided&mdash;&ldquo;It occurred in Clifford's Inn. Tenant of a top set&mdash;bad character&mdash;shut himself up in his bed-room closet, and took a dose of arsenic. The steward thought he had run away opened the door, and put a bill up. Another man came, took the chambers, furnished them, and went to live there. Somehow or other he couldn't sleep&mdash;always restless and uncomfortable. &lsquo;Odd,&rsquo; says he. &lsquo;I'll make the other room my bed-chamber, and this my sitting-room.&rsquo; He made the change, and slept very well at night, but suddenly found that somehow he couldn't read in the evening: he got nervous and uncomfortable, and used to be always snuffing his candles and staring about him. &lsquo;I can't make this out,&rsquo; said he, when he came home from the play one night, and was drinking a glass of cold grog, with his back to the wall, in order that he mightn't be able to fancy there was any one behind him&mdash;&lsquo;I can't make it out,&rsquo; said he; and just then his eyes rested on the little closet that had been always locked up, and a shudder ran through his whole frame from top to toe. &lsquo;I have felt this strange feeling before,&rsquo; said he&mdash;&lsquo;I cannot help thinking there's something wrong about that closet.&rsquo; He made a strong effort, plucked up his courage, shivered the lock with a blow or two of the poker, opened the door, and there, sure enough, standing bolt upright in the corner, was the last tenant, with a little bottle clasped firmly in his hand, and his face livid with the hue of a painful death.&rdquo; As the little old man concluded, he looked round on the attentive faces of his wondering auditory with a smile of grim delight.</p>
+<p>&ldquo;What strange things these are you tell us of, Sir,&rdquo; said Mr. Pickwick, minutely scanning the old man's countenance, by the aid of his glasses.</p>
+<p>&ldquo;Strange!&rdquo; said the little old man&mdash;&ldquo;Nonsense; you think them strange, because you know nothing about it. They are funny, but not uncommon.&rdquo;</p>
+<pb n="213" id="p213"/>
+<p>&ldquo;Funny!&rdquo; exclaimed Mr. Pickwick, involuntarily.</p>
+<p>&ldquo;Yes, funny, are they not?&rdquo; replied the little old man, with a diabolical leer; and then, without pausing for an answer, he continued&mdash;</p>
+<p>&ldquo;I knew another man&mdash;let me see&mdash;it's forty years ago now&mdash;who took an old, damp, rotten set of chambers, in one of the most ancient Inns, that had been shut up and empty for years and years before. There were lots of old women's stories about the place, and it certainly was very far from being a cheerful one; but he was poor, and the rooms were cheap, and that would have been quite a sufficient reason for him, if they had been ten times worse than they really were. He was obliged to take some mouldering fixtures that were on the place, and, among the rest, was a great lumbering wooden press for papers, with large glass doors, and a green curtain inside; a pretty useless thing for him, for he had no papers to put in it; and as to his clothes, he carried them about with him, and that wasn't very hard work, either. Well, he had moved in all his furniture&mdash;it wasn't quite a truck-full&mdash;and sprinkled it about the room, so as to make the four chairs look as much like a dozen as possible, and was sitting down before the fire at night, drinking the first glass of two gallons of whiskey he had ordered on credit, wondering whether it would ever be paid for, and if so, in how many years' time, when his eyes encountered the glass doors of the wooden press. &lsquo;Ah!&rsquo; says he&mdash;&lsquo;If I hadn't been obliged to take that ugly article at the old broker's valuation, I might have got something comfortable for the money. I'll tell you what it is, old fellow,&rsquo; he said, speaking aloud to the press, just because he had got nothing else to speak to&mdash;&lsquo;If it wouldn't cost more to break up your old carcase, than it would ever be worth afterwards, I'd have a fire out of you, in less than no time.&rsquo; He had hardly spoken the words, when a sound resembling a faint groan, appeared to issue from the interior of the case. It startled him at first, but thinking, on a moment's reflection, that it must be some young fellow in the next chambers, who had been dining out, he put his feet on the fender, and raised the poker to stir the fire. At that moment, the sound was repeated: and one of the glass doors slowly opening, disclosed a pale and emaciated figure in soiled and worn apparel, standing erect in the press. The figure was tall and thin, and the countenance expressive of care and anxiety; but there was something in the hue of the skin, and gaunt and unearthly appearance of the whole form, which no being of this world was ever seen to wear. &lsquo;Who are you?&rsquo; said the new tenant, turning very pale, poising the poker in his hand, however, and taking a very decent aim at the countenance of the figure&mdash;&lsquo;Who are you?&rsquo; &lsquo;Don't throw that poker at me,&rsquo; replied the form&mdash;&lsquo;If you hurled it with ever so sure an aim, it would pass through me, without resistance, and expend its force on the wood behind. I am a spirit.&rsquo; &lsquo;And, pray, what do you want here?&rsquo; faltered the tenant. &lsquo;In this room,&rsquo; replied the apparition, &lsquo;my worldly ruin was worked, and I and my children beggared. In this press, the papers in a long, long suit, which accumulated for years, were deposited. In this room, when I had died of grief, and long-deferred hope, two wily harpies
+<pb n="214" id="p214"/>
+divided the wealth for which I had contested during a wretched existence, and of which, at last, not one farthing was left for my unhappy descendants. I terrified them from the spot, and since that day have prowled by night&mdash;the only period at which I can re-visit the earth&mdash;about the scenes of my long-protracted misery. This apartment is mine: leave it to me.&rsquo; &lsquo;If you insist upon making your appearance here,&rsquo; said the tenant, who had had time to collect his presence of mind during this prosy statement of the ghost's&mdash;&lsquo;I shall give up possession with the greatest pleasure; but I should like to ask you one question, if you will allow me.&rsquo; &lsquo;Say on,&rsquo; said the apparition, sternly. &lsquo;Well,&rsquo; said the tenant, &lsquo;I don't apply the observation personally to you, because it is equally applicable to all the ghosts I ever heard of; but it does appear to me, somewhat inconsistent, that when you have an opportunity of visiting the fairest spots of earth&mdash;for I suppose space is nothing to you&mdash;you should always return exactly to the very places where you have been most miserable.&rsquo; &lsquo;Egad, that's very true; I never thought of that before,&rsquo; said the ghost. &lsquo;You see, Sir,&rsquo; pursued the tenant, &lsquo;this is a very uncomfortable room. From the appearance of that press, I should be disposed to say that it is not wholly free from bugs; and I really think you might find much more comfortable quarters: to say nothing of the climate of London, which is extremely disagreeable.&rsquo; &lsquo;You are very right, Sir,&rsquo; said the ghost, politely, &lsquo;it never struck me till now; I'll try change of air directly&rsquo;&mdash;and, in fact, he began to vanish as he spoke: his legs, indeed, had quite disappeared. &lsquo;And if, Sir,&rsquo; said the tenant, calling after him, &lsquo;if you <hi
+rend="italics">would</hi> have the goodness to suggest to the other ladies and gentlemen who are now engaged in haunting old empty houses, that they might be much more comfortable elsewhere, you will confer a very great benefit on society.&rsquo; &lsquo;I will,&rsquo; replied the ghost; &lsquo;we must be dull fellows&mdash;very dull fellows, indeed; I can't imagine how we can have been so stupid.&rsquo; With these words, the spirit disappeared; and what is rather remarkable,&rdquo; added the old man, with a shrewd look round the table, &ldquo;he never came back again.&rdquo;</p>
+<p>&ldquo;That ain't bad, if it's true,&rdquo; said the man in the Mosaic studs, lighting a fresh cigar.</p>
+<p>&ldquo;<hi rend="italics">If!</hi>&rdquo; exclaimed the old man, with a look of excessive contempt. &ldquo;I suppose,&rdquo; he added, turning to Lowten, &ldquo;he'll say next, that my story about the queer client we had, when I was in an attorney's office, is not true, either&mdash;I shouldn't wonder.&rdquo;</p>
+<p>&ldquo;I shan't venture to say anything at all about it, seeing that I never heard the story,&rdquo; observed the owner of the Mosaic decorations.</p>
+<p>&ldquo;I wish you would repeat it, Sir,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Ah, do,&rdquo; said Lowten, &ldquo;nobody has heard it but me, and I have nearly forgotten it.&rdquo;</p>
+<p>The old man looked round the table, and leered more horribly than ever, as if in triumph, at the attention which was depicted in every face. Then rubbing his chin with his hand, and looking up to the ceiling as if to recal the circumstances to his memory, he began as follows:&mdash;</p>
+<q>
+<text>
+<body>
+<div1 type="quote">
+<pb n="215" id="p215"/>
+<head>THE OLD MAN'S TALE ABOUT THE QUEER CLIENT.</head>
+<p>&ldquo;IT matters little,&rdquo; said the old man, &ldquo;where, or how, I picked up this brief history. If I were to relate it in the order in which it reached me, I should commence in the middle, and when I had arrived at the conclusion, go back for a beginning. It is enough for me to say that some of its circumstances passed before my own eyes; for the remainder I know them to have happened, and there are some persons yet living, who will remember them but too well.</p>
+<p>&ldquo;In the Borough High Street, near Saint George's Church, and on the same side of the way, stands, as most people know, the smallest of our debtors' prisons&mdash;the Marshalsea. Although in later times it has been a very different place from the sink of filth and dirt it once was, even its improved condition holds out but little temptation to the extravagant or consolation to the improvident. The condemned felon has as good a yard for air and exercise in Newgate, as the insolvent debtor in the Marshalsea Prison.</p>
+<p>&ldquo;It may be my fancy, or it may be that I cannot separate the place from the old recollections associated with it, but this part of London I cannot bear. The street is broad, the shops are spacious, the noise of passing vehicles, the footsteps of a perpetual stream of people&mdash;all the busy sounds of traffic, resound in it from morn to midnight, but the streets around, are mean and close; poverty and debauchery lie festering in the crowded alleys, want and misfortune are pent up in the narrow prison; an air of gloom and dreariness seems, in my eyes at least, to hang about the scene, and to impart to it, a squalid and sickly hue.</p>
+<p>&ldquo;Many eyes, that have long since been closed in the grave, have looked round upon that scene lightly enough, when entering the gate of the old Marshalsea Prison for the first time: for despair seldom comes with the first severe shock of misfortune. A man has confidence in untried friends, he remembers the many offers of service so freely made by his boon companions when he wanted them not; he has hope&mdash;the hope of happy inexperience&mdash;and however he may bend beneath the first shock, it springs up in his bosom, and flourishes there for a brief space, until it droops beneath the blight of disappointment and neglect. How soon have those same eyes, deeply sunken in the head, glared from faces wasted with famine, and sallow from confinement, in days when it was no figure of speech to say that debtors rotted in prison, with no hope of release, and no prospect of liberty! The atrocity in its full extent no longer exists, but there is enough of it left, to give rise to occurrences that make the heart bleed.</p>
+<p>&ldquo;Twenty years ago, that pavement was worn with the footsteps of a mother and child, who, day by day, so surely as the morning came, presented themselves at the prison gate; often after a night of restless misery and anxious thoughts, were they there, a full hour too soon, and then the young mother turning meekly away, would lead the child to the old bridge, and raising him in her arms to shew him the glistening water, tinted with the light of the morning's sun, and stirring with
+<pb n="216" id="p216"/>
+all the bustling preparations for business and pleasure that the river presents at that early hour. endeavour to interest his thoughts in the objects before him. But she would quickly set him down, and hiding her face in her shawl, give vent to the tears that blinded her, for no expression of interest or amusement lighted up his thin and sickly face. His recollections were few enough, but they were all of one kind&mdash;all connected with the poverty and misery of his parents. Hour after hour, had he sat on his mother's knee, and with childish sympathy watched the tears that stole down her face, and then crept quietly away into some dark corner, and sobbed himself to sleep. The hard realities of the world, with many of its worst privations&mdash;hunger and thirst, and cold and want&mdash;had all come home to him, from the first dawnings of reason; and though the form of childhood was there, its light heart, its merry laugh, and sparkling eyes were wanting.</p>
+<p>&ldquo;The father and mother looked on upon this, and upon each other, with thoughts of agony they dared not breathe in words. The healthy, strong-made man, who could have borne almost any fatigue of active exertion, was wasting beneath the close confinement and unhealthy atmosphere of a crowded prison. The slight and delicate woman was sinking beneath the combined effects of bodily and mental illness; the child's young heart was breaking.</p>
+<p>&ldquo;Winter came, and with it weeks of cold and heavy rain. The poor girl had removed to a wretched apartment close to the spot of her husband's imprisonment; and though the change had been rendered necessary by their increasing poverty, she was happier now, for she was nearer him. For two months, she and her little companion watched the opening of the gate as usual. One day she failed to come, for the first time. Another morning arrived, and she came alone. The child was dead.</p>
+<p>&ldquo;They little know, who coldly talk of the poor man's bereavements, as a happy release from pain to the departed, and a merciful relief from expense to the survivor&mdash;they little know, I say, what the agony of those bereavements is. A silent look of affection and regard when all other eyes are turned coldly away&mdash;the consciousness that we possess the sympathy and affection of one being when all others have deserted us&mdash;is a hold, a stay, a comfort in the deepest affliction, which no wealth could purchase, or power bestow. The child had sat at his parents' feet for hours together, with his little hands patiently folded in each other, and his thin wan face raised towards them. They had seen him pine away, from day to day; and though his brief existence had been a joyless one, and he was now removed to that peace and rest which, child as he was, he had never known in this world, they were his parents, and his loss sunk deep into their souls.</p>
+<p>&ldquo;It was plain to those who looked upon the mother's altered face that death must soon close the scene of her adversity and trial. Her husband's fellow prisoners shrunk from obtruding on his grief and misery, and left to himself alone, the small room he had previously occupied in common with two companions. She shared it with him: and lingering on without pain, but without hope, her life ebbed slowly away.</p>
+<pb n="217" id="p217"/>
+<p>&ldquo;She had fainted one evening in her husband's arms, and he had borne her to the open window, to revive her with the air, when the light of the moon falling full upon her face, shewed him a change upon her features, which made him stagger beneath her weight, like a helpless infant.</p>
+<p>&ldquo; &lsquo;Set me down George,&rsquo; she said faintly. He did so, and seating himself beside her, covered his face with his hands, and burst into tears.</p>
+<p>&ldquo; &lsquo;It is very hard to leave you George,&rsquo; she said, &lsquo;but it's God's will, and you must bear it for my sake. Oh! how I thank him for having taken our boy. He is happy, and in heaven now. What would he have done here, without his mother!&rsquo;</p>
+<p>&ldquo; &lsquo;You shall not die, Mary, you shall not die;&rsquo; said the husband, starting up. He paced hurriedly to and fro, striking his head with his clenched fists; then reseating himself beside her, and supporting her in his arms, added more calmly, &lsquo;Rouse yourself, my dear girl&mdash;pray, pray do. You will revive yet.&rsquo;</p>
+<p>&ldquo; &lsquo;Never again George; never again&rsquo;&mdash;said the dying woman. &lsquo;Let them lay me by my poor boy now, but promise me, that if ever you leave this dreadful place, and should grow rich, you will have us removed to some quiet country churchyard, a long, long way off&mdash;very far from here, where we can rest in peace. Dear George, promise me you will.&rsquo;</p>
+<p>&ldquo; &lsquo;I do, I do&rsquo;&mdash;said the man, throwing himself passionately on his knees before her. &lsquo;Speak to me Mary, another word; one look&mdash;but one&mdash;&rsquo;</p>
+<p>&ldquo;He ceased to speak: for the arm that clasped his neck, grew stiff and heavy. A deep sigh escaped from the wasted form before him; the lips moved, and a smile played upon the face, but the lips were pallid, and the smile faded into a rigid and ghastly stare. He was alone in the world.</p>
+<p>&ldquo;That night, in the silence and desolation of his miserable room, the wretched man knelt down by the dead body of his wife, and called on God to witness a dreadful oath, that from that hour, he devoted himself to revenge her death and that of his child; that from thenceforth to the last moment of his life, his whole energies should be directed to this one object; that his revenge should be protracted and terrible; that his hatred should be undying and unextinguishable; and should hunt its object through the world.</p>
+<p>&ldquo;The deepest despair, and passion scarcely human, had made such fierce ravages on his face and form, in that one night, that his companions in misfortune shrunk affrighted from him as he passed by. His eyes were bloodshot and heavy, his face a deadly white, and his body bent as if with age. He had bitten his under lip nearly through in the violence of his mental suffering, and the blood which had flowed from the wound had trickled down his chin, and stained his shirt and neckerchief. No tear, or sound of complaint escaped him; but the unsettled look, and disordered haste with which he paced up and down the yard, denoted the fever which was burning within.</p>
+<p>&ldquo;It was necessary that his wife's body should be removed from the
+<pb n="218" id="p218"/>
+prison, without delay. He received the communication with perfect calmness, and acquiesced in its propriety. Nearly all the inmates of the prison had assembled to witness its removal; they fell back on either side when the widower appeared; he walked hurriedly forward, and stationed himself, alone, in a little railed area close to the lodge gate, from whence the crowd, with an instinctive feeling of delicacy, had retired. The rude coffin was borne slowly forward on men's shoulders. A dead silence pervaded the throng, broken only by the audible lamentations of the women, and the shuffling steps of the bearers on the stone pavement. They reached the spot where the bereaved husband stood; and stopped. He laid his hand upon the coffin, and mechanically adjusting the pall with which it was covered, motioned them onwards. The turnkeys in the prison lobby took off their hats as it passed through, and in another moment the heavy gate closed behind it. He looked vacantly upon the crowd, and fell heavily to the ground.</p>
+<p>&ldquo;Although for many weeks after this, he was watched night and day, in the wildest ravings of fever, neither the consciousness of his loss, nor the recollection of the vow he had made, ever left him for a moment. Scenes changed before his eyes, place succeeded place, and event followed event, in all the hurry of delirium; but they were all connected in some way with the great object of his mind. He was sailing over a boundless expanse of sea, with a blood-red sky above, and the angry waters lashed into fury beneath, boiling and eddying up, on every side. There was another vessel before them, toiling and labouring in the howling storm; her canvass fluttering in ribbons from the mast, and her deck thronged with figures who were lashed to the sides, over which huge waves every instant burst, sweeping away some devoted creatures into the foaming sea. Onward they bore, amidst the roaring mass of water, with a speed and force which nothing could resist; and striking the stern of the foremost vessel, crushed her, beneath their keel. From the huge whirlpool which the sinking wreck occasioned, arose a shriek so loud and shrill&mdash;the death-cry of a hundred drowning wretches, blended into one fierce yell&mdash;that it rung far above the war-cry of the elements, and echoed, and re-echoed till it seemed to pierce air, sky, and ocean. But what was that&mdash;that old grey-head that rose above the water's surface, and with looks of agony, and screams for aid, buffeted with the waves! One look, and he had sprung from the vessel's side, and with vigorous strokes was swimming towards it. He reached it; he was close upon it. They were <hi
+rend="italics">his</hi> features. The old man saw him coming, and vainly strove to elude his grasp. But he clasped him tight, and dragged him beneath the water. Down, down with him, fifty fathoms deep; his struggles grew fainter and fainter, until they wholly ceased. He was dead; he had killed him, and had kept his oath.</p>
+<p>&ldquo;He was traversing the scorching sands of a mighty desert, barefooted and alone. The sand choked and blinded him; its fine thin grains entered the very pores of his skin, and irritated him almost to madness. Gigantic masses of the same material, carried forward by the wind, and shone through, by the burning sun, stalked in the distance like
+<pb n="219" id="p219"/>
+pillars of living fire. The bones of men, who had perished in the dreary waste, lay scattered at his feet; a fearful light fell on everything around; and so far as the eye could reach, nothing but objects of dread and horror presented themselves. Vainly striving to utter a cry of terror, with his tongue cleaving to his mouth, he rushed madly forward. Armed with supernatural strength, he waded through the sand, until exhausted with fatigue and thirst, he fell senseless on the earth. What fragrant coolness revived him; what gushing sound was that? Water! It was indeed a well; and the clear fresh stream was running at his feet. He drank deeply of it, and throwing his aching limbs upon the bank, sunk into a delicious trance. The sound of approaching footsteps roused him. An old grey-headed man tottered forward to slake his burning thirst. It was <hi
+rend="italics">he</hi> again. He wound his arms round the old man's body, and held him back. He struggled in powerful convulsions, and shrieked for water&mdash;for but one drop of water to save his life. But he held the old man firmly, and watched his agonies with greedy eyes; and when his lifeless head fell forward on his bosom, he rolled the corpse from him with his feet.</p>
+<p>&ldquo;When the fever left him, and consciousness returned, he awoke to find himself rich and free: to hear that the parent who would have let him die in goal&mdash;<hi
+rend="italics">would!</hi> who <hi rend="italics">had</hi> let those who were far dearer to him than his own existence, die of want and the sickness of heart that medicine cannot cure&mdash;had been found, dead in his bed of down. He had all the heart to leave his son a beggar, but proud even of his health and strength, he had put off the act till it was too late, and now might gnash his teeth in the other world, at the thought of the wealth his remissness had left him. He woke to this, and he woke to more. To recollect the purpose for which he lived, and to remember that his enemy was his wife's own father&mdash;the man who had cast him into prison, and who, when his daughter and her child sued at his feet for mercy, had spurned them from his door. Oh, how he cursed the weakness that prevented him from being up, and active, in his scheme of vengeance!</p>
+<p>&ldquo;He caused himself to be carried from the scene of his loss and misery, and conveyed to a quiet residence on the sea coast&mdash;not in the hope of recovering his peace of mind or happiness, for both were fled for ever; but to restore his prostrate energies, and meditate on his darling object. And here, some evil spirit cast in his way the opportunity for his first, most horrible revenge.</p>
+<p>&ldquo;It was summer time; and wrapped in his gloomy thoughts, he would issue from his solitary lodgings early in the evening, and wandering along a narrow path beneath the cliffs to a wild and lonely spot that had struck his fancy in his ramblings, seat himself on some fallen fragments of the rock, and burying his face in his hands, remain there for hours&mdash;sometimes until night had completely closed in, and the long shadows of the frowning cliffs above his head, cast a thick black darkness on every object near him.</p>
+<p>&ldquo;He was seated here, one calm evening in his old position, now and then raising his head, to watch the flight of a seagull, or carry his eye along the glorious crimson path, which commencing in the middle of the ocean, seemed to lead to its very verge where the sun was setting
+<pb n="220" id="p220"/>
+when the profound stillness of the spot was broken by a loud cry for help; he listened, doubtful of his having heard aright, when the cry was repeated with even greater vehemence than before, and, starting to his feet, he hastened in the direction from whence it proceeded.</p>
+<p>&ldquo;The tale told itself at once: some scattered garments lay on the beach; a human head was just visible above the waves at a little distance from the shore; and an old man, wringing his hands in agony, was running to and fro, shrieking for assistance. The invalid, whose strength was now sufficiently restored, threw off his coat, and rushed towards the sea, with the intention of plunging in, and dragging the drowning man a-shore.</p>
+<p>&ldquo; &lsquo;Hasten here, Sir, in God's name; help, help, Sir, for the love of Heaven. He is my son, Sir, my only son,&rsquo; said the old man, frantically, as he advanced to meet him. &lsquo;My only son, Sir, and he is dying before his father's eyes.&rsquo;</p>
+<p>&ldquo;At the first word the old man uttered, the stranger checked himself in his career, and, folding his arms, stood perfectly motionless.</p>
+<p>&ldquo; &lsquo;Great God!&rsquo; exclaimed the old man, recoiling&mdash;&lsquo;Heyling!&rsquo;</p>
+<p>&ldquo;The stranger smiled, and was silent.</p>
+<p>&ldquo; &lsquo;Heyling!&rsquo; said the old man, wildly&mdash;&lsquo;My boy, Heyling, my dear boy, look, look;&rsquo; and, gasping for breath, the miserable father pointed to the spot where the young man was struggling for life.</p>
+<p>&ldquo; &lsquo;Hark!&rsquo; said the old man&mdash;&lsquo;He cries once more. He is alive yet. Heyling, save him, save him.&rsquo;</p>
+<p>&ldquo;The stranger smiled again, and remained immovable as a statue.</p>
+<p>&ldquo; &lsquo;I have wronged you,&rsquo; shrieked the old man, falling on his knees, and clasping his hands together&mdash;&lsquo;Be revenged; take my all, my life; cast me into the water at your feet, and, if human nature can repress a struggle, I will die, without stirring hand or foot. Do it, Heyling, do it, but save my boy, he is so young, Heyling, so young to die.&rsquo;</p>
+<p>&ldquo; &lsquo;Listen,&rsquo; said the stranger, grasping the old man fiercely by the wrist&mdash;&lsquo;I will have life for life, and here is ONE. <hi
+rend="italics">My</hi> child died before his father's eyes, a far more agonising and painful death than that young slanderer of his sister's worth is meeting while I speak. You laughed&mdash;laughed in your daughter's face, where death had already set his hand&mdash;at our sufferings, then. What think you of them now? See there, see there.&rsquo;</p>
+<p>&ldquo;As the stranger spoke, he pointed to the sea. A faint cry died away upon its surface: the last powerful struggle of the dying man agitated the rippling waves for a few seconds: and the spot where he had gone. down into his early grave, was undistinguishable from the surrounding water.</p>
+<milestone unit="typography" n="* * * * * * * * * * * *"/>
+<p>&ldquo;Three years had elapsed, when a gentleman alighted from a private carriage at the door of a London attorney, then well known to the public as a man of no great nicety in his professional dealings, and requested a private interview on business of importance. Although evidently not past the prime of life, his face was pale, haggard, and dejected; and it did not require the acute perception of the man of business, to discern at a glance, that disease or suffering had done more
+<pb n="221" id="p221"/>
+to work a change in his appearance, than the mere hand of time could have accomplished in twice the period of his whole life.</p>
+<p>&ldquo; &lsquo;I wish you to undertake some legal business for me,&rsquo; said the stranger.</p>
+<p>&ldquo;The attorney bowed obsequiously, and glanced at a large packet which the gentleman carried in his hand. His visiter observed the look, and proceeded.</p>
+<p>&ldquo; &lsquo;It is no common business,&rsquo; said he; &lsquo;nor have these papers reached my hands without long trouble and great expense.&rsquo;</p>
+<p>&ldquo;The attorney cast a still more anxious look at the packet: and his visiter, untying the string that bound it, disclosed a quantity of promissory notes, with some copies of deeds, and other documents.</p>
+<p>&ldquo; &lsquo;Upon these papers,&rsquo; said the client, &lsquo;the man whose name they bear, has raised, as you will see, large sums of money, for some years past. There was a tacit understanding between him and the men into whose hands they originally went&mdash;and from whom I have by degrees purchased the whole, for treble and quadruple their nominal value&mdash;that these loans should be from time to time renewed, until a given period had elapsed. Such an understanding is nowhere expressed. He has sustained many losses of late; and these obligations accumulating upon him at once, would crush him to the earth.&rsquo;</p>
+<p>&ldquo; &lsquo;The whole amount is some thousands of pounds,&rsquo; said the attorney, looking over the papers.</p>
+<p>&ldquo; &lsquo;It is,&rsquo; said the client.</p>
+<p>&ldquo; &lsquo;What are we to do?&rsquo; inquired the man of business.</p>
+<p>&ldquo; &lsquo;Do!&rsquo; replied the client, with sudden vehemence&mdash;&lsquo;Put every engine of the law in force, every trick that ingenuity can devise and rascality execute; fair means and foul; the open oppression of the law, aided by all the craft of its most ingenious practitioners. I would have him die a harassing and lingering death. Ruin him, seize and sell his lands and goods, drive him from house and home, and drag him forth a beggar in his old age, to die in a common gaol.&rsquo;</p>
+<p>&ldquo; &lsquo;But the costs, my dear Sir, the costs of all this,&rsquo; reasoned the attorney, when he had recovered from his momentary surprise&mdash;&lsquo;If the defendant be a man of straw, who is to pay the costs, Sir?&rsquo;</p>
+<p>&ldquo; &lsquo;Name any sum,&rsquo; said the stranger, his hand trembling so violently with excitement, that he could scarcely hold the pen he seized as he spoke&mdash;&lsquo;Any sum, and it is yours. Don't be afraid to name it, man. I shall not think it dear, if you gain my object.&rsquo;</p>
+<p>&ldquo;The attorney named a large sum, at hazard, as the advance he should require to secure himself against the possibility of loss; but more with the view of ascertaining how far his client was really disposed to go, than with any idea that he would comply with the demand. The stranger wrote a cheque upon his banker, for the whole amount, and left him.</p>
+<p>&ldquo;The draft was duly honoured, and the attorney, finding that his strange client might be safely relied upon, commenced his work in earnest. For more than two years afterwards, Mr. Heyling would sit whole days together, in the office, poring over the papers as they accumulated,
+<pb n="222" id="p222"/>
+and reading again and again, his eyes gleaming with joy, the letters of remonstrance, the prayers for a little delay, the representations of the certain ruin in which the opposite party must be involved, which poured in, as suit after suit, and process after process, were commenced. To all applications for a brief indulgence, there was but one reply&mdash;the money must be paid. Land, house, furniture, each in its turn, was taken under some one of the numerous executions which were issued; and the old man himself would have been immured in prison had he not escaped the vigilance of the officers, and fled.</p>
+<p>&ldquo;The implacable animosity of Heyling, so far from being satiated by the success of his persecution, increased a hundred-fold with the ruin he inflicted. On being informed of the old man's flight, his fury was unbounded. He gnashed his teeth with rage, tore the hair from his head, and assailed with horrid imprecations the men who had been entrusted with the writ. He was only restored to comparative calmness by repeated assurances of the certainty of discovering the fugitive. Agents were sent in quest of him, in all directions; every stratagem that could be invented was resorted to, for the purpose of discovering his place of retreat; but it was all in vain. Half a year had passed over, and he was still undiscovered.</p>
+<p>&ldquo;At length, late one night, Heyling, of whom nothing had been seen for many weeks before, appeared at his attorney's private residence, and sent up word that a gentleman wished to see him instantly. Before the attorney, who had recognised his voice from above stairs, could order the servant to admit him, he had rushed up the staircase, and entered the drawing-room pale and breathless. Having closed the door, to prevent being overheard, he sunk into a chair, and said, in a low voice&mdash;</p>
+<p>&ldquo; &lsquo;Hush! I have found him at last.&rsquo;</p>
+<p>&ldquo; &lsquo;No!&rsquo; said the attorney&mdash;&lsquo;Well done, my dear Sir; well done.&rsquo;</p>
+<p>&ldquo; &lsquo;He lies concealed in a wretched lodging in Camden Town,&rsquo; said Heyling&mdash;&lsquo;Perhaps it is as well, we did lose sight of him, for he has been living alone there, in the most abject misery, all the time, and he is poor&mdash;very poor.&rsquo;</p>
+<p>&ldquo; &lsquo;Very good,&rsquo; said the attorney&mdash;&lsquo;You will have the caption made to-morrow, of course?&rsquo;</p>
+<p>&ldquo; &lsquo;Yes,&rsquo; replied Heyling. &lsquo;Stay! No! The next day. You are surprised at my wishing to postpone it,&rsquo; he added, with a ghastly smile; &lsquo;but I had forgotten. The next day is an anniversary in his life: let it be done then.&rsquo;</p>
+<p>&ldquo; &lsquo;Very good,&rsquo; said the attorney&mdash;&lsquo;Will you write down instructions for the officer?&rsquo;</p>
+<p>&ldquo; &lsquo;No; let him meet me here, at eight in the evening, and I will accompany him myself.&rsquo;</p>
+<p>&ldquo;They met on the appointed night, and, hiring a hackney-coach, directed the driver to stop at that corner of the old Pancras road, at which stands the parish workhouse. By the time they alighted there, it was quite dark; and, proceeding by the dead wall in front of the Veterinary Hospital, they entered a small bye street, which is, or was at that time, called Little College Street, and which, whatever it may
+<pb n="223" id="p223"/>
+be now, was in those days a desolate place enough, surrounded by little else than fields and ditches.</p>
+<p>&ldquo;Having drawn the travelling-cap he had on, half over his face, and muffled himself in his cloak, Heyling stopped before the meanest-looking house in the street, and knocked gently at the door. It was at once opened by a woman, who dropped a curtesy of recognition, and Heyling whispering the officer to remain below, crept gently up stairs, and, opening the door of the front room, entered at once.</p>
+<p>&ldquo;The object of his search and his unrelenting animosity, now a decrepid old man, was seated at a bare deal table, on which stood a miserable candle. He started on the entrance of the stranger, and rose feebly to his feet.</p>
+<p>&ldquo; &lsquo;What now, what now?&rsquo; said the old man&mdash;&lsquo;What fresh misery is this? What do you want here?&rsquo;</p>
+<p>&ldquo; &lsquo;A word with <hi rend="italics">you,</hi>&rsquo; replied Heyling. As he spoke, he seated himself at the other end of the table, and, throwing off his cloak and cap, disclosed his features.</p>
+<p>&ldquo;The old man seemed instantly deprived of the power of speech. He fell backward in his chair, and, clasping his hands together, gazed on the apparition with a mingled look of abhorrence and fear.</p>
+<p>&ldquo; &lsquo;This day six years,&rsquo; said Heyling, &lsquo;I claimed the life you owed me for my child's. Beside the lifeless form of your daughter, old man, I swore to live a life of revenge. I have never swerved from my purpose for a moment's space; but if I had, one thought of her uncomplaining, suffering look, as she drooped away, or of the starving face of our innocent child, would have nerved me to my task. My first act of requital you well remember: this is my last.&rsquo;</p>
+<p>&ldquo;The old man shivered, and his hands dropped powerless by his side.</p>
+<p>&ldquo; &lsquo;I leave England to-morrow,&rsquo; said Heyling, after a moment's pause.&mdash;&lsquo;To-night I consign you, to the living death to which you devoted her&mdash;a hopeless prison&mdash;&rsquo;</p>
+<p>&ldquo;He raised his eyes to the old man's countenance, and paused. He lifted the light to his face, set it gently down, and left the apartment.</p>
+<p>&ldquo; &lsquo;You had better see to the old man,&rsquo; he said to the woman, as he opened the door, and motioned the officer to follow him into the street&mdash;&lsquo;I think he is ill.&rsquo; The woman closed the door, ran hastily up stairs, and found him lifeless. He had died in a fit.</p>
+<milestone unit="typography" n="* * * * * * * * * * * *"/>
+<p>&ldquo;Beneath a plain grave-stone, in one of the most peaceful and secluded church-yards in Kent, where wild flowers mingle with the grass, and the soft landscape around, forms the fairest spot in the garden of England, lie the bones of the young mother and her gentle child. But the ashes of the father do not mingle with theirs; nor from that night forward, did the attorney ever gain the remotest clue, to the subsequent history of his queer client.&rdquo;</p>
+</div1>
+</body>
+</text>
+</q>
+<p>As the old man concluded his tale, he advanced to a peg in one corner, and taking down his hat and coat, put them on with great
+<pb n="224" id="p224"/>
+deliberation; and, without saying another word, walked slowly away. As the gentleman with the Mosaic studs had fallen asleep, and the major part of the company were deeply occupied in the humorous process of dropping melted tallow-grease into his brandy and water, Mr. Pickwick departed unnoticed, and having settled his own score, and that of Mr. Weller, he issued forth, in company with that gentleman, from beneath the portal of the Magpie and Stump.</p>
+</div2>
+<div2 type="chapter">
+<head>CHAPTER XXII.</head>
+<head>
+MR. PICKWICK JOURNEYS TO IPSWICH, AND MEETS WITH A ROMANTIC ADVENTURE WITH A MIDDLE-AGED LADY IN YELLOW CURL PAPERS.
+</head>
+<p>&ldquo;THAT 'ere your governor's luggage, Sammy?&rdquo; inquired Mr. Weller senior, of his affectionate son, as he entered the yard of the Bull inn, Whitechapel, with a travelling bag and a small portmanteau.</p>
+<p>&ldquo;You might ha' made a worser guess than that, old feller,&rdquo; replied Mr. Weller the younger, setting down his burden in the yard, and sitting himself down upon it afterwards. &ldquo;The Governor hisself'll be down here presently.&rdquo;</p>
+<p>&ldquo;He's a cabbin' it, I suppose?&rdquo; said the father.</p>
+<p>&ldquo;Yes, he's a havin' two mile o' danger at eight-pence,&rdquo; responded the son. &ldquo;How's mother-in-law this mornin'?&rdquo;</p>
+<p>&ldquo;Queer, Sammy, queer,&rdquo; replied the elder Mr. Weller, with impressive gravity. &ldquo;She's been gettin' rayther in the Methodistical order lately, Sammy; and she is uncommon pious, to be sure. She's too good a creetur for me, Sammy&mdash;I feel I don't deserve her.&rdquo;</p>
+<p>&ldquo;Ah,&rdquo; said Mr. Samuel, &ldquo;that's wery self-denyin' o' you.&rdquo;</p>
+<p>&ldquo;Wery,&rdquo; replied his parent, with a sigh. &ldquo;She's got hold o' some inwention for grown-up people being born again, Sammy&mdash;the new birth, I thinks they calls it. I should wery much like to see that system in haction, Sammy. I should wery much like to see your mother-in-law born again. Wouldn't I put her out to nurse!&rdquo;</p>
+<p>&ldquo;What do you think them women does t'other day,&rdquo; continued Mr. Weller, after a short pause, during which he had significantly struck the side of his nose with his fore-finger, some half-dozen times. &ldquo;What do you think they does, t'other day, Sammy?&rdquo;</p>
+<p>&ldquo;Don't know,&rdquo; replied Sam, &ldquo;what?&rdquo;</p>
+<p>&ldquo;Goes and gets up a grand tea drinkin' for a feller they calls their shepherd,&rdquo; said Mr. Weller. &ldquo;I was a standing starin' in, at the pictur shop down at our place, when I sees a little bill about it; &lsquo;tickets half-a-crown. All applications to be made to the committee. Secretary, Mrs. Weller;&rsquo; and when I got home, there was the committee a sittin' in our back parlour&mdash;fourteen women; I wish you could ha' heard 'em Sammy. There they was, a passin' resolutions, and wotin' supplies, and all sorts o' games. Well, what with your mother-in-law a worrying me to go, and what with my looking for'ard
+<pb n="225" id="p225"/>
+to seein' some queer starts if I did, I put my name down for a ticket; at six o'clock on the Friday evenin' I dresses myself out, wery smart, and off I goes vith the old 'ooman, and up we walks into a fust floor where there was tea things for thirty, and a whole lot o' women as begins whisperin' to one another, and lookin' at me, as if they'd never seen a rayther stout gen'lm'n of eight-and-fifty afore. By and bye, there comes a great bustle down stairs, and a lanky chap with a red nose and white neckcloth rushes up, and sings out, &lsquo;Here's the shepherd a coming to wisit his faithful flock;&rsquo; and in comes a fat chap in black, vith a great white face, a smilin' avay like clock-work. Such goin's on, Sammy. &lsquo;The kiss of peace,&rsquo; says the shepherd; and then he kissed the women all round, and ven he'd done, the man vith the red nose began. I was just a thinkin' whether I hadn't better begin too&mdash;'specially as there was a wery nice lady a sittin' next me&mdash;ven in comes the tea, and your mother-in-law, as had been makin' the kettle boil, down stairs. At it they went, tooth and nail. Such a precious loud hymn Sammy, while the tea was a brewing; such a grace, such eatin' and drinkin'. I wish you could ha' seen the shepherd walkin' into the ham and muffins. I never see such a chap to eat and drink&mdash;never. The red-nosed man warn't by no means the sort of person you'd like to grub by contract, but he was nothin' to the shepherd. Well; arter the tea was over, they sang another hymn, and then the shepherd began to preach: and wery well he did it, considerin' how heavy them muffins must have lied on his chest. Presently he pulls up, all of a sudden, and hollers out, &lsquo;Where is the sinner; where is the mis'rable sinner?&rsquo; upon which, all the women looked at me, and began to groan as if they was dying. I thought it was rather sing'ler, but hows'ever, I says nothing. Presently he pulls up again, and lookin' wery hard at me, says, &lsquo;Where is the sinner; where is the mis'rable sinner!&rsquo; and all the women groans again, ten times louder than afore. I got rather savage at this, so I takes a step or two for'ard and says, &lsquo;My friend,&rsquo; says I, &lsquo;did you apply that e're obserwation to me?&rsquo;&mdash;'Stead of beggin' my pardon as any gen'lm'n would ha' done, he got more abusive than ever: called me a wessel, Sammy&mdash;a wessel of wrath&mdash;and all sorts o' names. So my blood being reg'larly up, I first gave him two or three for himself, and then two or three more to hand over to the man with the red nose, and walked off. I wish you could ha' heard how the women screamed Sammy, ven they picked up the shepherd from under the table.&mdash;Hallo! here's the governor, the size of life.&rsquo; &rdquo;</p>
+<p>As Mr. Weller spoke, Mr. Pickwick dismounted from a cab, and entered the yard.</p>
+<p>&ldquo;Fine mornin' Sir&rdquo;&mdash;said Mr. Weller senior.</p>
+<p>&ldquo;Beautiful indeed&rdquo;&mdash;replied Mr. Pickwick.</p>
+<p>&ldquo;Beautiful indeed,&rdquo; echoed a red-haired man with an inquisitive nose and blue spectacles, who had unpacked himself from a cab at the same moment as Mr. Pickwick. &ldquo;Going to Ipswich, Sir?&rdquo;</p>
+<p>&ldquo;I am,&rdquo; replied Mr. Pickwick.</p>
+<p>&ldquo;Extraordinary coincidence. So am I.&rdquo;</p>
+<p>Mr. Pickwick bowed.</p>
+<p>&ldquo;Going outside?&rdquo; said the red-haired man.</p>
+<pb n="226" id="p226"/>
+<p>Mr. Pickwick bowed again.</p>
+<p>&ldquo;Bless my soul, how remarkable&mdash;I am going outside, too,&rdquo; said the red-haired man: &ldquo;we are positively going together.&rdquo; And the red-haired man, who was an important-looking, sharp-nosed, mysterious-spoken personage, with a bird-like habit of giving his head a jerk every time he said any thing, smiled as if he had made one of the strangest discoveries that ever fell to the lot of human wisdom.</p>
+<p>&ldquo;I am happy in the prospect of your company, Sir,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Ah,&rdquo; said the new-comer, &ldquo;it's a good thing for both of us, isn't it? Company, you see&mdash;company is&mdash;is&mdash;it's a very different thing from solitude&mdash;a'n't it?&rdquo;</p>
+<p>&ldquo;There's no denyin' that 'ere,&rdquo; said Mr. Weller, joining in the conversation, with an affable smile. &ldquo;That's what I call a self-evident proposition, as the dog's-meat man said, when the house-maid told him he warn't a gentleman.&rdquo;</p>
+<p>&ldquo;Ah,&rdquo; said the red-haired man, surveying Mr. Weller from head to foot, with a supercilious look. &ldquo;Friend of yours, Sir?&rdquo;</p>
+<p>&ldquo;Not exactly a friend,&rdquo; replied Mr. Pickwick, in a low tone. &ldquo;The fact is, he is my servant, but I allow him to take a good many liberties; for, between ourselves, I flatter myself he is an original, and I am rather proud of him.&rdquo;</p>
+<p>&ldquo;Ah,&rdquo; said the red-haired man, &ldquo;that, you see, is a matter of taste. I am not fond of anything original; I don't like it; don't see the necessity for it. What's your name, Sir?&rdquo;</p>
+<p>&ldquo;Here is my card, Sir,&rdquo; replied Mr. Pickwick, much amused by the abruptness of the question, and the singular manner of the stranger.</p>
+<p>&ldquo;Ah,&rdquo; said the red-haired man, placing the card in his pocket-book, &ldquo;Pickwick; very good. I like to know a man's name, it saves so much trouble. That's my card, Sir. Magnus, you will perceive, Sir&mdash;Magnus is my name. It's rather a good name, I think, Sir?&rdquo;</p>
+<p>&ldquo;A very good name, indeed,&rdquo; said Mr. Pickwick, wholly unable to repress a smile.</p>
+<p>&ldquo;Yes, I think it is,&rdquo; resumed Mr. Magnus. &ldquo;There's a good name before it, too, you will observe. Permit me, Sir&mdash;if you hold the card a little slanting, this way, you catch the light upon the up-stroke. There&mdash;Peter Magnus&mdash;sounds well, I think, Sir.&rdquo;</p>
+<p>&ldquo;Very,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Curious circumstance about those initials, Sir,&rdquo; said Mr. Magnus. &ldquo;You will observe&mdash;P. M.&mdash;post meridian. In hasty notes to intimate acquaintance, I sometimes sign myself &lsquo;Afternoon.&rsquo; It amuses my friends very much, Mr. Pickwick.&rdquo;</p>
+<p>&ldquo;It is calculated to afford them the highest gratification, I should conceive,&rdquo; said Mr. Pickwick, rather envying the ease with which Mr. Magnus's friends were entertained.</p>
+<p>&ldquo;Now, gen'lm'n,&rdquo; said the hostler, &ldquo;coach is ready, if you please.&rdquo;</p>
+<p>&ldquo;Is all my luggage in?&rdquo; inquired Mr. Magnus.</p>
+<p>&ldquo;All right, Sir.&rdquo;</p>
+<pb n="227" id="p227"/>
+<p>&ldquo;Is the red bag in?&rdquo;</p>
+<p>&ldquo;All right, Sir.&rdquo;</p>
+<p>&ldquo;And the striped bag?&rdquo;</p>
+<p>&ldquo;Fore boot, Sir.&rdquo;</p>
+<p>&ldquo;And the brown-paper parcel?&rdquo;</p>
+<p>&ldquo;Under the seat, Sir.&rdquo;</p>
+<p>&ldquo;And the leather hat-box?&rdquo;</p>
+<p>&ldquo;They're all in, Sir.&rdquo;</p>
+<p>&ldquo;Now, will you get up?&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Excuse me,&rdquo; replied Magnus, standing on the wheel. &ldquo;Excuse me, Mr. Pickwick. I cannot consent to get up, in this state of uncertainty. I am quite satisfied from that man's manner, that that leather hat-box is <hi
+rend="italics">not</hi> in.&rdquo;</p>
+<p>The solemn protestations of the hostler being wholly unavailing, the leather hat-box was obliged to be raked up from the lowest depth of the boot, to satisfy him that it had been safely packed; and after he had been assured on this head, he felt a solemn presentiment, first, that the red bag was mislaid, and next that the striped bag had been stolen, and then that the brown paper parcel had &ldquo;come untied.&rdquo; At length when he had received ocular demonstration of the groundless nature of each and every of these suspicions, he consented to climb up to the roof of the coach, observing that now he had taken every thing off his mind, he felt quite comfortable and happy.</p>
+<p>&ldquo;You're given to nervousness, an't you, Sir?&rdquo; inquired Mr. Weller senior, eying the stranger askance, as he mounted to his place.</p>
+<p>&ldquo;Yes; I always am rather, about these little matters,&rdquo; said the stranger, &ldquo;but I am all right now&mdash;quite right.&rdquo;</p>
+<p>&ldquo;Well, that's a blessin',&rdquo; said Mr. Weller. &ldquo;Sammy, help your master up to the box: t'other leg, Sir, that's it; give us your hand, Sir. Up with you. You was a lighter weight when you was a boy, Sir.&rdquo;</p>
+<p>&ldquo;True enough, that, Mr. Weller,&rdquo; said the breathless Mr. Pickwick, good-humouredly, as he took his seat on the box beside him.</p>
+<p>&ldquo;Jump up in front, Sammy,&rdquo; said Mr. Weller. &ldquo;Now Villam, run 'em out. Take care o' the archvay, gen'lm'n. &lsquo;Heads,&rsquo; as the pieman says. That'll do, Villam. Let 'em alone.&rdquo; And away went the coach up Whitechapel, to the admiration of the whole population of that pretty densely-populated quarter.</p>
+<p>&ldquo;Not a wery nice neighbourhood this, Sir,&rdquo; said Sam, with the touch of the hat which always preceded his entering into conversation with his master.</p>
+<p>&ldquo;It is not indeed, Sam,&rdquo; replied Mr. Pickwick, surveying the crowded and filthy street through which they were passing.</p>
+<p>&ldquo;It's a wery remarkable circumstance, Sir,&rdquo; said Sam, &ldquo;that poverty and oysters always seems to go together.&rdquo;</p>
+<p>&ldquo;I don't understand you, Sam,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;What I mean, Sir,&rdquo; said Sam, &ldquo;is, that the poorer a place is, the greater call there seems to be for oysters. Look here, Sir; here's a oyster stall to every half-dozen houses&mdash;the street's lined vith 'em
+<pb n="228" id="p228"/>
+Blessed if I don't think that ven a man's wery poor, he rushes out of his lodgings, and eats oysters in reg'lar desperation.&rdquo;</p>
+<p>&ldquo;To be sure he does,&rdquo; said Mr. Weller senior, &ldquo;and it's just the same vith pickled salmon!&rdquo;</p>
+<p>&ldquo;Those are two very remarkable facts, which never occurred to me before,&rdquo; said Mr. Pickwick. &ldquo;The very first place we stop at, I'll make a note of them.&rdquo;</p>
+<p>By this time they had reached the turnpike at Mile End; a profound silence prevailed, until they had got two or three miles further on, when Mr. Weller senior turning suddenly to Mr. Pickwick, said&mdash;</p>
+<p>&ldquo;Wery queer life is a pike-keeper's, Sir.&rdquo;</p>
+<p>&ldquo;A what?&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;A pike-keeper.&rdquo;</p>
+<p>&ldquo;What do you mean by a pike-keeper?&rdquo; inquired Mr. Peter Magnus.</p>
+<p>&ldquo;The old 'un means a turnpike keeper, gen'lm'n,&rdquo; observed Mr. Weller, in explanation.</p>
+<p>&ldquo;Oh,&rdquo; said Mr. Pickwick, &ldquo;I see. Yes; very curious life. Very uncomfortable.&rdquo;</p>
+<p>&ldquo;They're all on 'em, men as has met vith some disappointment in life,&rdquo; said Mr. Weller senior.</p>
+<p>&ldquo;Ay, ay?&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Yes. Consequence of vich, they retires from the world, and shuts themselves up in pikes; partly vith the view of being solitary, and partly to rewenge themselves on mankind, by takin' tolls.&rdquo;</p>
+<p>&ldquo;Dear me,&rdquo; said Mr. Pickwick, &ldquo;I never knew that before.&rdquo;</p>
+<p>&ldquo;Fact, Sir,&rdquo; said Mr. Weller, &ldquo;if they was gen'lm'n you'd call 'em misanthropes, but as it is they only takes to pike-keepin'.&rdquo;</p>
+<p>With such conversation, possessing the inestimable charm of blending amusement with instruction, did Mr. Weller beguile the tediousness of the journey, during the greater part of the day. Topics of conversation were never wanting, for even when any pause occurred in Mr. Weller's loquacity, it was abundantly supplied by the desire evinced by Mr. Magnus to make himself acquainted with the whole of the personal history of his fellow-travellers, and his loudly-expressed anxiety at every stage, respecting the safety and well-being of the two bags, the leather hat-box, and the brown paper parcel.</p>
+<p>In the main street of Ipswich, on the left-hand side of the way, a short distance after you have passed through the open space fronting the Town Hall, stands an inn known far and wide by the appellation of &ldquo;The Great White Horse,&rdquo; rendered the more conspicuous by a stone statue of some rampacious animal with flowing mane and tail, distantly resembling an insane cart-horse, which is elevated above the principal door. The Great White Horse is famous in the neighbourhood, in the same degree as a prize ox, or county paper-chronicled turnip, or unwieldy pig&mdash;for its enormous size. Never were such labyrinths of uncarpeted passages, such clusters of mouldy, badly-lighted rooms, such huge numbers of small dens for eating or sleeping in, beneath any one
+<pb n="229" id="p229"/>
+roof, as are collected together between the four walls of the Great White Horse at Ipswich.</p>
+<p>It was at the door of this overgrown tavern, that the London coach stopped, at the same hour every evening; and it was from this same London coach, that Mr. Pickwick, Sam Weller, and Mr. Peter Magnus dismounted, on the particular evening to which this chapter of our history bears reference.</p>
+<p>&ldquo;Do you stop here, Sir?&rdquo; inquired Mr. Peter Magnus, when the striped bag, and the red bag, and the brown paper parcel, and the leather hat-box, had all been deposited in the passage. &ldquo;Do you stop here, Sir?&rdquo;</p>
+<p>&ldquo;I do,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Dear me,&rdquo; said Mr. Magnus, &ldquo;I never knew anything like these extraordinary coincidences. Why, I stop here, too. I hope we dine together?&rdquo;</p>
+<p>&ldquo;With pleasure,&rdquo; replied Mr. Pickwick. &ldquo;I am not quite certain whether I have any friends here or not, though. Is there <sic
+corr="any">ny</sic> gentleman of the name of Tupman here, waiter?&rdquo;</p>
+<p>A corpulent man, with a fortnight's napkin under his arm, and coeval stockings on his legs, slowly desisted from his occupation of staring down the street, on this question being put to him by Mr. Pickwick; and, after minutely inspecting that gentleman's appearance, from the crown of his hat to the lowest button of his gaiters, replied emphatically&mdash;</p>
+<p>&ldquo;No.&rdquo;</p>
+<p>&ldquo;Nor any gentleman of the name of Snodgrass?&rdquo; inquired Mr Pickwick.</p>
+<p>&ldquo;No!&rdquo;</p>
+<p>&ldquo;Nor Winkle?&rdquo;</p>
+<p>&ldquo;No.&rdquo;</p>
+<p>&ldquo;My friends have not arrived to-day, Sir,&rdquo; said Mr. Pickwick. &ldquo;We will dine alone, then. Shew us a private room, waiter.&rdquo;</p>
+<p>On this request being preferred, the corpulent man condescended to order the boots to bring in the gentlemen's luggage, and preceding them down a long dark passage, ushered them into a large badly-furnished apartment, with a dirty grate, in which a small fire was making a wretched attempt to be cheerful, but was fast sinking beneath the dispiriting influence of the place. After the lapse of an hour, a bit of fish and a steak, were served up to the travellers, and when the dinner was cleared away, Mr. Pickwick and Mr. Peter Magnus drew their chairs up to the fire, and having ordered a bottle of the worst possible port wine, at the highest possible price, for the good of the house, drank brandy and water for their own.</p>
+<p>Mr. Peter Magnus was naturally of a very communicative disposition, and the brandy and water operated with wonderful effect in warming into life the deepest hidden secrets of his bosom. After sundry accounts of himself, his family, his connexions, his friends, his jokes, his business, and his brothers (most talkative men have a great deal to say about their brothers), Mr. Peter Magnus took a blue view of Mr. Pickwick
+<pb n="230" id="p230"/>
+through his coloured spectacles for several minutes, and then said, with an air of modesty&mdash;</p>
+<p>&ldquo;And what do you think&mdash;what <hi rend="italics">do</hi> you think, Mr. Pickwick&mdash;I have come down here for?&rdquo;</p>
+<p>&ldquo;Upon my word,&rdquo; said Mr. Pickwick, &ldquo;it is wholly impossible for me to guess; on business, perhaps.&rdquo;</p>
+<p>&ldquo;Partly right, Sir,&rdquo; replied Mr. Peter Magnus, &ldquo;but partly wrong, at the same time: try again, Mr. Pickwick.&rdquo;</p>
+<p>&ldquo;Really,&rdquo; said Mr. Pickwick, &ldquo;I must throw myself on your mercy, to tell me or not, as you may think best; for I should never guess, if I were to try all night.&rdquo;</p>
+<p>&ldquo;Why, then, he&mdash;he&mdash;he!&rdquo; said Mr. Peter Magnus, with a bashful titter, &ldquo;What should you think, Mr. Pickwick, if I had come down here, to make a proposal, Sir, eh? He&mdash;he&mdash;he!&rdquo;</p>
+<p>&ldquo;Think! that you are very likely to succeed,&rdquo; replied Mr. Pickwick, with one of his most beaming smiles.</p>
+<p>&ldquo;Ah!&rdquo; said Mr. Magnus, &ldquo;but do you really think so, Mr. Pickwick? Do you, though?&rdquo;</p>
+<p>&ldquo;Certainly,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;No; but you're joking, though.&rdquo;</p>
+<p>&ldquo;I am not, indeed.&rdquo;</p>
+<p>&ldquo;Why, then,&rdquo; said Mr. Magnus, &ldquo;to let you into a little secret, <hi
+rend="italics">I</hi> think so too. I don't mind telling you, Mr. Pickwick, although I'm dreadful jealous by nature&mdash;horrid&mdash;that the lady is in this house.&rdquo; Here Mr. Magnus took off his spectacles, on purpose to wink, and then put them on again.</p>
+<p>&ldquo;That's what you were running out of the room for, before dinner, then, so often,&rdquo; said Mr. Pickwick, archly.</p>
+<p>&ldquo;Hush&mdash;yes, you're right, that was it; not such a fool as to see her, though.&rdquo;</p>
+<p>&ldquo;No!&rdquo;</p>
+<p>&ldquo;No; wouldn't do, you know, after having just come off a journey. Wait till to-morrow, Sir; double the chance then. Mr. Pickwick, Sir, there is a suit of clothes in that bag, and a hat in that box, which I expect, in the effect they will produce, will be invaluable to me, Sir.&rdquo;</p>
+<p>&ldquo;Indeed!&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Yes; you must have observed my anxiety about them to-day. I do not believe that such another suit of clothes, and such a hat, could be bought for money, Mr. Pickwick.&rdquo;</p>
+<p>Mr. Pickwick congratulated the fortunate owner of the irresistible garments, on their acquisition; and Mr. Peter Magnus remained for a few moments, apparently absorbed in contemplation.</p>
+<p>&ldquo;She's a fine creature,&rdquo; said Mr. Magnus.</p>
+<p>&ldquo;Is she?&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Very,&rdquo; said Mr. Magnus, &ldquo;very. She lives about twenty miles from here, Mr. Pickwick. I heard she would be here to-night and all to-morrow forenoon, and came down to seize the opportunity. I think an inn is a good sort of place to propose to a single woman in, Mr. Pickwick. She is more likely to feel the loneliness of her situation
+<pb n="231" id="p231"/>
+in travelling, perhaps, than she would be at home. What do you think, Mr. Pickwick?&rdquo;</p>
+<p>&ldquo;I think it very probable,&rdquo; replied that gentleman.</p>
+<p>&ldquo;I beg your pardon, Mr. Pickwick,&rdquo; said Mr. Peter Magnus, &ldquo;but I am naturally rather curious; what may <hi
+rend="italics">you</hi> have come down here for?&rdquo;</p>
+<p>&ldquo;On a far less pleasant errand, Sir,&rdquo; replied Mr. Pickwick, the colour mounting to his face at the recollection&mdash;&ldquo;I have come down here, Sir, to expose the treachery and falsehood of an individual, upon whose truth and honour I placed implicit reliance.&rdquo;</p>
+<p>&ldquo;Dear me,&rdquo; said Mr. Peter Magnus, &ldquo;that's very unpleasant. It is a lady, I presume? Eh? ah! Sly, Mr. Pickwick, sly. Well, Mr. Pickwick, Sir, I wouldn't probe your feelings for the world. Painful subjects, these, Sir, very painful. Don't mind me, Mr. Pickwick, if you wish to give vent to your feelings. I know what it is to be jilted, Sir; I have endured that sort of thing three or four times.&rdquo;</p>
+<p>&ldquo;I am much obliged to you, for your condolence on what you presume to be my melancholy case,&rdquo; said Mr. Pickwick, winding up his watch, and lying it on the table, &ldquo;but&mdash;&rdquo;</p>
+<p>&ldquo;No, no,&rdquo; said Mr. Peter Magnus, &ldquo;not a word more: it's a painful subject, I see, I see. What's the time, Mr. Pickwick?&rdquo;</p>
+<p>&ldquo;Past twelve.&rdquo;</p>
+<p>&ldquo;Dear me, it's time to go to bed. It will never do, sitting here. I shall be pale to-morrow, Mr. Pickwick.&rdquo;</p>
+<p>At the bare notion of such a calamity, Mr. Peter Magnus rang the bell for the chamber-maid; and the striped bag, the red bag, the leather hat-box, and the brown-paper parcel, having been conveyed to his bedroom, he retired in company with a japanned candlestick, to one side of the house, while Mr. Pickwick, and another japanned candlestick, were conducted through a multitude of tortuous windings, to another.</p>
+<p>&ldquo;This is your room, Sir,&rdquo; said the chamber-maid.</p>
+<p>&ldquo;Very well,&rdquo; replied Mr. Pickwick, looking round him. It was a tolerably large double-bedded room, with a fire; upon the whole, a more comfortable-looking apartment than Mr. Pickwick's short experience of the accommodations of the Great White Horse had led him to expect.</p>
+<p>&ldquo;Nobody sleeps in the other bed, of course,&rdquo; said Mr. Pickwick.</p>
+<p>&ldquo;Oh no, Sir.&rdquo;</p>
+<p>&ldquo;Very good. Tell my servant to bring me up some hot water at half-past eight in the morning, and that I shall not want him any more to-night.&rdquo;</p>
+<p>&ldquo;Yes, Sir.&rdquo; And bidding Mr. Pickwick good night, the chamber-maid retired, and left him alone.</p>
+<p>Mr. Pickwick sat himself down in a chair before the fire, and fell into a train of rambling meditations. First he thought of his friends, and wondered when they would join him; then his mind reverted to Mrs. Martha Bardell; and from that lady it wandered, by a natural process, to the dingy counting-house of Dodson and Fogg. From Dodson and Fogg's it flew off at a tangent, to the very centre of the
+<pb n="232" id="p232"/>
+history of the queer client; and then it came back to the Great White Horse at Ipswich, with sufficient clearness to convince Mr. Pickwick that he was falling asleep: so he roused himself, and began to undress, when he recollected he had left his watch on the table down stairs.</p>
+<p>Now this watch was a special favourite with Mr. Pickwick, having been carried about, beneath the shadow of his waistcoat, for a greater number of years than we feel called upon to state, at present. The possibility of going to sleep, unless it were ticking gently beneath his pillow, or in the watch-pocket over his head, had never entered Mr. Pickwick's brain. So as it was pretty late now, and he was unwilling to ring his bell at that hour of the night, he slipped on his coat, of which he had just divested himself, and taking the japanned candlestick in his hand, walked quietly down stairs.</p>
+<p>The more stairs Mr. Pickwick went down, the more stairs there seemed to be to descend, and again and again, when Mr. Pickwick got into some narrow passage, and began to congratulate himself on having gained the ground-floor, did another flight of stairs appear before his astonished eyes. At last he reached a stone hall, which he remembered to have seen when he entered the house. Passage after passage did he explore; room after room did he peep into; at length, just as he was on the point of giving up the search in despair, he opened the door of the identical room in which he had spent the evening, and beheld his missing property on the table.</p>
+<p>Mr. Pickwick seized the watch in triumph, and proceeded to re-trace his steps to his bed-chamber. If his progress downwards had been attended with difficulties and uncertainty, his journey back, was infinitely more perplexing. Rows of doors, garnished with boots of every shape, make, and size, branched off in every possible direction. A dozen times did he softly turn the handle of some bed-room door, which resembled his own, when a gruff cry from within of &ldquo;Who the devil's that?&rdquo; or &ldquo;What do you want here?&rdquo; caused him to steal away, on tiptoe, with a perfectly marvellous celerity. He was reduced to the verge of despair, when an open door attracted his attention. He peeped in&mdash;right at last. There were the two beds, whose situation he perfectly remembered, and the fire still burning. His candle, not a long one when he first received it, had flickered away in the drafts of air through which he had passed, and sunk into the socket, just as he closed the door after him. &ldquo;No matter,&rdquo; said Mr. Pickwick, &ldquo;I can undress myself just as well, by the light of the fire.&rdquo;</p>
+<p>The bedsteads stood, one on each side of the door; and on the inner side of each, was a little path, terminating in a rush-bottomed chair, just wide enough to admit of a person's getting into, or out of bed, on that side, if he or she thought proper. Having carefully drawn the curtains of his bed on the outside, Mr. Pickwick sat down on the rush bottomed chair, and leisurely divested himself of his shoes and gaiters. He then took off and folded up, his coat, waistcoat, and neck-cloth, and slowly drawing on his tasseled night-cap, secured it firmly on his head, by tying beneath his chin, the strings which he always had attached to that article of dress. It was at this moment that the absurdity of his recent bewilderment
+<pb n="233" id="p233"/>
+struck upon his mind; and throwing himself back in the rush-bottomed chair, Mr. Pickwick laughed to himself so heartily, that it would have been quite delightful to any man of well-constituted mind to have watched the smiles which expanded his amiable features as they shone forth, from beneath the night-cap.</p>
+<p>&ldquo;It is the best idea,&rdquo; said Mr. Pickwick to himself, smiling till he almost cracked the night-cap strings&mdash;&ldquo;It is the best idea, my losing myself in this place, and wandering about those staircases, that I ever heard of. Droll, droll, very droll.&rdquo; Here Mr. Pickwick smiled again, a broader smile than before, and was about to continue the process of undressing, in the best possible humour, when he was suddenly stopped by a most unexpected interruption; to wit, the entrance into the room of some person with a candle, who, after locking the door, advanced to the dressing table, and set down the light upon it.</p>
+<p>The smile that played on Mr. Pickwick's features, was instantaneously lost in a look of the most unbounded and wonder-stricken surprise. The person, whoever it was, had come in so suddenly and with so little noise, that Mr. Pickwick had had no time to call out, or oppose their entrance. Who could it be? A robber? Some evil-minded person who had seen him come up stairs with a handsome watch in his hand, perhaps. What was he to do!</p>
+<p>The only way in which Mr. Pickwick could catch a glimpse of his mysterious visiter with the least danger of being seen himself, was by creeping on to the bed, and peeping out from between the curtains on the opposite side. To this man&oelig;uvre he accordingly resorted. Keeping the curtains carefully closed with his hand, so that nothing more of him could be seen than his face and night-cap, and putting on his spectacles, he mustered up courage, and looked out.</p>
+<p>Mr. Pickwick almost fainted with horror and dismay. Standing before the dressing glass, was a middle-aged lady in yellow curl-papers, busily engaged in brushing what ladies call their &ldquo;back hair.&rdquo; However the unconscious middle-aged lady came into that room, it was quite clear that she contemplated remaining there for the night; for she had brought a rushlight and shade with her, which, with praiseworthy precaution against fire, she had stationed in a basin on the floor, where it was glimmering away, like a gigantic lighthouse, in a particularly small piece of water.</p>
+<p>&ldquo;Bless my soul,&rdquo; thought Mr. Pickwick, &ldquo;what a dreadful thing!&rdquo;</p>
+<p>&ldquo;Hem&rdquo; said the lady; and in went Mr. Pickwick's head with automaton-like rapidity.</p>
+<p>&ldquo;I never met with anything so awful as this,&rdquo;&mdash;thought poor Mr. Pickwick, the cold perspiration starting in drops upon his nightcap. &ldquo;Never. This is fearful.&rdquo;</p>
+<p>It was quite impossible to resist the urgent desire to see what was going forward. So out went Mr. Pickwick's head again. The prospect was worse than before. The middle-aged lady had finished arranging her hair; had carefully enveloped it, in a muslin night-cap with a small plaited border, and was gazing pensively on the fire.</p>
+<p>&ldquo;This matter is growing alarming&rdquo;&mdash;reasoned Mr. Pickwick with himself. &ldquo;I can't allow things to go on in this way. By the self-possession
+<pb n="234" id="p234"/>
+of that lady, it's clear to me that I must have come into the wrong room. If I call out, she'll alarm the house, but if I remain here the consequences will be still more frightful.&rdquo;</p>
+<p>Mr. Pickwick, it is quite unnecessary to say, was one of the most modest and delicate-minded of mortals. The very idea of exhibiting his night-cap to a lady, overpowered him, but he had tied those confounded strings in a knot, and do what he would, he couldn't get it off. The disclosure must be made. There was only one other way of doing it. He shrunk behind the curtains, and called out very loudly&mdash;</p>
+<p>&ldquo;Ha&mdash;hum.&rdquo;</p>
+<p>That the lady started at this unexpected sound was evident, by her falling up against the rush-light shade; that she persuaded herself it must have been the effect of imagination was equally clear, for when Mr. Pickwick, under the impression that she had fainted away, stonedead from fright, ventured to peep out again, she was gazing pensively on the fire as before.</p>
+<p>&ldquo;Most extraordinary female this,&rdquo; thought Mr. Pickwick, popping in again. &ldquo;Ha&mdash;hum.&rdquo;</p>
+<p>These last sounds, so like those in which, as legends inform us, the ferocious giant Blunderbore was in the habit of expressing his opinion that it was time to lay the cloth, were too distinctly audible, to be again mistaken for the workings of fancy.</p>
+<p>&ldquo;Gracious Heaven!&rdquo; said the middle-aged lady, &ldquo;what's that!&rdquo;</p>
+<p>&ldquo;It's&mdash;it's&mdash;only a gentleman, Ma'am,&rdquo; said Mr. Pickwick from behind the curtains.</p>
+<p>&ldquo;A gentleman!&rdquo; said the lady with a terrific scream.</p>
+<p>&ldquo;It's all over,&rdquo; thought Mr. Pickwick.</p>
+<p>&ldquo;A strange man!&rdquo; shrieked the lady. Another instant, and the house would be alarmed. Her garments rustled as she rushed towards the door.</p>
+<p>&ldquo;Ma'am&rdquo;&mdash;said Mr. Pickwick, thrusting out his head, in the extremity of his desperation, &ldquo;Ma'am.&rdquo;</p>
+<p>Now although Mr. Pickwick was not actuated by any definite object in putting out his head, it was instantaneously productive of a good effect. The lady, as we have already stated, was near the door. She must pass it, to reach the staircase, and she would most undoubtedly have done so, by this time, had not the sudden apparition of Mr. Pickwick's night-cap driven her back, into the remotest corner of the apartment, where she stood, staring wildly at Mr. Pickwick, while Mr. Pickwick in his turn, stared wildly at her.</p>
+<p>&ldquo;Wretch,&rdquo;&mdash;said the lady, covering her eyes with her hands, &ldquo;what do you want here?&rdquo;</p>
+<p>&ldquo;Nothing, Ma'am&mdash;nothing whatever, Ma'am;&rdquo; said Mr. Pickwick earnestly.</p>
+<p>&ldquo;Nothing!&rdquo; said the lady, looking up.</p>
+<p>&ldquo;Nothing, Ma'am, upon my honour,&rdquo; said Mr. Pickwick, nodding his head so energetically, that the tassel of his night-cap danced again. &ldquo;I am almost ready to sink, Ma'am, beneath the confusion of addressing a lady in my night-cap (here the lady hastily snatched off her's), but I can't get it off, Ma'am (here Mr. Pickwick gave it a tremendous tug,
+<pb n="235" id="p235"/>
+in proof of the statement). It is evident to me Ma'am now, that I have mistaken this bed-room for my own. I had not been here five minutes Ma'am, when you suddenly entered it.&rdquo;</p>
+<p>&ldquo;If this improbable story be really true Sir&rdquo;&mdash;said the lady, sobbing violently, &ldquo;you will leave it instantly.&rdquo;</p>
+<p>&ldquo;I will Ma'am with the greatest pleasure&rdquo;&mdash;replied Mr. Pickwick.</p>
+<p>&ldquo;Instantly, Sir,&rdquo; said the lady.</p>
+<p>&ldquo;Certainly, Ma'am,&rdquo; interposed Mr. Pickwick very quickly. &ldquo;Certainly, Ma'am. I&mdash;I&mdash;am very sorry, Ma'am,&rdquo; said Mr. Pickwick, making his appearance at the bottom of the bed, &ldquo;to have been the innocent occasion of this alarm and emotion; deeply sorry, Ma'am.&rdquo;</p>
+<p>The lady pointed to the door. One excellent quality of Mr. Pickwick's character was beautifully displayed at this moment, under the most trying circumstances. Although he had hastily put on his hat over his night-cap, after the manner of the old patrol; although he carried his shoes and gaiters in his hand, and his coat and waistcoat over his arm, nothing could subdue his native politeness.</p>
+<p>&ldquo;I am exceedingly sorry, Ma'am,&rdquo; said Mr. Pickwick, bowing very low.</p>
+<p>&ldquo;If you are, Sir, you will at once leave the room,&rdquo; said the lady.</p>
+<p>&ldquo;Immediately, Ma'am; this instant, Ma'am,&rdquo; said Mr. Pickwick opening the door, and dropping both his shoes with a loud crash in so doing.</p>
+<p>&ldquo;I trust, Ma'am,&rdquo; resumed Mr. Pickwick, gathering up his shoes, and turning round to bow again. &ldquo;I trust, Ma'am, that my unblemished character, and the devoted respect I entertain for your sex, will plead as some slight excuse for this&rdquo;&mdash;But before Mr. Pickwick could conclude the sentence, the lady had thrust him into the passage, and locked and bolted the door behind him.</p>
+<p>Whatever grounds of self-congratulation Mr. Pickwick might have, for having escaped so quietly from his late awkward situation, his present position was by no means enviable. He was alone, in an open passage, in a strange house, in the middle of the night, half dressed; it was not to be supposed that he could find his way in perfect darkness to a room which he had been wholly unable to discover with a light, and if he made the slightest noise in his fruitless attempts to do so, he stood every chance of being shot at, and perhaps killed, by some wakeful traveller. He had no resource but to remain where he was, until daylight appeared. So after groping his way a few paces down the passage, and to his infinite alarm, stumbling over several pairs of boots in so doing, Mr. Pickwick crouched into a little recess in the wall, to wait for morning, as philosophically as he might.</p>
+<p>He was not destined, however, to undergo this additional trial of patience: for he had not been long ensconced in his present concealment when, to his unspeakable horror, a man, bearing a light, appeared at the end of the passage. His horror was suddenly converted into joy, however, when he recognised the form of his faithful attendant. It was indeed Mr. Samuel Weller, who after sitting up thus late, in conversation with the Boots, who was sitting up for the mail, was now about to retire to rest.</p>
+<pb n="236" id="p236"/>
+<p>&ldquo;Sam,&rdquo; said Mr. Pickwick, suddenly appearing before him, &ldquo;Where's my bed-room?&rdquo;</p>
+<p>Mr. Weller stared at his master with the most emphatic surprise; and it was not until the question had been repeated three several times, that he turned round, and led the way to the long-sought apartment.</p>
+<p>&ldquo;Sam,&rdquo; said Mr. Pickwick as he got into bed. &ldquo;I have made one of the most extraordinary mistakes to-night, that ever were heard of.&rdquo;</p>
+<p>&ldquo;Wery likely, Sir,&rdquo; replied Mr. Weller drily.</p>
+<p>&ldquo;But of this I am determined, Sam,&rdquo; said Mr. Pickwick; &ldquo;that if I were to stop in this house for six months, I would never trust myself about it, alone, again.&rdquo;</p>
+<p>&ldquo;That's the wery prudentest resolution as you could come to, Sir,&rdquo; replied Mr. Weller. &ldquo;You rayther want somebody to look arter you Sir, ven your judgment goes out a wisitin'.&rdquo;</p>
+<p>&ldquo;What do you mean by that, Sam?&rdquo; said Mr. Pickwick. He raised himself in bed, and extended his hand, as if he were about to say something more; but suddenly checking himself, turned round, and bade his valet &ldquo;Good night.&rdquo;</p>
+<p>&ldquo;Good night, Sir,&rdquo; replied Mr. Weller. He paused when he got outside the door&mdash;shook his head&mdash;walked on&mdash;stopped&mdash;snuffed the candle&mdash;shook his head again&mdash;and finally proceeded slowly to his chamber, apparently buried in the profoundest meditation.</p>
+</div2>
+<div2 type="chapter">
+<head>CHAPTER XXIII.</head>
+<head>
+IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES TO THE RETURN MATCH BETWEEN HIMSELF AND MR. TROTTER.
+</head>
+<p>IN a small room in the vicinity of the stable-yard, betimes in the morning, which was ushered in by Mr. Pickwick's adventure with the middle-aged lady in the yellow curl-papers, sat Mr. Weller senior, preparing himself for his journey to London. He was sitting in an excellent attitude for having his portrait taken; and here it is.</p>
+<p>It is very possible that at some earlier period of his career, Mr. Weller's profile might have presented a bold, and determined outline. His face, however, had expanded under the influence of good living, and a disposition remarkable for resignation; and its bold fleshy curves had so far extended beyond the limits originally assigned them, that unless you took a full view of his countenance in front, it was difficult to distinguish more than the extreme tip of a very rubicund nose. His chin, from the same cause, had acquired the grave and imposing form which is generally described by prefixing the word &ldquo;double&rdquo; to that expressive feature, and his complexion exhibited that peculiarly mottled combination of colours which is only to be seen in gentlemen of his profession, and underdone roast beef. Round his neck he wore a crimson travelling shawl, which merged into his chin by such imperceptible
+<pb n="237" id="p237"/>
+gradations, that it was difficult to distinguish the folds of the one, from the folds of the other. Over this, he mounted a long waistcoat of a broad pink-striped pattern, and over that again, a wideskirted green coat, ornamented with large brass buttons, whereof the two which garnished the waist, were so far apart, that no man had ever beheld them both, at the same time. His hair, which was short, sleek, and black, was just visible beneath the capacious brim of a low-crowned brown hat. His legs were encased in knee-cord breeches, and painted top-boots: and a copper watch-chain terminating in one seal, and a key of the same material, dangled loosely from his capacious waist-band.</p>
+<p>We have said that Mr. Weller was engaged in preparing for his journey to London&mdash;he was taking sustenance, in fact. On the table before him, stood a pot of ale, a cold round of beef, and a very respectable-looking loaf, to each of which he distributed his favours in turn, with the most rigid impartiality. He had just cut a mighty slice from the latter, when the footsteps of somebody entering the room, caused him to raise his head; and he beheld his son.</p>
+<p>&ldquo;Mornin' Sammy,&rdquo; said the father.</p>
+<p>The son walked up to the pot of ale, and nodding significantly to his parent, took a long draught by way of reply.</p>
+<p>&ldquo;Wery good power o' suction, Sammy,&rdquo; said Mr. Weller the elder, looking into the pot, when his first-born had set it down half empty. &ldquo;You'd ha' made an uncommon fine oyster, Sammy, if you'd been born in that station o' life.&rdquo;</p>
+<p>&ldquo;Yes, I des-say I should ha' managed to pick up a respectable livin',&rdquo; replied Sam, applying himself to the cold beef, with considerable vigour.</p>
+<p>&ldquo;I'm wery sorry, Sammy&rdquo;, said the elder Mr. Weller, shaking up the ale, by describing small circles with the pot, preparatory to drinking. &ldquo;I'm wery sorry, Sammy, to hear from your lips, as you let yourself be gammoned by that 'ere mulberry man. I always thought, up to three days ago, that the names of Veller and gammon could never come into contract, Sammy&mdash;never.&rdquo;</p>
+<p>&ldquo;Always exceptin' the case of a widder, of course,&rdquo; said Sam.</p>
+<p>&ldquo;Widders, Sammy,&rdquo; replied Mr. Weller, slightly changing colour. &ldquo;Widders are 'ceptions to ev'ry rule. I <hi
+rend="italics">have</hi> heerd how many ord'nary women, one widder's equal to, in pint o' comin' over you. I think it's five-and-twenty, but I don't rightly know vether it an't more.&rdquo;</p>
+<p>&ldquo;Well; that's pretty well,&rdquo; said Sam.</p>
+<p>&ldquo;Besides,&rdquo; continued Mr. Weller, not noticing the interruption, &ldquo;that's a wery different thing. You know what the counsel said, Sammy, as defended the gen'lem'n as beat his wife with the poker, venever he got jolly. &lsquo;And arter all, my Lord,&rsquo; says he, &lsquo;it's a amiable weakness.&rsquo; So I says respectin' widders, Sammy, and so you'll say, ven you gets as old as I am.&rdquo;</p>
+<p>&ldquo;I ought to ha' know'd better, I know,&rdquo; said Sam.</p>
+<p>&ldquo;Ought to ha' know'd better!&rdquo; repeated Mr. Weller, striking the table with his fist. &ldquo;Ought to ha' know'd better! why, I know a young 'un as hasn't had half nor quarter your eddication&mdash;as hasn't
+<pb n="238" id="p238"/>
+slept about the markets, no, not six months&mdash;who'd ha' scorned to be let in, in such a vay; scorned it, Sammy.&rdquo; In the excitement of feeling produced by this agonising reflection, Mr. Weller rang the bell, and ordered an additional pint of ale.</p>
+<p>&ldquo;Well, it's no use talking about it now,&rdquo; said Sam. &ldquo;It's over, and can't be helped, and that's one consolation, as they alvays says in Turkey, ven they cuts the wrong man's head off. It's my innings now, gov'rnor, and as soon as I catches hold o' this here Trotter, I'll have a good 'un.&rdquo;</p>
+<p>&ldquo;I hope you will, Sammy. I hope you will,&rdquo; returned Mr. Weller. &ldquo;Here's your health, Sammy, and may you speedily vipe off the disgrace as you've inflicted on the family name.&rdquo; In honour of this toast Mr. Weller imbibed at a draught, at least two-thirds of the newly-arrived pint, and handed it over to his son, to dispose of the remainder, which he instantaneously did.</p>
+<p>&ldquo;And now, Sammy,&rdquo; said Mr. Weller, consulting the large double-cased silver watch that hung at the end of the copper chain. &ldquo;Now it's time I was up at the office to get my vay-bill, and see the coach loaded; for coaches, Sammy, is like guns&mdash;they requires to be loaded with wery great care afore they go off.&rdquo;</p>
+<p>At this parental and professional joke, Mr. Weller junior smiled a filial smile. His revered parent continued in a solemn tone&mdash;</p>
+<p>&ldquo;I'm a goin' to leave you, Samivel my boy, and there's no telling ven I shall see you again. Your mother-in-law may ha' been too much for me, or a thousand things may have happened by the time you next hears any news o' the celebrated Mr. Veller o' the Bell Savage. The family name depends wery much upon you, Samivel, and I hope you'll do wot's right by it. Upon all little pints o' breedin', I know I may trust you as vell as if it was my own self. So I've only this here one little bit of adwice to give you. If ever you gets to up'ards o' fifty, and feels disposed to go a marryin' anybody&mdash;no matter who&mdash;jist you shut yourself up in your own room, if you've got one, and pison yourself off hand. Hangin's wulgar, so don't you have nothin' to say to that. Pison yourself, Samivel my boy, pison yourself, and you'll be glad on it arterwards.&rdquo; With these affecting words, Mr. Weller looked stedfastly on his son, and turning slowly upon his heel, disappeared from his sight.</p>
+<p>In the contemplative mood which these words had awakened, Mr. Samuel Weller walked forth from the Great White Horse when his father had left him; and bending his steps towards Saint Clement's Church, endeavoured to dissipate his melancholy, by strolling among its ancient precincts. He had loitered about, for some time, when he found himself in a retired spot&mdash;a kind of court-yard of venerable appearance&mdash;which he discovered had no other outlet than the turning by which he had entered.   He was about retracing his steps, when he was suddenly transfixed to the spot by a sudden appearance; and the mode and manner of this appearance, we now proceed to relate.</p>
+<p>Mr. Samuel Weller had been staring up, at the old red brick houses; now and then, in his deep abstraction, bestowing a wink upon some
+<pb n="239" id="p239"/>
+healthy-looking servant girl as she drew up a blind, or threw open a bed-room window, when the green gate of a garden at the bottom of the yard, opened, and a man having emerged therefrom, closed the green gate very carefully after him, and walked briskly towards the very spot where Mr. Weller was standing.</p>
+<p>Now taking this, as an isolated fact, unaccompanied by any attendant circumstances, there was nothing very extraordinary in it, because in many parts of the world, men do come out of gardens, close green gates after them, and even walk briskly away, without attracting any particular share of public observation. It is clear, therefore, that there must have been something in the man, or in his manner, or both, to attract Mr. Weller's particular notice. Whether there was, or not, we must leave the reader to determine, when we have faithfully recounted the behaviour of the individual in question.</p>
+<p>When the man had shut the green gate after him, he walked, as we have said twice already, with a brisk pace up the court-yard; but he no sooner caught sight of Mr. Weller, than he faltered, and stopped, as if uncertain for the moment what course to adopt. As the green gate was closed behind him, and there was no other outlet but the one in front, however, he was not long in perceiving that he must pass Mr. Samuel Weller to get away. He therefore resumed his brisk pace, and advanced, staring straight before him. The most extraordinary thing about the man was, that he was contorting his face into the most fearful and astonishing grimaces that ever were beheld. Nature's handy-work never was disguised with such extraordinary artificial carving, as the man had overlaid his countenance with, in one moment.</p>
+<p>&ldquo;Well,&rdquo; &mdash; said Mr. Weller to himself, as the man approached. &ldquo;This is wery odd. I could ha' swore it was him.&rdquo;</p>
+<p>Up came the man, and his face became more frightfully distorted than ever, as he drew nearer.</p>
+<p>&ldquo;I could take my oath to that 'ere black hair, and mulberry suit,&rdquo; said Mr. Weller; &ldquo;only I never see such a face as that, afore.&rdquo;</p>
+<p>As Mr. Weller said this, the man's features assumed an unearthly twinge, perfectly hideous. He was obliged to pass very near Sam however, and the scrutinising glance of that gentleman enabled him to detect, under all these appalling twists of feature, something too like the small eyes of Mr. Job Trotter, to be easily mistaken.</p>
+<p>&ldquo;Hallo, you Sir,&rdquo; shouted Sam, fiercely.</p>
+<p>The stranger stopped.</p>
+<p>&ldquo;Hallo,&rdquo; repeated Sam, still more gruffly.</p>
+<p>The man with the horrible face, looked, with the greatest surprise, up the court, and down the court, and in at the windows of the houses&mdash;everywhere but at Sam Weller&mdash;and took another step forward, when he was brought to again, by another shout.</p>
+<p>&ldquo;Hallo, you Sir,&rdquo;&mdash;said Sam, for the third time.</p>
+<p>There was no pretending to mistake where the voice came from now, so the stranger, having no other resource, at last looked Sam Weller full in the face.</p>
+<p>&ldquo;It won't do, Job Trotter,&rdquo; said Sam. &ldquo;Come, none o' that 'ere
+<pb n="240" id="p240"/>
+nonsense. You ain't so wery 'ansome that you can afford to throw avay many o' your good looks. Bring them 'ere eyes o' your'n back into their proper places, or I'll knock 'em out of your head. Dy'e hear?&rdquo;</p>
+<p>As Mr. Weller appeared fully disposed to act up to the spirit of this address, Mr. Trotter gradually allowed his face to resume its natural expression; and then giving a start of joy, exclaimed, &ldquo;What do I see? Mr. Walker!&rdquo;</p>
+<p>&ldquo;Ah,&rdquo; replied Sam&mdash;&ldquo;You're wery glad to see me, ain't you?&rdquo;</p>
+<p>&ldquo;Glad!&rdquo; exclaimed Job Trotter&mdash;&ldquo;Oh, Mr. Walker, if you had but known how I have looked forward to this meeting! It is too much, Mr. Walker; I cannot bear it, indeed I cannot.&rdquo; And with these words, Mr. Trotter burst into a regular inundation of tears, and, flinging his arms round those of Mr. Weller, embraced him closely, in an ecstacy of joy.</p>
+<p>&ldquo;Get off,&rdquo; cried Sam, highly indignant at this process, and vainly endeavouring to extricate himself from the grasp of his enthusiastic acquaintance&mdash;&ldquo;Get off, I tell you. What are you crying over me for, you portable ingine?&rdquo;</p>
+<p>&ldquo;Because I am so glad to see you,&rdquo; replied Job Trotter, gradually releasing Mr. Weller, as the first symptoms of his pugnacity disappeared. &ldquo;Oh, Mr. Walker, this is too much.&rdquo;</p>
+<p>&ldquo;Too much!&rdquo; echoed Sam, &ldquo;I think it is too much&mdash;rayther. Now what have you got to say to me, eh?&rdquo;</p>
+<p>Mr. Trotter made no reply; for the little pink pocket handkerchief was in full force.</p>
+<p>&ldquo;What have you got to say to me, afore I knock your head off? repeated Mr. Weller, in a threatening manner.</p>
+<p>&ldquo;Eh!&rdquo; said Mr. Trotter, with a look of virtuous surprise.</p>
+<p>&ldquo;What have you got to say to me?&rdquo;</p>
+<p>&ldquo;I, Mr. Walker!&rdquo;</p>
+<p>&ldquo;Don't call me Valker; my name's Veller; you know that vell enough. What have you got to say to me?&rdquo;</p>
+<p>&ldquo;Bless you, Mr. Walker&mdash;Weller I mean&mdash;a great many things, if you will come away somewhere, where we can talk comfortably. If you knew how I have looked for you, Mr. Weller&mdash;&rdquo;</p>
+<p>&ldquo;Wery hard, indeed, I s'pose?&rdquo; said Sam, drily.</p>
+<p>&ldquo;Very, very, Sir,&rdquo; replied Mr. Trotter, without moving a muscle of his face. &ldquo;But shake hands, Mr. Weller.&rdquo;</p>
+<p>Sam eyed his companion for a few seconds, and then, as if actuated by a sudden impulse, complied with his request.</p>
+<p>&ldquo;How,&rdquo; said Job Trotter, as they walked away&mdash;&ldquo;How is your dear, good master? Oh, he is a worthy gentleman, Mr. Weller. I hope he didn't catch cold, that dreadful night, Sir.&rdquo;</p>
+<p>There was a momentary look of deep slyness in Job Trotter's eye, as he said this, which ran a thrill through Mr. Weller's clenched fist as he burnt with a desire to make a demonstration on his ribs. Sam constrained himself, however, and replied that his master was extremely well.</p>
+<pb n="241" id="p241"/>
+<p>&ldquo;Oh, I am so glad,&rdquo; replied Mr. Trotter, &ldquo;is he here?&rdquo;</p>
+<p>&ldquo;Is your'n?&rdquo; asked Sam, by way of reply.</p>
+<p>&ldquo;Oh, yes, he is here, and I grieve to say, Mr. Weller, he is going on, worse than ever.&rdquo;</p>
+<p>&ldquo;Ah, ah?&rdquo; said Sam.</p>
+<p>&ldquo;Oh, shocking&mdash;terrible.&rdquo;</p>
+<p>&ldquo;At a boarding-school?&rdquo; said Sam.</p>
+<p>&ldquo;No, not at a boarding-school,&rdquo; replied Job Trotter, with the same sly look which Sam had noticed before&mdash;&ldquo;Not at a boarding-school.&rdquo;</p>
+<p>&ldquo;At the house with the green gate?&rdquo; inquired Sam, eyeing his companion closely.</p>
+<p>&ldquo;No, no&mdash;oh, not there,&rdquo; replied Job, with a quickness very unusual to him, &ldquo;not there.&rdquo;</p>
+<p>&ldquo;What was <hi rend="italics">you</hi> a doin' there?&rdquo; asked Sam, with a sharp glance&mdash;&ldquo;Got inside the gate by accident, perhaps?&rdquo;</p>
+<p>&ldquo;Why, Mr. Weller,&rdquo; replied Job, &ldquo;I don't mind telling you my little secrets, because you know we took such a fancy for each other when we first met. You recollect how pleasant we were that morning?&rdquo;</p>
+<p>&ldquo;Oh yes,&rdquo; said Sam, impatiently&mdash;&ldquo;I remember. Well.&rdquo;</p>
+<p>&ldquo;Well,&rdquo; replied Job, speaking with great precision, and in the low tone of a man who communicates an important secret&mdash;&ldquo;In that house with the green gate, Mr. Weller, they keep a good many servants.&rdquo;</p>
+<p>&ldquo;So I should think, from the look on it,&rdquo; interposed Sam.</p>
+<p>&ldquo;Yes,&rdquo; continued Mr. Trotter, &ldquo;and one of them is a cook, who has saved up a little money, Mr. Weller, and is desirous, if she can establish herself in life, to open a little shop in the chandlery way, you see.&rdquo;</p>
+<p>&ldquo;Yes.&rdquo;</p>
+<p>&ldquo;Yes, Mr. Weller. Well, Sir, I met her at a chapel that I go to&mdash;a very neat little chapel in this town, Mr. Weller, where they sing the number four collection of hymns, which I generally carry about with me, in a little book, which you may perhaps have seen in my hand&mdash;and I got a little intimate with her, Mr. Weller, and from that, an acquaintance sprung up between us, and I may venture to say, Mr. Weller, that I am to be the chandler.&rdquo;</p>
+<p>&ldquo;Ah, and a wery amiable chandler you'll make,&rdquo; replied Sam, eyeing Job with a side look of intense dislike.</p>
+<p>&ldquo;The great advantage of this, Mr. Weller,&rdquo; continued Job, his eyes filling with tears as he spoke, &ldquo;will be, that I shall be able to leave my present disgraceful service with that bad man, and to devote myself to a better and more virtuous life&mdash;more like the way in which I was brought up, Mr. Weller.&rdquo;</p>
+<p>&ldquo;You must ha' been wery nicely brought up,&rdquo; said Sam.</p>
+<p>&ldquo;Oh, very, Mr. Weller, very,&rdquo; replied Job; and at the recollection of the purity of his youthful days, Mr. Trotter pulled forth the pink handkerchief, and wept copiously.</p>
+<p>&ldquo;You must ha' been an uncommon nice boy, to go to school vith,&rdquo; said Sam.</p>
+<pb n="242" id="p242"/>
+<p>&ldquo;I was Sir,&rdquo; replied Job, heaving a deep sigh. &ldquo;I was the idol of the place.&rdquo;</p>
+<p>&ldquo;Ah,&rdquo; said Sam &ldquo;I don't wonder at it. What a comfort you must ha' been to your blessed mother.&rdquo;</p>
+<p>At these words, Mr. Job Trotter inserted an end of the pink handkerchief into the corner of each eye, one after the other, and began to weep copiously.</p>
+<p>&ldquo;Vhat's the matter vith the man,&rdquo; said Sam indignantly. &ldquo;Chelsea waterworks is nothin' to you. What are you melting vith now&mdash;the consciousness o' willainy?&rdquo;</p>
+<p>&ldquo;I cannot keep my feelings down, Mr. Weller,&rdquo; said Job, after a short pause. &ldquo;To think that my master should have suspected the conversation I had with yours, and so dragged me away in a post-chaise, and after persuading the sweet young lady to say she knew nothing of him, and bribing the school-mistress to do the same, deserted her for a better speculation,&mdash;oh! Mr. Weller, it makes me shudder.&rdquo;</p>
+<p>&ldquo;Oh, that was the vay, was it?&rdquo; said Mr. Weller.</p>
+<p>&ldquo;To be sure it was,&rdquo; replied Job.</p>
+<p>&ldquo;Vell,&rdquo; said Sam, as they had now arrived near the Hotel, &ldquo;I vant to have a little bit o' talk with you, Job; so if you're not partickler engaged, I should like to see you at the Great White Horse to-night, somewheres about eight o'clock.&rdquo;</p>
+<p>&ldquo;I shall be sure to come,&rdquo; said Job.</p>
+<p>&ldquo;Yes, you'd better,&rdquo; replied Sam, with a very meaning look, &ldquo;or else I shall perhaps be askin' arter you, at the other side of the green gate, and then I might cut you out, you know.&rdquo;</p>
+<p>&ldquo;I shall be sure to be with you,&rdquo; said Mr. Trotter; and wringing Sam's hand with the utmost fervour, he walked away.</p>
+<p>&ldquo;Take care, Job Trotter, take care,&rdquo; said Sam, looking after him, &ldquo;or I shall be one too many for you this time, I shall, indeed.&rdquo; Having uttered this soliloquy, and looked after Job till he was to be seen no more, Mr. Weller made the best of his way to his master's bedroom.</p>
+<p>&ldquo;It's all in training, Sir,&rdquo; said Sam.</p>
+<p>&ldquo;What's in training, Sam?&rdquo; inquired Mr. Pickwick.</p>
+<p>&ldquo;I have found 'em out, Sir,&rdquo; said Sam.</p>
+<p>&ldquo;Found out who?&rdquo;</p>
+<p>&ldquo;That 'ere queer customer, and the melan-cholly chap with the black hair.&rdquo;</p>
+<p>&ldquo;Impossible, Sam!&rdquo; said Mr. Pickwick, with the greatest energy&mdash;&ldquo;Where are they, Sam; where are they?&rdquo;</p>
+<p>&ldquo;Hush, hush!&rdquo; replied Mr. Weller; and as he assisted Mr. Pickwick to dress, he detailed the plan of action on which he proposed to enter.</p>
+<p>&ldquo;But when is this to be done, Sam?&rdquo; inquired Mr. Pickwick.</p>
+<p>&ldquo;All in good time, Sir,&rdquo; replied Sam.</p>
+<p>Whether it was done in good time, or not, will be seen hereafter.</p>
+</div2>
+</div1>
+</body>
+<back>
+<div1 type="advertisement">
+<pb id="piv" n="iv"/>
+<head>CHEAP AND ENTERTAINING PERIODICAL.</head>
+<p>THIS DAY IS PUBLISHED, <lb/> PRICE 8<hi rend="italics">s.</hi>
+<lb/> CONTAINING FOUR HUNDRED PAGES OF LETTER-PRESS, AND <lb/> FOURTEEN ILLUSTRATIONS, <lb/> THE FIRST VOLUME OF <lb/> THE LIBRARY OF FICTION, <lb/> OR <lb/> Family Story Teller.</p>
+<div2 type="section">
+<head>ADDRESS.</head>
+<p>IN completing the First Volume of this Work, the Proprietors take the opportunity of expressing their warmest acknowledgments for the great favour with which it has been received, as issued in monthly parts. Nothing could possibly be more encouraging to them to proceed with energy and spirit in carrying on the publication, which the gradual development of those literary means peculiarly possessed by the Editor will, they confidently anticipate, enable them satisfactorily to do.</p>
+<p>The peculiar purpose of the LIBRARY OF FICTION is to put its readers in possession, at an extremely moderate price, of a series of Original Tales or Sketches, all carefully selected from among a host of candidates, and many of the highly-prized contributions of established authors of the very loftiest pretensions in the field of imaginative composition.</p>
+<p>But in order to prove that their claims to public notice and approbation are not to be estimated in proportion to the size of the productions comprised in their pages, they subjoin, in conclusion, a short abstract from the list of distinguished writers, who either already have contributed, or engaged to contribute, to this publication.</p>
+<list>
+<item>G. P. R. JAMES, ESQ.</item>
+<item>MISS MITFORD.</item>
+<item>MISS LANDON.</item>
+<item>SHERIDAN KNOWLES, ESQ.</item>
+<item>&ldquo;BOZ.&rdquo;</item>
+<item>DOUGLAS JERROLD, ESQ.</item>
+<item>SAMUEL LOVER, ESQ.</item>
+<item>ALLAN CUNNINGHAM, ESQ.</item>
+<item>CAPTAIN GLASCOCK, AUTHOR OF THE &ldquo;NAVAL SKETCH BOOK.&rdquo;</item>
+<item>EDWARD MAYHEW, ESQ., AUTHOR OF &ldquo;MAKE YOUR WILLS,&rdquo; AND OTHER DRAMAS.</item>
+<item>J. AINSWORTH, ESQ., AUTHOR OF &ldquo;ROOKWOOD.&rdquo;</item>
+<item>C. OLLIER, ESQ., AUTHOR OF &ldquo;INESILLA.&rdquo;</item>
+<item>C. WHITEHEAD, ESQ., AUTHOR OF &ldquo;THE CAVALIER.&rdquo;</item>
+<item>T. K. HERVEY, ESQ.</item></list>
+<closer>CHAPMAN AND HALL, 186, STRAND.</closer>
+</div2>
+</div1>
+</back>
+</text>
+</TEI.2>
