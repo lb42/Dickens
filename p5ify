@@ -1,4 +1,4 @@
-cd P4; for f in 41826.xml; do echo $f; \
+cd P4; for f in 4*.xml; do echo $f; \
 perl -pi -e"s|http://docsouth.unc.edu/dtds/||" $f ;\
 saxon $f ../p4top5.xsl > ../P5/$f; \
 perl -pi -e"s|xmlns=\"\"||g" ../P5/$f; \
