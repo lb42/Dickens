@@ -1,0 +1,80 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Bleak House : ELTeC edition</title>
+<author>Dickens, Charles (1812-1870)</author>
+<respStmt>
+<resp>ELTeC conversion</resp>
+<name>Lou Burnard</name>
+</respStmt>
+<respStmt>
+<resp>Original TEI encoding</resp>
+<name><name>Apex Data Services, Inc.</name><name>Andrew Leiter</name><name>, and Natalia Smith</name></name>
+</respStmt>
+</titleStmt>
+<extent>
+<measure unit="words"></measure>
+</extent>
+<publicationStmt>
+<p>Published as part of ELTeC <date>22 Nov 2018</date></p>
+</publicationStmt>
+<sourceDesc>
+<bibl><title>Bleak House</title>
+<idno type="url">https://github.com/lb42/Dickens</idno>
+<relatedItem type="copyText">
+<bibl>
+<title>Bleak House [monthly parts]</title>
+<author>Charles Dickens</author>
+<publisher>Bradbury &amp; Evans, Bouverie
+Street.</publisher>
+<date>1853</date>
+</bibl>
+</relatedItem></bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc n="eltec-1">
+<p/>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="eng">English</language>
+</langUsage>
+<textDesc>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+</textDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2018-08-12">LB auto convert from P4 to P5, and from P5 to ELTeC-1</change>
+<change  when="2002-09-23"> Natalia Smith, project manager,
+finished TEI-conformant encoding and final proofing.</change>
+<change  when="2002-08-27">Andrew Leiter finished TEI/SGML
+encoding</change>
+<change  when="2002-08-02">Apex Data Services, Inc. finished
+transcribing the text.</change>
+</revisionDesc> 
+</teiHeader>
+<!-- bk ho -->
+<xi:include href="/home/lou/Public/Dickens/P5/42045.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42046.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42047.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42048.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42049.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42050.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42051.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42052.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42053.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42054.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42055.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42056.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42057.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42058.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42059.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42060.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42061.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42062.xml"/>
+<xi:include href="/home/lou/Public/Dickens/P5/42063.xml"/>
+</teiCorpus>
