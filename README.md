@@ -9,7 +9,8 @@ I downloaded the XML files in November 2018, and converted them from TEI P4 to T
 The scripts I used:
  - `grabDickens` : shell script to download the files
  - `p5ify` : shell script to do the conversion
- - `Makefile` : make driver creates a driver file to permit processing all the files at once
+ - `Makefile` : *make driver* creates a driver file to permit processing all the files at once; *make validate* validates each file against a local copy of the current release of the `tei_all`  RNG schema
+ 
     
 The changes I made:
  - I edited the doctype statement of each file so that it referenced a local copy of the P4 teixlite.dtd used for the originals; I needed this to expand the named character entities in the files
