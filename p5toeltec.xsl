@@ -13,7 +13,7 @@
     
      <text> <body> <xsl:for-each select="//t:TEI">
            <div type="part">
-               <xsl:apply-templates select="//t:div[@type='chapter']"/>
+               <xsl:apply-templates select="t:text/t:body//t:div[@type='chapter']"/>
            </div>     
        </xsl:for-each> </body></text>
         </TEI>
