@@ -1,0 +1,93 @@
+41824.xml : The Posthumous Papers of the Pickwick Club [Diamond ed, 1867]
+41826.xml : The New and Elegant Parlour Game of Oliver Twist
+41830.xml : To Be Read at Dusk [1852]
+41836.xml : Great Expectations
+41837.xml : Sketches of Young Gentlemen. Dedicated to the Young Ladies
+41838.xml : Sketches of Young Ladies
+41839.xml : Sketches of Young Couples; 
+41840.xml : A Christmas Carol. In Prose. Being a Ghost Story of Christmas
+41841.xml : The Battle of Life. A Love Story
+41842.xml : The Chimes
+41844.xml : The Village Coquettes
+41845.xml : Is She His Wife? or, Something Singular
+41846.xml : The Lamplighter. A Farce
+41847.xml : The Frozen Deep. A Drama. In Three Acts
+41848.xml : No Thoroughfare. A Drama. In Five Acts.
+41849.xml : A Child's Dream of a Star [illus Hammatt Billings, 1871]
+41851.xml : A Child's Dream of a Star [privately printed, 1899]
+41852.xml : The Readings of Mr. Charles Dickens, as Condensed by Himself.
+41853.xml : Dickens Portfolio De Luxe Collection
+41854.xml : To be Read at Dusk. From “The Keepsake 1852”
+42013.xml : Oliver Twist; or, The Parish Boy's Progress, By “Boz.” In Three Volumes. Vol. I
+42014.xml : Oliver Twist; or, The Parish Boy's Progress, By “Boz.” In Three Volumes. Vol. II
+42015.xml : Oliver Twist; or, The Parish Boy's Progress, By “Boz.” In Three Volumes. Vol. III
+42016.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. I
+42017.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. II
+42018.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. III
+42019.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. IV
+42020.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. V
+42021.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. VI
+42022.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. VII
+42023.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. VIII
+42024.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. IX
+42025.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. X
+42026.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. XI
+42027.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. XII
+42028.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. XIII
+42029.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. XIV
+42030.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. XV
+42031.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. XVI
+42032.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. XVII
+42033.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. XVIII
+42034.xml : The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger, of Blunderstone Rookery. (Which He Never Meant to Be Published on any Account.) No. XIX. &amp; XX
+42035.xml : A Tale of Two Cities No. I
+42036.xml : A Tale of Two Cities, No. II
+42037.xml : A TALE OF TWO CITIES. No. III
+42038.xml : A Tale of Two Cities, No. IV
+42039.xml : A Tale of Two Cities. No. V
+42040.xml : A Tale of Two Cities, No. VI
+42041.xml : A Tale of Two Cities, No. VII &amp; VIII
+42042.xml : Great Expectations. In Three Volumes. Vol. I
+42043.xml : Great Expectations. In Three Volumes. Vol. II
+42044.xml : Great Expectations. In Three Volumes. Vol. III
+42045.xml : Bleak House. No. I
+42046.xml : Bleak House, No. II
+42047.xml : Bleak House, No. III
+42048.xml : Bleak House, No. IV
+42049.xml : Bleak House, No. V
+42050.xml : Bleak House, No. VI
+42051.xml : Bleak House, No. VII.
+42052.xml : Bleak House, No. VIII
+42053.xml : Bleak House, No. IX
+42054.xml : Bleak House, No. X
+42055.xml : Bleak House, No. XI
+42056.xml : Bleak House No. XII
+42057.xml : Bleak House, No. XIII
+42058.xml : Bleak House No. XIV
+42059.xml : Bleak House No. XV
+42060.xml : Bleak House No. XVI
+42061.xml : Bleak House No. XVII
+42062.xml : Bleak House No. XVIII
+42063.xml : Bleak House No. XIX &amp; XX
+42064.xml : The Personal History, Adventures, Experience, and Observation of David Copperfield the Younger. Of Blunderstone Rookery. (Which He Never Meant to Be Published on Any Account.) In Three Volumes. Vol. I
+42065.xml : The Personal History, Adventures, Experience, and Observation of David Copperfield the Younger. Of Blunderstone Rookery. (Which He Never Meant to Be Published on Any Account.) In Three Volumes. Vol. II
+42066.xml : The Personal History, Adventures, Experience, and Observation of David Copperfield the Younger. Of Blunderstone Rookery. (Which He Never Meant to Be Published on Any Account.) In Three Volumes. Vol. III
+42067.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. I
+42068.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. II
+42069.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. III
+42070.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. IV
+42071.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. V
+42072.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. VI
+42073.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. VII
+42074.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. VIII
+42075.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. IX
+42076.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. X
+42077.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. XI
+42078.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. XII
+42079.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. XIII
+42080.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. XIV
+42081.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. XV
+42082.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. XVI
+42083.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. XVII
+42084.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. No. XVIII
+42085.xml : The Posthumous Papers of the Pickwick Club Containing a Faithful Record of the Perambulations, Perils, Travels, Adventures and Sporting Transactions of the Corresponding Members. Nos. XIX—XX
