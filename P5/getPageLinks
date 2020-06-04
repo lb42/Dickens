@@ -1,0 +1,19 @@
+curl http://www.ibiblio.org/dickens/html/42045.html | tidy -asxml -n -q > a.b ; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42046.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42047.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42048.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42049.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42050.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42051.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42052.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42053.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42054.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42055.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42056.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42057.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42058.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42059.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42060.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42061.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42062.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
+curl http://www.ibiblio.org/dickens/html/42063.html | tidy -asxml -n -q > a.b; saxon a.b ../getPageLinks.xsl >> pageLinks.xml
